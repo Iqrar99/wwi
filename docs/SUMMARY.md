@@ -1,0 +1,60 @@
+# Table of contents
+
+* [WWI ⋆ Wuthering Waves Indonesia](README.md)
+* [Team](team.md)
+
+## Wuthering Waves <a href="#ww" id="ww"></a>
+
+* [📚 Guide](ww/guide/README.md)
+  * [Resonator](ww/guide/resonator/README.md)
+    * [Glacio](ww/guide/resonator/glacio/README.md)
+      * [Baizhi](ww/guide/resonator/glacio/baizhi.md)
+      * [Carlotta](ww/guide/resonator/glacio/carlotta.md)
+      * [Lingyang](ww/guide/resonator/glacio/lingyang.md)
+      * [Sanhua](ww/guide/resonator/glacio/sanhua.md)
+      * [Youhu](ww/guide/resonator/glacio/youhu.md)
+      * [Zhezhi](ww/guide/resonator/glacio/zhezhi.md)
+    * [Fusion](ww/guide/resonator/fusion/README.md)
+      * [Brant](ww/guide/resonator/fusion/brant.md)
+      * [Changli](ww/guide/resonator/fusion/changli.md)
+      * [Chixia](ww/guide/resonator/fusion/chixia.md)
+      * [Encore](ww/guide/resonator/fusion/encore.md)
+      * [Mortefi](ww/guide/resonator/fusion/mortefi.md)
+    * [Electro](ww/guide/resonator/electro/README.md)
+      * [Calcharo](ww/guide/resonator/electro/calcharo.md)
+      * [Lumi](ww/guide/resonator/electro/lumi.md)
+      * [Xiangli Yao](ww/guide/resonator/electro/xiangli-yao.md)
+      * [Yinlin](ww/guide/resonator/electro/yinlin.md)
+      * [Yuanwu](ww/guide/resonator/electro/yuanwu.md)
+    * [Aero](ww/guide/resonator/aero/README.md)
+      * [Aalto](ww/guide/resonator/aero/aalto.md)
+      * [Jianxin](ww/guide/resonator/aero/jianxin.md)
+      * [Jiyan](ww/guide/resonator/aero/jiyan.md)
+      * [Yangyang](ww/guide/resonator/aero/yangyang.md)
+    * [Spectro](ww/guide/resonator/spectro/README.md)
+      * [Jinhsi](ww/guide/resonator/spectro/jinhsi.md)
+      * [Phoebe](ww/guide/resonator/spectro/phoebe.md)
+      * [Rover](ww/guide/resonator/spectro/rover.md)
+      * [The Shorekeeper](ww/guide/resonator/spectro/the-shorekeeper.md)
+      * [Verina](ww/guide/resonator/spectro/verina.md)
+    * [Havoc](ww/guide/resonator/havoc/README.md)
+      * [Camellya](ww/guide/resonator/havoc/camellya.md)
+      * [Danjin](ww/guide/resonator/havoc/danjin.md)
+      * [Roccia](ww/guide/resonator/havoc/roccia.md)
+      * [Rover](ww/guide/resonator/havoc/rover.md)
+      * [Taoqi](ww/guide/resonator/havoc/taoqi.md)
+* [📜 Lore](ww/lore/README.md)
+  * [Main Story](ww/lore/main-story.md)
+  * [Companion Quest](ww/lore/companion-quest.md)
+
+## Solaris-3 Bot <a href="#solaris-3" id="solaris-3"></a>
+
+* [🌏 Introduction](solaris-3/introduction.md)
+* [⚙️ Commands](solaris-3/commands/README.md)
+  * [Help](solaris-3/commands/help.md)
+  * [About](solaris-3/commands/about.md)
+
+***
+
+* [Facebook Group ](https://www.facebook.com/groups/wutheringwavesindo)
+* [Discord Server](https://discord.gg/wwi)
