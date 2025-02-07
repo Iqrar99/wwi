@@ -55,8 +55,8 @@ Berikut beberapa Sonata beserta efeknya yang ada di game:
         </tr>
         <tr>
             <td><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"> Havoc Eclipse</td>
-            <td><span style="color:HotPink;"><strong>Havoc DMG</strong></span> +10%.</td>
-            <td><span style="color:HotPink;"><strong>Havoc DMG</strong></span> +7.5% setelah melancarkan <strong>Basic Attack</strong> atau <strong>Heavy Attack</strong>. Efek ini dapat ditumpuk hingga 4 kali, setiap tumpukan berlangsung selama 15 detik.</td>
+            <td><mark style="color:HotPink;"><strong>Havoc DMG</strong></mark> +10%.</td>
+            <td><mark style="color:HotPink;"><strong>Havoc DMG</strong></mark> +7.5% setelah melancarkan <strong>Basic Attack</strong> atau <strong>Heavy Attack</strong>. Efek ini dapat ditumpuk hingga 4 kali, setiap tumpukan berlangsung selama 15 detik.</td>
         </tr>
         <tr>
             <td><img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"> Rejuvenating Glow</td>
@@ -85,8 +85,8 @@ Berikut beberapa Sonata beserta efeknya yang ada di game:
         </tr>
         <tr>
             <td><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"> Midnight Veil</td>
-            <td><span style="color:HotPink;"><strong>Havoc DMG</strong></span> +10%.</td>
-            <td>Memicu <strong>Outro Skil</strong>l memberikan tambahan 480% <span style="color:HotPink;"><strong>Havoc DMG</strong></span> ke musuh di sekitar, dianggap sebagai <strong>Outro Skill DMG</strong> dan memberi Resonator selanjutnya 15% Bonus <span style="color:HotPink;"><strong>Havoc DMG</strong></span> selama 15 detik.</td>
+            <td><mark style="color:HotPink;"><strong>Havoc DMG</strong></mark> +10%.</td>
+            <td>Memicu <strong>Outro Skil</strong>l memberikan tambahan 480% <mark style="color:HotPink;"><strong>Havoc DMG</strong></mark> ke musuh di sekitar, dianggap sebagai <strong>Outro Skill DMG</strong> dan memberi Resonator selanjutnya 15% Bonus <mark style="color:HotPink;"><strong>Havoc DMG</strong></mark> selama 15 detik.</td>
         </tr>
         <tr>
             <td><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"> Empyrean Anthem</td>
