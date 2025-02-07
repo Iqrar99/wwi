@@ -208,7 +208,7 @@ Impermenance Heron - CR% / CDM%
 Support
 {% endhint %}
 
-<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972287770735/16.png?ex=67a7068b&is=67a5b50b&hm=10c1159e9470a451293c2f85d7752826480db8b57487f5d7bfcda5457f81e75a&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"> Jinhsi</td><td><img src="https://media.discordapp.net/attachments/1200750972788555836/1336416972585308160/17.png?ex=67a3bacb&#x26;is=67a2694b&#x26;hm=91020b4805ed3aabe9e5e56d61ddc6b7510fb9e83d5fb3ec35fb36a400f6f20a&#x26;=&#x26;format=webp&#x26;quality=lossless" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Yuanwu</td><td>Coordinated ATK untuk bantu stack forte Jinhsi</td></tr></tbody></table>
+<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972287770735/16.png?ex=67a7068b&is=67a5b50b&hm=10c1159e9470a451293c2f85d7752826480db8b57487f5d7bfcda5457f81e75a&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"> Jinhsi</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972585308160/17.png?ex=67a7068b&is=67a5b50b&hm=638054f782388f1688d9129aaacfe15e18a0d83bffd17e525503701391e7451d&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Yuanwu</td><td>Coordinated ATK untuk bantu stack forte Jinhsi</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 
