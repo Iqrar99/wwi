@@ -169,10 +169,3 @@ Skill + Echo (Swap) > BA123 (swap) > BA123->Forte HA (swap) > BA123 > Lib > Fort
 ## Infografis
 
 <figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395469269205043/3.png?ex=67a74a17&#x26;is=67a5f897&#x26;hm=532db6a0eac157c5414a37f9228f68af7ae9c65a1f91c6ff624653c179b6a1be&#x26;" alt=""><figcaption></figcaption></figure>
-
-
-
-<figure><img src="https://media.discordapp.net/attachments/1200750972788555836/1336360795893665872/3.png?ex=67a3867a&#x26;is=67a234fa&#x26;hm=ddde42762180fb19881ea2b8d9b8b0383a795ecd732bfba288d9ac53d2b13169&#x26;=&#x26;format=webp&#x26;quality=lossless&#x26;width=1202&#x26;height=676" alt=""><figcaption></figcaption></figure>
-
-
-

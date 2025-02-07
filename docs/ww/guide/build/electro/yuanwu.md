@@ -219,12 +219,3 @@ TBA
 ## Infografis
 
 <figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395536315023422/4.png?ex=67a74a27&#x26;is=67a5f8a7&#x26;hm=a074f8e90624d0dc29ba554d23c4ced558c4cc27de8957d7cc0e3577e01feba7&#x26;" alt=""><figcaption></figcaption></figure>
-
-
-
-<figure><img src="https://media.discordapp.net/attachments/1200750972788555836/1336361068842188852/4_Yuanwu.png?ex=67a580fb&#x26;is=67a42f7b&#x26;hm=37e0260bf327f9c6c99c429afcacc73bad5fd57bfd34e86af0e7618361b00f24&#x26;=&#x26;format=webp&#x26;quality=lossless&#x26;width=1202&#x26;height=676" alt=""><figcaption></figcaption></figure>
-
-
-
-<figure><img src="https://media.discordapp.net/attachments/1200750972788555836/1336361068842188852/4_Yuanwu.png?ex=67a386bb&#x26;is=67a2353b&#x26;hm=d00d42d1bb13d007ee6814a80845c48cd543b24c133b3c7e1394cf4597e7f061&#x26;=&#x26;format=webp&#x26;quality=lossless&#x26;width=1202&#x26;height=676" alt=""><figcaption></figcaption></figure>
-
