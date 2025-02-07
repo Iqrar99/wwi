@@ -32,7 +32,7 @@ Slash command or application command can be triggered after typing `/` first bef
 
 <mark style="color:yellow;">**Example**</mark>: `/about`
 
-<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336228180578795591/image.png?ex=67a30af8&#x26;is=67a1b978&#x26;hm=3984d1e7dfc3d7db170dd125fdab4de82489b33d8abf27a581bc6870489551ee&#x26;" alt=""><figcaption><p>Type <code>/</code>in the chat. There will be a suggestion, then choose your desired command.</p></figcaption></figure>
+<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336228180578795591/image.png?ex=67a6ff78&is=67a5adf8&hm=cfa859e2447b2b0bce69748ee5a21870fc2d97d1c78a39b4220d5cf7d7d6734f&" alt=""><figcaption><p>Type <code>/</code>in the chat. There will be a suggestion, then choose your desired command.</p></figcaption></figure>
 
 <figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336228481444483124/image.png?ex=67a6ffbf&is=67a5ae3f&hm=adcc98bf6a4f85d250a7868c5e1855ff362f56679174e25b577ac6768462793f&" alt="" width="563"><figcaption><p>Result</p></figcaption></figure>
 
