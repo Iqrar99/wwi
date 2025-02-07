@@ -24,7 +24,7 @@ Solaris-3 Bot has prefix `s.` or `S.`&#x20;
 
 Write it on the bot channel, and then the bot will be triggered.
 
-<figure><img src="https://media.discordapp.net/attachments/1200750972788555836/1336227607238414397/image.png?ex=67a30a6f&#x26;is=67a1b8ef&#x26;hm=3b2945b070fed04dfb1967762e9c1aab546d025b1e3d834e9b64dda831a7cc3d&#x26;=&#x26;format=webp&#x26;quality=lossless&#x26;width=810&#x26;height=671" alt="" width="563"><figcaption><p>Prefix command usage demo</p></figcaption></figure>
+<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336227607238414397/image.png?ex=67a6feef&is=67a5ad6f&hm=0ef679cfc235916ff3fd61212eebdf29e56ab1ab283ac5bdf90d4a2f297d9fe9&" alt="" width="563"><figcaption><p>Prefix command usage demo</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Slash Command" %}
@@ -34,11 +34,11 @@ Slash command or application command can be triggered after typing `/` first bef
 
 <figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336228180578795591/image.png?ex=67a30af8&#x26;is=67a1b978&#x26;hm=3984d1e7dfc3d7db170dd125fdab4de82489b33d8abf27a581bc6870489551ee&#x26;" alt=""><figcaption><p>Type <code>/</code>in the chat. There will be a suggestion, then choose your desired command.</p></figcaption></figure>
 
-<figure><img src="https://media.discordapp.net/attachments/1200750972788555836/1336228481444483124/image.png?ex=67a30b3f&#x26;is=67a1b9bf&#x26;hm=aa4ec6245ce688c0d092677796462072e679ba1a90980f741dcecaaca0353357&#x26;=&#x26;format=webp&#x26;quality=lossless" alt="" width="563"><figcaption><p>Result</p></figcaption></figure>
+<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336228481444483124/image.png?ex=67a6ffbf&is=67a5ae3f&hm=adcc98bf6a4f85d250a7868c5e1855ff362f56679174e25b577ac6768462793f&" alt="" width="563"><figcaption><p>Result</p></figcaption></figure>
 
 The command can also be called by using an application button like this below.
 
-<figure><img src="https://media.discordapp.net/attachments/1200750972788555836/1336229438257627166/image.png?ex=67a30c24&#x26;is=67a1baa4&#x26;hm=a8d4310990f2d0c786a2196cae1886189cb5facd866dec9f33333b1e2b237cc8&#x26;=&#x26;format=webp&#x26;quality=lossless&#x26;width=1017&#x26;height=671" alt=""><figcaption><p>Click on the button, then choose Solaris-3</p></figcaption></figure>
+<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336229438257627166/image.png?ex=67a700a4&is=67a5af24&hm=96cb8fb7ed5be61a62858d839fd24542ee7f495660efc07ccd3c9d1ce52db58c&" alt=""><figcaption><p>Click on the button, then choose Solaris-3</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
