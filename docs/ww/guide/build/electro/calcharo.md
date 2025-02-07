@@ -211,5 +211,5 @@ Teminologi
 
 ## Infografis
 
-<figure><img src="https://media.discordapp.net/attachments/1200750972788555836/1336361068011720754/3_Calcharo.png?ex=67a386bb&#x26;is=67a2353b&#x26;hm=ec00069db7b327ab6773b72a34496df6be0bd825ee4da9ab1565b70e03f83ab7&#x26;=&#x26;format=webp&#x26;quality=lossless&#x26;width=1202&#x26;height=676" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395533043470367/1.png?ex=67a74a26&#x26;is=67a5f8a6&#x26;hm=c43c99ba362ecc80a4782f7da03b3379acde1fa556826780571dce15f43199e1&#x26;" alt=""><figcaption></figcaption></figure>
 

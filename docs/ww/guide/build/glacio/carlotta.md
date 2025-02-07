@@ -216,5 +216,5 @@ Terminology
 
 ## Infografis
 
-<figure><img src="https://media.discordapp.net/attachments/1200750972788555836/1336360646651940914/1.png?ex=67a38656&#x26;is=67a234d6&#x26;hm=25364df17cc33cbd5ef9f2e1e7ae98ba8c111bdbe762673515b5e1ebf4eab152&#x26;=&#x26;format=webp&#x26;quality=lossless&#x26;width=1202&#x26;height=676" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395340038508564/1.png?ex=67a749f8&#x26;is=67a5f878&#x26;hm=47d2c68e3e31cadb2cf9cba6b6106ff24bffb2dcb1d1743de5d19bf10b898d63&#x26;" alt=""><figcaption></figcaption></figure>
 

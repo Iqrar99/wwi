@@ -163,6 +163,10 @@ Teminologi
 
 ## Infografis
 
+<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395387669151774/1.png?ex=67a74a04&#x26;is=67a5f884&#x26;hm=e862654096a168314776b160c35430398414e32ea75ac562f33ef548216f9804&#x26;" alt=""><figcaption></figcaption></figure>
+
+
+
 <figure><img src="https://media.discordapp.net/attachments/1200750972788555836/1336360973518245908/1_Jiyan.png?ex=67a4d824&#x26;is=67a386a4&#x26;hm=510cbd1a3f25f9074da866bcb2f3137e44dcc4684e30e5a8d6dab21078085148&#x26;=&#x26;format=webp&#x26;quality=lossless&#x26;width=1202&#x26;height=676" alt=""><figcaption></figcaption></figure>
 
 

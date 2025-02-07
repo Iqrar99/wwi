@@ -161,6 +161,10 @@ Swap In > BA 3x > Echo + Skill > Mid-Air 3x > Outro
 
 ## Infografis
 
+<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395469973717022/4.png?ex=67a74a17&#x26;is=67a5f897&#x26;hm=7650e591ace72aa65df7d7c1b939fd6831c04921be8e9d69beadd6cbdf868582&#x26;" alt=""><figcaption></figcaption></figure>
+
+
+
 <figure><img src="https://media.discordapp.net/attachments/1200750972788555836/1336360796728590410/4.png?ex=67a42f3a&#x26;is=67a2ddba&#x26;hm=e6849451f17c86bbc2272d21e32110cc370b5a936f7b8718149271a6d4b32a75&#x26;=&#x26;format=webp&#x26;quality=lossless&#x26;width=1202&#x26;height=676" alt=""><figcaption></figcaption></figure>
 
 

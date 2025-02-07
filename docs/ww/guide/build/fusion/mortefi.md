@@ -163,5 +163,9 @@ Libe   >   Forte   >   Reso skill   =   BA   =   Intro
 
 ## Infografis
 
+<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395273445670932/4.png?ex=67a749e8&#x26;is=67a5f868&#x26;hm=3b8fafbe7683a2ea9a392c5ace4d7f6a0b103df87c4348db3be19fe0a3ea177e&#x26;" alt=""><figcaption></figcaption></figure>
+
+
+
 <figure><img src="https://media.discordapp.net/attachments/1200750972788555836/1336360912852095107/4.png?ex=67a38696&#x26;is=67a23516&#x26;hm=deb986602c19d5a7a8584c5e38e91c3b6d2d92287204e7a2b87d695a19241303&#x26;=&#x26;format=webp&#x26;quality=lossless&#x26;width=1202&#x26;height=676" alt=""><figcaption></figcaption></figure>
 

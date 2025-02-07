@@ -182,5 +182,5 @@ Teminologi
 
 ## Infografis
 
-<figure><img src="https://media.discordapp.net/attachments/1200750972788555836/1336360911262449817/2.png?ex=67a38695&#x26;is=67a23515&#x26;hm=53abdf87729b33f639acb6d3217de68eb8af72431d0278ab7f2314ba3e6ae92a&#x26;=&#x26;format=webp&#x26;quality=lossless&#x26;width=1202&#x26;height=676" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395271960756244/2.png?ex=67a749e8&#x26;is=67a5f868&#x26;hm=391d4263f853f793ac794169dc72942a7c9bb091d2e71f62b92ce4e1cd7f6cf7&#x26;" alt=""><figcaption></figcaption></figure>
 

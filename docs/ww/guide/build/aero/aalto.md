@@ -165,5 +165,13 @@ TBA
 
 ## Infografis
 
+<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395389485158471/3.png?ex=67a74a04&#x26;is=67a5f884&#x26;hm=1a91760a449be95036d1d6b4b05b68f456cf3e7e165dd54f8cee3cae7d90699f&#x26;" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+
+
 <figure><img src="https://media.discordapp.net/attachments/1200750972788555836/1336360974923464771/3_Aalto.png?ex=67a386a4&#x26;is=67a23524&#x26;hm=2dbfc4e6e8f380725e572a6e25b70496e2bb717e2585ae0485e95e934b7faef7&#x26;=&#x26;format=webp&#x26;quality=lossless&#x26;width=1202&#x26;height=676" alt=""><figcaption></figcaption></figure>
 

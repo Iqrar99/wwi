@@ -208,5 +208,9 @@ Teminologi
 
 ## Infografis
 
+<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395534264270920/2.png?ex=67a74a26&#x26;is=67a5f8a6&#x26;hm=f5de76e96d33a0dcc98b8bf06a06114991b34f6664e0b25a5c0c96a9031909a5&#x26;" alt=""><figcaption></figcaption></figure>
+
+
+
 <figure><img src="https://media.discordapp.net/attachments/1200750972788555836/1336361066480795698/1_Xiangli_Yao.png?ex=67a386ba&#x26;is=67a2353a&#x26;hm=6394bc8054f0c043735684bf1ea38d95a86ba82b4826836ddf45f1254e283fa8&#x26;=&#x26;format=webp&#x26;quality=lossless&#x26;width=1202&#x26;height=676" alt=""><figcaption></figcaption></figure>
 
