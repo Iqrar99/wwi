@@ -208,7 +208,7 @@ Impermenance Heron - CR% / CDM%
 Support
 {% endhint %}
 
-<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://media.discordapp.net/attachments/1200750972788555836/1336416972287770735/16.png?ex=67a3bacb&#x26;is=67a2694b&#x26;hm=99816ef8babddc115f79781a701e91f91f800e6b3283d57e79e3c4ff20dd35e8&#x26;=&#x26;format=webp&#x26;quality=lossless" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"> Jinhsi</td><td><img src="https://media.discordapp.net/attachments/1200750972788555836/1336416972585308160/17.png?ex=67a3bacb&#x26;is=67a2694b&#x26;hm=91020b4805ed3aabe9e5e56d61ddc6b7510fb9e83d5fb3ec35fb36a400f6f20a&#x26;=&#x26;format=webp&#x26;quality=lossless" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Yuanwu</td><td>Coordinated ATK untuk bantu stack forte Jinhsi</td></tr></tbody></table>
+<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972287770735/16.png?ex=67a7068b&is=67a5b50b&hm=10c1159e9470a451293c2f85d7752826480db8b57487f5d7bfcda5457f81e75a&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"> Jinhsi</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972585308160/17.png?ex=67a7068b&is=67a5b50b&hm=638054f782388f1688d9129aaacfe15e18a0d83bffd17e525503701391e7451d&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Yuanwu</td><td>Coordinated ATK untuk bantu stack forte Jinhsi</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 
@@ -219,12 +219,3 @@ TBA
 ## Infografis
 
 <figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395536315023422/4.png?ex=67a74a27&#x26;is=67a5f8a7&#x26;hm=a074f8e90624d0dc29ba554d23c4ced558c4cc27de8957d7cc0e3577e01feba7&#x26;" alt=""><figcaption></figcaption></figure>
-
-
-
-<figure><img src="https://media.discordapp.net/attachments/1200750972788555836/1336361068842188852/4_Yuanwu.png?ex=67a580fb&#x26;is=67a42f7b&#x26;hm=37e0260bf327f9c6c99c429afcacc73bad5fd57bfd34e86af0e7618361b00f24&#x26;=&#x26;format=webp&#x26;quality=lossless&#x26;width=1202&#x26;height=676" alt=""><figcaption></figcaption></figure>
-
-
-
-<figure><img src="https://media.discordapp.net/attachments/1200750972788555836/1336361068842188852/4_Yuanwu.png?ex=67a386bb&#x26;is=67a2353b&#x26;hm=d00d42d1bb13d007ee6814a80845c48cd543b24c133b3c7e1394cf4597e7f061&#x26;=&#x26;format=webp&#x26;quality=lossless&#x26;width=1202&#x26;height=676" alt=""><figcaption></figcaption></figure>
-

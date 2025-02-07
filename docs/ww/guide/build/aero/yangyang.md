@@ -131,8 +131,3 @@ TBA
 ## Infografis
 
 <figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395390202380288/4.png?ex=67a74a04&#x26;is=67a5f884&#x26;hm=1f5414f288f261f64943029b4e71cd8144ee2c79254ddf16056e36d780cf6995&#x26;" alt=""><figcaption></figcaption></figure>
-
-
-
-<figure><img src="https://media.discordapp.net/attachments/1200750972788555836/1336360975640694935/4_Yangyang.png?ex=67a386a4&#x26;is=67a23524&#x26;hm=94781741eeb2d5c955ecad1380782146704042d343553a6f3bbc1cf134f1c581&#x26;=&#x26;format=webp&#x26;quality=lossless&#x26;width=1202&#x26;height=676" alt=""><figcaption></figcaption></figure>
-

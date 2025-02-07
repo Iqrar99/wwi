@@ -138,7 +138,7 @@ Forte   >   Libe   >   Reso skill   >   Intro   >   BA
 
 ## :busts\_in\_silhouette: Rekomendasi Tim
 
-<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://media.discordapp.net/attachments/1200750972788555836/1336417061055762472/1.png?ex=67a3bae0&#x26;is=67a26960&#x26;hm=361e0ccc096ad7aa9c12f2c3e1f540bc183cb0843ea3206c103f998b3f41e4c3&#x26;=&#x26;format=webp&#x26;quality=lossless" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"> Phoebe</td><td>TBA</td><td>TBA</td></tr></tbody></table>
+<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337415444394414111/1.png?ex=67a75cb1&is=67a60b31&hm=ec2ec24f781dc2963d77bbd6341c3255bfb3704c66371123afd1cae1d64a55f6&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"> Phoebe</td><td>TBA</td><td>TBA</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 
@@ -147,8 +147,3 @@ TBA
 ## Infografis
 
 <figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395470741536778/5.png?ex=67a74a17&#x26;is=67a5f897&#x26;hm=6cac469dc668e9369926867f9c2ad08a0a9c94e174b8aa2738336517bdd06f6d&#x26;" alt=""><figcaption></figcaption></figure>
-
-
-
-<figure><img src="https://media.discordapp.net/attachments/1200750972788555836/1336360797751869511/5.png?ex=67a3867a&#x26;is=67a234fa&#x26;hm=e43805371e29a13f0d4e2161f73fece6183bb228b32cbc2edce37d8fa5be8f74&#x26;=&#x26;format=webp&#x26;quality=lossless&#x26;width=1202&#x26;height=676" alt=""><figcaption></figcaption></figure>
-

@@ -125,7 +125,7 @@ Reso Lib   >   Forte   >   Reso skill   >   intro   >   BA
 
 ## :busts\_in\_silhouette: Rekomendasi Tim
 
-<table><thead><tr><th width="213">Main DPS</th><th width="189.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://media.discordapp.net/attachments/1200750972788555836/1336417061588566036/3.png?ex=67a3bae0&#x26;is=67a26960&#x26;hm=4caf15972e87b048de55370215fc554ac626d6692509476cbde445fcdfa2f5c8&#x26;=&#x26;format=webp&#x26;quality=lossless" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_4.png" alt="" data-size="line"> Jiyan</td><td><img src="https://media.discordapp.net/attachments/1200750972788555836/1336417061949149235/4.png?ex=67a3bae0&#x26;is=67a26960&#x26;hm=c9d8129ac3c4f1ac098a4889b78bc0950debb5551028822ad647688757e53ee8&#x26;=&#x26;format=webp&#x26;quality=lossless" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Mortefi</td><td>Buff Heavy ATK 38%</td></tr><tr><td><img src="https://media.discordapp.net/attachments/1200750972788555836/1336417061588566036/3.png?ex=67a3bae0&#x26;is=67a26960&#x26;hm=4caf15972e87b048de55370215fc554ac626d6692509476cbde445fcdfa2f5c8&#x26;=&#x26;format=webp&#x26;quality=lossless" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_4.png" alt="" data-size="line"> Jiyan</td><td><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Aalto</td><td>Buff Aero damage 23%</td></tr></tbody></table>
+<table><thead><tr><th width="213">Main DPS</th><th width="189.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417061588566036/3.png?ex=67a706a0&is=67a5b520&hm=70e8672d7c9bb48d5eb395441bad186aa50b76e79031ce1e6fe367c7fcfa1f35&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_4.png" alt="" data-size="line"> Jiyan</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417061949149235/4.png?ex=67a706a0&is=67a5b520&hm=40b620215cfd3f095c471885b319c61ff3f343432be5b349937a6d2b7dae8dae&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Mortefi</td><td>Buff Heavy ATK 38%</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417061588566036/3.png?ex=67a706a0&is=67a5b520&hm=70e8672d7c9bb48d5eb395441bad186aa50b76e79031ce1e6fe367c7fcfa1f35&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_4.png" alt="" data-size="line"> Jiyan</td><td><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Aalto</td><td>Buff Aero damage 23%</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 
@@ -164,12 +164,3 @@ Teminologi
 ## Infografis
 
 <figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395387669151774/1.png?ex=67a74a04&#x26;is=67a5f884&#x26;hm=e862654096a168314776b160c35430398414e32ea75ac562f33ef548216f9804&#x26;" alt=""><figcaption></figcaption></figure>
-
-
-
-<figure><img src="https://media.discordapp.net/attachments/1200750972788555836/1336360973518245908/1_Jiyan.png?ex=67a4d824&#x26;is=67a386a4&#x26;hm=510cbd1a3f25f9074da866bcb2f3137e44dcc4684e30e5a8d6dab21078085148&#x26;=&#x26;format=webp&#x26;quality=lossless&#x26;width=1202&#x26;height=676" alt=""><figcaption></figcaption></figure>
-
-
-
-<figure><img src="https://media.discordapp.net/attachments/1200750972788555836/1336360973518245908/1_Jiyan.png?ex=67a386a4&#x26;is=67a23524&#x26;hm=aaba752c29edfad331b8903d4e4c11cd657b96b74fc6fa6c3bf3e978c5b8ab75&#x26;=&#x26;format=webp&#x26;quality=lossless&#x26;width=1202&#x26;height=676" alt=""><figcaption></figcaption></figure>
-

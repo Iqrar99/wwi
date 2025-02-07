@@ -155,7 +155,7 @@ Forte   =   BA   >   Reso skil   >   Reso lib   >   Intro
 
 ## :busts\_in\_silhouette: Rekomendasi Tim
 
-<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://wuthering.wiki/img/fettericon_4.png" alt="" data-size="line"> Aalto</td><td><img src="https://media.discordapp.net/attachments/1200750972788555836/1336416972799475814/18.png?ex=67a3bacb&#x26;is=67a2694b&#x26;hm=fca93166f1a4a2bab53cc16e777e8107d57935790882fe695ae2937ec6b34b92&#x26;=&#x26;format=webp&#x26;quality=lossless" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua</td><td>Buff Basic ATK 38%</td></tr><tr><td><img src="https://wuthering.wiki/img/fettericon_4.png" alt="" data-size="line"> Aalto</td><td><img src="https://media.discordapp.net/attachments/1200750972788555836/1336416908366319636/26.png?ex=67a3babc&#x26;is=67a2693c&#x26;hm=b987b0ca7f4bf6ef67222b268a5a66d574be57dd4f04bfafb09861cc824e898b&#x26;=&#x26;format=webp&#x26;quality=lossless" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Yangyang</td><td>Restore 4 Resonance Energy per second selama 5s</td></tr><tr><td><img src="https://media.discordapp.net/attachments/1200750972788555836/1336417061588566036/3.png?ex=67a3bae0&#x26;is=67a26960&#x26;hm=4caf15972e87b048de55370215fc554ac626d6692509476cbde445fcdfa2f5c8&#x26;=&#x26;format=webp&#x26;quality=lossless" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_4.png" alt="" data-size="line"> Jiyan</td><td><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Aalto</td><td>Buff Aero damage 23%</td></tr></tbody></table>
+<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://wuthering.wiki/img/fettericon_4.png" alt="" data-size="line"> Aalto</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972799475814/18.png?ex=67a7068b&is=67a5b50b&hm=1e294b603076dda440f14f6aaf012f8a3c87318068ec8ef40c52079057d83fec&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua</td><td>Buff Basic ATK 38%</td></tr><tr><td><img src="https://wuthering.wiki/img/fettericon_4.png" alt="" data-size="line"> Aalto</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416908366319636/26.png?ex=67a7067c&is=67a5b4fc&hm=b0b1356c3f86500014839f51add505ed2da0fc7515c96c1ff45e751f69c4879f&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Yangyang</td><td>Restore 4 Resonance Energy per second selama 5s</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417061588566036/3.png?ex=67a706a0&is=67a5b520&hm=70e8672d7c9bb48d5eb395441bad186aa50b76e79031ce1e6fe367c7fcfa1f35&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_4.png" alt="" data-size="line"> Jiyan</td><td><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Aalto</td><td>Buff Aero damage 23%</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 
@@ -167,11 +167,4 @@ TBA
 
 <figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395389485158471/3.png?ex=67a74a04&#x26;is=67a5f884&#x26;hm=1a91760a449be95036d1d6b4b05b68f456cf3e7e165dd54f8cee3cae7d90699f&#x26;" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
-
-
-<figure><img src="https://media.discordapp.net/attachments/1200750972788555836/1336360974923464771/3_Aalto.png?ex=67a386a4&#x26;is=67a23524&#x26;hm=2dbfc4e6e8f380725e572a6e25b70496e2bb717e2585ae0485e95e934b7faef7&#x26;=&#x26;format=webp&#x26;quality=lossless&#x26;width=1202&#x26;height=676" alt=""><figcaption></figcaption></figure>
 
