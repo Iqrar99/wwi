@@ -66,7 +66,7 @@ Direkomendasikan
 <figure><img src="https://wuthering.wiki/img/weapon_21040074.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Celestial Spiralt" %}
+{% tab title="Celestial Spiral" %}
 {% hint style="info" %}
 Alternatif
 {% endhint %}
