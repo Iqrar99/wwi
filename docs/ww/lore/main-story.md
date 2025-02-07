@@ -1,6 +1,6 @@
 ---
 cover: >-
-  https://media.discordapp.net/attachments/1200750972788555836/1336317237761540159/image.png?ex=67a35de9&is=67a20c69&hm=8d83f45820d4a05e36932989fd2d574f6ac21354e5484997db8e571068322bc5&=&format=webp&quality=lossless&width=825&height=130
+  https://cdn.discordapp.com/attachments/1200750972788555836/1336317237761540159/image.png?ex=67a6a9a9&is=67a55829&hm=5c3585f1e2a5a6c1ce47d30e6a8351971c78f73eef015f9427da5cd07769f75d&
 coverY: 0
 layout:
   cover:
@@ -23,3 +23,5 @@ layout:
 {% hint style="info" %}
 Konten ini mendukung **Bahasa Indonesia**
 {% endhint %}
+
+TBA

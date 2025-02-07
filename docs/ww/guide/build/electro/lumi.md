@@ -1,6 +1,6 @@
 ---
 cover: >-
-  https://media.discordapp.net/attachments/1200750972788555836/1336310626682802176/image.png?ex=67a357c0&is=67a20640&hm=f3412189b1df1ce03ad2ad65d136bc861aee800c8b1bd57322f61d85c23db7e0&=&format=webp&quality=lossless&width=825&height=183
+  https://cdn.discordapp.com/attachments/1200750972788555836/1336310626682802176/image.png?ex=67a6a380&is=67a55200&hm=5511f3475496bee4fa939579362a3c532c6068acbb4b6a67e1e9e89dc41f1d52&
 coverY: 0
 layout:
   cover:

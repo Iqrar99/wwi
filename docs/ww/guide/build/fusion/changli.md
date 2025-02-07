@@ -1,6 +1,6 @@
 ---
 cover: >-
-  https://media.discordapp.net/attachments/1200750972788555836/1336307188053840016/image.png?ex=67a3548d&is=67a2030d&hm=eb88c45dc6dc9294cd3de4ea18da65d35acd010b1fb6eede49a9bfba9e84d299&=&format=webp&quality=lossless&width=825&height=226
+  https://cdn.discordapp.com/attachments/1200750972788555836/1336307188053840016/image.png?ex=67a6a04d&is=67a54ecd&hm=06d50510a2bcd03603bd556cca3147815ebb1a119e481f39bace363fafc0431d&
 coverY: 0
 layout:
   cover:
@@ -91,7 +91,7 @@ Alternatif
 Alternatif
 {% endhint %}
 
-:mag: **Info Senjata**&#x20;
+:mag: **Review Senjata**&#x20;
 
 > Sering kali lebih rendah dibandingkan **Commando of Conviction** untuk **DPS**, namun senjata ini tetap menjadi pilihan **F2P** :star:**4** yang bagus untuk karakter yang membutuhkan **energy boost**. Secara realistis, hanya pertimbangkan senjata ini sebagai pilihan jika karakter kamu mengalami masalah dengan **energy**.
 
