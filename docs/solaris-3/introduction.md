@@ -1,6 +1,6 @@
 ---
 description: A comprehensive and multi-utility discord bot for your Wuthering Waves needs.
-cover: ../.gitbook/assets/Solaris-3_from_Space_output.png
+cover: ../.gitbook/assets/Solaris-3.png
 coverY: 0
 layout:
   cover:
