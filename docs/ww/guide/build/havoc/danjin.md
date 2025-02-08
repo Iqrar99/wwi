@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://cdn.discordapp.com/attachments/1200750972788555836/1336316108034146334/image.png?ex=67a6a89b&is=67a5571b&hm=1a71f4adccdbb5d20fef5d67bd86977d7ebe8ab8cee89269bf72b435a7ab7ea2&
+cover: https://i.postimg.cc/pLhtyJqb/Danjin.png
 coverY: 0
 layout:
   cover:
@@ -35,7 +34,7 @@ layout:
 Best In Slot
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata **signature** Changli yang tidak hanya luar biasa untuknya, tetapi juga dapat digunakan oleh semua pengguna **Sword** yang fokus pada **damage** dan sebagian besar kerusakannya berasal dari **Resonance Skill**.
 >
@@ -49,7 +48,7 @@ Best In Slot
 Direkomendasikan
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata signature Camellya dapat digunakan oleh semua karakter pengguna pedang yang berfokus pada Basic Attack, tetapi jelas dirancang khusus untuknya karena sebagian besar kekuatannya terkunci di balik penggunaan Concerto di tengah rotasi—sesuatu yang hanya bisa dilakukan oleh Camellya. Memberikan jumlah ATK%, CRIT RATE%, dan Basic Attack DMG yang cukup baik untuk semua karakter, tetapi menawarkan bonus Basic Attack DMG yang sangat besar setelah menghabiskan Concerto.
 
@@ -61,7 +60,7 @@ Direkomendasikan
 Direkomendasikan
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Pilihan **Sword** yang luar biasa, menawarkan **base damage** yang jauh lebih tinggi berkat rarity nya yang :star:**5** , serta **ATK% buff** yang dapat ditumpuk yang hampir bisa didapatkan oleh semua karakter dengan mudah (dan **2 stacks** juga mudah dicapai oleh sebagian besar karakter jika dimainkan dengan benar).
 >
@@ -75,7 +74,7 @@ Direkomendasikan
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata **Sword** serbaguna yang luar biasa, mendapatkan bonusnya hampir tanpa syarat karena sebagian besar **Resonators** hampir selalu berusaha memanfaatkan **Intro skill** mereka, dan hanya sedikit karakter yang menghabiskan lebih dari 15 detik di pertarungan selama durasinya.
 
@@ -87,7 +86,7 @@ Alternatif
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Sering kali lebih rendah dibandingkan **Commando of Conviction** untuk **DPS**, namun senjata ini tetap menjadi pilihan **F2P** :star:**4** yang bagus untuk karakter yang membutuhkan **energy boost**. Secara realistis, hanya pertimbangkan senjata ini sebagai pilihan jika karakter mu mengalami masalah dengan **energy**.
 
@@ -95,7 +94,7 @@ Alternatif
 {% endtab %}
 {% endtabs %}
 
-## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte&#x20;
+## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte
 
 <details>
 
@@ -103,14 +102,14 @@ Alternatif
 
 ![](https://wuthering.wiki/img/monster_330000180.png) Nightmare: Crownless - CR% / CDM%
 
-#### Echo Sett
+**Echo Sett**
 
-* 3 - <mark style="color:orange;">**Havoc DMG**</mark> bonus%
-* 3 - <mark style="color:orange;">**Havoc DMG**</mark> bonus%
+* 3 - **Havoc DMG** bonus%
+* 3 - **Havoc DMG** bonus%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * CR% / CDM%
 * ATK%
@@ -119,9 +118,9 @@ Alternatif
 * Reso lib%
 * ER% (Minimum 100%)
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-Forte    >    Reso skill    >    Libe    >    BA    =   Intro
+Forte > Reso skill > Libe > BA = Intro
 
 </details>
 
@@ -131,16 +130,16 @@ Forte    >    Reso skill    >    Libe    >    BA    =   Intro
 
 Impermenance Heron - CR% / CDM%
 
-![](https://wuthering.wiki/img/monster_330000030.png)
+<img src="https://wuthering.wiki/img/monster_330000030.png" alt="" data-size="original">
 
-#### Echo Sett
+**Echo Sett**
 
-* 3 - <mark style="color:orange;">**Havoc DMG**</mark> bonus%
-* 3 - <mark style="color:orange;">**Havoc DMG**</mark> bonus%
+* 3 - **Havoc DMG** bonus%
+* 3 - **Havoc DMG** bonus%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * CR% / CDM%
 * ATK%
@@ -149,15 +148,15 @@ Impermenance Heron - CR% / CDM%
 * Reso lib%
 * ER% (Minimum 100%)
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-Forte    >    Reso skill    >    Libe    >    BA    =   Intro
+Forte > Reso skill > Libe > BA = Intro
 
 </details>
 
 ## :busts\_in\_silhouette: Rekomendasi Tim
 
-<table><thead><tr><th>Main DPS</th><th width="172.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416908077039686/25.png?ex=67a7067c&is=67a5b4fc&hm=8bbe5b3f34796c9b15677f5454aacea6b46d6c9bfccee19d290f20468612cf75&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line">Danjin</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417061949149235/4.png?ex=67a706a0&is=67a5b520&hm=40b620215cfd3f095c471885b319c61ff3f343432be5b349937a6d2b7dae8dae&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Mortefi</td><td>Buff Heavy ATK 38%</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416908077039686/25.png?ex=67a7067c&is=67a5b4fc&hm=8bbe5b3f34796c9b15677f5454aacea6b46d6c9bfccee19d290f20468612cf75&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line">Danjin</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417063408762931/10.png?ex=67a706a1&is=67a5b521&hm=b6c323d2c14aa7b5ad9132fd4c11cba95b52038c33999ea28907189ca0ec1358&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line">Roccia</td><td> buff Havoc DMG 20%</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417062167248916/5.png?ex=67a706a1&is=67a5b521&hm=6dbee7647f54b49ecf62031c572920294a4681e6903dc91fba1a66d81532737f&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line">Camellya</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416908077039686/25.png?ex=67a7067c&is=67a5b4fc&hm=8bbe5b3f34796c9b15677f5454aacea6b46d6c9bfccee19d290f20468612cf75&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line">Danjin</td><td>buff Havoc DMG 20%</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417063140331590/9.png?ex=67a706a1&is=67a5b521&hm=093cb55263fc86713afbe4b217d1a79d34e56caf9fc1a4c49cc17f8317d90c25&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line">Rover (Havoc)</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416908077039686/25.png?ex=67a7067c&is=67a5b4fc&hm=8bbe5b3f34796c9b15677f5454aacea6b46d6c9bfccee19d290f20468612cf75&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line">Danjin</td><td>buff Havoc DMG 20%</td></tr></tbody></table>
+<table><thead><tr><th>Main DPS</th><th width="172.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/FKXs46mn/Danjin-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line">Danjin</td><td><img src="https://i.postimg.cc/MTdW1KBh/Mortefi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Mortefi</td><td>Buff Heavy ATK 38%</td></tr><tr><td><img src="https://i.postimg.cc/FKXs46mn/Danjin-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line">Danjin</td><td><img src="https://i.postimg.cc/bwcjD2MZ/Roccia-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line">Roccia</td><td>buff Havoc DMG 20%</td></tr><tr><td><img src="https://i.postimg.cc/WzdPrmTk/Camellya-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line">Camellya</td><td><img src="https://i.postimg.cc/FKXs46mn/Danjin-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line">Danjin</td><td>buff Havoc DMG 20%</td></tr><tr><td><img src="https://i.postimg.cc/6qppPGwW/Rover-Male-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line">Rover (Havoc)</td><td><img src="https://i.postimg.cc/FKXs46mn/Danjin-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line">Danjin</td><td>buff Havoc DMG 20%</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 
@@ -167,4 +166,5 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395626534768733/4.png?ex=67a74a3c&#x26;is=67a5f8bc&#x26;hm=c447492047c6f20b8247185440671a627b8af363540abd7731318a905b17edd3&#x26;" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/P54FXpks/4.png" alt=""><figcaption></figcaption></figure>
+

@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://cdn.discordapp.com/attachments/1200750972788555836/1336314773561933824/image.png?ex=67a6a75d&is=67a555dd&hm=9cbf651b95a32d337217684b6b94d42030cf62fde9e6ccd38284fb8e12b44ea3&
+cover: https://i.postimg.cc/VNXQWsxK/Rover-Female.png
 coverY: 0
 layout:
   cover:
@@ -35,7 +34,7 @@ layout:
 Best In Slot
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata **signature** Changli yang tidak hanya luar biasa untuknya, tetapi juga dapat digunakan oleh semua pengguna **Sword** yang fokus pada **damage** dan sebagian besar kerusakannya berasal dari **Resonance Skill**.
 >
@@ -49,7 +48,7 @@ Best In Slot
 Direkomendasikan
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Pilihan **Sword** yang luar biasa, menawarkan **base damage** yang jauh lebih tinggi berkat rarity nya yang :star:**5** , serta **ATK% buff** yang dapat ditumpuk yang hampir bisa didapatkan oleh semua karakter dengan mudah (dan **2 stacks** juga mudah dicapai oleh sebagian besar karakter jika dimainkan dengan benar).
 >
@@ -63,7 +62,7 @@ Direkomendasikan
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 TBA
 
@@ -75,7 +74,7 @@ TBA
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata **Sword** serbaguna yang luar biasa, mendapatkan bonusnya hampir tanpa syarat karena sebagian besar **Resonators** hampir selalu berusaha memanfaatkan **Intro skill** mereka, dan hanya sedikit karakter yang menghabiskan lebih dari 15 detik di pertarungan selama durasinya.
 
@@ -87,7 +86,7 @@ Alternatif
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Sering kali lebih rendah dibandingkan **Commando of Conviction** untuk **DPS**, namun senjata ini tetap menjadi pilihan **F2P** :star:**4** yang bagus untuk karakter yang membutuhkan **energy boost**. Secara realistis, hanya pertimbangkan senjata ini sebagai pilihan jika karakter mu mengalami masalah dengan **energy**.
 
@@ -95,24 +94,24 @@ Alternatif
 {% endtab %}
 {% endtabs %}
 
-## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte&#x20;
+## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte
 
 <details>
 
 <summary><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"> Eternal Radiance</summary>
 
-Nightmare: Mourning Aix -  (CR% / CDM%)
+Nightmare: Mourning Aix - (CR% / CDM%)
 
-![](https://wuthering.wiki/img/monster_330000200.png)
+<img src="https://wuthering.wiki/img/monster_330000200.png" alt="" data-size="original">
 
-#### Echo Sett
+**Echo Sett**
 
 * 3 - <mark style="color:yellow;">**Spectro DMG**</mark> bonus%
 * 3 - <mark style="color:yellow;">**Spectro DMG**</mark> bonus%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * CR% / CDM%
 * ER% (105% - 125%)
@@ -121,9 +120,9 @@ Nightmare: Mourning Aix -  (CR% / CDM%)
 * Flat ATK
 * Reso lib%
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-Forte   >   Libe   >   Reso skill   >   BA   >   Intro
+Forte > Libe > Reso skill > BA > Intro
 
 </details>
 
@@ -133,16 +132,16 @@ Forte   >   Libe   >   Reso skill   >   BA   >   Intro
 
 Impermenance Heron - CR% / CDM%
 
-![](https://wuthering.wiki/img/monster_330000030.png)
+<img src="https://wuthering.wiki/img/monster_330000030.png" alt="" data-size="original">
 
-#### Echo Sett
+**Echo Sett**
 
 * 3 - <mark style="color:yellow;">**Spectro DMG**</mark> bonus%
 * 3 - <mark style="color:yellow;">**Spectro DMG**</mark> bonus%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * CR% / CDM%
 * ER% (105% - 125%)
@@ -151,9 +150,9 @@ Impermenance Heron - CR% / CDM%
 * Flat ATK
 * Reso lib%
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-Forte   >   Libe   >   Reso skill   >   BA   >   Intro
+Forte > Libe > Reso skill > BA > Intro
 
 </details>
 
@@ -169,4 +168,4 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395468631801897/2.png?ex=67a74a17&#x26;is=67a5f897&#x26;hm=aa3272eac0c40caf9715b8dcbd4ca01bfb501831639a010b1aad162dd3d13047&#x26;" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/yY3fZp4P/Spectro-Rover.png" alt=""><figcaption></figcaption></figure>

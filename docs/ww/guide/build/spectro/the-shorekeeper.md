@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://cdn.discordapp.com/attachments/1200750972788555836/1337319036433731656/image.png?ex=67a702e8&is=67a5b168&hm=f68a09979a41fa851684c95ae0cb21e94aa3ea5c2fbbba0c602ef4ede8a56746&
+cover: https://i.postimg.cc/T2LSV3ng/The-Shorekeeper.png
 coverY: 0
 layout:
   cover:
@@ -36,7 +35,7 @@ layout:
 Best In Slot
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata signature Shorekeeper tidak hanya luar biasa untuknya, tetapi juga untuk semua support pengguna Rectifier. Memberikan jumlah Energy Regen yang sangat tinggi sebagai stat sekundernya, meningkatkan HP karakter yang menggunakannya, sekaligus memberikan tambahan Concerto Energy saat mengaktifkan Ultimate, menjadikannya sangat berharga bagi support mana pun yang bisa menggunakannya. Selain itu, senjata ini juga memberikan buff ATK untuk seluruh tim jika Resonance Skill pengguna senjata ini digunakan dan memberikan healing, menjadikannya senjata support yang luar biasa.
 
@@ -48,7 +47,7 @@ Best In Slot
 Direkomendasikan
 {% endhint %}
 
-:mag: **Info Senjata**&#x20;
+:mag: **Info Senjata**
 
 > Opsi terbaik untuk Shorekeeper di luar senjata signaturenya – bahkan jika hanya pada R1, senjata ini tetap memberikan cukup Concerto untuk menjalankan rotasi optimal tanpa tindakan tambahan. Selain itu, senjata ini juga memberikan jumlah Energy Recharge yang besar, menjadikannya alternatif yang sangat baik. Rank/dupe lebih tinggi dari senjata ini akan memberikan manfaat tambahan dan memungkinkan rotasi yang lebih cepat untuk Shorekeeper jika breakpoint Concerto tertentu dapat dicapai.
 
@@ -60,7 +59,7 @@ Direkomendasikan
 Alternatif
 {% endhint %}
 
-:mag: **Info Senjata**&#x20;
+:mag: **Info Senjata**
 
 > Opsi senjata rarity lebih rendah yang sebaiknya dimiliki semua orang pada rank maksimum dibandingkan dengan Rectifier#25, tetapi dengan downside memberikan lebih sedikit Energy Recharge serta tidak memiliki Concerto regeneration seperti senjata signaturenya atau Variation.
 
@@ -68,26 +67,26 @@ Alternatif
 {% endtab %}
 {% endtabs %}
 
-## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte&#x20;
+## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte
 
 <details>
 
-<summary> <img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"> Rejuvenating Glow</summary>
+<summary><img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"> Rejuvenating Glow</summary>
 
-Fallacy of No Return - HP%  / CDM%
+Fallacy of No Return - HP% / CDM%
 
-![](https://wuthering.wiki/img/monster_330000070.png)
+<img src="https://wuthering.wiki/img/monster_330000070.png" alt="" data-size="original">
 
-**Echo Skill** untuk summon Fallacy of No Return \
-memberikan <mark style="color:yellow;">Spectro DMG</mark> yang setara dengan 11.4% dari max HP, \
-setelah itu Resonator dapat 10% bonus Energy Regen \
+**Echo Skill** untuk summon Fallacy of No Return\
+memberikan <mark style="color:yellow;">Spectro DMG</mark> yang setara dengan 11.4% dari max HP,\
+setelah itu Resonator dapat 10% bonus Energy Regen\
 dan tim dapat 10% bonus ATK selama 20 detik.
 
-**Hold Echo Skill** untuk launch serangkaian ATK bertubi-tubi dengan biaya STA, \
-masing-masing memberikan Spectro DMG yang setara dengan 1.14% dari max HP; \
+**Hold Echo Skill** untuk launch serangkaian ATK bertubi-tubi dengan biaya STA,\
+masing-masing memberikan Spectro DMG yang setara dengan 1.14% dari max HP;\
 Release Hold echo Skill, memberikan <mark style="color:yellow;">Spectro DMG</mark> yang setara dengan 14.25% dari max HP.
 
-#### Echo Set
+**Echo Set**
 
 * ER% (Minimum 240%)
 * HP%
@@ -95,7 +94,7 @@ Release Hold echo Skill, memberikan <mark style="color:yellow;">Spectro DMG</mar
 * Cr% / CDM%
 * Reso Lib DMG%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * ER% (Minimum 240%)
 * HP%
@@ -103,36 +102,35 @@ Release Hold echo Skill, memberikan <mark style="color:yellow;">Spectro DMG</mar
 * Cr% / CDM%
 * Reso Lib DMG%
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-* Inherent 2   >   R Skill   >   Reso Lib   >   Intro
+* Inherent 2 > R Skill > Reso Lib > Intro
 
-\
-
+\\
 
 </details>
 
 <details>
 
-<summary> <img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"> Rejuvenating Glow</summary>
+<summary><img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"> Rejuvenating Glow</summary>
 
 Bell-Borne Geochelone - HP% / Healing Bonus%
 
-![](https://wuthering.wiki/img/monster_340000020.png)
+<img src="https://wuthering.wiki/img/monster_340000020.png" alt="" data-size="original">
 
-aktikan protection dari Bell-Borne Geochelone. \
-Memberikan <mark style="color:blue;">**Glacio DMG**</mark> berdasarkan 104.88% dari DEF resonator kepada musuh terdekat, \
-dan dapat Bell-Borne Shield yang bertahan selama 15 detik. \
-Bell-Borne Shield ngasih 50.00% DMG Reduction dan 10.00% DMG Boost, Shield akan menghilang setelah karakter  terkena serangan sebanyak 3 kali.
+aktikan protection dari Bell-Borne Geochelone.\
+Memberikan <mark style="color:blue;">**Glacio DMG**</mark> berdasarkan 104.88% dari DEF resonator kepada musuh terdekat,\
+dan dapat Bell-Borne Shield yang bertahan selama 15 detik.\
+Bell-Borne Shield ngasih 50.00% DMG Reduction dan 10.00% DMG Boost, Shield akan menghilang setelah karakter terkena serangan sebanyak 3 kali.
 
-#### Echo Sett
+**Echo Sett**
 
 * 3 - Energy Regen%
 * 3 - Energy Regen%
 * 1 - HP%
 * 1 - HP%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * ER% (Minimum 240%)
 * HP%
@@ -140,9 +138,9 @@ Bell-Borne Shield ngasih 50.00% DMG Reduction dan 10.00% DMG Boost, Shield akan 
 * Cr% / CDM%
 * Reso Lib DMG%
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-* Inherent 2   >   R Skill   >   Reso Lib   >   Intro
+* Inherent 2 > R Skill > Reso Lib > Intro
 
 </details>
 
@@ -168,4 +166,4 @@ Skill + Echo (Swap) > BA123 (swap) > BA123->Forte HA (swap) > BA123 > Lib > Fort
 
 ## Infografis
 
-<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395469269205043/3.png?ex=67a74a17&#x26;is=67a5f897&#x26;hm=532db6a0eac157c5414a37f9228f68af7ae9c65a1f91c6ff624653c179b6a1be&#x26;" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/TP0Q6ZgR/Shorekeeper.png" alt=""><figcaption></figcaption></figure>

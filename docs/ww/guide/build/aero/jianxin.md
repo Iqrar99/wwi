@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://cdn.discordapp.com/attachments/1200750972788555836/1336312670059499541/image.png?ex=67a6a568&is=67a553e8&hm=7efa54187609be630a5f1b933e9b72d112a05be0b5ea1cc0aab29544ac147e2a&
+cover: https://i.postimg.cc/nrR6hXmh/Jianxin.png
 coverY: 0
 layout:
   cover:
@@ -39,7 +38,7 @@ layout:
 Best In Slot
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata signature Xiangli Yao dan senjata yang ideal untuk pengguna Gauntlet berbasis Resonance Liberation. Memberikan peningkatan CRIT RATE sebesar 24,3% dan DMG% generik sebesar 12% secara permanen, dan di atas itu juga memberikan peningkatan Resonance Liberation DMG% sebesar 48% yang bertahan selama 8 detik saat menggunakan Liberation pemakainya. Karena waktu ketika buff ini diaktifkan, hampir selalu aktif saat dibutuhkan dan durasinya juga dapat diperpanjang hingga 3 kali selama 5 detik setiap kali Anda menggunakan skill resonance. Ini memperpanjang total durasi buff ini hingga 23 detik.
 
@@ -51,7 +50,7 @@ Best In Slot
 Direkomendasikan
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Salah satu pilihan Gauntlet terbaik di game ini dengan satu-satunya pesaing adalah senjata :star:4 dengan beberapa dupe. Memberikan base ATK yang tinggi, ATK%, jumlah EnergY Regen yang baik untuk menyimpan setidaknya 1 sub-stat pada echo yang dapat dipindahkan ke penggunaan yang lebih baik, dan bonus bersyarat yang meningkatkan damage **Resonance Skill** dan **Basic Attack** yang sangat mudah dipenuhi.
 
@@ -63,7 +62,7 @@ Direkomendasikan
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata Gauntlet spesialis untuk pengguna skala **Resonance Liberation**, berkat pasif yang memberikan peningkatan **Resonance Liberation DMG%** setelah menggunakan Resonance Skill. Masih bisa digunakan oleh karakter yang tidak fokus secara spesifik pada damage Liberation sebagai bagian besar dari kemampuan mereka, berkat base stats yang cukup tinggi, tetapi yang lebih penting lagi adalah main stat Crit Rate.
 
@@ -75,7 +74,7 @@ Alternatif
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Sering kali menjadi opsi Gauntlet :star:4 F2P terbaik untuk karakter DPS yang mengandalkan ATK. Peningkatan ATK% yang diberikan saat menggunakan Resonance Skill sangat berguna pada kebanyakan karakter, dan meskipun penghasilan energi kecil yang diberikan bersamaan lebih situasional, hal itu juga bisa berguna.
 
@@ -87,7 +86,7 @@ Alternatif
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Pilihan generik yang kuat untuk semua pengguna Gauntlet, memberikan **ATK%** dan **DEF%** setelah menggunakan **Resonance Liberation** dalam bentuk 3 charge. Karena sebagian besar karakter memasukkan Liberation dalam rotasi mereka di endgame, kamu bisa mengharapkan bonus ini diterapkan dengan cepat dan konsisten. Sayangnya, setiap kali kamu terkena serangan, 1 charge akan hilang. Jadi, untuk menggunakan senjata ini secara efektif, kamu harus meminimalkan jumlah kali kamu terkena serangan. Jika kamu merasa sering terkena, lebih baik turunkan ekspektasi terhadap senjata ini dan posisinya dalam prioritas.
 
@@ -103,7 +102,7 @@ Alternatif
 Direkomendasikan
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Gauntlet dengan fungsi unik yang menambahkan penyembuhan ke dalam kit karakter. Gauntlet menyebabkan Basic Attack nya mengembalikan sejumlah kecil HP kepada diri sendiri dengan cooldown 3 detik. Gauntlet ini memiliki statistik pertarungan yang buruk, dan penyembuhan yang diberikan akan dianggap kurang efektif untuk sebagian besar konten, tetapi memungkinkan karakter untuk mengaktifkan set 5-Pcs Rejuvenating Glow yang sangat kuat, yang memerlukan penyembuhan untuk memberikan buff. Senjata ini hanya harus dipasang ketika bertujuan untuk menggunakan set ini pada karakter yang tidak dapat menyembuhkan dengan cara lain.
 
@@ -111,33 +110,33 @@ Direkomendasikan
 {% endtab %}
 {% endtabs %}
 
-## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte&#x20;
+## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte
 
 <details>
 
-<summary> <img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"> Rejuvenating Glow</summary>
+<summary><img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"> Rejuvenating Glow</summary>
 
 Fallacy of No Return - CR% / CDM%
 
-![](https://wuthering.wiki/img/monster_330000070.png)
+<img src="https://wuthering.wiki/img/monster_330000070.png" alt="" data-size="original">
 
-**Echo Skill** untuk summon Fallacy of No Return \
-memberikan <mark style="color:yellow;">Spectro DMG</mark> yang setara dengan 11.4% dari max HP, \
-setelah itu Resonator dapat 10% bonus Energy Regen \
+**Echo Skill** untuk summon Fallacy of No Return\
+memberikan <mark style="color:yellow;">Spectro DMG</mark> yang setara dengan 11.4% dari max HP,\
+setelah itu Resonator dapat 10% bonus Energy Regen\
 dan tim dapat 10% bonus ATK selama 20 detik.
 
-**Hold Echo Skill** untuk launch serangkaian ATK bertubi-tubi dengan biaya STA, \
-masing-masing memberikan Spectro DMG yang setara dengan 1.14% dari max HP; \
+**Hold Echo Skill** untuk launch serangkaian ATK bertubi-tubi dengan biaya STA,\
+masing-masing memberikan Spectro DMG yang setara dengan 1.14% dari max HP;\
 Release Hold echo Skill, memberikan <mark style="color:yellow;">Spectro DMG</mark> yang setara dengan 14.25% dari max HP.
 
-#### Echo Set
+**Echo Set**
 
 * 3 - Energy Regen%
 * 3 - Energy Regen%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * ER% (130% - 140% )
 * CR% / CDM%
@@ -146,36 +145,35 @@ Release Hold echo Skill, memberikan <mark style="color:yellow;">Spectro DMG</mar
 * Reso Lib%
 * Flat ATK
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-Forte   >   Reso Lib   >   Reso skill   >   BA   >   Intro&#x20;
+Forte > Reso Lib > Reso skill > BA > Intro
 
-\
-
+\\
 
 </details>
 
 <details>
 
-<summary> <img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"> Rejuvenating Glow</summary>
+<summary><img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"> Rejuvenating Glow</summary>
 
 Bell-Borne Geochelone - CR% / CDM%
 
-![](https://wuthering.wiki/img/monster_340000020.png)
+<img src="https://wuthering.wiki/img/monster_340000020.png" alt="" data-size="original">
 
-aktikan protection dari Bell-Borne Geochelone. \
-Memberikan <mark style="color:blue;">**Glacio DMG**</mark> berdasarkan 104.88% dari DEF resonator kepada musuh terdekat, \
-dan dapat Bell-Borne Shield yang bertahan selama 15 detik. \
-Bell-Borne Shield ngasih 50.00% DMG Reduction dan 10.00% DMG Boost, Shield akan menghilang setelah karakter  terkena serangan sebanyak 3 kali.
+aktikan protection dari Bell-Borne Geochelone.\
+Memberikan <mark style="color:blue;">**Glacio DMG**</mark> berdasarkan 104.88% dari DEF resonator kepada musuh terdekat,\
+dan dapat Bell-Borne Shield yang bertahan selama 15 detik.\
+Bell-Borne Shield ngasih 50.00% DMG Reduction dan 10.00% DMG Boost, Shield akan menghilang setelah karakter terkena serangan sebanyak 3 kali.
 
-#### Echo Set
+**Echo Set**
 
 * 3 - Energy Regen%
 * 3 - Energy Regen%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * ER% (130% - 140% )
 * CR% / CDM%
@@ -184,9 +182,9 @@ Bell-Borne Shield ngasih 50.00% DMG Reduction dan 10.00% DMG Boost, Shield akan 
 * Reso Lib%
 * Flat ATK
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-Forte   >   Reso Lib   >   Reso skill   >   BA   >    Intro &#x20;
+Forte > Reso Lib > Reso skill > BA > Intro
 
 </details>
 
@@ -196,16 +194,16 @@ Forte   >   Reso Lib   >   Reso skill   >   BA   >    Intro &#x20;
 
 Impermenance Heron - CR% / CDM%
 
-![](https://wuthering.wiki/img/monster_330000030.png)
+<img src="https://wuthering.wiki/img/monster_330000030.png" alt="" data-size="original">
 
-#### Echo Sett
+**Echo Sett**
 
 * 3 - <mark style="color:green;">**Aero DMG**</mark> bonus%
 * 3 - <mark style="color:green;">**Aero DMG**</mark> bonus%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * ER% (130% - 140% )
 * CR% / CDM%
@@ -214,9 +212,9 @@ Impermenance Heron - CR% / CDM%
 * Reso Lib%
 * Flat ATK
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-Forte   >   Reso Lib   >   Reso skill   >   BA   >   Intro&#x20;
+Forte > Reso Lib > Reso skill > BA > Intro
 
 </details>
 
@@ -226,7 +224,7 @@ Forte   >   Reso Lib   >   Reso skill   >   BA   >   Intro&#x20;
 Support Healer dan Buffer untuk semua team
 {% endhint %}
 
-<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416973025972325/19.png?ex=67a7068b&is=67a5b50b&hm=95b4d9dd2f4d2f2cd993599def50d796b5ce1dc8829e30b7110db7bbb589bb6a&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Xiangli Yao</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416907632574484/24.png?ex=67a7067c&is=67a5b4fc&hm=61f60958051b472cc0661db05fa9190c470e6ed8fa7f9d93018041558d2782ba&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Jianxin</td><td>Buff Reso Lib 38%</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416907393237062/23.png?ex=67a7067c&is=67a5b4fc&hm=a796546a4ebb83b62c784d985203fbfe926673c69a11d6632eef0776da7eb2ad&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Calcharo</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416907632574484/24.png?ex=67a7067c&is=67a5b4fc&hm=61f60958051b472cc0661db05fa9190c470e6ed8fa7f9d93018041558d2782ba&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Jianxin</td><td>Buff Reso Lib 38%</td></tr></tbody></table>
+<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/N0tYVr73/Xiangli-yao-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Xiangli Yao</td><td><img src="https://i.postimg.cc/SNXyz4xv/Jianxin-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Jianxin</td><td>Buff Reso Lib 38%</td></tr><tr><td><img src="https://i.postimg.cc/3JP3XqyJ/Calcharo-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Calcharo</td><td><img src="https://i.postimg.cc/SNXyz4xv/Jianxin-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Jianxin</td><td>Buff Reso Lib 38%</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 
@@ -236,4 +234,4 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395388369604649/2.png?ex=67a74a04&#x26;is=67a5f884&#x26;hm=9141de4387474ef83fd5804b9ce24687a64ffccce3dcd37e47312b781cae5e00&#x26;" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/1zr7zgh1/Jianxin.png" alt=""><figcaption></figcaption></figure>

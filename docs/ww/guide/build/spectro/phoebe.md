@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://cdn.discordapp.com/attachments/1200750972788555836/1336314490450608138/image.png?ex=67a6a71a&is=67a5559a&hm=9d61c8a5ef13cd46ca9683941d6840a9e84ef63790cfe09328b9e4b504cf19fa&
+cover: https://i.postimg.cc/1X5kSGfd/Phoebe.png
 coverY: 0
 ---
 
@@ -30,7 +29,7 @@ Harap menunggu perilisan untuk informasi yang lebih akurat.
 Direkomendasikan
 {% endhint %}
 
-:mag: **Info Senjata**&#x20;
+:mag: **Info Senjata**
 
 * ATK (Lv.90): **500**
 * CRIT Rate: **36%**
@@ -43,7 +42,7 @@ Direkomendasikan
 Direkomendasikan
 {% endhint %}
 
-:mag: **Info Senjata**&#x20;
+:mag: **Info Senjata**
 
 * ATK (Lv.90): **500**
 * CRIT Rate: **36%**
@@ -56,7 +55,7 @@ Direkomendasikan
 Best In Slot
 {% endhint %}
 
-:mag: **Info Senjata**&#x20;
+:mag: **Info Senjata**
 
 * ATK (Lv.90): **500**
 * CRIT DMG (Lv.90): **72%**
@@ -69,7 +68,7 @@ Best In Slot
 Back up
 {% endhint %}
 
-:mag: **Info Senjata**&#x20;
+:mag: **Info Senjata**
 
 * ATK (Lv.90): **500**
 * ATK (Lv.90): **54%**
@@ -82,7 +81,7 @@ Back up
 Back up
 {% endhint %}
 
-:mag: **Info Senjata**&#x20;
+:mag: **Info Senjata**
 
 * ATK (Lv.90): **412**
 * CRIT Rate (Lv.90): **20.2%**
@@ -95,7 +94,7 @@ Back up
 Back up
 {% endhint %}
 
-:mag: **Info Senjata**&#x20;
+:mag: **Info Senjata**
 
 * ATK (Lv.90): **387**
 * ATK (Lv.90): **36.4%**
@@ -104,24 +103,24 @@ Back up
 {% endtab %}
 {% endtabs %}
 
-## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte&#x20;
+## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte
 
 <details>
 
 <summary><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"> Eternal Radiance</summary>
 
-Nightmare: Mourning Aix -  (CR% / CDM%)
+Nightmare: Mourning Aix - (CR% / CDM%)
 
-![](https://wuthering.wiki/img/monster_330000200.png)
+<img src="https://wuthering.wiki/img/monster_330000200.png" alt="" data-size="original">
 
-#### Echo Sett
+**Echo Sett**
 
 * 3 - <mark style="color:yellow;">**Spectro DMG**</mark> bonus%
 * 3 - <mark style="color:yellow;">**Spectro DMG**</mark> bonus%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * CR% / CDM%
 * ER% (110% - 130% ER)
@@ -130,15 +129,15 @@ Nightmare: Mourning Aix -  (CR% / CDM%)
 * Basic ATK%
 * Flat ATK
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-Forte   >   Libe   >   Reso skill   >   Intro   >   BA
+Forte > Libe > Reso skill > Intro > BA
 
 </details>
 
 ## :busts\_in\_silhouette: Rekomendasi Tim
 
-<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337415444394414111/1.png?ex=67a75cb1&is=67a60b31&hm=ec2ec24f781dc2963d77bbd6341c3255bfb3704c66371123afd1cae1d64a55f6&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"> Phoebe</td><td>TBA</td><td>TBA</td></tr></tbody></table>
+<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/mrTfVWTR/Phoebe-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"> Phoebe</td><td>TBA</td><td>TBA</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 
@@ -146,4 +145,4 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395470741536778/5.png?ex=67a74a17&#x26;is=67a5f897&#x26;hm=6cac469dc668e9369926867f9c2ad08a0a9c94e174b8aa2738336517bdd06f6d&#x26;" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/gjCHsdFK/Phoebe.png" alt=""><figcaption></figcaption></figure>

@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://cdn.discordapp.com/attachments/1200750972788555836/1336308025258016789/image.png?ex=67a6a114&is=67a54f94&hm=a5a4541a1f259b9421a66882699585e8255f16b7c42cc73ec64e0099e4e4ce97&
+cover: https://i.postimg.cc/bYCMb2Gz/Chixia.png
 coverY: 0
 layout:
   cover:
@@ -35,7 +34,7 @@ layout:
 Best In Slot
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > **Signature** Carlotta dan pilihan yang solid untuk sebagian besar **pistol-based resonators** berkat **base damage** yang cukup baik, **Crit DMG%** yang sangat tinggi, dan **permanent ATK% boost**. Namun, senjata ini jauh lebih efektif untuk resonators yang sebagian atau sebagian besar **damage**-nya berasal dari kemampuan **Resonance Skill**.
 
@@ -47,7 +46,7 @@ Best In Slot
 Direkomendasikan
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Pilihan yang sangat kuat, menawarkan **main stat Crit Rate**, **base damage** yang hebat, dan sejumlah **energy recharge** yang baik, memungkinkan **sub-stats** dialokasikan ke tempat lain. Senjata ini juga menawarkan kemampuan **supportive** yang memberikan **ATK boost** pada karakter berikutnya yang masuk, memberikan nilai ekstra untuk karakter **Hybrid** dan **Support**.
 
@@ -59,7 +58,7 @@ Direkomendasikan
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > **Pistol** yang dapat digunakan oleh semua **resonators**, menawarkan bonus yang bagus untuk **ATK** tetapi bergantung pada melakukan **dodge** 3 kali di awal (dengan **dodge** terus menerus setelah itu). Hanya sebaiknya digunakan oleh mereka yang bersedia melakukan **dodge** di awal rotasi dan secara konsisten setelahnya. Perhitungan mengasumsikan kamu melakukan **dodge** sesegera mungkin dan mempertahankan buff.
 
@@ -71,7 +70,7 @@ Alternatif
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Meskipun bersaing dengan opsi **F2P** :star:**4** lainnya, waktu **buff uptime** pada senjata ini adalah salah satu yang paling konsisten dan dapat diandalkan untuk karakter **pistol DPS** yang mengandalkan **ATK scaling**. **ATK% boost** yang diberikan saat menggunakan **Resonance Skill** sangat bagus untuk sebagian besar karakter, dan meskipun sedikit **energy generation** yang diberikan pada saat yang sama lebih bersifat situasional, itu juga bisa berguna.
 
@@ -83,7 +82,7 @@ Alternatif
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Opsi senjata **pistol** serbaguna yang dapat digunakan oleh semua karakter, tetapi dengan waktu **peningkatan** yang signifikan untuk bonusnya. Senjata ini juga mengharuskan pemain untuk tidak terkena serangan agar mendapatkan nilai maksimal. Jika kamu terkena serangan, senjata ini akan tertinggal.
 
@@ -91,24 +90,24 @@ Alternatif
 {% endtab %}
 {% endtabs %}
 
-## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte&#x20;
+## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte
 
 <details>
 
-<summary> <img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Molten Rift</summary>
+<summary><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Molten Rift</summary>
 
 Nightmare: Inferno Rider - CR% / CDM%
 
-![](https://wuthering.wiki/img/monster_330000190.png)
+<img src="https://wuthering.wiki/img/monster_330000190.png" alt="" data-size="original">
 
-#### Echo Sett
+**Echo Sett**
 
 * 3 - <mark style="color:red;">**Fusion DMG**</mark> bonus%
 * 3 - <mark style="color:red;">**Fusion DMG**</mark> bonus%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * CR% / CDM%
 * ATK%
@@ -116,9 +115,9 @@ Nightmare: Inferno Rider - CR% / CDM%
 * Flat ATK
 * ER% (100% - 145%)
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-Forte   >   Libe   >   BA   >   Reso skill   =   Intro
+Forte > Libe > BA > Reso skill = Intro
 
 </details>
 
@@ -126,13 +125,13 @@ Forte   >   Libe   >   BA   >   Reso skill   =   Intro
 
 ### Quickswap
 
-| Main DPS                                                                                                                                                                                                                                                                                                                                                              | Main DPS                                                                                                                                                                                                                                                                                                                                                              | Alasan                           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| <img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416906915352627/21.png?ex=67a7067c&is=67a5b4fc&hm=934780cf3ceb46632d95161d85857cce065243a3915f52b8f24881e30d2653c2&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Chixia | <img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417062402261073/6.png?ex=67a706a1&is=67a5b521&hm=3103ed0ff3c0659713fe2623c682d20c4c4bc59d89b3f6fd64aef5dff863b2c4&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli |  buff Fusion DMG 20% (Quickswap) |
+| Main DPS                                                                                                                                                                | Main DPS                                                                                                                                                                  | Alasan                          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| <img src="https://i.postimg.cc/hjgj9557/Chixia-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Chixia | <img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli | buff Fusion DMG 20% (Quickswap) |
 
 ### Hypercarry
 
-<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416906915352627/21.png?ex=67a7067c&is=67a5b4fc&hm=934780cf3ceb46632d95161d85857cce065243a3915f52b8f24881e30d2653c2&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Chixia</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416971071426622/12.png?ex=67a7068b&is=67a5b50b&hm=136beeb77e0572ebeefcd3f7b4d8b525775480bcf6f719d570f359795105509d&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Zezhi</td><td>Buff Reso SKill 25% </td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416906915352627/21.png?ex=67a7067c&is=67a5b4fc&hm=934780cf3ceb46632d95161d85857cce065243a3915f52b8f24881e30d2653c2&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Chixia</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972799475814/18.png?ex=67a7068b&is=67a5b50b&hm=1e294b603076dda440f14f6aaf012f8a3c87318068ec8ef40c52079057d83fec&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua </td><td>Concerto generator nya cepet</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416906915352627/21.png?ex=67a7067c&is=67a5b4fc&hm=934780cf3ceb46632d95161d85857cce065243a3915f52b8f24881e30d2653c2&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Chixia</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416971842912318/14.png?ex=67a7068b&is=67a5b50b&hm=5fbd9050c01af51dc9c95803747c53ae2978114c3c9245365b67d67e0d64020f&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Taoqi</td><td>Buff Reso skill 38% selama 14s</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416906915352627/21.png?ex=67a7067c&is=67a5b4fc&hm=934780cf3ceb46632d95161d85857cce065243a3915f52b8f24881e30d2653c2&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Chixia</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416971293593710/13.png?ex=67a7068b&is=67a5b50b&hm=263d392de25c1282bdfadf02be2e290d65a536a39c28021a481d068b3f9a96cb&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Lumi</td><td>Buff Reso skill 38% selama 10s</td></tr></tbody></table>
+<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/hjgj9557/Chixia-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Chixia</td><td><img src="https://i.postimg.cc/Jn6LGYV8/Zhezhi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Zezhi</td><td>Buff Reso SKill 25%</td></tr><tr><td><img src="https://i.postimg.cc/hjgj9557/Chixia-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Chixia</td><td><img src="https://i.postimg.cc/Prc56x7H/Sanhua-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua</td><td>Concerto generator nya cepet</td></tr><tr><td><img src="https://i.postimg.cc/hjgj9557/Chixia-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Chixia</td><td><img src="https://i.postimg.cc/qv3MWrf3/Taoqi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Taoqi</td><td>Buff Reso skill 38% selama 14s</td></tr><tr><td><img src="https://i.postimg.cc/hjgj9557/Chixia-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Chixia</td><td><img src="https://i.postimg.cc/Rh2xT3Zb/Lumi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Lumi</td><td>Buff Reso skill 38% selama 10s</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 
@@ -142,5 +141,5 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395272753352784/3.png?ex=67a749e8&#x26;is=67a5f868&#x26;hm=7b066487a823a9bf0b3253c33fe787fbdf9ed5206f6442d131959cd1c658e761&#x26;" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/Y2ZRMNGm/Chixia.png" alt=""><figcaption></figcaption></figure>
 

@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://cdn.discordapp.com/attachments/1200750972788555836/1336310982825218154/image.png?ex=67a6a3d5&is=67a55255&hm=86ba63a7946f5e428f70339a762f7316f9c1e66dfb1ee33422e86218cc438632&
+cover: https://i.postimg.cc/QMGvCGF1/Xiangli-Yao.png
 coverY: 0
 layout:
   cover:
@@ -35,7 +34,7 @@ layout:
 Best In Slot
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata signature Xiangli Yao dan senjata ideal untuk pengguna Gauntlet berbasis **Resonance Liberation**. Memberikan peningkatan **Crit Rate** sebesar 24,3% dan peningkatan DMG% general sebesar 12% secara permanen, serta menambahkan 48% **Resonance Liberation DMG%** yang sangat nyaman yang bertahan selama 8 detik saat menggunakan Liberation pemakainya. Karena waktu aktif buff ini, hampir selalu aktif saat paling dibutuhkan, dan durasinya juga dapat diperpanjang hingga 3 kali selama 5 detik setiap kali menggunakan **Resonance Skill**. Ini memperpanjang durasi total buff ini hingga 23 detik.
 
@@ -47,7 +46,7 @@ Best In Slot
 Direkomendasikan
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Salah satu pilihan Gauntlet terbaik di game ini dengan satu-satunya pesaing adalah senjata :star:4 dengan beberapa dupe. Memberikan base ATK yang tinggi, ATK%, jumlah EnergY Regen yang baik untuk menyimpan setidaknya 1 sub-stat pada echo yang dapat dipindahkan ke penggunaan yang lebih baik, dan bonus bersyarat yang meningkatkan damage **Resonance Skill** dan **Basic Attack** yang sangat mudah dipenuhi.
 
@@ -59,7 +58,7 @@ Direkomendasikan
 Direkomendasikan
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata Gauntlet spesialis untuk pengguna skala **Resonance Liberation**, berkat pasif yang memberikan peningkatan **Resonance Liberation DMG%** setelah menggunakan Resonance Skill. Masih bisa digunakan oleh karakter yang tidak fokus secara spesifik pada damage Liberation sebagai bagian besar dari kemampuan mereka, berkat base stats yang cukup tinggi, tetapi yang lebih penting lagi adalah main stat Crit Rate.
 
@@ -71,7 +70,7 @@ Direkomendasikan
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Sering kali menjadi opsi Gauntlet :star:4 F2P terbaik untuk karakter DPS yang mengandalkan ATK. Peningkatan ATK% yang diberikan saat menggunakan Resonance Skill sangat berguna pada kebanyakan karakter, dan meskipun penghasilan energi kecil yang diberikan bersamaan lebih situasional, hal itu juga bisa berguna.
 
@@ -83,7 +82,7 @@ Alternatif
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Pilihan generik yang kuat untuk semua pengguna Gauntlet, memberikan **ATK%** dan **DEF%** setelah menggunakan **Resonance Liberation** dalam bentuk 3 charge. Karena sebagian besar karakter memasukkan Liberation dalam rotasi mereka di endgame, kamu bisa mengharapkan bonus ini diterapkan dengan cepat dan konsisten. Sayangnya, setiap kali kamu terkena serangan, 1 charge akan hilang. Jadi, untuk menggunakan senjata ini secara efektif, kamu harus meminimalkan jumlah kali kamu terkena serangan. Jika kamu merasa sering terkena, lebih baik turunkan ekspektasi terhadap senjata ini dan posisinya dalam prioritas.
 
@@ -91,7 +90,7 @@ Alternatif
 {% endtab %}
 {% endtabs %}
 
-## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte&#x20;
+## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte
 
 <details>
 
@@ -99,16 +98,16 @@ Alternatif
 
 Nightmare: Thundering Mephis - CR% / CDM%
 
-![](https://wuthering.wiki/img/monster_330000160.png)
+<img src="https://wuthering.wiki/img/monster_330000160.png" alt="" data-size="original">
 
-#### Echo Sett
+**Echo Sett**
 
 * 3 - <mark style="color:purple;">**Electro DMG**</mark> bonus%
 * 3 - <mark style="color:purple;">**Electro DMG**</mark> bonus%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * CR% / CDM%
 * ER% (120% - 130%)
@@ -116,9 +115,9 @@ Nightmare: Thundering Mephis - CR% / CDM%
 * Reso lib%
 * Flat ATK
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-Forte   =   Libe   >   Reso skil   >   Intro   =   BA&#x20;
+Forte = Libe > Reso skil > Intro = BA
 
 </details>
 
@@ -128,16 +127,16 @@ Forte   =   Libe   >   Reso skil   >   Intro   =   BA&#x20;
 
 Mech Abomination - CR% / CDM%
 
-![](https://wuthering.wiki/img/monster_340000060.png)
+<img src="https://wuthering.wiki/img/monster_340000060.png" alt="" data-size="original">
 
-#### Echo Sett
+**Echo Sett**
 
 * 3 - <mark style="color:purple;">**Electro DMG**</mark> bonus%
 * 3 - <mark style="color:purple;">**Electro DMG**</mark> bonus%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * CR% / CDM%
 * ER% (120% - 130%)
@@ -145,9 +144,9 @@ Mech Abomination - CR% / CDM%
 * Reso lib%
 * Flat ATK
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-Forte   =   Libe   >   Reso skil   >   Intro   =   BA&#x20;
+Forte = Libe > Reso skil > Intro = BA
 
 </details>
 
@@ -155,11 +154,11 @@ Forte   =   Libe   >   Reso skil   >   Intro   =   BA&#x20;
 
 ### Quickswap
 
-<table><thead><tr><th width="213">Main DPS</th><th>Main DPS</th><th width="172.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416973025972325/19.png?ex=67a7068b&is=67a5b50b&hm=95b4d9dd2f4d2f2cd993599def50d796b5ce1dc8829e30b7110db7bbb589bb6a&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Xiangli Yao</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417062402261073/6.png?ex=67a706a1&is=67a5b521&hm=3103ed0ff3c0659713fe2623c682d20c4c4bc59d89b3f6fd64aef5dff863b2c4&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td>-</td><td>Buff Reso lib 25%</td></tr></tbody></table>
+<table><thead><tr><th width="213">Main DPS</th><th>Main DPS</th><th width="172.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/N0tYVr73/Xiangli-yao-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Xiangli Yao</td><td><img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td>-</td><td>Buff Reso lib 25%</td></tr></tbody></table>
 
 ### Hypercarry
 
-<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416973025972325/19.png?ex=67a7068b&is=67a5b50b&hm=95b4d9dd2f4d2f2cd993599def50d796b5ce1dc8829e30b7110db7bbb589bb6a&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Xiangli Yao</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417062632951858/7.png?ex=67a706a1&is=67a5b521&hm=68a8bd516d7103f9a19449c626a0105150313f8d60d52708a030d40276e3108b&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Yinlin</td><td>Buff Reso lib 25% dan buff electro DMG 20%</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416973025972325/19.png?ex=67a7068b&is=67a5b50b&hm=95b4d9dd2f4d2f2cd993599def50d796b5ce1dc8829e30b7110db7bbb589bb6a&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Xiangli Yao</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972799475814/18.png?ex=67a7068b&is=67a5b50b&hm=1e294b603076dda440f14f6aaf012f8a3c87318068ec8ef40c52079057d83fec&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua </td><td>Concerto generator nya cepet</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416973025972325/19.png?ex=67a7068b&is=67a5b50b&hm=95b4d9dd2f4d2f2cd993599def50d796b5ce1dc8829e30b7110db7bbb589bb6a&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Xiangli Yao</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416907632574484/24.png?ex=67a7067c&is=67a5b4fc&hm=61f60958051b472cc0661db05fa9190c470e6ed8fa7f9d93018041558d2782ba&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Jianxin</td><td>Buff Reso Lib 38%</td></tr></tbody></table>
+<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/N0tYVr73/Xiangli-yao-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Xiangli Yao</td><td><img src="https://i.postimg.cc/7PtH6hwz/Yinlin-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Yinlin</td><td>Buff Reso lib 25% dan buff electro DMG 20%</td></tr><tr><td><img src="https://i.postimg.cc/N0tYVr73/Xiangli-yao-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Xiangli Yao</td><td><img src="https://i.postimg.cc/Prc56x7H/Sanhua-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua</td><td>Concerto generator nya cepet</td></tr><tr><td><img src="https://i.postimg.cc/N0tYVr73/Xiangli-yao-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Xiangli Yao</td><td><img src="https://i.postimg.cc/SNXyz4xv/Jianxin-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Jianxin</td><td>Buff Reso Lib 38%</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 

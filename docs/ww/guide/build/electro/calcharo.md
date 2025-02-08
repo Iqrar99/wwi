@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://cdn.discordapp.com/attachments/1200750972788555836/1336310330305024011/image.png?ex=67a6a33a&is=67a551ba&hm=a77eca63e1471a3379bc9fb458b5719b6d1b9015aec1ae1b6b2deac9dda0af9a&
+cover: https://i.postimg.cc/CKGXfP8t/Calcharo.png
 coverY: 0
 layout:
   cover:
@@ -35,7 +34,7 @@ layout:
 Best In Slot
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Pilihan **Broadblade** terbaik, hanya bersaing dengan beberapa senjata :star:4 yang memiliki banyak dupe atau senjata limited :star:5. Menawarkan B**ase ATK** yang tinggi, **ATK%**, sejumlah **Energy Regen** yang baik untuk menghemat setidaknya 1 sub-stat pada echo agar bisa dialokasikan ke penggunaan yang lebih baik, dan **Resonance Liberation ATK DMG%** yang **stackable** yang meningkat seiring penggunaan **Resonance Skill**.
 
@@ -47,7 +46,7 @@ Best In Slot
 Direkomendasikan
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Pilihan yang sangat kompetitif untuk senjata terbaiknya jika kamu tidak mendapatkan senjata tersebut dari banner standar. **Base ATK** yang tinggi, serta **24% Crit Rate** dan **12% DMG bonus attribute** sangat bagus, terutama jika kamu perlu senjatamu untuk menyeimbangkan rasio crit-mu, dalam build tersebut senjata ini bisa lebih unggul dibandingkan **Lustrous Razor.** Meskipun **Resonance Skill** hampir tidak digunakan sama sekali di Calcharo, **Resonance Skill DMG boost** selalu memberikan sedikit peningkatan damage.
 
@@ -59,9 +58,9 @@ Direkomendasikan
 Direkomendasikan
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
-> Senjata signature Jiyan yang tidak hanya fantastis untuknya, tetapi juga bisa digunakan oleh semua pengguna Broadblade yang fokus pada damage. Menawarkan stat utama yang besar berupa **CRIT DMG%**, memberikan skala yang sangat baik, 12%  Attribute DMG permanen, dan hingga 48% peningkatan **Heavy ATK DMG%** setelah menggunakan 1/2 skill atau **Resonance Liberation**.
+> Senjata signature Jiyan yang tidak hanya fantastis untuknya, tetapi juga bisa digunakan oleh semua pengguna Broadblade yang fokus pada damage. Menawarkan stat utama yang besar berupa **CRIT DMG%**, memberikan skala yang sangat baik, 12% Attribute DMG permanen, dan hingga 48% peningkatan **Heavy ATK DMG%** setelah menggunakan 1/2 skill atau **Resonance Liberation**.
 
 <figure><img src="https://wuthering.wiki/img/weapon_21010016.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
@@ -71,7 +70,7 @@ Direkomendasikan
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Opsi Broadsword :star:4 terkuat, memberikan stat utama **Crit Rate** untuk skala yang sangat baik dan kemampuan bonus yang sangat mudah diakses, yang memberikan buff **ATK%** yang dapat ditumpuk hanya dengan menggunakan Basic Attack atau Heavy Attack selama rotasi.
 
@@ -83,7 +82,7 @@ Alternatif
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Opsi broadblade :star:4 F2P yang solid untuk karakter DPS apapun yang mengandalkan scaling ATK. Boost **ATK%** yang diberikan saat menggunakan Resonance Skill sangat bagus untuk sebagian besar karakter, dan meskipun Resonance Energy kecil yang diberikan bersifat lebih situasional, ini juga bisa sangat berguna.
 
@@ -91,7 +90,7 @@ Alternatif
 {% endtab %}
 {% endtabs %}
 
-## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte&#x20;
+## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte
 
 <details>
 
@@ -99,16 +98,16 @@ Alternatif
 
 Nightmare: Thundering Mephis - CR% / CDM%
 
-![](https://wuthering.wiki/img/monster_330000160.png)
+<img src="https://wuthering.wiki/img/monster_330000160.png" alt="" data-size="original">
 
-#### Echo Sett
+**Echo Sett**
 
 * 3 - <mark style="color:purple;">**Electro DMG**</mark> bonus%
 * 3 - <mark style="color:purple;">**Electro DMG**</mark> bonus%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * CR% / CDM%
 * ER% (120% - 130%)
@@ -116,9 +115,9 @@ Nightmare: Thundering Mephis - CR% / CDM%
 * Reso lib%
 * Flat ATK
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-Forte   =   Libe   >   Reso skil   >   Intro   =   BA&#x20;
+Forte = Libe > Reso skil > Intro = BA
 
 </details>
 
@@ -128,16 +127,16 @@ Forte   =   Libe   >   Reso skil   >   Intro   =   BA&#x20;
 
 Mech Abomination - CR% / CDM%
 
-![](https://wuthering.wiki/img/monster_340000060.png)
+<img src="https://wuthering.wiki/img/monster_340000060.png" alt="" data-size="original">
 
-#### Echo Sett
+**Echo Sett**
 
 * 3 - <mark style="color:purple;">**Electro DMG**</mark> bonus%
 * 3 - <mark style="color:purple;">**Electro DMG**</mark> bonus%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * CR% / CDM%
 * ER% (120% - 130%)
@@ -145,9 +144,9 @@ Mech Abomination - CR% / CDM%
 * Reso lib%
 * Flat ATK
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-Forte   =   Libe   >   Reso skil   >   Intro   =   BA&#x20;
+Forte = Libe > Reso skil > Intro = BA
 
 </details>
 
@@ -155,11 +154,11 @@ Forte   =   Libe   >   Reso skil   >   Intro   =   BA&#x20;
 
 ### Quickswap
 
-<table><thead><tr><th width="199">Main DPS</th><th>Main DPS</th><th width="172.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416907393237062/23.png?ex=67a7067c&is=67a5b4fc&hm=a796546a4ebb83b62c784d985203fbfe926673c69a11d6632eef0776da7eb2ad&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Calcharo</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417062402261073/6.png?ex=67a706a1&is=67a5b521&hm=3103ed0ff3c0659713fe2623c682d20c4c4bc59d89b3f6fd64aef5dff863b2c4&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td>-</td><td>Buff Reso lib 25%</td></tr></tbody></table>
+<table><thead><tr><th width="199">Main DPS</th><th>Main DPS</th><th width="172.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/3JP3XqyJ/Calcharo-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Calcharo</td><td><img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td>-</td><td>Buff Reso lib 25%</td></tr></tbody></table>
 
 ### Hypercarry
 
-<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416907393237062/23.png?ex=67a7067c&is=67a5b4fc&hm=a796546a4ebb83b62c784d985203fbfe926673c69a11d6632eef0776da7eb2ad&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Calcharo</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417062632951858/7.png?ex=67a706a1&is=67a5b521&hm=68a8bd516d7103f9a19449c626a0105150313f8d60d52708a030d40276e3108b&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Yinlin</td><td>Buff Reso lib 25% dan buff electro DMG 20%</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416907393237062/23.png?ex=67a7067c&is=67a5b4fc&hm=a796546a4ebb83b62c784d985203fbfe926673c69a11d6632eef0776da7eb2ad&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Calcharo</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972799475814/18.png?ex=67a7068b&is=67a5b50b&hm=1e294b603076dda440f14f6aaf012f8a3c87318068ec8ef40c52079057d83fec&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua </td><td>Concerto generator nya cepet</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416907393237062/23.png?ex=67a7067c&is=67a5b4fc&hm=a796546a4ebb83b62c784d985203fbfe926673c69a11d6632eef0776da7eb2ad&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Calcharo</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416907632574484/24.png?ex=67a7067c&is=67a5b4fc&hm=61f60958051b472cc0661db05fa9190c470e6ed8fa7f9d93018041558d2782ba&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Jianxin</td><td>Buff Reso Lib 38%</td></tr></tbody></table>
+<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/3JP3XqyJ/Calcharo-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Calcharo</td><td><img src="https://i.postimg.cc/7PtH6hwz/Yinlin-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Yinlin</td><td>Buff Reso lib 25% dan buff electro DMG 20%</td></tr><tr><td><img src="https://i.postimg.cc/3JP3XqyJ/Calcharo-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Calcharo</td><td><img src="https://i.postimg.cc/Prc56x7H/Sanhua-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua</td><td>Concerto generator nya cepet</td></tr><tr><td><img src="https://i.postimg.cc/3JP3XqyJ/Calcharo-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Calcharo</td><td><img src="https://i.postimg.cc/SNXyz4xv/Jianxin-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Jianxin</td><td>Buff Reso Lib 38%</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 
@@ -191,25 +190,20 @@ Teminologi
 * DC : Dodge Counter
 * SC : Skill Cancel
 * **Cruelty** : 3 stack(s) forte, yang di dapat dari resonance skill (harus kena musuh semua saat cast skill nya)
-* **Mercy** : Heavy ATK yang bisa di trigger saat stack(s) forte (**Cruelty**) penuh.&#x20;
-* **Death Messenger** : Heavy ATK yang bisa di trigger saat stack forte (**Killing Intent**) penuh.&#x20;
+* **Mercy** : Heavy ATK yang bisa di trigger saat stack(s) forte (**Cruelty**) penuh.
+* **Death Messenger** : Heavy ATK yang bisa di trigger saat stack forte (**Killing Intent**) penuh.
 * **Klling Intent** : didapat setelah casting Resonance Liberation menggunakan basic ATK. total ada 5 Stack(s)
 {% endhint %}
 
->
->
-> Note:&#x20;
+> Note:
 >
 > * 4DM hanya bisa dicapai kalau perangkat punya input register yang bagus, seperti PC high-end atau mid-end, dan kalau musuh nggak terlalu agresif atau sedang dalam kondisi immobilized.
 > * Gunakan **Nightmare Thundering** untuk potensi maksimal.
 > * Kalau nggak pakai **Nightmare**, gunakan **Tempest Memphis** untuk rotasi yang lebih praktis. Cast sebelum melakukan Mercy.
 > * Kalau pakai **gear Deathblade** dan ingin mencapai 4DM, saat membatalkan BA12 dengan skill, cukup cast skill-nya dua kali saja. Soalnya, skill ketiga dari Cal nggak bisa dibatalkan setelah cast, jadi bakal butuh waktu lebih lama sampai animasinya selesai.
 
-
-
 ***
 
 ## Infografis
 
 <figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395533043470367/1.png?ex=67a74a26&#x26;is=67a5f8a6&#x26;hm=c43c99ba362ecc80a4782f7da03b3379acde1fa556826780571dce15f43199e1&#x26;" alt=""><figcaption></figcaption></figure>
-

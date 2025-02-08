@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://cdn.discordapp.com/attachments/1200750972788555836/1336303691438755870/image.png?ex=67a69d0b&is=67a54b8b&hm=3975b412c3eababa8988fd9a57c5e54a5df361d1cfd761cf62950e7a2c8a1540&
+cover: https://i.postimg.cc/sx9b5B7z/Sanhua.png
 coverY: 0
 layout:
   cover:
@@ -35,7 +34,7 @@ layout:
 Best In Slot
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata **signature** Changli yang tidak hanya luar biasa untuknya, tetapi juga dapat digunakan oleh semua pengguna **Sword** yang fokus pada **damage** dan sebagian besar kerusakannya berasal dari **Resonance Skill**.
 >
@@ -49,7 +48,7 @@ Best In Slot
 Direkomendasikan
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Pilihan **Sword** yang luar biasa, menawarkan **base damage** yang jauh lebih tinggi berkat rarity nya yang :star:**5** , serta **ATK% buff** yang dapat ditumpuk yang hampir bisa didapatkan oleh semua karakter dengan mudah (dan **2 stacks** juga mudah dicapai oleh sebagian besar karakter jika dimainkan dengan benar).
 >
@@ -63,7 +62,7 @@ Direkomendasikan
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata **signature** Camellya dapat digunakan oleh semua karakter **Sword** yang berfokus pada **Basic Attack**, tetapi jelas dirancang untuknya karena kekuatannya yang banyak terkunci setelah menggunakan **Concerto** di tengah rotasi. Memberikan **ATK%**, **Crit Rate%**, dan **Basic Attack DMG** yang cukup baik untuk semua karakter, serta bonus **Basic Attack DMG** yang besar setelah menggunakan **Concerto**.
 
@@ -75,7 +74,7 @@ Alternatif
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata **Sword** serbaguna yang luar biasa, mendapatkan bonusnya hampir tanpa syarat karena sebagian besar **Resonators** hampir selalu berusaha memanfaatkan **Intro skill** mereka, dan hanya sedikit karakter yang menghabiskan lebih dari 15 detik di pertarungan selama durasinya.
 
@@ -87,7 +86,7 @@ Alternatif
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Sering kali lebih rendah dibandingkan **Commando of Conviction** untuk **DPS**, namun senjata ini tetap menjadi pilihan **F2P** :star:**4** yang bagus untuk karakter yang membutuhkan **energy boost**. Secara realistis, hanya pertimbangkan senjata ini sebagai pilihan jika karakter mu mengalami masalah dengan **energy**.
 
@@ -95,7 +94,7 @@ Alternatif
 {% endtab %}
 {% endtabs %}
 
-## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte&#x20;
+## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte
 
 <details>
 
@@ -103,16 +102,16 @@ Alternatif
 
 Impermenance Heron - CR% / CDM%
 
-![](https://wuthering.wiki/img/monster_330000030.png)
+<img src="https://wuthering.wiki/img/monster_330000030.png" alt="" data-size="original">
 
-#### Echo Sett
+**Echo Sett**
 
 * 3 - <mark style="color:blue;">**Glacio DMG**</mark> bonus%
 * 3 - <mark style="color:blue;">**Glacio DMG**</mark> bonus%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * CR% / CDM%
 * ER% (100-120)
@@ -120,15 +119,15 @@ Impermenance Heron - CR% / CDM%
 * Flat ATK
 * Reso Skill%
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-Forte   >   Libe   >   Reso skill   >   Intro   =   BA
+Forte > Libe > Reso skill > Intro = BA
 
 </details>
 
 ## :busts\_in\_silhouette: Rekomendasi Tim
 
-<table><thead><tr><th>Main DPS</th><th width="172.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417062167248916/5.png?ex=67a706a1&is=67a5b521&hm=6dbee7647f54b49ecf62031c572920294a4681e6903dc91fba1a66d81532737f&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"> Camellya</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972799475814/18.png?ex=67a7068b&is=67a5b50b&hm=1e294b603076dda440f14f6aaf012f8a3c87318068ec8ef40c52079057d83fec&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua</td><td>Buff Basic ATK 38%</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416973483147316/20.png?ex=67a7068b&is=67a5b50b&hm=b47b355824537b204a958b13b329524a9a2af8030af9da18ce8b118914fdd87e&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Encore</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972799475814/18.png?ex=67a7068b&is=67a5b50b&hm=1e294b603076dda440f14f6aaf012f8a3c87318068ec8ef40c52079057d83fec&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua</td><td>Buff Basic ATK 38%</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416907145908244/22.png?ex=67a7067c&is=67a5b4fc&hm=2ca4ee274f57e526387baea514da469bc9f34bb186eb96dbb59e47ddb06306e8&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Lingyang</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972799475814/18.png?ex=67a7068b&is=67a5b50b&hm=1e294b603076dda440f14f6aaf012f8a3c87318068ec8ef40c52079057d83fec&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua</td><td>Buff Basic ATK 38%</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416971071426622/12.png?ex=67a7068b&is=67a5b50b&hm=136beeb77e0572ebeefcd3f7b4d8b525775480bcf6f719d570f359795105509d&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"> Zezhi</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972799475814/18.png?ex=67a7068b&is=67a5b50b&hm=1e294b603076dda440f14f6aaf012f8a3c87318068ec8ef40c52079057d83fec&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua</td><td>Buff Basic ATK 38%</td></tr></tbody></table>
+<table><thead><tr><th>Main DPS</th><th width="172.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/WzdPrmTk/Camellya-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"> Camellya</td><td><img src="https://i.postimg.cc/Prc56x7H/Sanhua-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua</td><td>Buff Basic ATK 38%</td></tr><tr><td><img src="https://i.postimg.cc/SQgsMV7J/Encore-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Encore</td><td><img src="https://i.postimg.cc/Prc56x7H/Sanhua-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua</td><td>Buff Basic ATK 38%</td></tr><tr><td><img src="https://i.postimg.cc/WzyTfWX8/Lingyang-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line">Lingyang</td><td><img src="https://i.postimg.cc/Prc56x7H/Sanhua-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua</td><td>Buff Basic ATK 38%</td></tr><tr><td><img src="https://i.postimg.cc/Jn6LGYV8/Zhezhi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line"> Zezhi</td><td><img src="https://i.postimg.cc/Prc56x7H/Sanhua-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua</td><td>Buff Basic ATK 38%</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 
@@ -138,5 +137,4 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395342919864360/5.png?ex=67a749f9&#x26;is=67a5f879&#x26;hm=6ece0b137042030c664a9c4364899ac30841f389159d3a73b685ca82f6bc34d6&#x26;" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="https://i.postimg.cc/65H983KR/Sanhua.png" alt=""><figcaption></figcaption></figure>

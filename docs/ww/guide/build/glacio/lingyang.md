@@ -1,7 +1,6 @@
 ---
-cover: >-
-  https://cdn.donmai.us/original/17/da/__lingyang_wuthering_waves_drawn_by_guaisanmu__17dabf462893d897daa0be69bff5b7da.jpg
-coverY: 148
+cover: https://i.postimg.cc/FHM1KRbp/Lingyang.png
+coverY: 0
 layout:
   cover:
     visible: true
@@ -34,7 +33,7 @@ layout:
 Best In Slot
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata **signature** Xiangli Yao dan merupakan pilihan ideal untuk pengguna **Gauntlet** yang berfokus pada **Resonance Liberation**. Senjata ini memberikan **Crit Rate** sebesar **24.3%** dan tambahan **12% attribute DMG%** secara permanen. Selain itu, senjata ini juga menawarkan **48% Resonance Liberation DMG%** yang berlangsung selama **8 detik** setiap kali pengguna mengaktifkan **Liberation**.
 >
@@ -48,7 +47,7 @@ Best In Slot
 Direkomendasikan
 {% endhint %}
 
-:mag:**Review Senjata**&#x20;
+:mag:**Review Senjata**
 
 > Salah satu pilihan **Gauntlet** terbaik dalam game, dengan pesaing utamanya hanya berupa senjata :star:**4** yang sudah memiliki beberapa **dupes**. Senjata ini menawarkan **base ATK** yang tinggi, **ATK%**, serta **Energy Regen** yang cukup baik, memungkinkan penghematan setidaknya **1 sub-stat** pada gear untuk dialokasikan ke aspek lain yang lebih berguna.
 >
@@ -62,7 +61,7 @@ Direkomendasikan
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Sering kali menjadi pilihan **4★ Gauntlet** **F2P** terbaik untuk karakter **DPS** yang berskala dengan **ATK**. Bonus **ATK%** yang diberikan saat menggunakan **Resonance Skill** sangat berguna bagi sebagian besar karakter.
 >
@@ -76,7 +75,7 @@ Alternatif
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Pilihan **Gauntlet** yang kuat dan serbaguna untuk semua pengguna, memberikan **ATK%** dan **DEF%** dalam bentuk **3 charges** setelah menggunakan **Resonance Liberation**. Karena sebagian besar karakter memasukkan **Liberation** dalam rotasi mereka di **endgame**, bonus ini dapat diaktifkan dengan cepat dan konsisten.
 >
@@ -90,7 +89,7 @@ Alternatif
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > **Gauntlet** spesialis untuk pengguna yang berskala dengan **Resonance Liberation**, berkat pasifnya yang memberikan **Resonance Liberation DMG%** setelah menggunakan **Resonance Skill**.
 >
@@ -100,7 +99,7 @@ Alternatif
 {% endtab %}
 {% endtabs %}
 
-## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte&#x20;
+## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte
 
 <details>
 
@@ -108,16 +107,16 @@ Alternatif
 
 Lampylumen Myriad - CR% / CDM%
 
-![](https://wuthering.wiki/img/monster_330000040.png)
+<img src="https://wuthering.wiki/img/monster_330000040.png" alt="" data-size="original">
 
-#### Echo Sett
+**Echo Sett**
 
 * 3 - <mark style="color:blue;">**Glacio DMG**</mark> bonus%
 * 3 - <mark style="color:blue;">**Glacio DMG**</mark> bonus%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * CR% / CDM%
 * ER% (115 - 130%)
@@ -126,11 +125,9 @@ Lampylumen Myriad - CR% / CDM%
 * Reso Skill%
 * Flat ATK
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-Forte   >   Reso Lib   >   Reso skill   >   Intro   =   BA
-
-
+Forte > Reso Lib > Reso skill > Intro = BA
 
 </details>
 
@@ -140,16 +137,16 @@ Forte   >   Reso Lib   >   Reso skill   >   Intro   =   BA
 
 Mech Abomination - CR% / CDM%
 
-![](https://wuthering.wiki/img/monster_340000060.png)
+<img src="https://wuthering.wiki/img/monster_340000060.png" alt="" data-size="original">
 
-#### Echo Sett
+**Echo Sett**
 
 * 3 - <mark style="color:blue;">**Glacio DMG**</mark> bonus%
 * 3 - <mark style="color:blue;">**Glacio DMG**</mark> bonus%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * CR% / CDM%
 * ER% (115 - 130%)
@@ -158,19 +155,15 @@ Mech Abomination - CR% / CDM%
 * Reso Skill%
 * Flat ATK
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-Forte   >   Reso Lib   >   Reso skill   >   Intro   =   BA
-
-
+Forte > Reso Lib > Reso skill > Intro = BA
 
 </details>
 
-
-
 ## :busts\_in\_silhouette: Rekomendasi Tim
 
-<table><thead><tr><th>Main DPS</th><th width="172.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416907145908244/22.png?ex=67a7067c&is=67a5b4fc&hm=2ca4ee274f57e526387baea514da469bc9f34bb186eb96dbb59e47ddb06306e8&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line">Lingyang</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416971071426622/12.png?ex=67a7068b&is=67a5b50b&hm=136beeb77e0572ebeefcd3f7b4d8b525775480bcf6f719d570f359795105509d&" alt="" data-size="line"> <img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Zezhi</td><td>Buff Reso SKill 25% dan buff Glacio DMG 20%</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416907145908244/22.png?ex=67a7067c&is=67a5b4fc&hm=2ca4ee274f57e526387baea514da469bc9f34bb186eb96dbb59e47ddb06306e8&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line">Lingyang</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972799475814/18.png?ex=67a7068b&is=67a5b50b&hm=1e294b603076dda440f14f6aaf012f8a3c87318068ec8ef40c52079057d83fec&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua </td><td>Buff Basic ATK 38%</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416907145908244/22.png?ex=67a7067c&is=67a5b4fc&hm=2ca4ee274f57e526387baea514da469bc9f34bb186eb96dbb59e47ddb06306e8&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line">Lingyang</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417063408762931/10.png?ex=67a706a1&is=67a5b521&hm=b6c323d2c14aa7b5ad9132fd4c11cba95b52038c33999ea28907189ca0ec1358&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line">Roccia</td><td>Buff Basic ATK 25%</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416907145908244/22.png?ex=67a7067c&is=67a5b4fc&hm=2ca4ee274f57e526387baea514da469bc9f34bb186eb96dbb59e47ddb06306e8&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line">Lingyang</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416971842912318/14.png?ex=67a7068b&is=67a5b50b&hm=5fbd9050c01af51dc9c95803747c53ae2978114c3c9245365b67d67e0d64020f&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Taoqi</td><td>Buff Reso skill 38% selama 14s</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416907145908244/22.png?ex=67a7067c&is=67a5b4fc&hm=2ca4ee274f57e526387baea514da469bc9f34bb186eb96dbb59e47ddb06306e8&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line">Lingyang</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416971293593710/13.png?ex=67a7068b&is=67a5b50b&hm=263d392de25c1282bdfadf02be2e290d65a536a39c28021a481d068b3f9a96cb&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Lumi</td><td>Buff Reso skill 38% selama 10s</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416907145908244/22.png?ex=67a7067c&is=67a5b4fc&hm=2ca4ee274f57e526387baea514da469bc9f34bb186eb96dbb59e47ddb06306e8&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line">Lingyang</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416908366319636/26.png?ex=67a7067c&is=67a5b4fc&hm=b0b1356c3f86500014839f51add505ed2da0fc7515c96c1ff45e751f69c4879f&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Yangyang</td><td>Restore 4 Resonance Energy per second selama 5s</td></tr></tbody></table>
+<table><thead><tr><th>Main DPS</th><th width="172.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/WzyTfWX8/Lingyang-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line">Lingyang</td><td><img src="https://i.postimg.cc/Jn6LGYV8/Zhezhi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Zezhi</td><td>Buff Reso SKill 25% dan buff Glacio DMG 20%</td></tr><tr><td><img src="https://i.postimg.cc/WzyTfWX8/Lingyang-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line">Lingyang</td><td><img src="https://i.postimg.cc/Prc56x7H/Sanhua-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua</td><td>Buff Basic ATK 38%</td></tr><tr><td><img src="https://i.postimg.cc/WzyTfWX8/Lingyang-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line">Lingyang</td><td><img src="https://i.postimg.cc/bwcjD2MZ/Roccia-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line">Roccia</td><td>Buff Basic ATK 25%</td></tr><tr><td><img src="https://i.postimg.cc/WzyTfWX8/Lingyang-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line">Lingyang</td><td><img src="https://i.postimg.cc/qv3MWrf3/Taoqi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Taoqi</td><td>Buff Reso skill 38% selama 14s</td></tr><tr><td><img src="https://i.postimg.cc/WzyTfWX8/Lingyang-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line">Lingyang</td><td><img src="https://i.postimg.cc/Rh2xT3Zb/Lumi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Lumi</td><td>Buff Reso skill 38% selama 10s</td></tr><tr><td><img src="https://i.postimg.cc/WzyTfWX8/Lingyang-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line">Lingyang</td><td><img src="https://i.postimg.cc/g03jLWNW/Yangyang-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Yangyang</td><td>Restore 4 Resonance Energy per second selama 5s</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 
@@ -180,5 +173,4 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395340810125383/2.png?ex=67a749f8&#x26;is=67a5f878&#x26;hm=aa7aac2149920a3eb21d6a9777c7d9c04e6449f2ad91808c0f05943275b10013&#x26;" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="https://i.postimg.cc/WpwpP8f5/Lingyang.png" alt=""><figcaption></figcaption></figure>

@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://cdn.discordapp.com/attachments/1200750972788555836/1336305705178628137/image.png?ex=67a69eeb&is=67a54d6b&hm=8ad323bb19004da2f16418c1b18cec6170f926318dd26a5da3504457b6bd06d3&
+cover: https://i.postimg.cc/2SvXPc06/Youhu.png
 coverY: 0
 layout:
   cover:
@@ -36,7 +35,7 @@ layout:
 Best In Slot
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata terbaik untuk **Youhu** berkat main stat **Energy Regen** yang sangat besar dan **Concerto generation**, memungkinkan Youhu mengakses **Outro** jauh lebih mudah. Merupakan pilihan utama di **S1** atau **S5**, namun semakin banyak **duplikat** yang dimiliki, semakin senjata ini dapat bersaing dengan senjata lain
 
@@ -48,7 +47,7 @@ Best In Slot
 Direkomendasikan
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Memberikan **Energy Generation** yang solid sebagai **main stat** dan sedikit peningkatan **ATK%** sebagai bonus kemampuan setelah **dashing** atau **dodging**, meningkatkan kemampuan **healing** Youhu dan akses ke **Resonance Liberation**.
 
@@ -56,33 +55,33 @@ Direkomendasikan
 {% endtab %}
 {% endtabs %}
 
-## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte&#x20;
+## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte
 
 <details>
 
-<summary> <img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"> Rejuvenating Glow</summary>
+<summary><img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"> Rejuvenating Glow</summary>
 
 Fallacy of No Return - CR% / CDM%
 
-![](https://wuthering.wiki/img/monster_330000070.png)
+<img src="https://wuthering.wiki/img/monster_330000070.png" alt="" data-size="original">
 
-**Echo Skill** untuk summon Fallacy of No Return \
-memberikan <mark style="color:yellow;">Spectro DMG</mark> yang setara dengan 11.4% dari max HP, \
-setelah itu Resonator dapat 10% bonus Energy Regen \
+**Echo Skill** untuk summon Fallacy of No Return\
+memberikan <mark style="color:yellow;">Spectro DMG</mark> yang setara dengan 11.4% dari max HP,\
+setelah itu Resonator dapat 10% bonus Energy Regen\
 dan tim dapat 10% bonus ATK selama 20 detik.
 
-**Hold Echo Skill** untuk launch serangkaian ATK bertubi-tubi dengan biaya STA, \
-masing-masing memberikan Spectro DMG yang setara dengan 1.14% dari max HP; \
+**Hold Echo Skill** untuk launch serangkaian ATK bertubi-tubi dengan biaya STA,\
+masing-masing memberikan Spectro DMG yang setara dengan 1.14% dari max HP;\
 Release Hold echo Skill, memberikan <mark style="color:yellow;">Spectro DMG</mark> yang setara dengan 14.25% dari max HP.
 
-#### Echo Set
+**Echo Set**
 
 * 3 - <mark style="color:blue;">**Glacio DMG**</mark> bonus%
 * 3 - <mark style="color:blue;">**Glacio DMG**</mark> bonus%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * CR% / CDM%
 * ER% (100-120%)
@@ -91,36 +90,35 @@ Release Hold echo Skill, memberikan <mark style="color:yellow;">Spectro DMG</mar
 * Flat ATK
 * Reso Lib%
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-InherentReso skill   >   Forte   >   Libe   >   Intro   =   BA
+InherentReso skill > Forte > Libe > Intro = BA
 
-\
-
+\\
 
 </details>
 
 <details>
 
-<summary> <img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"> Rejuvenating Glow</summary>
+<summary><img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"> Rejuvenating Glow</summary>
 
 Bell-Borne Geochelone - CR% / CDM%
 
-![](https://wuthering.wiki/img/monster_340000020.png)
+<img src="https://wuthering.wiki/img/monster_340000020.png" alt="" data-size="original">
 
-aktikan protection dari Bell-Borne Geochelone. \
-Memberikan <mark style="color:blue;">**Glacio DMG**</mark> berdasarkan 104.88% dari DEF resonator kepada musuh terdekat, \
-dan dapat Bell-Borne Shield yang bertahan selama 15 detik. \
-Bell-Borne Shield ngasih 50.00% DMG Reduction dan 10.00% DMG Boost, Shield akan menghilang setelah karakter  terkena serangan sebanyak 3 kali.
+aktikan protection dari Bell-Borne Geochelone.\
+Memberikan <mark style="color:blue;">**Glacio DMG**</mark> berdasarkan 104.88% dari DEF resonator kepada musuh terdekat,\
+dan dapat Bell-Borne Shield yang bertahan selama 15 detik.\
+Bell-Borne Shield ngasih 50.00% DMG Reduction dan 10.00% DMG Boost, Shield akan menghilang setelah karakter terkena serangan sebanyak 3 kali.
 
-#### Echo Set
+**Echo Set**
 
 * 3 - <mark style="color:blue;">**Glacio DMG**</mark> bonus%
 * 3 - <mark style="color:blue;">**Glacio DMG**</mark> bonus%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * CR% / CDM%
 * ER% (100-120%)
@@ -129,9 +127,9 @@ Bell-Borne Shield ngasih 50.00% DMG Reduction dan 10.00% DMG Boost, Shield akan 
 * Flat ATK
 * Reso Lib%
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-InherentReso skill   >   Forte   >   Libe   >   Intro   =   BA
+InherentReso skill > Forte > Libe > Intro = BA
 
 </details>
 
@@ -149,4 +147,4 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395343758721025/6.png?ex=67a749f9&#x26;is=67a5f879&#x26;hm=4de0191c31311e0974e135ae3e11aadcb2f1a3b6834be1250b07f6acb87a28a7&#x26;" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/qvzpyTBF/Youhu.png" alt=""><figcaption></figcaption></figure>

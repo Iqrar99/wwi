@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://cdn.discordapp.com/attachments/1200750972788555836/1336311998920654859/image.png?ex=67a6a4c8&is=67a55348&hm=3a0db8b8cc7a0a74fcf5ac1be8f88e8cc26aab7fca3979bc0c0849f8daffb270&
+cover: https://i.postimg.cc/c4zpq8ZD/Yuanwu.png
 coverY: 0
 layout:
   cover:
@@ -39,7 +38,7 @@ layout:
 Best In Slot
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata signature Xiangli Yao dan senjata yang ideal untuk pengguna Gauntlet berbasis Resonance Liberation. Memberikan peningkatan CRIT RATE sebesar 24,3% dan DMG% generik sebesar 12% secara permanen, dan di atas itu juga memberikan peningkatan Resonance Liberation DMG% sebesar 48% yang bertahan selama 8 detik saat menggunakan Liberation pemakainya. Karena waktu ketika buff ini diaktifkan, hampir selalu aktif saat dibutuhkan dan durasinya juga dapat diperpanjang hingga 3 kali selama 5 detik setiap kali Anda menggunakan skill resonance. Ini memperpanjang total durasi buff ini hingga 23 detik.
 
@@ -51,7 +50,7 @@ Best In Slot
 Direkomendasikan
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Pilihan luar biasa untuk dealer damage yang mengandalkan skala DEF yang menghasilkan sebagian besar damage mereka dengan **Resonance Liberation**. Saat ini merupakan pilihan terbaik untuk semua pemakai yang mengandalkan skala DEF.
 
@@ -63,7 +62,7 @@ Direkomendasikan
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Alternatif F2P untuk dealer damage yang mengandalkan skala DEF dan memanfaatkan Resonance Liberation sebagai alat untuk menghasilkan damage. Merupakan pilihan yang baik jika kamu tidak memiliki Amity Accord.
 
@@ -79,7 +78,7 @@ Alternatif
 Direkomendasikan
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Gauntlet dengan fungsi unik yang menambahkan penyembuhan ke dalam kit karakter. Gauntlet menyebabkan Basic Attack nya mengembalikan sejumlah kecil HP kepada diri sendiri dengan cooldown 3 detik. Gauntlet ini memiliki statistik pertarungan yang buruk, dan penyembuhan yang diberikan akan dianggap kurang efektif untuk sebagian besar konten, tetapi memungkinkan karakter untuk mengaktifkan set 5-Pcs Rejuvenating Glow yang sangat kuat, yang memerlukan penyembuhan untuk memberikan buff. Senjata ini hanya harus dipasang ketika bertujuan untuk menggunakan set ini pada karakter yang tidak dapat menyembuhkan dengan cara lain.
 
@@ -91,7 +90,7 @@ Direkomendasikan
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Gauntlet dengan fungsi unik yang menambahkan penyembuhan ke dalam kit karakter. Heal terjadi setelah melakukan Dodge Counter dan ini cocok dipasangkan apabila Yuanwu menggunakan Rejuvenating Glow set. Selain itu weapon ini bisa didapatkan dengan cara crafting membuat weapon ini juga ramah F2P.
 
@@ -99,78 +98,77 @@ Alternatif
 {% endtab %}
 {% endtabs %}
 
-## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte&#x20;
+## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte
 
 <details>
 
-<summary> <img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"> Rejuvenating Glow</summary>
+<summary><img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"> Rejuvenating Glow</summary>
 
 Fallacy of No Return - DEF%
 
-![](https://wuthering.wiki/img/monster_330000070.png)
+<img src="https://wuthering.wiki/img/monster_330000070.png" alt="" data-size="original">
 
-**Echo Skill** untuk summon Fallacy of No Return \
-memberikan <mark style="color:yellow;">Spectro DMG</mark> yang setara dengan 11.4% dari max HP, \
-setelah itu Resonator dapat 10% bonus Energy Regen \
+**Echo Skill** untuk summon Fallacy of No Return\
+memberikan <mark style="color:yellow;">Spectro DMG</mark> yang setara dengan 11.4% dari max HP,\
+setelah itu Resonator dapat 10% bonus Energy Regen\
 dan tim dapat 10% bonus ATK selama 20 detik.
 
-**Hold Echo Skill** untuk launch serangkaian ATK bertubi-tubi dengan biaya STA, \
-masing-masing memberikan Spectro DMG yang setara dengan 1.14% dari max HP; \
+**Hold Echo Skill** untuk launch serangkaian ATK bertubi-tubi dengan biaya STA,\
+masing-masing memberikan Spectro DMG yang setara dengan 1.14% dari max HP;\
 Release Hold echo Skill, memberikan <mark style="color:yellow;">Spectro DMG</mark> yang setara dengan 14.25% dari max HP.
 
-#### Echo Set
+**Echo Set**
 
 * 3 - DEF%
 * 3 - DEF%
 * 1 - DEF%
 * 1 - DEF%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * ER% (Minimal 130% sampai 140% ER)
 * CR% / %CDM
 * DEF%
 * Flat DEF
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-* Forte   >   Reso Lib   >   Reso skil   >   Intro   =   BA
+* Forte > Reso Lib > Reso skil > Intro = BA
 
-\
-
+\\
 
 </details>
 
 <details>
 
-<summary> <img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"> Rejuvenating Glow</summary>
+<summary><img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"> Rejuvenating Glow</summary>
 
 Bell-Borne Geochelone - DEF%
 
-![](https://wuthering.wiki/img/monster_340000020.png)
+<img src="https://wuthering.wiki/img/monster_340000020.png" alt="" data-size="original">
 
-aktikan protection dari Bell-Borne Geochelone. \
-Memberikan <mark style="color:blue;">**Glacio DMG**</mark> berdasarkan 104.88% dari DEF resonator kepada musuh terdekat, \
-dan dapat Bell-Borne Shield yang bertahan selama 15 detik. \
-Bell-Borne Shield ngasih 50.00% DMG Reduction dan 10.00% DMG Boost, Shield akan menghilang setelah karakter  terkena serangan sebanyak 3 kali.
+aktikan protection dari Bell-Borne Geochelone.\
+Memberikan <mark style="color:blue;">**Glacio DMG**</mark> berdasarkan 104.88% dari DEF resonator kepada musuh terdekat,\
+dan dapat Bell-Borne Shield yang bertahan selama 15 detik.\
+Bell-Borne Shield ngasih 50.00% DMG Reduction dan 10.00% DMG Boost, Shield akan menghilang setelah karakter terkena serangan sebanyak 3 kali.
 
-#### Echo Set
+**Echo Set**
 
 * 3 - DEF%
 * 3 - DEF%
 * 1 - DEF%
 * 1 - DEF%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * ER% (Minimal 130% sampai 140% ER)
 * CR% / %CDM
 * DEF%
 * Flat DEF
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-* Forte   >   Reso Lib   >   Reso skil   >   Intro   =   BA
+* Forte > Reso Lib > Reso skil > Intro = BA
 
 </details>
 
@@ -180,25 +178,25 @@ Bell-Borne Shield ngasih 50.00% DMG Reduction dan 10.00% DMG Boost, Shield akan 
 
 Impermenance Heron - CR% / CDM%
 
-![](https://wuthering.wiki/img/monster_330000030.png)
+<img src="https://wuthering.wiki/img/monster_330000030.png" alt="" data-size="original">
 
-#### Echo Sett
+**Echo Sett**
 
 * 3 - <mark style="color:purple;">**Electro DMG**</mark> bonus%
 * 3 - <mark style="color:purple;">**Electro DMG**</mark> bonus%
 * 1 - DEF%
 * 1 - DEF%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * ER% (Minimal 130% sampai 140% ER)
 * CR% / %CDM
 * DEF%
 * Flat DEF
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-* Forte   >   Reso Lib   >   Reso skil   >   Intro   =   BA
+* Forte > Reso Lib > Reso skil > Intro = BA
 
 </details>
 
@@ -208,7 +206,7 @@ Impermenance Heron - CR% / CDM%
 Support
 {% endhint %}
 
-<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972287770735/16.png?ex=67a7068b&is=67a5b50b&hm=10c1159e9470a451293c2f85d7752826480db8b57487f5d7bfcda5457f81e75a&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"> Jinhsi</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972585308160/17.png?ex=67a7068b&is=67a5b50b&hm=638054f782388f1688d9129aaacfe15e18a0d83bffd17e525503701391e7451d&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Yuanwu</td><td>Coordinated ATK untuk bantu stack forte Jinhsi</td></tr></tbody></table>
+<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/3xmYnZpj/Jinhsi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"> Jinhsi</td><td><img src="https://i.postimg.cc/vTTGhFLD/Yuanwu-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Yuanwu</td><td>Coordinated ATK untuk bantu stack forte Jinhsi</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 

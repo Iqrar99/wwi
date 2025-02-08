@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://cdn.discordapp.com/attachments/1200750972788555836/1336310626682802176/image.png?ex=67a6a380&is=67a55200&hm=5511f3475496bee4fa939579362a3c532c6068acbb4b6a67e1e9e89dc41f1d52&
+cover: https://i.postimg.cc/d1JXR2m0/Lumi.png
 coverY: 0
 layout:
   cover:
@@ -38,7 +37,7 @@ layout:
 Best In Slot
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata Jinhsi saat ini juga merupakan opsi broadblade terbaik untuk damage Lumi, yang sangat diuntungkan dari **Resonance Skill DMG Bonus** yang diberikan senjata ini, karena meningkatkan sebagian besar damage rotasinya. **Base ATK** yang tinggi, 2**4% Crit Rate**, dan 12% DMG Bonus yang diberikan senjata ini juga merupakan stats yang sangat diinginkan untuknya, menjadikannya pilihan dengan damage yang sangat tinggi.
 
@@ -50,9 +49,9 @@ Best In Slot
 Direkomendasikan
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
-> Senjata signature Jiyan yang tidak hanya fantastis untuknya, tetapi juga bisa digunakan oleh semua pengguna Broadblade yang fokus pada damage. Menawarkan stat utama yang besar berupa **CRIT DMG%**, memberikan skala yang sangat baik, 12%  Attribute DMG permanen, dan hingga 48% peningkatan **Heavy ATK DMG%** setelah menggunakan 1/2 skill atau **Resonance Liberation**.
+> Senjata signature Jiyan yang tidak hanya fantastis untuknya, tetapi juga bisa digunakan oleh semua pengguna Broadblade yang fokus pada damage. Menawarkan stat utama yang besar berupa **CRIT DMG%**, memberikan skala yang sangat baik, 12% Attribute DMG permanen, dan hingga 48% peningkatan **Heavy ATK DMG%** setelah menggunakan 1/2 skill atau **Resonance Liberation**.
 
 <figure><img src="https://wuthering.wiki/img/weapon_21010016.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
@@ -62,7 +61,7 @@ Direkomendasikan
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Pilihan **Broadblade** terbaik, hanya bersaing dengan beberapa senjata :star:4 yang memiliki banyak dupe atau senjata limited :star:5. Menawarkan B**ase ATK** yang tinggi, **ATK%**, sejumlah **Energy Regen** yang baik untuk menghemat setidaknya 1 sub-stat pada echo agar bisa dialokasikan ke penggunaan yang lebih baik, dan **Resonance Liberation ATK DMG%** yang **stackable** yang meningkat seiring penggunaan **Resonance Skill**.
 
@@ -74,7 +73,7 @@ Alternatif
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Opsi Broadsword :star:4 terkuat, memberikan stat utama **Crit Rate** untuk skala yang sangat baik dan kemampuan bonus yang sangat mudah diakses, yang memberikan buff **ATK%** yang dapat ditumpuk hanya dengan menggunakan Basic Attack atau Heavy Attack selama rotasi.
 
@@ -86,7 +85,7 @@ Alternatif
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Opsi broadblade :star:4 F2P yang solid untuk karakter DPS apapun yang mengandalkan scaling ATK. Boost **ATK%** yang diberikan saat menggunakan Resonance Skill sangat bagus untuk sebagian besar karakter, dan meskipun Resonance Energy kecil yang diberikan bersifat lebih situasional, ini juga bisa sangat berguna.
 
@@ -102,7 +101,7 @@ Alternatif
 Direkomendasikan
 {% endhint %}
 
-:mag: **Info Senjata**&#x20;
+:mag: **Info Senjata**
 
 * ATK (Lv.90): **337**
 * Energy Reg. (Lv.90): **51.8%**
@@ -111,7 +110,7 @@ Direkomendasikan
 {% endtab %}
 {% endtabs %}
 
-## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte&#x20;
+## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte
 
 <details>
 
@@ -119,16 +118,16 @@ Direkomendasikan
 
 Nightmare: Thundering Mephis - CR% / CDM%
 
-![](https://wuthering.wiki/img/monster_330000160.png)
+<img src="https://wuthering.wiki/img/monster_330000160.png" alt="" data-size="original">
 
-#### Echo Sett
+**Echo Sett**
 
 * 3 - <mark style="color:purple;">**Electro DMG**</mark> bonus%
 * 3 - <mark style="color:purple;">**Electro DMG**</mark> bonus%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * CR% / CDM%
 * ER% (130-140%)
@@ -136,9 +135,9 @@ Nightmare: Thundering Mephis - CR% / CDM%
 * Basic ATK%
 * Flat ATK
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-Forte   >   Reso Lib   >   Reso Skill   =   BA   =   Intro
+Forte > Reso Lib > Reso Skill = BA = Intro
 
 </details>
 
@@ -148,16 +147,16 @@ Forte   >   Reso Lib   >   Reso Skill   =   BA   =   Intro
 
 Impermenance Heron - CR% / CDM%
 
-![](https://wuthering.wiki/img/monster_330000030.png)
+<img src="https://wuthering.wiki/img/monster_330000030.png" alt="" data-size="original">
 
-#### Echo Sett
+**Echo Sett**
 
 * 3 - <mark style="color:purple;">**Electro DMG**</mark> bonus%
 * 3 - <mark style="color:purple;">**Electro DMG**</mark> bonus%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * CR% / CDM%
 * ER% (130-140%)
@@ -165,15 +164,15 @@ Impermenance Heron - CR% / CDM%
 * Basic ATK%
 * Flat ATK
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-Forte   >   Reso Lib   >   Reso Skill   =   BA   =   Intro
+Forte > Reso Lib > Reso Skill = BA = Intro
 
 </details>
 
 ## :busts\_in\_silhouette: Rekomendasi Tim
 
-<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td> <img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416970756718622/11.png?ex=67a7068b&is=67a5b50b&hm=bba64a23c378db93256de40f96868771c24b65bbe46e78982be965aca5f9e4f1&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line">Carlotta</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416971293593710/13.png?ex=67a7068b&is=67a5b50b&hm=263d392de25c1282bdfadf02be2e290d65a536a39c28021a481d068b3f9a96cb&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Lumi</td><td>Buff Reso skill 38% selama 10s</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972287770735/16.png?ex=67a7068b&is=67a5b50b&hm=10c1159e9470a451293c2f85d7752826480db8b57487f5d7bfcda5457f81e75a&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"> Jinhsi</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416971293593710/13.png?ex=67a7068b&is=67a5b50b&hm=263d392de25c1282bdfadf02be2e290d65a536a39c28021a481d068b3f9a96cb&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Lumi</td><td>Buff Reso skill 38% selama 10s</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416906915352627/21.png?ex=67a7067c&is=67a5b4fc&hm=934780cf3ceb46632d95161d85857cce065243a3915f52b8f24881e30d2653c2&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Chixia</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416971293593710/13.png?ex=67a7068b&is=67a5b50b&hm=263d392de25c1282bdfadf02be2e290d65a536a39c28021a481d068b3f9a96cb&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Lumi</td><td>Buff Reso skill 38% selama 10s</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416907145908244/22.png?ex=67a7067c&is=67a5b4fc&hm=2ca4ee274f57e526387baea514da469bc9f34bb186eb96dbb59e47ddb06306e8&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line">Lingyang</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416971293593710/13.png?ex=67a7068b&is=67a5b50b&hm=263d392de25c1282bdfadf02be2e290d65a536a39c28021a481d068b3f9a96cb&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Lumi</td><td>Buff Reso skill 38% selama 10s</td></tr></tbody></table>
+<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/pXnHLB0N/Carlotta-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line">Carlotta</td><td><img src="https://i.postimg.cc/Rh2xT3Zb/Lumi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Lumi</td><td>Buff Reso skill 38% selama 10s</td></tr><tr><td><img src="https://i.postimg.cc/3xmYnZpj/Jinhsi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"> Jinhsi</td><td><img src="https://i.postimg.cc/Rh2xT3Zb/Lumi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Lumi</td><td>Buff Reso skill 38% selama 10s</td></tr><tr><td><img src="https://i.postimg.cc/hjgj9557/Chixia-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Chixia</td><td><img src="https://i.postimg.cc/Rh2xT3Zb/Lumi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Lumi</td><td>Buff Reso skill 38% selama 10s</td></tr><tr><td><img src="https://i.postimg.cc/WzyTfWX8/Lingyang-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line">Lingyang</td><td><img src="https://i.postimg.cc/Rh2xT3Zb/Lumi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Lumi</td><td>Buff Reso skill 38% selama 10s</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 

@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://cdn.discordapp.com/attachments/1200750972788555836/1336305189749260308/image.png?ex=67a69e70&is=67a54cf0&hm=5207eb873d5c7cfd9fcfd668220834eb0e8b729b1af6fed6cca9e326d7d54fab&
+cover: https://i.postimg.cc/FK4nmy6x/Carlotta.png
 coverY: 0
 layout:
   cover:
@@ -35,7 +34,7 @@ layout:
 Best In Slot
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Carlotta Signature dan pilihan yang solid untuk sebagian besar resonator berbasis pistol karena base DMG yang lumayan, CRIT DMG% yang sangat tinggi, dan peningkatan ATK% permanen. Namun, jauh lebih efektif untuk resonator yang beberapa atau sebagian besar menghasilkan DMG melalui Resonance Skill. Slot terbaik sejauh ini untuk Carlotta karena sebagian besar kemampuannya memberikan DMG dari Resonance Skill.
 
@@ -47,7 +46,7 @@ Best In Slot
 Direkomendasikan
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Opsi yang sangat kuat dengan main stat **Crit Rate**, memiliki base damage yang tinggi, serta jumlah **Energy Recharge** yang cukup baik, memungkinkan sub-stat digunakan untuk aspek lain. Senjata ini juga memiliki kemampuan **support**, memberikan **ATK boost** kepada karakter berikutnya yang masuk setelah pergantian, menjadikannya lebih bernilai untuk karakter **Hybrid** dan **Support**.
 >
@@ -61,7 +60,7 @@ Direkomendasikan
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata yang kuat untuk **Resonators** yang berfokus pada **Resonance Skill DMG**, tanpa banyak syarat atau kondisi yang perlu diperhatikan, berkat efeknya yang terikat pada **Intro Skills**. Senjata ini memberikan **Resonance Skill DMG bonus** selama 15 detik setelah menggunakan **Intro**, cukup lama bagi sebagian besar **Main DPS** untuk menyelesaikan **burst window** mereka, menjadikannya opsi yang kuat dan konsisten.
 
@@ -73,7 +72,7 @@ Alternatif
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata yang kuat untuk karakter dengan fokus pada **Resonance Skill DMG**, tetapi memiliki syarat aktivasi yang cukup berat. Senjata ini memberikan **base damage** yang solid serta **ATK%** dari main stat-nya. Selain itu, senjata ini menawarkan **Resonance Skill DMG% bonus** yang sangat kuat dan dapat ditumpuk, tetapi membutuhkan pengguna untuk secara konsisten menggunakan **Basic Attacks** agar tetap aktif.
 
@@ -85,7 +84,7 @@ Alternatif
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Meskipun bersaing dengan opsi **F2P** :star:**4** lainnya, waktu **buff uptime** pada senjata ini adalah salah satu yang paling konsisten dan dapat diandalkan untuk karakter **pistol DPS** yang mengandalkan **ATK scaling**. **ATK% boost** yang diberikan saat menggunakan **Resonance Skill** sangat bagus untuk sebagian besar karakter, dan meskipun sedikit **energy generation** yang diberikan pada saat yang sama lebih bersifat situasional, itu juga bisa berguna.
 
@@ -93,25 +92,24 @@ Alternatif
 {% endtab %}
 {% endtabs %}
 
-## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte&#x20;
+## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte
 
 <details>
 
-<summary><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"> Frosty Resolve </summary>
+<summary><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"> Frosty Resolve</summary>
 
 Sentry Construct - CR% / CDM%
 
-![](https://wuthering.wiki/img/monster_330000120.png)\
+![](https://wuthering.wiki/img/monster_330000120.png)\\
 
-
-#### Echo Sett
+**Echo Sett**
 
 * 3 - <mark style="color:blue;">**Glacio DMG**</mark> bonus%
 * 3 - <mark style="color:blue;">**Glacio DMG**</mark> bonus%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * CR% / CDM%
 * ER% (110 - 130%)
@@ -119,9 +117,9 @@ Sentry Construct - CR% / CDM%
 * Reso skill%
 * Flat ATK
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-Reso lib   >  Reso skill   >   forte   >   intro   =   BA
+Reso lib > Reso skill > forte > intro = BA
 
 </details>
 
@@ -131,16 +129,16 @@ Reso lib   >  Reso skill   >   forte   >   intro   =   BA
 
 Lampylumen Myriad - CR% / CDM%
 
-![](https://wuthering.wiki/img/monster_330000040.png)
+<img src="https://wuthering.wiki/img/monster_330000040.png" alt="" data-size="original">
 
-#### Echo Sett
+**Echo Sett**
 
 * 3 - <mark style="color:blue;">**Glacio DMG**</mark> bonus%
 * 3 - <mark style="color:blue;">**Glacio DMG**</mark> bonus%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * CR% / CDM%
 * ER% (110 - 130%)
@@ -148,17 +146,15 @@ Lampylumen Myriad - CR% / CDM%
 * Reso skill%
 * Flat ATK
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-Reso lib   >  Reso skill   >   forte   >   intro   =   BA
-
-
+Reso lib > Reso skill > forte > intro = BA
 
 </details>
 
 ## :busts\_in\_silhouette: Rekomendasi Tim
 
-<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td> <img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416970756718622/11.png?ex=67a7068b&is=67a5b50b&hm=bba64a23c378db93256de40f96868771c24b65bbe46e78982be965aca5f9e4f1&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line">Carlotta</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416971071426622/12.png?ex=67a7068b&is=67a5b50b&hm=136beeb77e0572ebeefcd3f7b4d8b525775480bcf6f719d570f359795105509d&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Zezhi</td><td>Buff Reso SKill 25% dan buff Glacio DMG 20%</td></tr><tr><td> <img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416970756718622/11.png?ex=67a7068b&is=67a5b50b&hm=bba64a23c378db93256de40f96868771c24b65bbe46e78982be965aca5f9e4f1&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line">Carlotta</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972799475814/18.png?ex=67a7068b&is=67a5b50b&hm=1e294b603076dda440f14f6aaf012f8a3c87318068ec8ef40c52079057d83fec&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua </td><td>Concerto generatornya cepet</td></tr><tr><td> <img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416970756718622/11.png?ex=67a7068b&is=67a5b50b&hm=bba64a23c378db93256de40f96868771c24b65bbe46e78982be965aca5f9e4f1&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line">Carlotta</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416971842912318/14.png?ex=67a7068b&is=67a5b50b&hm=5fbd9050c01af51dc9c95803747c53ae2978114c3c9245365b67d67e0d64020f&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Taoqi</td><td>Buff Reso skill 38% selama 14s</td></tr><tr><td> <img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416970756718622/11.png?ex=67a7068b&is=67a5b50b&hm=bba64a23c378db93256de40f96868771c24b65bbe46e78982be965aca5f9e4f1&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line">Carlotta</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416971293593710/13.png?ex=67a7068b&is=67a5b50b&hm=263d392de25c1282bdfadf02be2e290d65a536a39c28021a481d068b3f9a96cb&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Lumi</td><td>Buff Reso skill 38% selama 10s</td></tr></tbody></table>
+<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/pXnHLB0N/Carlotta-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line">Carlotta</td><td><img src="https://i.postimg.cc/Jn6LGYV8/Zhezhi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Zezhi</td><td>Buff Reso SKill 25% dan buff Glacio DMG 20%</td></tr><tr><td><img src="https://i.postimg.cc/pXnHLB0N/Carlotta-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line">Carlotta</td><td><img src="https://i.postimg.cc/Prc56x7H/Sanhua-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua</td><td>Concerto generatornya cepet</td></tr><tr><td><img src="https://i.postimg.cc/pXnHLB0N/Carlotta-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line">Carlotta</td><td><img src="https://i.postimg.cc/qv3MWrf3/Taoqi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Taoqi</td><td>Buff Reso skill 38% selama 14s</td></tr><tr><td><img src="https://i.postimg.cc/pXnHLB0N/Carlotta-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line">Carlotta</td><td><img src="https://i.postimg.cc/Rh2xT3Zb/Lumi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Lumi</td><td>Buff Reso skill 38% selama 10s</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 
@@ -171,8 +167,6 @@ With Plunge Forte :
 Without Plunge Forte :
 
 `HA > BA123 (Swap) > Skill (E1-E2) (Swap) > Intro > Skill (E1) > Forte > Lib > DK 1234 > Fatal Finale > Skill (E1-E2)-> Echo > Outro`
-
-
 
 Terminology
 
@@ -216,5 +210,4 @@ Terminology
 
 ## Infografis
 
-<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395340038508564/1.png?ex=67a749f8&#x26;is=67a5f878&#x26;hm=47d2c68e3e31cadb2cf9cba6b6106ff24bffb2dcb1d1743de5d19bf10b898d63&#x26;" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="https://i.postimg.cc/bNYyYn7p/Carlotta.png" alt=""><figcaption></figcaption></figure>

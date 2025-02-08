@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://cdn.discordapp.com/attachments/1200750972788555836/1336314060538384385/image.png?ex=67a6a6b3&is=67a55533&hm=7f57561db463aa3a3c37d3a13c2fdf0fa6c1b5339f14603c0327e92b57f903c6&
+cover: https://i.postimg.cc/sXJkb6DS/Jinhsi.png
 coverY: 0
 layout:
   cover:
@@ -35,7 +34,7 @@ layout:
 Best In Slot
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata signature Jinhsi dan pilihan terbaik yang memberikan jumlah CRIT Rate, Resonance Skill DMG%, dan DMG% yang luar biasa—semua statistik ini secara signifikan meningkatkan damage Jinhsi. Senjata ini dengan mudah mengungguli semua pesaingnya tanpa kesulitan. Satu hal yang perlu diperhatikan saat menggunakan senjata ini adalah karena Jinhsi sudah memiliki banyak DMG% dari kit-nya, Echo, dan senjata ini, maka ia bisa mendapatkan nilai lebih tinggi dari biasanya dengan menumpuk ATK%, khususnya pada Echo cost-3 miliknya, dibandingkan Spectro%.
 
@@ -47,9 +46,9 @@ Best In Slot
 Direkomendasikan
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
-> Senjata signature Jiyan yang tidak hanya fantastis untuknya, tetapi juga bisa digunakan oleh semua pengguna Broadblade yang fokus pada damage. Menawarkan stat utama yang besar berupa **CRIT DMG%**, memberikan skala yang sangat baik, 12%  Attribute DMG permanen, dan hingga 48% peningkatan **Heavy ATK DMG%** setelah menggunakan 1/2 skill atau **Resonance Liberation**.
+> Senjata signature Jiyan yang tidak hanya fantastis untuknya, tetapi juga bisa digunakan oleh semua pengguna Broadblade yang fokus pada damage. Menawarkan stat utama yang besar berupa **CRIT DMG%**, memberikan skala yang sangat baik, 12% Attribute DMG permanen, dan hingga 48% peningkatan **Heavy ATK DMG%** setelah menggunakan 1/2 skill atau **Resonance Liberation**.
 
 <figure><img src="https://wuthering.wiki/img/weapon_21010016.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
@@ -59,7 +58,7 @@ Direkomendasikan
 Direkomendasikan
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Pilihan **Broadblade** terbaik, hanya bersaing dengan beberapa senjata :star:4 yang memiliki banyak dupe atau senjata limited :star:5. Menawarkan B**ase ATK** yang tinggi, **ATK%**, sejumlah **Energy Regen** yang baik untuk menghemat setidaknya 1 sub-stat pada echo agar bisa dialokasikan ke penggunaan yang lebih baik, dan **Resonance Liberation ATK DMG%** yang **stackable** yang meningkat seiring penggunaan **Resonance Skill**.
 
@@ -71,7 +70,7 @@ Direkomendasikan
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Opsi broadblade :star:4 F2P yang solid untuk karakter DPS apapun yang mengandalkan scaling ATK. Boost **ATK%** yang diberikan saat menggunakan Resonance Skill sangat bagus untuk sebagian besar karakter, dan meskipun Resonance Energy kecil yang diberikan bersifat lebih situasional, ini juga bisa sangat berguna.
 
@@ -83,7 +82,7 @@ Alternatif
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Jinhsi tidak bisa dengan mudah menumpuk efek bonus dari Autumntrace yang memberikan tambahan ATK, karena dia tidak menggunakan Basic Attack atau Heavy Attack standar. Basic Attack yang diperkuat miliknya justru dihitung sebagai Resonance Skill DMG, sehingga tidak memenuhi syarat untuk bonus tersebut. Autumntrace tetap bisa digunakan, tetapi kurang efektif dibandingkan pada pengguna lain.
 
@@ -91,7 +90,7 @@ Alternatif
 {% endtab %}
 {% endtabs %}
 
-## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte&#x20;
+## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte
 
 <details>
 
@@ -99,16 +98,16 @@ Alternatif
 
 Jué - CR% / CDM%
 
-![](https://wuthering.wiki/img/monster_340000090.png)
+<img src="https://wuthering.wiki/img/monster_340000090.png" alt="" data-size="original">
 
-#### Echo Sett
+**Echo Sett**
 
 * 3 - <mark style="color:yellow;">**Spectro DMG**</mark> bonus%
 * 3 - <mark style="color:yellow;">**Spectro DMG**</mark> bonus%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * CR% / CDM%
 * ER% (100% - 140% ER)
@@ -116,19 +115,15 @@ Jué - CR% / CDM%
 * Reso skill damage bonus%
 * Flat ATK
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-Forte   >   Libe   >   Reso skill   >   BA   =   Intro&#x20;
+Forte > Libe > Reso skill > BA = Intro
 
 </details>
 
 ## :busts\_in\_silhouette: Rekomendasi Tim
 
-
-
-<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972287770735/16.png?ex=67a7068b&is=67a5b50b&hm=10c1159e9470a451293c2f85d7752826480db8b57487f5d7bfcda5457f81e75a&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"> Jinhsi</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416971071426622/12.png?ex=67a7068b&is=67a5b50b&hm=136beeb77e0572ebeefcd3f7b4d8b525775480bcf6f719d570f359795105509d&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Zezhi</td><td> Buff Reso SKill 25%</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972287770735/16.png?ex=67a7068b&is=67a5b50b&hm=10c1159e9470a451293c2f85d7752826480db8b57487f5d7bfcda5457f81e75a&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"> Jinhsi</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416971842912318/14.png?ex=67a7068b&is=67a5b50b&hm=5fbd9050c01af51dc9c95803747c53ae2978114c3c9245365b67d67e0d64020f&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Taoqi</td><td>Buff Reso skill 38% selama 14s</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972287770735/16.png?ex=67a7068b&is=67a5b50b&hm=10c1159e9470a451293c2f85d7752826480db8b57487f5d7bfcda5457f81e75a&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"> Jinhsi</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416971293593710/13.png?ex=67a7068b&is=67a5b50b&hm=263d392de25c1282bdfadf02be2e290d65a536a39c28021a481d068b3f9a96cb&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Lumi</td><td>Buff Reso skill 38% selama 10s</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972287770735/16.png?ex=67a7068b&is=67a5b50b&hm=10c1159e9470a451293c2f85d7752826480db8b57487f5d7bfcda5457f81e75a&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"> Jinhsi</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972585308160/17.png?ex=67a7068b&is=67a5b50b&hm=638054f782388f1688d9129aaacfe15e18a0d83bffd17e525503701391e7451d&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Yuanwu</td><td>Coordinated ATK untuk bantu stack forte Jinhsi</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972287770735/16.png?ex=67a7068b&is=67a5b50b&hm=10c1159e9470a451293c2f85d7752826480db8b57487f5d7bfcda5457f81e75a&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"> Jinhsi</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417062632951858/7.png?ex=67a706a1&is=67a5b521&hm=68a8bd516d7103f9a19449c626a0105150313f8d60d52708a030d40276e3108b&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Yinlin</td><td>Coordinated ATK untuk bantu stack forte Jinhsi</td></tr></tbody></table>
-
-
+<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/3xmYnZpj/Jinhsi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"> Jinhsi</td><td><img src="https://i.postimg.cc/Jn6LGYV8/Zhezhi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Zezhi</td><td>Buff Reso SKill 25%</td></tr><tr><td><img src="https://i.postimg.cc/3xmYnZpj/Jinhsi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"> Jinhsi</td><td><img src="https://i.postimg.cc/qv3MWrf3/Taoqi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Taoqi</td><td>Buff Reso skill 38% selama 14s</td></tr><tr><td><img src="https://i.postimg.cc/3xmYnZpj/Jinhsi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"> Jinhsi</td><td><img src="https://i.postimg.cc/Rh2xT3Zb/Lumi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Lumi</td><td>Buff Reso skill 38% selama 10s</td></tr><tr><td><img src="https://i.postimg.cc/3xmYnZpj/Jinhsi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"> Jinhsi</td><td><img src="https://i.postimg.cc/vTTGhFLD/Yuanwu-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Yuanwu</td><td>Coordinated ATK untuk bantu stack forte Jinhsi</td></tr><tr><td><img src="https://i.postimg.cc/3xmYnZpj/Jinhsi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"> Jinhsi</td><td><img src="https://i.postimg.cc/7PtH6hwz/Yinlin-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Yinlin</td><td>Coordinated ATK untuk bantu stack forte Jinhsi</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 
@@ -162,4 +157,4 @@ Teminologi
 
 ## Infografis
 
-<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395467964649544/1.png?ex=67a74a17&#x26;is=67a5f897&#x26;hm=f39eb8956476ee97363d9a128edd341583d4e1a0b728cf2a7aad0b0ddeca5682&#x26;" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/cHJh4XBf/Jinhsi.png" alt=""><figcaption></figcaption></figure>

@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://cdn.discordapp.com/attachments/1200750972788555836/1337318486233321542/image.png?ex=67a70265&is=67a5b0e5&hm=f5fb64a65573539fee8b6047a33f1009c30492a9a2bf3a2b08933b7e7786d879&
+cover: https://i.postimg.cc/J0k2MpRP/Jiyan.png
 coverY: 0
 layout:
   cover:
@@ -36,7 +35,7 @@ layout:
 Best In Slot
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata signature Jiyan yang tidak hanya luar biasa untuknya tetapi juga dapat digunakan oleh semua pengguna Broadblade yang berfokus pada damage. Menawarkan main stat **CRIT DMG%** yang besar untuk scaling yang sangat baik, 12% DMG% permanen, dan peningkatan Heavy ATK DMG% hingga 48% setelah menggunakan 1/2 skill atau Resonance Liberation.
 
@@ -48,7 +47,7 @@ Best In Slot
 Direkomendasikan
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Pilihan senjata yang fantastis (meskipun bukan yang terbaik) untuk Jiyan, yang masih bisa digunakan dengan baik, terutama jika kamu juga memiliki Jinhsi di akunmu, karena ia lebih mendapat manfaat dari senjata signaturenya dibandingkan Jiyan. Base ATK yang tinggi, 24% CRIT Rate, dan 12% DMG Bonus yang diberikan sangat berguna untuk semua pengguna Broadblade DPS, dan Jiyan secara khusus dapat memanfaatkan Skill DMG Bonus dari senjata ini dengan cukup baik (meskipun tidak luar biasa).
 
@@ -60,7 +59,7 @@ Direkomendasikan
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Pilihan **Broadblade** terbaik, hanya bersaing dengan beberapa senjata :star:4 yang memiliki banyak dupe atau senjata limited :star:5. Menawarkan B**ase ATK** yang tinggi, **ATK%**, sejumlah **Energy Regen** yang baik untuk menghemat setidaknya 1 sub-stat pada echo agar bisa dialokasikan ke penggunaan yang lebih baik, dan **Resonance Liberation ATK DMG%** yang **stackable** yang meningkat seiring penggunaan **Resonance Skill**.
 
@@ -72,7 +71,7 @@ Alternatif
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Opsi Broadsword :star:4 terkuat, memberikan stat utama **Crit Rate** untuk skala yang sangat baik dan kemampuan bonus yang sangat mudah diakses, yang memberikan buff **ATK%** yang dapat ditumpuk hanya dengan menggunakan Basic Attack atau Heavy Attack selama rotasi.
 
@@ -84,7 +83,7 @@ Alternatif
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Opsi broadblade :star:4 F2P yang solid untuk karakter DPS apapun yang mengandalkan scaling ATK. Boost **ATK%** yang diberikan saat menggunakan Resonance Skill sangat bagus untuk sebagian besar karakter, dan meskipun Resonance Energy kecil yang diberikan bersifat lebih situasional, ini juga bisa sangat berguna.
 
@@ -92,24 +91,24 @@ Alternatif
 {% endtab %}
 {% endtabs %}
 
-## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte&#x20;
+## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte
 
 <details>
 
-<summary> <img src="https://wuthering.wiki/img/fettericon_4.png" alt="" data-size="line"> Sierra Gale</summary>
+<summary><img src="https://wuthering.wiki/img/fettericon_4.png" alt="" data-size="line"> Sierra Gale</summary>
 
 Feilian Beringal - CR% / CDM%
 
-![](https://wuthering.wiki/img/monster_330000050.png)
+<img src="https://wuthering.wiki/img/monster_330000050.png" alt="" data-size="original">
 
-#### Echo Sett
+**Echo Sett**
 
 * 3 - <mark style="color:green;">**Aero DMG**</mark> bonus%
 * 3 - <mark style="color:green;">**Aero DMG**</mark> bonus%%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * ER% (120% - 130%)
 * CR% / CDM%
@@ -117,15 +116,15 @@ Feilian Beringal - CR% / CDM%
 * Heavy ATK Damage%
 * Flat ATK
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-Reso Lib   >   Forte   >   Reso skill   >   intro   >   BA
+Reso Lib > Forte > Reso skill > intro > BA
 
 </details>
 
 ## :busts\_in\_silhouette: Rekomendasi Tim
 
-<table><thead><tr><th width="213">Main DPS</th><th width="189.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417061588566036/3.png?ex=67a706a0&is=67a5b520&hm=70e8672d7c9bb48d5eb395441bad186aa50b76e79031ce1e6fe367c7fcfa1f35&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_4.png" alt="" data-size="line"> Jiyan</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417061949149235/4.png?ex=67a706a0&is=67a5b520&hm=40b620215cfd3f095c471885b319c61ff3f343432be5b349937a6d2b7dae8dae&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Mortefi</td><td>Buff Heavy ATK 38%</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417061588566036/3.png?ex=67a706a0&is=67a5b520&hm=70e8672d7c9bb48d5eb395441bad186aa50b76e79031ce1e6fe367c7fcfa1f35&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_4.png" alt="" data-size="line"> Jiyan</td><td><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Aalto</td><td>Buff Aero damage 23%</td></tr></tbody></table>
+<table><thead><tr><th width="213">Main DPS</th><th width="189.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/VN9sLFks/Jiyan-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_4.png" alt="" data-size="line"> Jiyan</td><td><img src="https://i.postimg.cc/MTdW1KBh/Mortefi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Mortefi</td><td>Buff Heavy ATK 38%</td></tr><tr><td><img src="https://i.postimg.cc/VN9sLFks/Jiyan-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_4.png" alt="" data-size="line"> Jiyan</td><td><img src="https://i.postimg.cc/tTXq1Vs3/Aalto-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Aalto</td><td>Buff Aero damage 23%</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 
@@ -163,4 +162,4 @@ Teminologi
 
 ## Infografis
 
-<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395387669151774/1.png?ex=67a74a04&#x26;is=67a5f884&#x26;hm=e862654096a168314776b160c35430398414e32ea75ac562f33ef548216f9804&#x26;" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/VvdK4DSz/Jiyan.png" alt=""><figcaption></figcaption></figure>

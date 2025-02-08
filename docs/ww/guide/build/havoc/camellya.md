@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://cdn.discordapp.com/attachments/1200750972788555836/1337319633115545600/image.png?ex=67a70376&is=67a5b1f6&hm=de60f8465e3f0f1e4672d6c6c41fa6cd68350a40615cecadc91930414eb7a77a&
+cover: https://i.postimg.cc/59hrnWmG/Camellya.png
 coverY: 0
 layout:
   cover:
@@ -36,7 +35,7 @@ layout:
 Best In Slot
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata signature Camellya dapat digunakan oleh semua karakter pengguna Sword yang berfokus pada Basic Attack, tetapi jelas dirancang khusus untuknya karena sebagian besar kekuatannya bergantung pada pengeluaran Concerto di tengah rotasi—sesuatu yang hanya bisa dilakukan oleh Camellya. Senjata ini menawarkan jumlah ATK%, CRIT RATE%, dan Basic Attack DMG yang cukup baik untuk semua karakter, tetapi memberikan bonus Basic Attack DMG yang sangat besar setelah menghabiskan Concerto.
 
@@ -48,7 +47,7 @@ Best In Slot
 Drekomendasikan
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Pilihan **Sword** yang luar biasa, menawarkan **base damage** yang jauh lebih tinggi berkat rarity nya yang :star:**5** , serta **ATK% buff** yang dapat ditumpuk yang hampir bisa didapatkan oleh semua karakter dengan mudah (dan **2 stacks** juga mudah dicapai oleh sebagian besar karakter jika dimainkan dengan benar).
 >
@@ -62,7 +61,7 @@ Drekomendasikan
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Pilihan :star:4 gratis yang luar biasa untuk karakter dengan waktu di lapangan yang lama, memberikan peningkatan CRIT Rate yang langka serta banyak ATK. Namun, karena buff-nya menumpuk seiring waktu, pedang ini akan kehilangan banyak kekuatannya jika penggunanya bertukar sebelum 10 detik.
 
@@ -74,7 +73,7 @@ Alternatif
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata **Sword** serbaguna yang luar biasa, mendapatkan bonusnya hampir tanpa syarat karena sebagian besar **Resonators** hampir selalu berusaha memanfaatkan **Intro skill** mereka, dan hanya sedikit karakter yang menghabiskan lebih dari 15 detik di pertarungan selama durasinya.
 
@@ -86,7 +85,7 @@ Alternatif
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Sering kali lebih rendah dibandingkan **Commando of Conviction** untuk **DPS**, namun senjata ini tetap menjadi pilihan **F2P** :star:**4** yang bagus untuk karakter yang membutuhkan **energy boost**. Secara realistis, hanya pertimbangkan senjata ini sebagai pilihan jika karakter mu mengalami masalah dengan **energy**.
 
@@ -94,7 +93,7 @@ Alternatif
 {% endtab %}
 {% endtabs %}
 
-## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte&#x20;
+## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte
 
 <details>
 
@@ -106,14 +105,14 @@ atau
 
 ![](https://wuthering.wiki/img/monster_340000070.png) Dreamless CR% / CDM%
 
-#### Echo Sett
+**Echo Sett**
 
-* 3 - <mark style="color:orange;">**Havoc DMG**</mark> bonus%
-* 3 - <mark style="color:orange;">**Havoc DMG**</mark> bonus%
+* 3 - **Havoc DMG** bonus%
+* 3 - **Havoc DMG** bonus%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * CR% / CDM%
 * ER% (115 - 120%)
@@ -122,17 +121,15 @@ atau
 * Flat ATK
 * Reso Lib%
 
-#### Prioritas Forte
+**Prioritas Forte**
 
 Resonance Skill = NA > Forte > Reso Lib > Intro
 
 </details>
 
-
-
 ## :busts\_in\_silhouette: Rekomendasi Tim
 
-<table><thead><tr><th>Main DPS</th><th>Main DPS</th><th width="172.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417062167248916/5.png?ex=67a706a1&is=67a5b521&hm=6dbee7647f54b49ecf62031c572920294a4681e6903dc91fba1a66d81532737f&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"> Camellya</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417063408762931/10.png?ex=67a706a1&is=67a5b521&hm=b6c323d2c14aa7b5ad9132fd4c11cba95b52038c33999ea28907189ca0ec1358&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line">Roccia</td><td>-</td><td>Buff Basic ATK 25% dan buff Havoc DMG 20%</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417062167248916/5.png?ex=67a706a1&is=67a5b521&hm=6dbee7647f54b49ecf62031c572920294a4681e6903dc91fba1a66d81532737f&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"> Camellya</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972799475814/18.png?ex=67a7068b&is=67a5b50b&hm=1e294b603076dda440f14f6aaf012f8a3c87318068ec8ef40c52079057d83fec&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua</td><td>-</td><td> Buff Basic ATK 38%</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417062167248916/5.png?ex=67a706a1&is=67a5b521&hm=6dbee7647f54b49ecf62031c572920294a4681e6903dc91fba1a66d81532737f&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"> Camellya</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416908077039686/25.png?ex=67a7067c&is=67a5b4fc&hm=8bbe5b3f34796c9b15677f5454aacea6b46d6c9bfccee19d290f20468612cf75&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line">Danjin</td><td>-</td><td>buff Havoc DMG 20%</td></tr></tbody></table>
+<table><thead><tr><th>Main DPS</th><th>Main/Sub DPS</th><th width="172.8193359375">Sustainer</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/WzdPrmTk/Camellya-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"> Camellya</td><td><img src="https://i.postimg.cc/bwcjD2MZ/Roccia-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Roccia</td><td><img src="https://i.postimg.cc/Y9q72KP8/The-Shorekeeper-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"> / <img src="https://i.postimg.cc/85HCwm2X/Verina-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"> / <img src="https://i.postimg.cc/HsjL45B3/Baizhi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"></td><td>Buff Basic ATK 25% dan buff Havoc DMG 20%</td></tr><tr><td><img src="https://i.postimg.cc/WzdPrmTk/Camellya-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"> Camellya</td><td><img src="https://i.postimg.cc/Prc56x7H/Sanhua-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua</td><td><img src="https://i.postimg.cc/Y9q72KP8/The-Shorekeeper-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"> / <img src="https://i.postimg.cc/85HCwm2X/Verina-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"> / <img src="https://i.postimg.cc/HsjL45B3/Baizhi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"></td><td>Buff Basic ATK 38%</td></tr><tr><td><img src="https://i.postimg.cc/WzdPrmTk/Camellya-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"> Camellya</td><td><img src="https://i.postimg.cc/FKXs46mn/Danjin-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Danjin</td><td><img src="https://i.postimg.cc/Y9q72KP8/The-Shorekeeper-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"> / <img src="https://i.postimg.cc/85HCwm2X/Verina-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"> / <img src="https://i.postimg.cc/HsjL45B3/Baizhi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"></td><td>buff Havoc DMG 20%</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 
@@ -142,5 +139,8 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395624382824513/1.png?ex=67a74a3c&#x26;is=67a5f8bc&#x26;hm=c4ee96397b52770850b8be50366c9dce03ca3560687e8ff124c1e760f90ba684&#x26;" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/3J2cqfSw/1.png" alt=""><figcaption></figcaption></figure>
 
+
+
+<figure><img src="https://i.postimg.cc/3J2cqfSw/1.png" alt=""><figcaption></figcaption></figure>

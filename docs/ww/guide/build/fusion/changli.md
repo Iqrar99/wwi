@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://cdn.discordapp.com/attachments/1200750972788555836/1336307188053840016/image.png?ex=67a6a04d&is=67a54ecd&hm=06d50510a2bcd03603bd556cca3147815ebb1a119e481f39bace363fafc0431d&
+cover: https://i.postimg.cc/YqvPxqgQ/Changli.png
 coverY: 0
 layout:
   cover:
@@ -37,7 +36,7 @@ layout:
 Best In Slot
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata **signature** Changli yang tidak hanya luar biasa untuknya, tetapi juga dapat digunakan oleh semua pengguna **Sword** yang fokus pada **damage** dan sebagian besar **damage** mereka berasal dari **Resonance Skill**.
 >
@@ -51,7 +50,7 @@ Best In Slot
 Direkomendasikan
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Pilihan **Sword** yang luar biasa, menawarkan **base damage** yang jauh lebih tinggi berkat :star:**5 rarity**, serta **ATK% buff** yang dapat ditumpuk yang hampir bisa didapatkan oleh semua karakter dengan mudah (dan **2 stacks** juga mudah dicapai oleh sebagian besar karakter jika dimainkan dengan benar).
 >
@@ -65,7 +64,7 @@ Direkomendasikan
 Direkomendasikan
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata **signature** Camellya dapat digunakan oleh semua karakter **Sword** yang fokus pada **Basic Attack**, tetapi jelas dirancang untuknya karena kekuatannya yang banyak terkunci setelah menggunakan **Concerto** di tengah rotasi—sesuatu yang hanya bisa dilakukan oleh Camellya.
 >
@@ -79,7 +78,7 @@ Direkomendasikan
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > **Sword** serbaguna yang luar biasa, mendapatkan bonusnya hampir tanpa syarat karena sebagian besar **Resonators** hampir selalu berusaha memanfaatkan **Intro skill** mereka, dan hanya sedikit karakter yang menghabiskan lebih dari 15 detik di lapangan selama durasinya.
 
@@ -91,7 +90,7 @@ Alternatif
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Sering kali lebih rendah dibandingkan **Commando of Conviction** untuk **DPS**, namun senjata ini tetap menjadi pilihan **F2P** :star:**4** yang bagus untuk karakter yang membutuhkan **energy boost**. Secara realistis, hanya pertimbangkan senjata ini sebagai pilihan jika karakter kamu mengalami masalah dengan **energy**.
 
@@ -99,7 +98,7 @@ Alternatif
 {% endtab %}
 {% endtabs %}
 
-## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte&#x20;
+## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte
 
 <details>
 
@@ -107,16 +106,16 @@ Alternatif
 
 Nightmare: Inferno Rider - CR% / CDM%
 
-![](https://wuthering.wiki/img/monster_330000190.png)
+<img src="https://wuthering.wiki/img/monster_330000190.png" alt="" data-size="original">
 
-#### Echo Sett
+**Echo Sett**
 
 * 3 - <mark style="color:red;">**Fusion DMG**</mark> bonus%
 * 3 - <mark style="color:red;">**Fusion DMG**</mark> bonus%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * CR% / CDM%
 * ER% (110% - 130%)
@@ -124,13 +123,11 @@ Nightmare: Inferno Rider - CR% / CDM%
 * Reso Skill%
 * Flat ATK
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-Reso skill   >   Forte   >   Reso Lib   >   BA   >   Intro
+Reso skill > Forte > Reso Lib > BA > Intro
 
 </details>
-
-
 
 ## :busts\_in\_silhouette: Rekomendasi Tim
 
@@ -142,11 +139,11 @@ Quickswap
 
 #### Quickswap
 
-<table><thead><tr><th width="159">Main DPS</th><th width="203">Main DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417062402261073/6.png?ex=67a706a1&is=67a5b521&hm=3103ed0ff3c0659713fe2623c682d20c4c4bc59d89b3f6fd64aef5dff863b2c4&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416906915352627/21.png?ex=67a7067c&is=67a5b4fc&hm=934780cf3ceb46632d95161d85857cce065243a3915f52b8f24881e30d2653c2&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Chixia</td><td> buff Fusion DMG 20%</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417062402261073/6.png?ex=67a706a1&is=67a5b521&hm=3103ed0ff3c0659713fe2623c682d20c4c4bc59d89b3f6fd64aef5dff863b2c4&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416973483147316/20.png?ex=67a7068b&is=67a5b50b&hm=b47b355824537b204a958b13b329524a9a2af8030af9da18ce8b118914fdd87e&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Encore</td><td> buff Fusion DMG 20%</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417062402261073/6.png?ex=67a706a1&is=67a5b521&hm=3103ed0ff3c0659713fe2623c682d20c4c4bc59d89b3f6fd64aef5dff863b2c4&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416907393237062/23.png?ex=67a7067c&is=67a5b4fc&hm=a796546a4ebb83b62c784d985203fbfe926673c69a11d6632eef0776da7eb2ad&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Calcharo</td><td>Changli Buff Reso Lib 25%</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417062402261073/6.png?ex=67a706a1&is=67a5b521&hm=3103ed0ff3c0659713fe2623c682d20c4c4bc59d89b3f6fd64aef5dff863b2c4&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416973025972325/19.png?ex=67a7068b&is=67a5b50b&hm=95b4d9dd2f4d2f2cd993599def50d796b5ce1dc8829e30b7110db7bbb589bb6a&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Xiangli Yao</td><td>Changli Buff Reso Lib 25%</td></tr></tbody></table>
+<table><thead><tr><th width="159">Main DPS</th><th width="203">Main DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://i.postimg.cc/hjgj9557/Chixia-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Chixia</td><td>buff Fusion DMG 20%</td></tr><tr><td><img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://i.postimg.cc/SQgsMV7J/Encore-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Encore</td><td>buff Fusion DMG 20%</td></tr><tr><td><img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://i.postimg.cc/3JP3XqyJ/Calcharo-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Calcharo</td><td>Changli Buff Reso Lib 25%</td></tr><tr><td><img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://i.postimg.cc/N0tYVr73/Xiangli-yao-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Xiangli Yao</td><td>Changli Buff Reso Lib 25%</td></tr></tbody></table>
 
 #### Hypercarry
 
-<table><thead><tr><th width="160">Main DPS</th><th width="203.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417062402261073/6.png?ex=67a706a1&is=67a5b521&hm=3103ed0ff3c0659713fe2623c682d20c4c4bc59d89b3f6fd64aef5dff863b2c4&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337415444159664128/2.png?ex=67a75cb1&is=67a60b31&hm=7f3a3f4685f81df13be89a3f41ba17b500abe9d14898cc9caf9c787e0d3a2b9c&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_14.png" alt="" data-size="line">Brant</td><td>Buff Reso SKill 25% dan buff Fusion DMG 20%</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417062402261073/6.png?ex=67a706a1&is=67a5b521&hm=3103ed0ff3c0659713fe2623c682d20c4c4bc59d89b3f6fd64aef5dff863b2c4&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416971071426622/12.png?ex=67a7068b&is=67a5b50b&hm=136beeb77e0572ebeefcd3f7b4d8b525775480bcf6f719d570f359795105509d&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Zezhi</td><td>Buff Reso SKill 25% </td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417062402261073/6.png?ex=67a706a1&is=67a5b521&hm=3103ed0ff3c0659713fe2623c682d20c4c4bc59d89b3f6fd64aef5dff863b2c4&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972799475814/18.png?ex=67a7068b&is=67a5b50b&hm=1e294b603076dda440f14f6aaf012f8a3c87318068ec8ef40c52079057d83fec&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua </td><td>Concerto generator nya cepet</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417062402261073/6.png?ex=67a706a1&is=67a5b521&hm=3103ed0ff3c0659713fe2623c682d20c4c4bc59d89b3f6fd64aef5dff863b2c4&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416971842912318/14.png?ex=67a7068b&is=67a5b50b&hm=5fbd9050c01af51dc9c95803747c53ae2978114c3c9245365b67d67e0d64020f&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Taoqi</td><td>Buff Reso skill 38% selama 14s</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417062402261073/6.png?ex=67a706a1&is=67a5b521&hm=3103ed0ff3c0659713fe2623c682d20c4c4bc59d89b3f6fd64aef5dff863b2c4&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416971293593710/13.png?ex=67a7068b&is=67a5b50b&hm=263d392de25c1282bdfadf02be2e290d65a536a39c28021a481d068b3f9a96cb&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Lumi</td><td>Buff Reso skill 38% selama 10s</td></tr></tbody></table>
+<table><thead><tr><th width="160">Main DPS</th><th width="203.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://i.postimg.cc/wjXYhj80/Brant-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_14.png" alt="" data-size="line">Brant</td><td>Buff Reso SKill 25% dan buff Fusion DMG 20%</td></tr><tr><td><img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://i.postimg.cc/Jn6LGYV8/Zhezhi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Zezhi</td><td>Buff Reso SKill 25%</td></tr><tr><td><img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://i.postimg.cc/Prc56x7H/Sanhua-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua</td><td>Concerto generator nya cepet</td></tr><tr><td><img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://i.postimg.cc/qv3MWrf3/Taoqi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Taoqi</td><td>Buff Reso skill 38% selama 14s</td></tr><tr><td><img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://i.postimg.cc/Rh2xT3Zb/Lumi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Lumi</td><td>Buff Reso skill 38% selama 10s</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 
@@ -190,12 +187,12 @@ Teminologi
 * BA : Basic ATK
 * Plunge : jump ATK
 * **TSC grounded** : **True Sight Conquest** menyerah musuh ke arah depan
-* **TSCH**  :  **True Sight Charge**, Changli transform jadi phoenix dan menyerang ke arah atas
+* **TSCH** : **True Sight Charge**, Changli transform jadi phoenix dan menyerang ke arah atas
 {% endhint %}
 
 ***
 
 ## Infografis
 
-<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395270945869956/1.png?ex=67a749e8&#x26;is=67a5f868&#x26;hm=73368942bb4119e5e22175467771cd5ceee8701baae7cd86c41283146371ceb2&#x26;" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/zGmRyVpv/Changli.png" alt=""><figcaption></figcaption></figure>
 

@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://cdn.discordapp.com/attachments/1200750972788555836/1336304831358439524/image.png?ex=67a69e1b&is=67a54c9b&hm=9d8bf934c1f65b00ac00494460619b04515ea280ba5ed2296f355a0784dc13a2&
+cover: https://i.postimg.cc/59whhrGr/Baizhi.png
 coverY: 0
 layout:
   cover:
@@ -159,5 +158,7 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395342261485638/4.png?ex=67a749f9&#x26;is=67a5f879&#x26;hm=f8a6092ee232f7558abb6062aaba8e4761a50c04687667755914dd961bb3e83f&#x26;" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/D067dfb9/Baizhi.png" alt=""><figcaption></figcaption></figure>
+
+
 

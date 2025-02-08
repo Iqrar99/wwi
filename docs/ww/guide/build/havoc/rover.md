@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://cdn.discordapp.com/attachments/1200750972788555836/1336316647904120864/image.png?ex=67a6a91c&is=67a5579c&hm=5a6728f4a2051ec10ed4bd6e19bb894b1ff87af96d20f5e774a6634e8868a098&
+cover: https://i.postimg.cc/wTBzYpNB/Rover-Male.png
 coverY: 0
 layout:
   cover:
@@ -34,7 +33,7 @@ layout:
 Best In Slot
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata **signature** Camellya dapat digunakan oleh semua karakter **Sword** yang berfokus pada **Basic Attack**, tetapi jelas dirancang untuknya karena kekuatannya yang banyak terkunci setelah menggunakan **Concerto** di tengah rotasi. Memberikan **ATK%**, **Crit Rate%**, dan **Basic Attack DMG** yang cukup baik untuk semua karakter, serta bonus **Basic Attack DMG** yang besar setelah menggunakan **Concerto**.
 
@@ -46,7 +45,7 @@ Best In Slot
 Direkomendasikan
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata **signature** Changli yang tidak hanya luar biasa untuknya, tetapi juga dapat digunakan oleh semua pengguna **Sword** yang fokus pada **damage** dan sebagian besar kerusakannya berasal dari **Resonance Skill**.
 >
@@ -60,7 +59,7 @@ Direkomendasikan
 Direkomendasikan
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Pilihan **Sword** yang luar biasa, menawarkan **base damage** yang jauh lebih tinggi berkat rarity nya yang :star:**5** , serta **ATK% buff** yang dapat ditumpuk yang hampir bisa didapatkan oleh semua karakter dengan mudah (dan **2 stacks** juga mudah dicapai oleh sebagian besar karakter jika dimainkan dengan benar).
 >
@@ -74,7 +73,7 @@ Direkomendasikan
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Pilihan :star:4 gratis yang luar biasa untuk karakter dengan waktu di lapangan yang lama, memberikan peningkatan CRIT Rate yang langka serta banyak ATK. Namun, karena buff-nya menumpuk seiring waktu, pedang ini akan kehilangan banyak kekuatannya jika penggunanya bertukar sebelum 10 detik.
 
@@ -86,7 +85,7 @@ Alternatif
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Senjata **Sword** serbaguna yang luar biasa, mendapatkan bonusnya hampir tanpa syarat karena sebagian besar **Resonators** hampir selalu berusaha memanfaatkan **Intro skill** mereka, dan hanya sedikit karakter yang menghabiskan lebih dari 15 detik di pertarungan selama durasinya.
 
@@ -98,7 +97,7 @@ Alternatif
 Alternatif
 {% endhint %}
 
-:mag: **Review Senjata**&#x20;
+:mag: **Review Senjata**
 
 > Sering kali lebih rendah dibandingkan **Commando of Conviction** untuk **DPS**, namun senjata ini tetap menjadi pilihan **F2P** :star:**4** yang bagus untuk karakter yang membutuhkan **energy boost**. Secara realistis, hanya pertimbangkan senjata ini sebagai pilihan jika karakter mu mengalami masalah dengan **energy**.
 
@@ -106,7 +105,7 @@ Alternatif
 {% endtab %}
 {% endtabs %}
 
-## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte&#x20;
+## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte
 
 <details>
 
@@ -114,16 +113,16 @@ Alternatif
 
 Dreamless - CR% / CDM%
 
-![](https://wuthering.wiki/img/monster_340000070.png)&#x20;
+<img src="https://wuthering.wiki/img/monster_340000070.png" alt="" data-size="original">
 
-#### Echo Sett
+**Echo Sett**
 
-* 3 - <mark style="color:orange;">**Havoc DMG**</mark> bonus%
-* 3 - <mark style="color:orange;">**Havoc DMG**</mark> bonus%
+* 3 - **Havoc DMG** bonus%
+* 3 - **Havoc DMG** bonus%
 * 1 - ATK%
 * 1 - ATK%
 
-#### Prioritas Echo Substat
+**Prioritas Echo Substat**
 
 * CR% / CDM%
 * ER% (100% - 125%)
@@ -132,9 +131,9 @@ Dreamless - CR% / CDM%
 * Basic ATK%
 * Reso lib%
 
-#### Prioritas Forte
+**Prioritas Forte**
 
-Forte   >   Libe   >   Reso skill   >   BA   =   Intro
+Forte > Libe > Reso skill > BA = Intro
 
 </details>
 
@@ -142,13 +141,13 @@ Forte   >   Libe   >   Reso skill   >   BA   =   Intro
 
 ### Quickswap
 
-| Main DPS                                                                                                                                                                                                                                                                                                                                                                    | Main DPS                                                                                                                                                                                                                                                                                                                                                              | Alasan       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| <img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417063140331590/9.png?ex=67a706a1&is=67a5b521&hm=093cb55263fc86713afbe4b217d1a79d34e56caf9fc1a4c49cc17f8317d90c25&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"> Rover (Havoc) | <img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417062402261073/6.png?ex=67a706a1&is=67a5b521&hm=3103ed0ff3c0659713fe2623c682d20c4c4bc59d89b3f6fd64aef5dff863b2c4&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli |  (Quickswap) |
+| Main DPS                                                                                                                                                                           | Main DPS                                                                                                                                                                  | Alasan      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| <img src="https://i.postimg.cc/6qppPGwW/Rover-Male-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"> Rover (Havoc) | <img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli | (Quickswap) |
 
 ### Hypercarry
 
-<table><thead><tr><th>Main DPS</th><th width="172.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417063140331590/9.png?ex=67a706a1&is=67a5b521&hm=093cb55263fc86713afbe4b217d1a79d34e56caf9fc1a4c49cc17f8317d90c25&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"> Rover (Havoc)</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417063408762931/10.png?ex=67a706a1&is=67a5b521&hm=b6c323d2c14aa7b5ad9132fd4c11cba95b52038c33999ea28907189ca0ec1358&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line">Roccia</td><td>Buff Basic ATK 25% dan buff Havoc DMG 20%</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417063140331590/9.png?ex=67a706a1&is=67a5b521&hm=093cb55263fc86713afbe4b217d1a79d34e56caf9fc1a4c49cc17f8317d90c25&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"> Rover (Havoc)</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416908077039686/25.png?ex=67a7067c&is=67a5b4fc&hm=8bbe5b3f34796c9b15677f5454aacea6b46d6c9bfccee19d290f20468612cf75&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"> Danjin</td><td> buff Havoc DMG 20%</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417063140331590/9.png?ex=67a706a1&is=67a5b521&hm=093cb55263fc86713afbe4b217d1a79d34e56caf9fc1a4c49cc17f8317d90c25&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"> Rover (Havoc)</td><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336416972799475814/18.png?ex=67a7068b&is=67a5b50b&hm=1e294b603076dda440f14f6aaf012f8a3c87318068ec8ef40c52079057d83fec&" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua</td><td>Buff Basic ATK 38%</td></tr></tbody></table>
+<table><thead><tr><th>Main DPS</th><th width="172.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/6qppPGwW/Rover-Male-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"> Rover (Havoc)</td><td><img src="https://i.postimg.cc/bwcjD2MZ/Roccia-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line">Roccia</td><td>Buff Basic ATK 25% dan buff Havoc DMG 20%</td></tr><tr><td><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1336417063140331590/9.png?ex=67a706a1&#x26;is=67a5b521&#x26;hm=093cb55263fc86713afbe4b217d1a79d34e56caf9fc1a4c49cc17f8317d90c25&#x26;" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"> Rover (Havoc)</td><td><img src="https://i.postimg.cc/FKXs46mn/Danjin-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"> Danjin</td><td>buff Havoc DMG 20%</td></tr><tr><td><img src="https://i.postimg.cc/6qppPGwW/Rover-Male-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"> Rover (Havoc)</td><td><img src="https://i.postimg.cc/Prc56x7H/Sanhua-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua</td><td>Buff Basic ATK 38%</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 
@@ -158,4 +157,7 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395625930522645/3.png?ex=67a74a3c&#x26;is=67a5f8bc&#x26;hm=6e9a4c9b36f8ca3e139e0b01e857ffaeefa1ecb1fc073b68bde245cc6209c7ac&#x26;" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/4xZSRvqQ/3.png" alt=""><figcaption></figcaption></figure>
+
+
+
