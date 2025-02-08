@@ -1,5 +1,4 @@
 ---
-icon: user
 layout:
   title:
     visible: true
@@ -10,9 +9,8 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: false
+    visible: true
 ---
 
-# Resonator Profile
+# Prologue
 
-TBA

@@ -56,7 +56,10 @@
     * [Cost-1](ww/guide/echo-database/cost-1.md)
   * [Sonata Effect](ww/guide/sonata-effect.md)
 * [📜 Lore](ww/lore/README.md)
-  * [Main Story](ww/lore/main-story.md)
+  * [Main Story](ww/lore/main-story/README.md)
+    * [Prologue](ww/lore/main-story/prologue/README.md)
+      * [Utterance of Marvels: I](ww/lore/main-story/prologue/utterance-of-marvels-i.md)
+      * [Utterance of Marvels: II](ww/lore/main-story/prologue/utterance-of-marvels-ii.md)
   * [Companion Quest](ww/lore/companion-quest.md)
   * [Character Backstory](ww/lore/character-backstory.md)
 
@@ -69,6 +72,6 @@
 
 ***
 
-* [Facebook Group ](https://www.facebook.com/groups/wutheringwavesindo)
+* [Facebook Group](https://www.facebook.com/groups/wutheringwavesindo)
 * [Discord Server](https://discord.gg/wwi)
 * [Contribute](https://github.com/Iqrar99/wwi)
