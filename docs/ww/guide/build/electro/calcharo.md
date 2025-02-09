@@ -206,4 +206,4 @@ Teminologi
 
 ## Infografis
 
-<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395533043470367/1.png?ex=67a74a26&#x26;is=67a5f8a6&#x26;hm=c43c99ba362ecc80a4782f7da03b3379acde1fa556826780571dce15f43199e1&#x26;" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/N0sSm8xj/Calcharo.png" alt=""><figcaption></figcaption></figure>

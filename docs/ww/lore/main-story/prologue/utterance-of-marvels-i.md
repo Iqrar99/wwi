@@ -18,7 +18,9 @@ layout:
 
 Tempat tersebut tidak diketahui keberadaan, tujuan, atau bentuknya. Namun, satu hal yang pasti: tempat itu adalah titik awal perjalanan sang karakter utama—
 
-<div><figure><img src="../../../../.gitbook/assets/Prologue_Part 1_Picture2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Prologue_Part 1_Picture3.jpg" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../../../.gitbook/assets/Prologue_Part 1_Picture2.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/Prologue_Part 1_Picture3.jpg" alt=""><figcaption></figcaption></figure>
 
 > _“Titik awal”_
 
@@ -118,7 +120,7 @@ Tentunya orang yang dimaksud oleh sang Magistrate adalah Rover sendiri, Rover be
 
 > _“Nama asli Magistrate kami adalah “Hsi”. Biasanya, Sentinel memilih calon selama Upacara Pelantikan untuk menjadi Magistrate kami. Mereka kemudian akan mengambil nama kota sebagai nama belakang mereka. Ini menandakan dedikasi penuh mereka terhadap kota dan rakyatnya.”_
 
-Mengetahui beberapa informasi tambahan, akhirnya Rover memutuskan untuk mengikuti Yangyang dkk menuju kota **Jinzhou** dikarenakan mereka mungkin memiliki informasi penting terkait masa lalunya....
+Mengetahui beberapa informasi tambahan, akhirnya Rover memutuskan untuk mengikuti Yangyang dan kawan-kawan menuju kota **Jinzhou** dikarenakan mereka mungkin memiliki informasi penting terkait masa lalunya....
 
 | \*\*\* |
 | :----: |
@@ -134,7 +136,7 @@ Mengetahui beberapa informasi tambahan, akhirnya Rover memutuskan untuk mengikut
 
 > Jenis fenomena cuaca abnormal yang khusus. Langit tampak menyerupai permukaan laut yang terbalik. Biasanya, ketika fenomena Etheric Sea muncul, Tacet Field akan terbentuk di tanah.
 >
-> Ini adalah bagian dari W**aveworn Phenomenon** yang terkikis, dan selain pembentukan Tacet Field yang pada akhirnya dapat menyebabkan terjadinya **Retroact Rain**.
+> Ini adalah bagian dari **Waveworn Phenomenon** yang terkikis, dan selain pembentukan Tacet Field yang pada akhirnya dapat menyebabkan terjadinya **Retroact Rain**.
 
 * Magistrate
 

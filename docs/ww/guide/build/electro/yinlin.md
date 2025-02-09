@@ -165,4 +165,4 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395535186886676/3.png?ex=67a74a27&#x26;is=67a5f8a7&#x26;hm=2dddfadd22a1f7010af4fbc06637d0fef64897b7a42a1caa06c4343aa1784f54&#x26;" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/TwhsHRF8/Yinlin.png" alt=""><figcaption></figcaption></figure>

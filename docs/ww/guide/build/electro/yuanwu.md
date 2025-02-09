@@ -216,4 +216,4 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395536315023422/4.png?ex=67a74a27&#x26;is=67a5f8a7&#x26;hm=a074f8e90624d0dc29ba554d23c4ced558c4cc27de8957d7cc0e3577e01feba7&#x26;" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/mrmqwcdN/Yuanwu.png" alt=""><figcaption></figcaption></figure>
