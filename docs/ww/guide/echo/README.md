@@ -19,5 +19,14 @@ layout:
 
 Berikut daftar Echo yang terdapat di dalam game yang bisa digunakan oleh pemain dibagi berdasarkan **Cost** yang dapat ditampung oleh terminal.
 
+{% content-ref url="cost-4.md" %}
+[cost-4.md](cost-4.md)
+{% endcontent-ref %}
 
+{% content-ref url="cost-3.md" %}
+[cost-3.md](cost-3.md)
+{% endcontent-ref %}
 
+{% content-ref url="cost-1.md" %}
+[cost-1.md](cost-1.md)
+{% endcontent-ref %}

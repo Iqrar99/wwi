@@ -111,5 +111,5 @@
 ***
 
 * [Facebook Group](https://www.facebook.com/groups/wutheringwavesindo)
-* [Discord Server](https://discord.gg/wwi)
+* [Join Discord](https://discord.gg/wwi)
 * [Contribute](https://github.com/Iqrar99/wwi)
