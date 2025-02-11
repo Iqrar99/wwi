@@ -3,15 +3,7 @@ cover: https://i.postimg.cc/1X5kSGfd/Phoebe.png
 coverY: 0
 ---
 
-# ⚠️ Phoebe
-
-{% hint style="danger" %}
-**KONTEN LEAKS**
-
-Harap menunggu perilisan untuk informasi yang lebih akurat.
-{% endhint %}
-
-***
+# Phoebe
 
 {% hint style="info" %}
 **PHOEBE COMBAT ROLES**

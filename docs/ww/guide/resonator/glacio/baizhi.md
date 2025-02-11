@@ -14,7 +14,7 @@ layout:
 
 # Baizhi
 
-<figure><img src="https://wuthering.wiki/img/rolecard_1103.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://wuthering.wiki/img/rolecard_1103.png" alt="" width="375"><figcaption><p><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></p></figcaption></figure>
 
 ## Skills
 
@@ -51,7 +51,7 @@ Baizhi memanggil You'tan untuk menyerang target, memberikan <img src="https://wu
 Baizhi memanggil You'tan untuk menyembuhkan semua karakter di tim terdekat, menghasilkan 4 stack _<mark style="color:yellow;">**Remnant Entities**</mark>_.
 
 <mark style="color:blue;">**Remnant Entities**</mark>\
-Remnant Entities mengikuti anggota tim yang sedang aktif. 1 stack _<mark style="color:yellow;">**Remnant Entities**</mark>_ akan otomatis dikonsumsi setiap 2,5 detik untuk melakukan Coordinated Attack, memberikan <img src="https://wuthering.wiki/img/element_1.png" alt="" data-size="line"> **Glacio DMG** saat mengenai musuh sambil menyembuhkan semua karakter di tim jika karakter aktif berada dalam jangkauan.
+Remnant Entities mengikuti anggota tim yang sedang aktif. 1 stack _<mark style="color:yellow;">**Remnant Entities**</mark>_ akan otomatis dikonsumsi setiap 2.5 detik untuk melakukan Coordinated Attack, memberikan <img src="https://wuthering.wiki/img/element_1.png" alt="" data-size="line"> **Glacio DMG** saat mengenai musuh sambil menyembuhkan semua karakter di tim jika karakter aktif berada dalam jangkauan.
 
 </details>
 

@@ -30,7 +30,7 @@ Sesampainya di dalam kota, Baizhi memutuskan kembali ke _<mark style="color:blue
 
 Mereka memutuskan untuk berpisah, Rover ditemani oleh Chixia mengelilingi kota Jinzhou dan mendaftarkan Terminalnya di _<mark style="color:blue;">**Resonance Nexus**</mark>_ yang tersedia sebelum melakukan pemeriksaan fisik di Academy.
 
-Baizhi sekali lagi mengingatkan Rover untuk datang ke **Huaxu Academy** untuk mendapatkan pemeriksaan secara berkala serta penelitian lebih lanjut tentang apa yang terjadi pada tubuhnya, ia menjelaskan bahwa kondisi River sekarang sangat menarik perhatian bagi para peneliti termasuk dirinya sendiri
+Baizhi sekali lagi mengingatkan Rover untuk datang ke **Huaxu Academy** untuk mendapatkan pemeriksaan secara berkala serta penelitian lebih lanjut tentang apa yang terjadi pada tubuhnya, ia menjelaskan bahwa kondisi Rover sekarang sangat menarik perhatian bagi para peneliti termasuk dirinya sendiri
 
 Selesai dengan semua percakapannya, mereka pun berpisah...
 

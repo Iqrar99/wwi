@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Pistol
 
 {% hint style="info" %}
@@ -6,210 +20,20 @@ Data BASE ATK dan Sub Stat semuanya di dalam kondisi Level 90
 
 ## :star: 5
 
-<table data-full-width="true">
-    <thead>
-        <tr>
-            <th width="169">Nama</th>
-            <th width="109">Icon</th>
-            <th width="113">BASE ATK</th>
-            <th width="149">Sub Stat</th>
-            <th>Deskripsi</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Static Mist</td>
-            <td><img src="https://wuthering.wiki/img/weapon_21030015.png" alt=""></td>
-            <td>587</td>
-            <td>Crit Rate: 24.3%</td>
-            <td>
-                <p>Meningkatkan Energy Regen sebesar <mark style="color:blue;"><strong>12.8%/16%/19.2%/22.4%/25.6%</strong></mark>. </p>
-                <p>ATK Resonator selanjutnya yang masuk ke pertempuran meningkat sebesar <mark style="color:blue;">1<strong>0%/12.5%/15%/17.5%/20%</strong></mark> selama <mark style="color:blue;"><strong>14</strong></mark> detik, dapat ditumpuk hingga <mark style="color:blue;">1</mark> kali setelah pemegang senjata melakukan Outro SKill.</p>
-            </td>
-        </tr>
-        <tr>
-            <td>The Last Dance</td>
-            <td><img src="https://wuthering.wiki/img/weapon_21030016.png" alt=""></td>
-            <td>500</td>
-            <td>Crit. DMG: 72.0%</td>
-            <td>Meningkatkan ATK sebesar <mark style="color:blue;"><strong>12%/15%/18%/21%/24%</strong></mark>. Setiap kali casting Intro Skill atau Resonance Liberation, Resonance Skill DMG Bonus meningkat sebesar <mark style="color:blue;"><strong>48%/60%/72%/84%/96%</strong></mark> selama <mark style="color:blue;"><strong>5</strong></mark> detik.</td>
-        </tr>
-    </tbody>
-</table>
+<table data-full-width="true"><thead><tr><th width="169">Nama</th><th width="109">Icon</th><th width="113">BASE ATK</th><th width="149">Sub Stat</th><th>Deskripsi</th></tr></thead><tbody><tr><td>Static Mist</td><td><img src="https://wuthering.wiki/img/weapon_21030015.png" alt=""></td><td>587</td><td>Crit Rate: 24.3%</td><td><p>Meningkatkan Energy Regen sebesar <mark style="color:blue;"><strong>12.8%/16%/19.2%/22.4%/25.6%</strong></mark>.</p><p>ATK Resonator selanjutnya yang masuk ke pertempuran meningkat sebesar <mark style="color:blue;">1<strong>0%/12.5%/15%/17.5%/20%</strong></mark> selama <mark style="color:blue;"><strong>14</strong></mark> detik, dapat ditumpuk hingga <mark style="color:blue;">1</mark> kali setelah pemegang senjata melakukan Outro SKill.</p></td></tr><tr><td>The Last Dance</td><td><img src="https://wuthering.wiki/img/weapon_21030016.png" alt=""></td><td>500</td><td>Crit. DMG: 72.0%</td><td>Meningkatkan ATK sebesar <mark style="color:blue;"><strong>12%/15%/18%/21%/24%</strong></mark>. Setiap kali casting Intro Skill atau Resonance Liberation, Resonance Skill DMG Bonus meningkat sebesar <mark style="color:blue;"><strong>48%/60%/72%/84%/96%</strong></mark> selama <mark style="color:blue;"><strong>5</strong></mark> detik.</td></tr></tbody></table>
 
 ## :star: 4
 
-<table data-full-width="true">
-    <thead>
-        <tr>
-            <th width="171">Nama</th>
-            <th width="106">Icon</th>
-            <th width="114">BASE ATK</th>
-            <th width="163">Sub Stat</th>
-            <th>Deskripsi</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Cadenza</td>
-            <td><img src="https://wuthering.wiki/img/weapon_21030024.png" alt=""></td>
-            <td>337</td>
-            <td>Energy Regen: 51.8%</td>
-            <td>
-                <p>Setelah cast Resonance Skill, mengembalikan <mark style="color:blue;"><strong>8/10/12/14/16</strong></mark> Concerto Energy.</p>
-                <p>Efek ini dapat dipicu sekali setiap <mark style="color:blue;"><strong>20</strong></mark> detik.</p>
-            </td>
-        </tr>
-        <tr>
-            <td>Novaburst</td>
-            <td><img src="https://wuthering.wiki/img/weapon_21030064.png" alt=""></td>
-            <td>412</td>
-            <td>ATK: 30.3%</td>
-            <td>
-                <p>Ketika Resonator melakukan <em>dash</em> atau <em>dodge</em>, meningkatkan ATK sebesar <mark style="color:blue;"><strong>4%/5%/6%/7%/8%</strong></mark>, ditumpuk hingga <mark style="color:blue;"><strong>3</strong></mark> kali.</p>
-                <p>Efek ini bertahan selama <mark style="color:blue;"><strong>8</strong></mark> detik.</p>
-            </td>
-        </tr>
-        <tr>
-            <td>Pistols#26</td>
-            <td><img src="https://wuthering.wiki/img/weapon_21030034.png" alt=""></td>
-            <td>387</td>
-            <td>ATK: 36.4%</td>
-            <td>
-                <p>Ketika Resonator tidak menerima DMG, meningkatkan ATK sebesar <mark style="color:blue;"><strong>6%/7.5%/9%/10.5%/12%</strong></mark> setiap <mark style="color:blue;"><strong>5</strong></mark> detik, ditumpuk hingga <mark style="color:blue;"><strong>2</strong></mark> kali.</p>
-                <p>Efek ini bertahan selama <mark style="color:blue;"><strong>8</strong></mark> detik.</p>
-                <p>Ketika Resonator menerima DMG, kehilangan <mark style="color:blue;"><strong>1</strong></mark> stack dan menyembuhkan (heal) <mark style="color:blue;"><strong>5%/6.25%/7.5%/8.75%/10%</strong></mark> dari Max HP mereka.</p>
-            </td>
-        </tr>
-        <tr>
-            <td>Relativistic Jet</td>
-            <td><img src="https://wuthering.wiki/img/weapon_21030084.png" alt=""></td>
-            <td>462</td>
-            <td>ATK: 18.2%</td>
-            <td>Ketika pemegang senjata melakukan Resonance Skill, memberikan <mark style="color:blue;"><strong>6/7/8/9/10</strong></mark> Resonance Energy dan meningkatkan ATK sebesar <mark style="color:blue;"><strong>10%/12.5%/15%/17.5%/20%</strong></mark>, bertahan selama <mark style="color:blue;"><strong>16</strong></mark> detik. Efek ini dapat dipicu sekali setiap <mark style="color:blue;"><strong>20</strong></mark> detik.</td>
-        </tr>
-        <tr>
-            <td>Romance in Farewell</td>
-            <td><img src="https://wuthering.wiki/img/weapon_21030094.png" alt=""></td>
-            <td>462</td>
-            <td>ATK: 18.2%</td>
-            <td>
-                <p>Saat memberikan DMG kepada musuh yang memiliki <em><strong>Status Negatif</strong></em> meningkatkan ATK pemegangnya sebesar <mark style="color:blue;"><strong>4%/5%/6%/7%/8%</strong></mark> selama <mark style="color:blue;"><strong>10</strong></mark> detik.</p>
-                <p>Efek ini dapat dipicu sekali per detik, dapat ditumpuk hingga <mark style="color:blue;"><strong>4</strong></mark> kali.</p>
-            </td>
-        </tr>
-        <tr>
-            <td>Thunderbolt</td>
-            <td><img src="https://wuthering.wiki/img/weapon_21030074.png" alt=""></td>
-            <td>387</td>
-            <td>ATK: 36.4%</td>
-            <td>
-                <p>Saat mengenai target dengan Basic Attac atau Heavy Attack, meningkatkan Resonance Skill DMG Bonus sebesar <mark style="color:blue;"><strong>7%/11%/15%/19%/23%</strong></mark>, ditumpuk hingga <mark style="color:blue;"><strong>3</strong></mark> kali.</p>
-                <p>Efek ini bertahan selama <mark style="color:blue;"><strong>10</strong></mark> detik dan dapat dipicu sekali setiap <mark style="color:blue;"><strong>1</strong></mark> detik.</p>
-            </td>
-        </tr>
-        <tr>
-            <td>Undying Flame</td>
-            <td><img src="https://wuthering.wiki/img/weapon_21030044.png" alt=""></td>
-            <td>412</td>
-            <td>ATK: 30.3%</td>
-            <td>Setelah pemegang senjata melakukan intro skill, meningkatkan Resonance Skill Bonus DMG sebesar <mark style="color:blue;"><strong>20%/25%/30%/35%/40%</strong></mark> selama <mark style="color:blue;"><strong>15</strong></mark> detik.</td>
-        </tr>
-    </tbody>
-</table>
+<table data-full-width="true"><thead><tr><th width="171">Nama</th><th width="106">Icon</th><th width="114">BASE ATK</th><th width="163">Sub Stat</th><th>Deskripsi</th></tr></thead><tbody><tr><td>Cadenza</td><td><img src="https://wuthering.wiki/img/weapon_21030024.png" alt=""></td><td>337</td><td>Energy Regen: 51.8%</td><td><p>Setelah cast Resonance Skill, mengembalikan <mark style="color:blue;"><strong>8/10/12/14/16</strong></mark> Concerto Energy.</p><p>Efek ini dapat dipicu sekali setiap <mark style="color:blue;"><strong>20</strong></mark> detik.</p></td></tr><tr><td>Novaburst</td><td><img src="https://wuthering.wiki/img/weapon_21030064.png" alt=""></td><td>412</td><td>ATK: 30.3%</td><td><p>Ketika Resonator melakukan <em>dash</em> atau <em>dodge</em>, meningkatkan ATK sebesar <mark style="color:blue;"><strong>4%/5%/6%/7%/8%</strong></mark>, ditumpuk hingga <mark style="color:blue;"><strong>3</strong></mark> kali.</p><p>Efek ini bertahan selama <mark style="color:blue;"><strong>8</strong></mark> detik.</p></td></tr><tr><td>Pistols#26</td><td><img src="https://wuthering.wiki/img/weapon_21030034.png" alt=""></td><td>387</td><td>ATK: 36.4%</td><td><p>Ketika Resonator tidak menerima DMG, meningkatkan ATK sebesar <mark style="color:blue;"><strong>6%/7.5%/9%/10.5%/12%</strong></mark> setiap <mark style="color:blue;"><strong>5</strong></mark> detik, ditumpuk hingga <mark style="color:blue;"><strong>2</strong></mark> kali.</p><p>Efek ini bertahan selama <mark style="color:blue;"><strong>8</strong></mark> detik.</p><p>Ketika Resonator menerima DMG, kehilangan <mark style="color:blue;"><strong>1</strong></mark> stack dan menyembuhkan (heal) <mark style="color:blue;"><strong>5%/6.25%/7.5%/8.75%/10%</strong></mark> dari Max HP mereka.</p></td></tr><tr><td>Relativistic Jet</td><td><img src="https://wuthering.wiki/img/weapon_21030084.png" alt=""></td><td>462</td><td>ATK: 18.2%</td><td>Ketika pemegang senjata melakukan Resonance Skill, memberikan <mark style="color:blue;"><strong>6/7/8/9/10</strong></mark> Resonance Energy dan meningkatkan ATK sebesar <mark style="color:blue;"><strong>10%/12.5%/15%/17.5%/20%</strong></mark>, bertahan selama <mark style="color:blue;"><strong>16</strong></mark> detik. Efek ini dapat dipicu sekali setiap <mark style="color:blue;"><strong>20</strong></mark> detik.</td></tr><tr><td>Romance in Farewell</td><td><img src="https://wuthering.wiki/img/weapon_21030094.png" alt=""></td><td>462</td><td>ATK: 18.2%</td><td><p>Saat memberikan DMG kepada musuh yang memiliki <em><strong>Status Negatif</strong></em> meningkatkan ATK pemegangnya sebesar <mark style="color:blue;"><strong>4%/5%/6%/7%/8%</strong></mark> selama <mark style="color:blue;"><strong>10</strong></mark> detik.</p><p>Efek ini dapat dipicu sekali per detik, dapat ditumpuk hingga <mark style="color:blue;"><strong>4</strong></mark> kali.</p></td></tr><tr><td>Thunderbolt</td><td><img src="https://wuthering.wiki/img/weapon_21030074.png" alt=""></td><td>387</td><td>ATK: 36.4%</td><td><p>Saat mengenai target dengan Basic Attac atau Heavy Attack, meningkatkan Resonance Skill DMG Bonus sebesar <mark style="color:blue;"><strong>7%/11%/15%/19%/23%</strong></mark>, ditumpuk hingga <mark style="color:blue;"><strong>3</strong></mark> kali.</p><p>Efek ini bertahan selama <mark style="color:blue;"><strong>10</strong></mark> detik dan dapat dipicu sekali setiap <mark style="color:blue;"><strong>1</strong></mark> detik.</p></td></tr><tr><td>Undying Flame</td><td><img src="https://wuthering.wiki/img/weapon_21030044.png" alt=""></td><td>412</td><td>ATK: 30.3%</td><td>Setelah pemegang senjata melakukan intro skill, meningkatkan Resonance Skill Bonus DMG sebesar <mark style="color:blue;"><strong>20%/25%/30%/35%/40%</strong></mark> selama <mark style="color:blue;"><strong>15</strong></mark> detik.</td></tr></tbody></table>
 
 ## :star: 3
 
-<table data-full-width="true">
-    <thead>
-        <tr>
-            <th width="170">Nama</th>
-            <th width="105">Icon</th>
-            <th width="116">BASE ATK</th>
-            <th width="164">Sub Stat</th>
-            <th>Deskripsi</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Guardian Pistols</td>
-            <td><img src="https://wuthering.wiki/img/weapon_21030053.png" alt=""></td>
-            <td>300</td>
-            <td>ATK: 30.3%</td>
-            <td>Resonance Skill DMG Bonus meningkat sebesar <mark style="color:blue;"><strong>12%/15%/18%/21%/24%</strong></mark>.</td>
-        </tr>
-        <tr>
-            <td>Originite: Type III</td>
-            <td><img src="https://wuthering.wiki/img/weapon_21030023.png" alt=""></td>
-            <td>325</td>
-            <td>ATK: 24.3%</td>
-            <td>
-                <p>Setelah pengguna melakukan Dodge Counter, menyembuhkan (healing) <mark style="color:blue;"><strong>1.6%/2%/2.4%/2.8%/3.2%</strong></mark> dari Max HP Resonator.</p>
-                <p>Efek ini dapat dipicu sekali setiap <mark style="color:blue;"><strong>6</strong></mark> detik.</p>
-            </td>
-        </tr>
-        <tr>
-            <td>Pistol of Night</td>
-            <td><img src="https://wuthering.wiki/img/weapon_21030013.png" alt=""></td>
-            <td>325</td>
-            <td>ATK: 24.3%</td>
-            <td>Setelah pengguna melakukan Intro Skill, meningkatkan ATK sebesar <mark style="color:blue;"><strong>8%/10%/12%/14%/16%</strong></mark>, bertahan selama <mark style="color:blue;"><strong>10</strong></mark> detik.</td>
-        </tr>
-        <tr>
-            <td>Pistol of Voyager</td>
-            <td><img src="https://wuthering.wiki/img/weapon_21030043.png" alt=""></td>
-            <td>300</td>
-            <td>ATK: 30.3%</td>
-            <td>
-                <p>Setelah pengguna melakukan Resonance Skill, memulihkan <mark style="color:blue;"><strong>8/9/10/11/12</strong></mark> Resonance Energy.</p>
-                <p>Efek ini dapat dipicu sekali setiap <mark style="color:blue;"><strong>20</strong></mark> detik.</p>
-            </td>
-        </tr>
-    </tbody>
-</table>
+<table data-full-width="true"><thead><tr><th width="170">Nama</th><th width="105">Icon</th><th width="116">BASE ATK</th><th width="164">Sub Stat</th><th>Deskripsi</th></tr></thead><tbody><tr><td>Guardian Pistols</td><td><img src="https://wuthering.wiki/img/weapon_21030053.png" alt=""></td><td>300</td><td>ATK: 30.3%</td><td>Resonance Skill DMG Bonus meningkat sebesar <mark style="color:blue;"><strong>12%/15%/18%/21%/24%</strong></mark>.</td></tr><tr><td>Originite: Type III</td><td><img src="https://wuthering.wiki/img/weapon_21030023.png" alt=""></td><td>325</td><td>ATK: 24.3%</td><td><p>Setelah pengguna melakukan Dodge Counter, menyembuhkan (healing) <mark style="color:blue;"><strong>1.6%/2%/2.4%/2.8%/3.2%</strong></mark> dari Max HP Resonator.</p><p>Efek ini dapat dipicu sekali setiap <mark style="color:blue;"><strong>6</strong></mark> detik.</p></td></tr><tr><td>Pistol of Night</td><td><img src="https://wuthering.wiki/img/weapon_21030013.png" alt=""></td><td>325</td><td>ATK: 24.3%</td><td>Setelah pengguna melakukan Intro Skill, meningkatkan ATK sebesar <mark style="color:blue;"><strong>8%/10%/12%/14%/16%</strong></mark>, bertahan selama <mark style="color:blue;"><strong>10</strong></mark> detik.</td></tr><tr><td>Pistol of Voyager</td><td><img src="https://wuthering.wiki/img/weapon_21030043.png" alt=""></td><td>300</td><td>ATK: 30.3%</td><td><p>Setelah pengguna melakukan Resonance Skill, memulihkan <mark style="color:blue;"><strong>8/9/10/11/12</strong></mark> Resonance Energy.</p><p>Efek ini dapat dipicu sekali setiap <mark style="color:blue;"><strong>20</strong></mark> detik.</p></td></tr></tbody></table>
 
 ## :star: 2
 
-<table data-full-width="true">
-    <thead>
-        <tr>
-            <th width="171">Nama</th>
-            <th width="93">Icon</th>
-            <th width="127">BASE ATK</th>
-            <th width="165">Sub Stat</th>
-            <th>Deskripsi</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Tyro Pistols</td>
-            <td><img src="https://wuthering.wiki/img/weapon_21030012.png" alt=""></td>
-            <td>208</td>
-            <td>ATK: 12.2%</td>
-            <td>Meningkatkan ATK sebesar <mark style="color:blue;"><strong>5%/6.25%/7.5%/8.75%/10%</strong></mark>.</td>
-        </tr>
-    </tbody>
-</table>
+<table data-full-width="true"><thead><tr><th width="171">Nama</th><th width="93">Icon</th><th width="127">BASE ATK</th><th width="165">Sub Stat</th><th>Deskripsi</th></tr></thead><tbody><tr><td>Tyro Pistols</td><td><img src="https://wuthering.wiki/img/weapon_21030012.png" alt=""></td><td>208</td><td>ATK: 12.2%</td><td>Meningkatkan ATK sebesar <mark style="color:blue;"><strong>5%/6.25%/7.5%/8.75%/10%</strong></mark>.</td></tr></tbody></table>
 
 ## :star: 1
 
-<table data-full-width="true">
-    <thead>
-        <tr>
-            <th width="171">Nama</th>
-            <th width="95">Icon</th>
-            <th width="127">BASE ATK</th>
-            <th width="163">Sub Stat</th>
-            <th>Deskripsi</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Training Pistols</td>
-            <td><img src="https://wuthering.wiki/img/weapon_21030011.png" alt=""></td>
-            <td>189</td>
-            <td>ATK: 9.4%</td>
-            <td>Meningkatkan ATK sebesar <mark style="color:blue;"><strong>4%/5%/6%/7%/8%</strong></mark>.</td>
-        </tr>
-    </tbody>
-</table>
+<table data-full-width="true"><thead><tr><th width="171">Nama</th><th width="95">Icon</th><th width="127">BASE ATK</th><th width="163">Sub Stat</th><th>Deskripsi</th></tr></thead><tbody><tr><td>Training Pistols</td><td><img src="https://wuthering.wiki/img/weapon_21030011.png" alt=""></td><td>189</td><td>ATK: 9.4%</td><td>Meningkatkan ATK sebesar <mark style="color:blue;"><strong>4%/5%/6%/7%/8%</strong></mark>.</td></tr></tbody></table>
