@@ -8,7 +8,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -23,4 +23,13 @@ layout:
 Konten ini mendukung **Bahasa Indonesia**
 {% endhint %}
 
-TBA
+{% hint style="warning" %}
+Setiap tulisan yang disuguhi merupakan **rangkuman** dari keseluruhan segmen cerita.
+{% endhint %}
+
+Daftar rangkuman companion quest yang tersedia:
+
+{% content-ref url="lingyang-wild-hearts-return.md" %}
+[lingyang-wild-hearts-return.md](lingyang-wild-hearts-return.md)
+{% endcontent-ref %}
+

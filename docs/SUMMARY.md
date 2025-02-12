@@ -98,7 +98,8 @@
       * [Utterance of Marvels: II](ww/lore/main-story/prologue/utterance-of-marvels-ii.md)
     * [Chapter I](ww/lore/main-story/chapter-i/README.md)
       * [Act 1: First Resonance](ww/lore/main-story/chapter-i/act-1-first-resonance.md)
-  * [Companion Quest](ww/lore/companion-quest.md)
+  * [Companion Quest](ww/lore/companion-quest/README.md)
+    * [Lingyang - Wild Heart's Return](ww/lore/companion-quest/lingyang-wild-hearts-return.md)
   * [Character Backstory](ww/lore/character-backstory.md)
 
 ## Solaris-3 Bot <a href="#solaris-3" id="solaris-3"></a>
@@ -113,3 +114,4 @@
 * [Facebook Group](https://www.facebook.com/groups/wutheringwavesindo)
 * [Join Discord](https://discord.gg/wwi)
 * [Contribute](https://github.com/Iqrar99/wwi)
+* [Changelogs](changelogs.md)

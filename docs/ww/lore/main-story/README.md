@@ -27,7 +27,7 @@ Konten ini mendukung **Bahasa Indonesia**
 Setiap tulisan yang disuguhi merupakan **rangkuman** dari keseluruhan segmen cerita.
 {% endhint %}
 
-Daftar rangkuman main story tersedia:
+Daftar rangkuman main story yang tersedia:
 
 <details>
 
