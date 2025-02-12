@@ -108,6 +108,14 @@
 * [⚙️ Commands](solaris-3/commands/README.md)
   * [Help](solaris-3/commands/help.md)
   * [About](solaris-3/commands/about.md)
+  * [Weapon](solaris-3/commands/about-1.md)
+  * [Echo](solaris-3/commands/about-2.md)
+  * [Sonata Effect](solaris-3/commands/about-3.md)
+  * [Character Kit](solaris-3/commands/about-4.md)
+  * [Resonance Chain](solaris-3/commands/about-5.md)
+  * [Ascension Information](solaris-3/commands/about-6.md)
+  * [Waveplate Reminder](solaris-3/commands/about-7.md)
+  * [Patch Calendar](solaris-3/commands/about-8.md)
 
 ***
 
