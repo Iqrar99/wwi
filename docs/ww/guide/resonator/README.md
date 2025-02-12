@@ -13,6 +13,5 @@ layout:
     visible: false
 ---
 
-# Resonator Profile
+# Resonator Kit
 
-TBA
