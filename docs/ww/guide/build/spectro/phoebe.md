@@ -18,15 +18,26 @@ coverY: 0
 {% tabs %}
 {% tab title="Luminous Hymn" %}
 {% hint style="success" %}
+Best In Slot
+{% endhint %}
+
+:mag: **Review Senjata**
+
+> TBA
+
+<figure><img src="https://wuthering.wiki/img/weapon_21050046.png" alt="" width="188"><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Ocean's Gift" %}
+{% hint style="success" %}
 Direkomendasikan
 {% endhint %}
 
-:mag: **Info Senjata**
+:mag: **Review Senjata**
 
-* ATK (Lv.90): **500**
-* CRIT Rate: **36%**
+> TBA
 
-<figure><img src="https://wuthering.wiki/img/weapon_21050046.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="https://wuthering.wiki/img/weapon_21050027.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Stringmaster" %}
@@ -34,64 +45,35 @@ Direkomendasikan
 Direkomendasikan
 {% endhint %}
 
-:mag: **Info Senjata**
+:mag: **Review Senjata**
 
-* ATK (Lv.90): **500**
-* CRIT Rate: **36%**
+> TBA
 
 <figure><img src="https://wuthering.wiki/img/weapon_21050016.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Rime - Draped Sprouts" %}
-{% hint style="success" %}
-Best In Slot
+{% hint style="info" %}
+Alternatif
 {% endhint %}
 
-:mag: **Info Senjata**
+:mag: **Review Senjata**
 
-* ATK (Lv.90): **500**
-* CRIT DMG (Lv.90): **72%**
+> TBA
 
 <figure><img src="https://wuthering.wiki/img/weapon_21050026.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Cosmic Riffles" %}
-{% hint style="info" %}
-Back up
-{% endhint %}
-
-:mag: **Info Senjata**
-
-* ATK (Lv.90): **500**
-* ATK (Lv.90): **54%**
-
-<figure><img src="https://wuthering.wiki/img/weapon_21050015.png" alt="" width="188"><figcaption></figcaption></figure>
-{% endtab %}
-
 {% tab title="Augment" %}
 {% hint style="info" %}
-Back up
+Alternatif
 {% endhint %}
 
-:mag: **Info Senjata**
+:mag: **Review Senjata**
 
-* ATK (Lv.90): **412**
-* CRIT Rate (Lv.90): **20.2%**
+> TBA
 
 <figure><img src="https://wuthering.wiki/img/weapon_21050074.png" alt="" width="188"><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Jinzhou Keeper" %}
-{% hint style="info" %}
-Back up
-{% endhint %}
-
-:mag: **Info Senjata**
-
-* ATK (Lv.90): **387**
-* ATK (Lv.90): **36.4%**
-
-<figure><img src="https://wuthering.wiki/img/weapon_21050044.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
