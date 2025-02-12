@@ -18,5 +18,5 @@ layout:
 ## 12/02/2025
 
 * Add Lingyang companion quest summary
-* Initial Publication
+* Initial publication
 

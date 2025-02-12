@@ -20,20 +20,242 @@ Data BASE ATK dan Sub Stat semuanya di dalam kondisi Level 90
 
 ## :star: 5
 
-<table data-full-width="true"><thead><tr><th width="169">Nama</th><th width="109">Icon</th><th width="113">BASE ATK</th><th width="149">Sub Stat</th><th>Deskripsi</th></tr></thead><tbody><tr><td>Blazing Brilliance</td><td><img src="https://wuthering.wiki/img/weapon_21020016.png" alt=""></td><td>587</td><td>Crit DMG: 48.6%</td><td><p>ATK meningkat sebesar <mark style="color:blue;"><strong>12%/15%/18%/21%/24%</strong></mark>.</p><p>Pengguna memperoleh <mark style="color:blue;"><strong>1</strong></mark> stack <em><strong>Searing Feather</strong></em> saat memberikan damage, yang dapat dipicu sekali setiap <mark style="color:blue;"><strong>0,5</strong></mark> detik, dan memperoleh <mark style="color:blue;"><strong>5</strong></mark> stack dengan efek yang sama saat casting Resonance Skill.</p><p>Setiap stack <em><strong>Searing Feather</strong></em> memberikan <mark style="color:blue;"><strong>4%/5%/6%/7%/8%</strong></mark> Bonus DMG Resonance Skill tambahan hingga <mark style="color:blue;"><strong>14</strong></mark> stack.</p><p>Setelah stack mencapai maksimal, semua stack akan dihapus dalam <mark style="color:blue;">12</mark> detik.</p></td></tr><tr><td>Emerald of Genesis</td><td><img src="https://wuthering.wiki/img/weapon_21020015.png" alt=""></td><td>587</td><td>CRIT Rate: <strong>24.3%</strong></td><td>Meningkatkan Energy Regen sebesar <mark style="color:blue;"><strong>12.8%/16%/19.2%/22.4%/25.6%</strong></mark>. Saat Resonance Skill dilepaskan, meningkatkan ATK sebesar <mark style="color:blue;"><strong>6%/7.5%/9%/10.5%/12%</strong></mark>, dapat ditumpuk hingga <mark style="color:blue;"><strong>2</strong></mark> kali. Efek ini berlangsung selama <mark style="color:blue;"><strong>10</strong></mark> detik.</td></tr><tr><td>Red Spring</td><td><img src="https://wuthering.wiki/img/weapon_21020026.png" alt=""></td><td>587</td><td>CRIT Rate: <strong>24.3%</strong></td><td>Meningkatkan ATK sebesar <mark style="color:blue;">1<strong>2%/15%/18%/21%/24%</strong></mark>. Setelah pemegang senjata menghasilkan Basic Attack DMG, pengguna memperoleh <mark style="color:blue;"><strong>10%/12.5%/15%/17.5%/20%</strong></mark> Basic Attack DMG Bonus selama <mark style="color:blue;"><strong>14</strong></mark> detik. Efek ini dapat dipicu sekali per detik, dapat ditumpuk hingga <mark style="color:blue;"><strong>3</strong></mark> kali. Saat Concerto Energy pengguna dikonsumsi, memperoleh <mark style="color:blue;"><strong>40%/50%/60%/70%/80%</strong></mark> Basic DMG Bonus selama <mark style="color:blue;"><strong>10</strong></mark> detik. Efek ini dapat dipicu sekali per detik dan berakhir saat pengguna keluar dari field.</td></tr><tr><td>Unflickering Valor</td><td><img src="https://wuthering.wiki/img/weapon_21020036.png" alt=""></td><td>412</td><td>Energy Regen: 77.0<strong>%</strong></td><td>Meningkatkan Crit Rate sebesar <mark style="color:blue;"><strong>8%/10%/12%/14%/16%</strong></mark>. Ketika Pemegang senjata melakukan Resonance Liberation memberikan <mark style="color:blue;"><strong>24%/30%/36%/42%/48%</strong></mark> Basic Attack DMG Bonus selama <mark style="color:blue;"><strong>10</strong></mark> detik. Casting Basic Attack DMG memberikan <mark style="color:blue;"><strong>24%/30%/36%/42%/48%</strong></mark> Basic Attack DMG Bonus selama <mark style="color:blue;"><strong>4</strong></mark> detik.</td></tr></tbody></table>
+<table data-full-width="true">
+  <thead>
+    <tr>
+      <th width="169">Nama</th>
+      <th width="109">Icon</th>
+      <th width="113">BASE ATK</th>
+      <th width="149">Sub Stat</th>
+      <th>Deskripsi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Blazing Brilliance</td>
+      <td><img src="https://wuthering.wiki/img/weapon_21020016.png" alt=""></td>
+      <td>587</td>
+      <td>Crit DMG: 48.6%</td>
+      <td>
+        <p>ATK meningkat sebesar <mark style="color:blue;"><strong>12%/15%/18%/21%/24%</strong></mark>.</p>
+        <p>Pengguna memperoleh <mark style="color:blue;"><strong>1</strong></mark> stack <em><strong>Searing Feather</strong></em> saat memberikan damage, yang dapat dipicu sekali setiap <mark style="color:blue;"><strong>0,5</strong></mark> detik, dan memperoleh <mark style="color:blue;"><strong>5</strong></mark> stack dengan efek yang sama saat casting Resonance Skill.</p>
+        <p>Setiap stack <em><strong>Searing Feather</strong></em> memberikan <mark style="color:blue;"><strong>4%/5%/6%/7%/8%</strong></mark> Bonus DMG Resonance Skill tambahan hingga <mark style="color:blue;"><strong>14</strong></mark> stack.</p>
+        <p>Setelah stack mencapai maksimal, semua stack akan dihapus dalam <mark style="color:blue;">12</mark> detik.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Emerald of Genesis</td>
+      <td><img src="https://wuthering.wiki/img/weapon_21020015.png" alt=""></td>
+      <td>587</td>
+      <td>CRIT Rate: <strong>24.3%</strong></td>
+      <td>Meningkatkan Energy Regen sebesar <mark style="color:blue;"><strong>12.8%/16%/19.2%/22.4%/25.6%</strong></mark>. Saat Resonance Skill dilepaskan, meningkatkan ATK sebesar <mark style="color:blue;"><strong>6%/7.5%/9%/10.5%/12%</strong></mark>, dapat ditumpuk hingga <mark style="color:blue;"><strong>2</strong></mark> kali. Efek ini berlangsung selama <mark style="color:blue;"><strong>10</strong></mark> detik.</td>
+    </tr>
+    <tr>
+      <td>Red Spring</td>
+      <td><img src="https://wuthering.wiki/img/weapon_21020026.png" alt=""></td>
+      <td>587</td>
+      <td>CRIT Rate: <strong>24.3%</strong></td>
+      <td>Meningkatkan ATK sebesar <mark style="color:blue;">1<strong>2%/15%/18%/21%/24%</strong></mark>. Setelah pemegang senjata menghasilkan Basic Attack DMG, pengguna memperoleh <mark style="color:blue;"><strong>10%/12.5%/15%/17.5%/20%</strong></mark> Basic Attack DMG Bonus selama <mark style="color:blue;"><strong>14</strong></mark> detik. Efek ini dapat dipicu sekali per detik, dapat ditumpuk hingga <mark style="color:blue;"><strong>3</strong></mark> kali. Saat Concerto Energy pengguna dikonsumsi, memperoleh <mark style="color:blue;"><strong>40%/50%/60%/70%/80%</strong></mark> Basic DMG Bonus selama <mark style="color:blue;"><strong>10</strong></mark> detik. Efek ini dapat dipicu sekali per detik dan berakhir saat pengguna keluar dari field.</td>
+    </tr>
+    <tr>
+      <td>Unflickering Valor</td>
+      <td><img src="https://wuthering.wiki/img/weapon_21020036.png" alt=""></td>
+      <td>412</td>
+      <td>Energy Regen: 77.0<strong>%</strong></td>
+      <td>Meningkatkan Crit Rate sebesar <mark style="color:blue;"><strong>8%/10%/12%/14%/16%</strong></mark>. Ketika Pemegang senjata melakukan Resonance Liberation memberikan <mark style="color:blue;"><strong>24%/30%/36%/42%/48%</strong></mark> Basic Attack DMG Bonus selama <mark style="color:blue;"><strong>10</strong></mark> detik. Casting Basic Attack DMG memberikan <mark style="color:blue;"><strong>24%/30%/36%/42%/48%</strong></mark> Basic Attack DMG Bonus selama <mark style="color:blue;"><strong>4</strong></mark> detik.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## :star: 4
 
-<table data-full-width="true"><thead><tr><th width="167">Nama</th><th width="109">Icon</th><th width="116">BASE ATK</th><th width="149">Sub Stat</th><th>Deskripsi</th></tr></thead><tbody><tr><td>Commando of Conviction</td><td><img src="https://wuthering.wiki/img/weapon_21020044.png" alt=""></td><td>412</td><td>ATK: 30.3%</td><td>Saat pemegang senjata melakukan Intro Skill, meningkatkan ATK sebesar <mark style="color:blue;"><strong>15%/18.75%/22.5%/26.25%/30%</strong></mark>, bertahan selama <mark style="color:blue;"><strong>15</strong></mark> detik.</td></tr><tr><td>Endless Collapse</td><td><img src="https://wuthering.wiki/img/weapon_21020084.png" alt=""></td><td>462</td><td>ATK: 18.2%</td><td><p>Ketika pengguna melakukan Resonance Skill, akan memberikan Resonance Energy <mark style="color:blue;"><strong>6/7/8/9/10</strong></mark> dan meningkatkan ATK sebesar <mark style="color:blue;"><strong>10%/12.5%/15%/17.5%/20%</strong></mark>, yang berlangsung selama <mark style="color:blue;"><strong>16</strong></mark> detik.</p><p>Efek ini dapat dipicu setiap <mark style="color:blue;"><strong>20</strong></mark> detik sekali.</p></td></tr><tr><td>Fables of Wisdom</td><td><img src="https://wuthering.wiki/img/weapon_21020094.png" alt=""></td><td>462</td><td>ATK: 18.2%</td><td><p>Memberikan DMG kepada musuh dengan <em><strong>Status Negatif</strong></em> meningkatkan ATK pemegangnya sebesar <mark style="color:blue;"><strong>4%/5%/6%/7%/8%</strong></mark> selama <mark style="color:blue;"><strong>10</strong></mark> detik.</p><p>Efek ini dapat dipicu <mark style="color:blue;"><strong>1</strong></mark> kali per detik, dapat ditumpuk hingga <mark style="color:blue;"><strong>4</strong></mark> kali.</p></td></tr><tr><td>Lumingloss</td><td><img src="https://wuthering.wiki/img/weapon_21020074.png" alt=""></td><td>387</td><td>ATK: 36.4%</td><td><p>Setelah pemegang senjata melakukan Resonance Skill, meningkatkan Basic ATK DMG Bonus dan Heavy ATK DMG Bonus sebesar <mark style="color:blue;"><strong>20%/31%/42%/53%/64%</strong></mark>, bertumpuk hingga <mark style="color:blue;"><strong>1</strong></mark> kali.</p><p>Efek ini bertahan selama <mark style="color:blue;"><strong>10</strong></mark> detik dan dapat dipicu <mark style="color:blue;"><strong>1</strong></mark> kali setiap <mark style="color:blue;"><strong>1</strong></mark> detik.</p></td></tr><tr><td>Lunar Cutter</td><td><img src="https://wuthering.wiki/img/weapon_21020064.png" alt=""></td><td>412</td><td>ATK: 30.3%</td><td><p>Pemegang senjata mendapatkan <mark style="color:blue;"><strong>6</strong></mark> stack <em><strong>Oath</strong></em> saat masuk field.</p><p>Setiap stack meningkatkan ATK sebesar <mark style="color:blue;"><strong>2%/2.5%/3%/3.5%/4%</strong></mark>, hingga maksimum <mark style="color:blue;"><strong>6</strong></mark> stack.</p><p>Efek ini dapat dipicu sekali setiap <mark style="color:blue;"><strong>12</strong></mark> detik.</p><p>Pemegang senjata kehilangan <mark style="color:blue;"><strong>1</strong></mark> stack <em><strong>Oath</strong></em> setiap <mark style="color:blue;"><strong>2</strong></mark> detik, dan mendapatkan <mark style="color:blue;"><strong>6</strong></mark> stack setelah mengalahkan musuh.</p></td></tr><tr><td>Overture</td><td><img src="https://wuthering.wiki/img/weapon_21020024.png" alt=""></td><td>337</td><td>Energy Regen: 51.8%</td><td><p>Ketika pemegang senjata melakukan Resonance Skill, mengembalikan <mark style="color:blue;"><strong>8/10/12/14/16</strong></mark> Concerto Energy.</p><p>Efek ini dapat dipicu sekali setiap <mark style="color:blue;"><strong>20</strong></mark> detik.</p></td></tr><tr><td>Somnoire Anchor</td><td><img src="https://wuthering.wiki/img/weapon_21020017.png" alt=""></td><td>462</td><td>ATK: 18.2%</td><td><p>Dapatkan <mark style="color:blue;"><strong>1</strong></mark> stack <em><strong>Hiss</strong></em> saat memberikan damage, dengan <mark style="color:blue;"><strong>1</strong></mark> stack dihasilkan setiap <mark style="color:blue;"><strong>1</strong></mark> detik.</p><p><em><strong>Hiss</strong></em>: setiap stack meningkatkan ATK pemegang senjata sebesar <mark style="color:blue;"><strong>2%/2.5%/3%/3.5%/4%</strong></mark> selama <mark style="color:blue;"><strong>3</strong></mark> detik, hingga maksimum <mark style="color:blue;"><strong>10</strong></mark> stack.</p><p>Mengganti Karakter akan menghapus semua stack.</p><p>Mendapatkan <mark style="color:blue;"><strong>10</strong></mark> stack meningkatkan Crit Rate pemegang sebesar <mark style="color:blue;"><strong>6%/7.5%/9%/10.5%/12%</strong></mark>.</p></td></tr><tr><td>Sword#18</td><td><img src="https://wuthering.wiki/img/weapon_21020034.png" alt=""></td><td>387</td><td>ATK: 36.4%</td><td><p>Ketika HP Resonator turun di bawah <mark style="color:blue;"><strong>40%/50%/60%/70%/80%</strong></mark>, meningkatkan Heavy ATK DMG Bonus sebesar <mark style="color:blue;"><strong>18%/22.5%/27%/31.5%/36%</strong></mark> dan memberikan efek Healing sebesar <mark style="color:blue;"><strong>5%/6.25%/7.5%/8.75%/10%</strong></mark> saat pemegang senjata menimbulkan Heavy ATK DMG.</p><p>Efek ini dapat dipicu sekali setiap <mark style="color:blue;"><strong>8</strong></mark> detik.</p></td></tr></tbody></table>
+<table data-full-width="true">
+  <thead>
+    <tr>
+      <th width="167">Nama</th>
+      <th width="109">Icon</th>
+      <th width="116">BASE ATK</th>
+      <th width="149">Sub Stat</th>
+      <th>Deskripsi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Commando of Conviction</td>
+      <td><img src="https://wuthering.wiki/img/weapon_21020044.png" alt=""></td>
+      <td>412</td>
+      <td>ATK: 30.3%</td>
+      <td>Saat pemegang senjata melakukan Intro Skill, meningkatkan ATK sebesar <mark style="color:blue;"><strong>15%/18.75%/22.5%/26.25%/30%</strong></mark>, bertahan selama <mark style="color:blue;"><strong>15</strong></mark> detik.</td>
+    </tr>
+    <tr>
+      <td>Endless Collapse</td>
+      <td><img src="https://wuthering.wiki/img/weapon_21020084.png" alt=""></td>
+      <td>462</td>
+      <td>ATK: 18.2%</td>
+      <td>
+        <p>Ketika pengguna melakukan Resonance Skill, akan memberikan Resonance Energy <mark style="color:blue;"><strong>6/7/8/9/10</strong></mark> dan meningkatkan ATK sebesar <mark style="color:blue;"><strong>10%/12.5%/15%/17.5%/20%</strong></mark>, yang berlangsung selama <mark style="color:blue;"><strong>16</strong></mark> detik.</p>
+        <p>Efek ini dapat dipicu setiap <mark style="color:blue;"><strong>20</strong></mark> detik sekali.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Fables of Wisdom</td>
+      <td><img src="https://wuthering.wiki/img/weapon_21020094.png" alt=""></td>
+      <td>462</td>
+      <td>ATK: 18.2%</td>
+      <td>
+        <p>Memberikan DMG kepada musuh dengan <em><strong>Status Negatif</strong></em> meningkatkan ATK pemegangnya sebesar <mark style="color:blue;"><strong>4%/5%/6%/7%/8%</strong></mark> selama <mark style="color:blue;"><strong>10</strong></mark> detik.</p>
+        <p>Efek ini dapat dipicu <mark style="color:blue;"><strong>1</strong></mark> kali per detik, dapat ditumpuk hingga <mark style="color:blue;"><strong>4</strong></mark> kali.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Lumingloss</td>
+      <td><img src="https://wuthering.wiki/img/weapon_21020074.png" alt=""></td>
+      <td>387</td>
+      <td>ATK: 36.4%</td>
+      <td>
+        <p>Setelah pemegang senjata melakukan Resonance Skill, meningkatkan Basic ATK DMG Bonus dan Heavy ATK DMG Bonus sebesar <mark style="color:blue;"><strong>20%/31%/42%/53%/64%</strong></mark>, bertumpuk hingga <mark style="color:blue;"><strong>1</strong></mark> kali.</p>
+        <p>Efek ini bertahan selama <mark style="color:blue;"><strong>10</strong></mark> detik dan dapat dipicu <mark style="color:blue;"><strong>1</strong></mark> kali setiap <mark style="color:blue;"><strong>1</strong></mark> detik.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Lunar Cutter</td>
+      <td><img src="https://wuthering.wiki/img/weapon_21020064.png" alt=""></td>
+      <td>412</td>
+      <td>ATK: 30.3%</td>
+      <td>
+        <p>Pemegang senjata mendapatkan <mark style="color:blue;"><strong>6</strong></mark> stack <em><strong>Oath</strong></em> saat masuk field.</p>
+        <p>Setiap stack meningkatkan ATK sebesar <mark style="color:blue;"><strong>2%/2.5%/3%/3.5%/4%</strong></mark>, hingga maksimum <mark style="color:blue;"><strong>6</strong></mark> stack.</p>
+        <p>Efek ini dapat dipicu sekali setiap <mark style="color:blue;"><strong>12</strong></mark> detik.</p>
+        <p>Pemegang senjata kehilangan <mark style="color:blue;"><strong>1</strong></mark> stack <em><strong>Oath</strong></em> setiap <mark style="color:blue;"><strong>2</strong></mark> detik, dan mendapatkan <mark style="color:blue;"><strong>6</strong></mark> stack setelah mengalahkan musuh.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Overture</td>
+      <td><img src="https://wuthering.wiki/img/weapon_21020024.png" alt=""></td>
+      <td>337</td>
+      <td>Energy Regen: 51.8%</td>
+      <td>
+        <p>Ketika pemegang senjata melakukan Resonance Skill, mengembalikan <mark style="color:blue;"><strong>8/10/12/14/16</strong></mark> Concerto Energy.</p>
+        <p>Efek ini dapat dipicu sekali setiap <mark style="color:blue;"><strong>20</strong></mark> detik.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Somnoire Anchor</td>
+      <td><img src="https://wuthering.wiki/img/weapon_21020017.png" alt=""></td>
+      <td>462</td>
+      <td>ATK: 18.2%</td>
+      <td>
+        <p>Dapatkan <mark style="color:blue;"><strong>1</strong></mark> stack <em><strong>Hiss</strong></em> saat memberikan damage, dengan <mark style="color:blue;"><strong>1</strong></mark> stack dihasilkan setiap <mark style="color:blue;"><strong>1</strong></mark> detik.</p>
+        <p><em><strong>Hiss</strong></em>: setiap stack meningkatkan ATK pemegang senjata sebesar <mark style="color:blue;"><strong>2%/2.5%/3%/3.5%/4%</strong></mark> selama <mark style="color:blue;"><strong>3</strong></mark> detik, hingga maksimum <mark style="color:blue;"><strong>10</strong></mark> stack.</p>
+        <p>Mengganti Karakter akan menghapus semua stack.</p>
+        <p>Mendapatkan <mark style="color:blue;"><strong>10</strong></mark> stack meningkatkan Crit Rate pemegang sebesar <mark style="color:blue;"><strong>6%/7.5%/9%/10.5%/12%</strong></mark>.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Sword#18</td>
+      <td><img src="https://wuthering.wiki/img/weapon_21020034.png" alt=""></td>
+      <td>387</td>
+      <td>ATK: 36.4%</td>
+      <td>
+        <p>Ketika HP Resonator turun di bawah <mark style="color:blue;"><strong>40%/50%/60%/70%/80%</strong></mark>, meningkatkan Heavy ATK DMG Bonus sebesar <mark style="color:blue;"><strong>18%/22.5%/27%/31.5%/36%</strong></mark> dan memberikan efek Healing sebesar <mark style="color:blue;"><strong>5%/6.25%/7.5%/8.75%/10%</strong></mark> saat pemegang senjata menimbulkan Heavy ATK DMG.</p>
+        <p>Efek ini dapat dipicu sekali setiap <mark style="color:blue;"><strong>8</strong></mark> detik.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## :star: 3
 
-<table data-full-width="true"><thead><tr><th width="169">Nama</th><th width="109">Icon</th><th width="120">BASE ATK</th><th width="147">Sub Stat</th><th>Deskripsi</th></tr></thead><tbody><tr><td>Guardian Sword</td><td><img src="https://wuthering.wiki/img/weapon_21020053.png" alt=""></td><td>300</td><td>ATK: 30.3%</td><td>Resonance SKill Bonus DMG meningkat sebesar <mark style="color:blue;"><strong>12%/15%/18%/21%/24%</strong></mark>.</td></tr><tr><td>Originite: Type II</td><td><img src="https://wuthering.wiki/img/weapon_21020023.png" alt=""></td><td>325</td><td>ATK: 24.3%</td><td><p>Ketika pemegang senjata melakukan Resonance Liberation, menyembuhkan <mark style="color:blue;"><strong>5%/.%/7.5%/8.75%/10%</strong></mark> dari Max HP Resonator.</p><p>Efek ini dapat dipicu sekali setiap <mark style="color:blue;"><strong>20</strong></mark> detik.</p></td></tr><tr><td>Sword of Night</td><td><img src="https://wuthering.wiki/img/weapon_21020013.png" alt=""></td><td>325</td><td>ATK: 24.3%</td><td>Setelah Intro, meningkatkan ATK sebesar <mark style="color:blue;"><strong>8%/10%/12%/14%/16%</strong></mark>, bertahan selama <mark style="color:blue;"><strong>10</strong></mark> detik.</td></tr><tr><td>Sword of Voyager</td><td><img src="https://wuthering.wiki/img/weapon_21020043.png" alt=""></td><td>300</td><td>Energy Regen: 32.3%</td><td><p>Setelah pemegang senjata melakukan Resonance Skill, memulihkan <mark style="color:blue;"><strong>8/9/10/11/12</strong></mark> Resonance Energy.</p><p>Efek ini dapat dipicu sekali setiap <mark style="color:blue;"><strong>20</strong></mark> detik.</p></td></tr></tbody></table>
+<table data-full-width="true">
+  <thead>
+    <tr>
+      <th width="169">Nama</th>
+      <th width="109">Icon</th>
+      <th width="120">BASE ATK</th>
+      <th width="147">Sub Stat</th>
+      <th>Deskripsi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Guardian Sword</td>
+      <td><img src="https://wuthering.wiki/img/weapon_21020053.png" alt=""></td>
+      <td>300</td>
+      <td>ATK: 30.3%</td>
+      <td>Resonance SKill Bonus DMG meningkat sebesar <mark style="color:blue;"><strong>12%/15%/18%/21%/24%</strong></mark>.</td>
+    </tr>
+    <tr>
+      <td>Originite: Type II</td>
+      <td><img src="https://wuthering.wiki/img/weapon_21020023.png" alt=""></td>
+      <td>325</td>
+      <td>ATK: 24.3%</td>
+      <td>
+        <p>Ketika pemegang senjata melakukan Resonance Liberation, menyembuhkan <mark style="color:blue;"><strong>5%/.%/7.5%/8.75%/10%</strong></mark> dari Max HP Resonator.</p>
+        <p>Efek ini dapat dipicu sekali setiap <mark style="color:blue;"><strong>20</strong></mark> detik.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Sword of Night</td>
+      <td><img src="https://wuthering.wiki/img/weapon_21020013.png" alt=""></td>
+      <td>325</td>
+      <td>ATK: 24.3%</td>
+      <td>Setelah Intro, meningkatkan ATK sebesar <mark style="color:blue;"><strong>8%/10%/12%/14%/16%</strong></mark>, bertahan selama <mark style="color:blue;"><strong>10</strong></mark> detik.</td>
+    </tr>
+    <tr>
+      <td>Sword of Voyager</td>
+      <td><img src="https://wuthering.wiki/img/weapon_21020043.png" alt=""></td>
+      <td>300</td>
+      <td>Energy Regen: 32.3%</td>
+      <td>
+        <p>Setelah pemegang senjata melakukan Resonance Skill, memulihkan <mark style="color:blue;"><strong>8/9/10/11/12</strong></mark> Resonance Energy.</p>
+        <p>Efek ini dapat dipicu sekali setiap <mark style="color:blue;"><strong>20</strong></mark> detik.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## :star: 2
 
-<table data-full-width="true"><thead><tr><th width="171">Nama</th><th width="113">Icon</th><th width="116">BASE ATK</th><th width="150">Sub Stat</th><th>Deskripsi</th></tr></thead><tbody><tr><td>Tyro Sword</td><td><img src="https://wuthering.wiki/img/weapon_21020012.png" alt=""></td><td>208</td><td>ATK: 12.2%</td><td>Meningkatkan ATK sebesar <mark style="color:blue;"><strong>5%/6.25%/7.5%/8.75%/10%</strong></mark>.</td></tr></tbody></table>
+<table data-full-width="true">
+  <thead>
+    <tr>
+      <th width="171">Nama</th>
+      <th width="113">Icon</th>
+      <th width="116">BASE ATK</th>
+      <th width="150">Sub Stat</th>
+      <th>Deskripsi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Tyro Sword</td>
+      <td><img src="https://wuthering.wiki/img/weapon_21020012.png" alt=""></td>
+      <td>208</td>
+      <td>ATK: 12.2%</td>
+      <td>Meningkatkan ATK sebesar <mark style="color:blue;"><strong>5%/6.25%/7.5%/8.75%/10%</strong></mark>.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## :star: 1
 
-<table data-full-width="true"><thead><tr><th width="174">Nama</th><th width="109">Icon</th><th width="119">BASE ATK</th><th width="152">Sub Stat</th><th>Deskripsi</th></tr></thead><tbody><tr><td>Training Sword</td><td><img src="https://wuthering.wiki/img/weapon_21020011.png" alt=""></td><td>189</td><td>ATK: 9.4%</td><td>Meningkatkan ATK sebesar <mark style="color:blue;"><strong>4%/5%/6%/7%/8%</strong></mark>.</td></tr></tbody></table>
+<table data-full-width="true">
+  <thead>
+    <tr>
+      <th width="174">Nama</th>
+      <th width="109">Icon</th>
+      <th width="119">BASE ATK</th>
+      <th width="152">Sub Stat</th>
+      <th>Deskripsi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Training Sword</td>
+      <td><img src="https://wuthering.wiki/img/weapon_21020011.png" alt=""></td>
+      <td>189</td>
+      <td>ATK: 9.4%</td>
+      <td>Meningkatkan ATK sebesar <mark style="color:blue;"><strong>4%/5%/6%/7%/8%</strong></mark>.</td>
+    </tr>
+  </tbody>
+</table>
