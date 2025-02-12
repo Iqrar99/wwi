@@ -1,9 +1,15 @@
-# 🚀 Selamat Datang di WWI Community Website!
+<p align="center">
+    <img src="https://i.postimg.cc/8PVxHVp5/Home.png" width="100%" style="text-align:center"/>
+</p>
 
-[![Lisensi: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+<h1 align="center">🚀 Selamat Datang di WWI Community Website!</h1>
 
 <p align="center">
-    <img src="https://discordapp.com/api/guilds/1200694223201120266/widget.png?style=banner3" width="50%" style="text-align:center"/>
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" style="text-align:center"/>
+</p>
+
+<p align="center">
+    <img src="https://discordapp.com/api/guilds/1200694223201120266/widget.png?style=banner3" width="20%" style="text-align:center"/>
 </p>
 
 Terima kasih telah mampir di repositori dokumentasi **WWI Website**! 🎉 Proyek ini bertujuan untuk membantu para pemain Wuthering Waves di Indonesia dalam memahami teks, konteks, dan konten game dalam Bahasa Indonesia.
