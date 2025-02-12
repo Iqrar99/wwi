@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <img src="https://discordapp.com/api/guilds/1200694223201120266/widget.png?style=banner3" width="20%" style="text-align:center"/>
+    <img src="https://discordapp.com/api/guilds/1200694223201120266/widget.png?style=banner3" width="40%" style="text-align:center"/>
 </p>
 
 Terima kasih telah mampir di repositori dokumentasi **WWI Website**! 🎉 Proyek ini bertujuan untuk membantu para pemain Wuthering Waves di Indonesia dalam memahami teks, konteks, dan konten game dalam Bahasa Indonesia.
