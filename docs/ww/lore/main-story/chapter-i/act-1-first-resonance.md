@@ -18,13 +18,13 @@ Sesampainya mereka di **Ressonance Nexus**, Chixia menjelaskan kepada Rover kala
 
 Di dalam City Hall hanya Rover yang diperbolehkan masuk, di sana ia bertemu Sanhua seorang _bodyguard_ dari **Magistrate** yang nampak dingin dan kaku. Sanhua memberitahukan bahwa Nyonya **Magistrate** baru akan kembali 3 hari kemudian karena masih ada tugas yang dikerjakan. Sebagai permintaan maaf, **Magistrate** memberikan akses bebas kepada **Rover** agar bisa kemana saja di **Jinzhou** termasuk token sebagai hadiah penyambutan dengan niat agar Rover mengeksplor **Jinzhou** dan akomodasi gratis ketika dia butuh tempat beristirahat.
 
-<figure><img src="../../../../.gitbook/assets/Chapter1_Act1_Picture1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act1_Picture1.png" alt=""><figcaption></figcaption></figure>
 
 Penentuan apakah **Rover** adalah tamu yang dicari **Magistrate** atau tidak memang ditentukan oleh **Magistrate** sendiri namun Sanhua sendiri sepertinya nampak yakin dengan keputusan sang **Magistrate** karena di dalam matanya yang hanya mampu melihat “frekuensi”. Sanhua melihat **Rover** dan **Magistrate** memiliki frekuensi yang mirip, ia mendeskripsikan mereka sebagai “tak terdistorsi”.
 
 Setelah itu Sanhua lanjut menjelaskan mengenai _<mark style="color:blue;">**Midnight Rangers**</mark>_ yang merupakan militer **Jinzhou** yang didominasi oleh **Resonator** dan dipimpin oleh seorang bernama Jiyan. Lalu menjelaskan nama **Magistrate Jinzhou** adalah Hsi tapi namanya menjadi Jinhsi setelah ia menjabat dan diketahui juga sebagai “_Loong Maiden_” karena koneksinya dengan Sentinel yang berbentuk naga (_Loong_).
 
-<figure><img src="../../../../.gitbook/assets/Chapter1_Act1_Picture2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act1_Picture2.png" alt=""><figcaption></figcaption></figure>
 
 Rover pun pergi dari **City Hall** untuk kembali ke Yangyang dan Chixia dimana mereka mendiskusikan kekhawatiran Yangyang tentang keanehan belakangan ini yang kemudian ditepis Chixia dengan optimisnya karena mereka sedang membicarakan **Jinzhou** dari semua tempat yang jelas terkenal sebagai kota terpencil yang dekat dengan medan perang. Setelah itu mereka berdiskusi sebentar mengenai token yang diterima dari Jinhsi yaitu _**Sundial**_ yang menunjukan arah mata angin dan waktu; _**Manggis**_ yang biasanya tak ditemukan di Jinzhou; **Daun** yang terdampak waveworn; serta obat vaksin **Sugar Pearl** yang digunakan untuk sebuah penyakit yang ada di masa lalu Jinzhou. Mereka kemudian pergi ke **Huaxu Academy**.
 
@@ -34,25 +34,25 @@ Rover pun pergi dari **City Hall** untuk kembali ke Yangyang dan Chixia dimana m
 
 Ketika mereka akan masuk, Chixia ternyata sudah memasuki shift patrolinya jadi ia meninggalkan Yangyang dan Rover untuk pergi ke **Huaxu Academy** berdua. Di sana mereka bertemu Mortefi seorang peneliti yang tampak garang setelah memarahi seseorang. Mortefi kemudian mengontak Baizhi agar Yangyang dan Rover bisa bertemu dengannya. Ketika bertemu Baizhi, ia sudah menyiapkan alat untuk pemeriksaan fisiknya. Sementara token–token yang **Rover** bawa diteliti oleh Mortefi.
 
-<figure><img src="../../../../.gitbook/assets/Chapter1_Act1_Picture3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act1_Picture3.png" alt=""><figcaption></figcaption></figure>
 
 Ketika ingin memulai pemeriksaan, Baizhi memberitahukan bahwa yang diserap Rover sebelumnya adalah Tacet Discord kelas _**Overlord**_ yang mana merupakan kelas 2 paling kuat dari hirarki kelas Tacet Discord. Secara berurutan dari yang paling lemah adalah _**Common Class,**_ kemudian _**Elite Class,**_ dilanjut dengan _**Overlord Class**_, dan terakhir adalah _**Calamity Class**_ yang sangat kuat. Namun ada juga Tacet Discord spesial yang disebut _<mark style="color:blue;">**Threnodian**</mark>_.
 
 Menurut semua catatan yang pernah ada, manusia umumnya hanya bisa menyerap atau mereplikasi frekuensi echo apabila mereka punya Terminal karena itu perlu dilakukan pemeriksaan agar menghindari perubahan internal yang sulit diketahui. Ketika mati, Tacet Discord mungkin meninggalkan energi frekuensi tak berwujud atau diketahui sebagai “_**Reverbrations**_” yang ketika dikumpulkan dalam Terminal dapat digunakan dalam pertarungan bahkan merubah bentuk Resonator menjadi Tacet Discord untuk sementara waktu.
 
-<figure><img src="../../../../.gitbook/assets/Chapter1_Act1_Picture4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act1_Picture4.png" alt=""><figcaption></figcaption></figure>
 
 Ketika mencoba memanifestasikan kekuatan _<mark style="color:blue;">**Crownless**</mark>_, Rover hanya menemui kekecewaan karena tak dapat mengeluarkan apapun. Menurut Baizhi seperti ada mekanisme lain didalam tubuh Rover yang mampu “memakan” frekuensi. Rover yang agak khawatir bertanya “Apakah aku akan menjadi monster?”. Baizhi menjawab bahwa itu tergantung bagaimana kita melihat definisi “_**Monster**_”. Apabila kasusnya adalah Resonator, maka yang paling mendekati adalah “_<mark style="color:blue;">**Overclocking**</mark>_” yaitu sebuah kondisi dimana seseorang mengalami lepas kendali akan _<mark style="color:blue;">**Forte**</mark>_-nya, Baizhi kemudian menenangkan Rover dengan bilang bahwa risiko **Overclocking** dari Rover itu sangat kecil.
 
 Baizhi kemudian memulai pemeriksaan fisik Rover melalui simulasi pertarungan. Di sana Rover menjalankanya dengan lancar hingga tiba–tiba koneksinya terputus dan ia melihat sesosok Tacet Discord dengan sabit yang menyerangnya sekaligus menendangnya keluar dari simulasi. Baizhi terkejut dengan hasilnya karena hal ini tidak pernah terjadi sebelumnya.
 
-<figure><img src="../../../../.gitbook/assets/Chapter1_Act1_Picture5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act1_Picture5.png" alt=""><figcaption></figcaption></figure>
 
 Menurut Baizhi simulasi pelatihan ini dibangun atas dasar struktur _<mark style="color:blue;">**Sonoro Sphere**</mark>_ yang mampu merekam apapun yang terjadi di sebuah waktu dan lokasi yang spesifik entah itu baik atau buruk, sayangnya karena itu pula mereka tidak bisa menjamin apakah ada frekuensi “abnormal” yang tertinggal. Menurut Baizhi anomali ini bersembunyi dalam simulasi dan bangun ketika alam bawah sadar Rover masuk ke dalam simulasi. Tapi itu hanya tebakan dan Baizhi akan lanjut meneliti ini sembari memberitahu Rover bahwa selain hal ini fungsi tubuhnya baik–baik saja.
 
 Yangyang dan Baizhi kembali ke Mortefi untuk melihat hasil mengenai token _**Sundial**_ yang telah diberi sebelumnya. Setelah Mortefi berkonsultasi dengan Xiangli Yao di telepon, dapat disimpulkan bahwa _**Sundial**_ ini adalah puzzle yang tidak memiliki komponen inti. Untungnya komponen inti ini ada di kantor Xiangli Yao. Setelah mereka mengambil komponen dan memberikanya pada Mortefi untuk diteliti lagi, Baizhi datang memberikan hasil tes dari token lainya. **Manggis**nya tidak ada apa–apa, sementara Daunnya adalah Daun dari area yang terdampak **Waveworn Phenomenon** yang mana adalah sebutan dari segala anomali seperti **Tacet Field**, **Etheric Sea**, _<mark style="color:blue;">**Retroact Rain**</mark>_, dan lain sebagainya yang muncul akibat _<mark style="color:blue;">**The Lament**</mark>_ pertama. Sementara **Sugar Pearl** adalah vaksin dari wabah 20 tahun lalu.
 
-<figure><img src="../../../../.gitbook/assets/Chapter1_Act1_Picture6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act1_Picture6.png" alt=""><figcaption></figcaption></figure>
 
 Kemudian Mortefi datang dengan **Sundial** yang sudah diperbaiki. Ternyata mekanisme dari **Sundial** ini menggunakan sistem pengarsipan sama yang digunakan di _<mark style="color:blue;">**Grand Library**</mark>_. Setelah ini Rover dan Yangyang lanjut mencoba memecahkan puzzle **Sundial** ini yang membawa mereka ke rak “Wei” di ruangan arsip. Menurut Yangyang, **City Hall** **Jinzhou** dan **Huaxu Academy** dibangun di tahun yang sama dengan “Wei” yang mana tepat setelah kejadian _<mark style="color:blue;">**Battle of Gorges of Spirits**</mark>_. Kejadian ini menceritakan di mana sang **Sentinel** datang bersama dengan pahlawan bermata emas mengalahkan **Crownless.** Setelah kejadian ini, barulah Jinzhou benar – benar terlahir.
 
@@ -91,7 +91,7 @@ Tapi ini belum cukup untuk memecahkan Puzzlenya. Yangyang menyarankan untuk meli
 
 Rover kemudian memutuskan untuk lanjut membicarakan tokennya. intinya 1 token bisa merujuk ke beberapa poin dan poin itu mungkin punya beberapa informasi. **Magistrate** punya informasi untuk dibagi dan **Rover** punya pertanyaan untuk ditanyakan. Namun token ini kesannya memang berbelit–belit karena hanya memberi remahan petunjuk saja untuk diikuti. Terlihat bahwa **Magistrate** harus memastikan akses yang ditunjuk oleh token ini hanya bisa diberikan pada orang yang mampu menerjemahkan makna sesungguhnya dari token tersebut demi mengeliminasi orang dengan niat buruk.
 
-<figure><img src="../../../../.gitbook/assets/Chapter1_Act1_Picture7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act1_Picture7.png" alt=""><figcaption></figcaption></figure>
 
 Mereka pun akhirnya pergi dari **Huaxu Academy** dan bertemu dengan Chixia lagi yang sayangnya belum menemukan petunjuk apapun. Karena hari sudah larut maka mereka memutuskan untuk bertemu lagi di restoran milik Panhua untuk sarapan besok kemudian. Yangyang bertanya apakah Rover punya tempat untuk istirahat dan menawarkan ruang tamu kosong dirumahnya. Namu ide ini ditepis Chixia dengan mengingatkan Yangyang bahwa Rover sudah diberi akomodasi oleh Jinhsi. Kemudian mereka berpisah dan Rover beristirahat untuk hari ini.
 

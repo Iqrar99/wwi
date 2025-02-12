@@ -32,7 +32,7 @@ Mencoba memenuhi rasa penasaran kedua anak polos tersebut, remaja tersebut menco
 
 Salah satu anak terlihat puas sambil mengonfirmasi sifat remaja tersebut pada anak yang lain—merasa penasaran mereka terpenuhi, kedua anak itu berterima kasih kepada remaja bernama Lingyang itu dan pergi.
 
-<figure><img src="../../../.gitbook/assets/Lingyang_Story_1_Picture2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lore/companion-quest/lingyang/Lingyang_Story_1_Picture2.jpg" alt=""><figcaption></figcaption></figure>
 
 Lingyang menyadari Rover yang melihat kejadian barusan, Lingyang membuka percakapan dengan menyinggung bau Rover...
 
@@ -60,13 +60,13 @@ _“Omong omong, selamat datang di kota Jinzhou”_
 
 </details>
 
-<figure><img src="../../../.gitbook/assets/Lingyang_Story_1_Picture3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lore/companion-quest/lingyang/Lingyang_Story_1_Picture3.jpg" alt=""><figcaption></figcaption></figure>
 
 Menanyakan apa yang dilakukannya, Lingyang menjelaskan bahwa saat ini ia sedang mempersiapkan acara besar yang akan dilakukan keesokan hari. Lingyang merupakan bagian dari _<mark style="color:blue;">**Liondance Troupe**</mark>_, sebuah rombongan yang mendedikasikan diri mereka pada pementasan Liondance, salah satu tradisi kita Jinzhou.
 
 Merasa lapar, Lingyang mengajak Rover untuk ditraktir di perjalanan sambil menunjukkan kegiatan **Liondance Troupe**. Rover  merasa agak curiga dengan perlakuan baik Lingyang terlepas dari ini merupakan pertemuan pertama mereka. Namun lingyang meyakinkannya kalau ini hanyalah salah satu bentuk kebiasaan warga Jinzhou untuk menyambut dengan baik orang luar sebagai cara menunjukkan keramahan mereka.
 
-<figure><img src="../../../.gitbook/assets/Lingyang_Story_1_Picture4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lore/companion-quest/lingyang/Lingyang_Story_1_Picture4.jpg" alt=""><figcaption></figcaption></figure>
 
 Namun sebelum itu, Lingyang ingin menyelesaikan beberapa hal seperti permintaan pentas yang jadwalnya saling bertabrakan. Dengan seberapa pentingnya tradisi pentas Liondance di kota Jinzhou, ia tak bisa mengabaikan permintaan mereka dan berakhir memiliki ide untuk menyatukan semua jadwalnya menjadi satu pentas yang besar.
 
@@ -74,7 +74,7 @@ Lingyang  Rover untuk pergi bersamanya, ia ingin mendengar secara langsung permi
 
 Menyetujui ajakannya, mereka bergegas pergi menuju klien pertama. Klien pertama yang bernama Ganxue ingin merayakan ulang tahun kakeknya yang ke 60 tahun, maka dari itu Lingyang akan melakukan 6 putaran berturut – turut sebagai simbolisasi 6 dekade kehidupan yang telah dijalani sang kakek
 
-<figure><img src="../../../.gitbook/assets/Lingyang_Story_1_Picture5.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lore/companion-quest/lingyang/Lingyang_Story_1_Picture5.jpg" alt=""><figcaption></figcaption></figure>
 
 Menuju klien kedua, kali ini permintaan datang dari sepasang kekasih yang ingin merayakan pernikahan mereka dengan pentas Liondance. Pentas yang ingin dilakukan adakah simbolisasi dari sumpah kedua pasangan untuk mengeratkan hubungan mereka selamanya, namun karena pentas yang diharuskan menyatukan semua permintaan klien maka Lingyang harus membuat jenis aksi yang lebih sederhana. Ia menawarkan agar kedua pasangan untuk saling bertukar koin disaat kepala sang singa mencapai tempat tertinggi dikala pentas, yang mana Lingyang menyimbolkan itu sebagai:
 
@@ -82,7 +82,7 @@ Menuju klien kedua, kali ini permintaan datang dari sepasang kekasih yang ingin 
 
 Memahami situasinya, sang klien kedua yang bernama Linling menyetujui hal tersebut.
 
-<figure><img src="../../../.gitbook/assets/Lingyang_Story_1_Picture6.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lore/companion-quest/lingyang/Lingyang_Story_1_Picture6.jpg" alt=""><figcaption></figcaption></figure>
 
 Melanjutkan pekerjaannya, mereka berdua pergi menemui Shuncai, klien berikutnya yang merupakan pemilik sebuah kedai makanan. Sesampainya disana Lingyang langsung menjelaskan sedikit situasinya namun Shuncai memahami situasinya dan mengatakan untuk tak usah terlalu memikirkan dirinya dan fokus pada pentas lain. Mengalihkan topik, ia menawarkan makanan pada kedua tamunya tersebut— saat memakannya, Lingyang berencana untuk memesan makanan untuk para penonton
 
@@ -96,13 +96,13 @@ Shuncai membutuhkan bahan bahan tersebut untuk membuat makanan yang diinginkan L
 
 Lingyang terlihat melamun saat ditanya, namun mengatakan ada hal darurat yang harus diselesaikannya dan langsung pergi disaat itu juga. Rover merasa heran dengan sikapnya, namun dengan santai penjaga kedai mengatakan kalau seperti itulah Lingyang. Ia merupakan anak yang spontan, selalu melakukan apa yang terpikirkan olehnya— ia hanya senang membantu orang orang, sering terlihat berlarian kesana kemari membantu siapapun yang membutuhkan
 
-<figure><img src="../../../.gitbook/assets/Lingyang_Story_1_Picture7.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lore/companion-quest/lingyang/Lingyang_Story_1_Picture7.jpg" alt=""><figcaption></figcaption></figure>
 
 Shuncai meminta tolong kepada Rover untuk menyusul Lingyang setelah menyelesaikan makanannya— menyusul Lingyang, Rover melihat ia berbicara dengan seorang klien wanita bernama Bei Shi. Namun saat ditanya, klien tersebut menyatakan kalau ia tidak pernah mereservasi pentas Liondance apapun. Lingyang mengingat – ingat kembali dan sadar bahwa yang memesannya adalah benar dari keluarga wanita tersebut namun yang menghubunginya merupakan seorang pria dewasa, lantas apa yang sebenarnya terjadi?
 
-<figure><img src="../../../.gitbook/assets/Lingyang_Story_1_Picture8.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lore/companion-quest/lingyang/Lingyang_Story_1_Picture8.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Lingyang_Story_1_Picture9.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lore/companion-quest/lingyang/Lingyang_Story_1_Picture9.jpg" alt=""><figcaption></figcaption></figure>
 
 &#x20;Pria tersebut ternyata adalah saudara dari sang wanita, Bei Ji. Mereka berdua sempat bertengkar, sang kakak pergi meninggalkan rumah selama seminggu dan tak terlihat lagi selama itu. Meskipun begitu, Bei Shi masih sering dikirimkan berbagai jenis paket seperti bunga dan daging yang kualitasnya cukup buruk. Ia mengatakan bahwa sang kakak pergi bersama kelompok The Exiles, ia tak mengatakan pada siapapun karena takut hal ini akan membawa masalah pada sang kakak.
 
@@ -110,17 +110,17 @@ Lingyang memutuskan membantunya untuk mencari sang kakak melalui paket yang diki
 
 Memulai pencarian dari luar kota, mereka menemukan kurir yang bertanggung jawab atas pengiriman paket sang kakak sedang diserang oleh sekumpulan TD. Segera menyelamatkannya, mereka mulai menanyakan berbagai hal seperti paket yang dikirimkannya sampai mengenai **Jingle Beast** dan The Exiles. Sang kurir menyatakan dia tak tau apapun mengenai paket tersebut dan agak panik saat ditanya untuk memastikan asal paketnya, dia juga tak mau mengatakan apapun tentang lokasi The Exiles karena dianggap membocorkan rahasia klien.
 
-<figure><img src="../../../.gitbook/assets/Lingyang_Story_1_Picture10.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lore/companion-quest/lingyang/Lingyang_Story_1_Picture10.jpg" alt=""><figcaption></figcaption></figure>
 
 Namun satu hal yang dapat disampaikannya, The Exiles dirumorkan dapat berkomunikasi dengan **Jingle Beast** sehingga mereka dapat menyuruhnya menyerang orang – orang sekitar. Merasa cukup dengan informasi yang diberikannya, sang kurir pergi sambil berterimakasih...
 
-<figure><img src="../../../.gitbook/assets/Lingyang_Story_1_Picture11.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lore/companion-quest/lingyang/Lingyang_Story_1_Picture11.jpg" alt=""><figcaption></figcaption></figure>
 
 Mengikuti petunjuk yang ada, mereka mencari kemah Exiles terdekat dan diam – diam menyusup sambil menguping pembicaraan orang – orang disana. **Jingle Beast** yang para Exiles itu bicarakan nyatanya hanyalah rumor belaka yang mereka sebarkan untuk menipu orang baru, tak lama mereka langsung pergi menuju suatu tempat...
 
 Lingyang dan kawan-kawan lanjut menyelidiki kemah yang mereka tinggalkan dan menemukan device milik sang kakak tergeletak disana, pendatang baru yang mereka maksud ternyata adalah sang kakak. Sang adik terkejut tidak percaya bahwa kakaknya benar – benar bekerja pada orang orang tersebut. Melanjutkan penyelidikan, mereka menemukan taring palsu yang digunakan Exiles untuk menyebarkan rumor palsu tentang **Jingle Beast**. Mereka juga menemukan daging busuk yang mereka jual dengan harga sangat tinggi
 
-<figure><img src="../../../.gitbook/assets/Lingyang_Story_1_Picture12.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lore/companion-quest/lingyang/Lingyang_Story_1_Picture12.jpg" alt=""><figcaption></figcaption></figure>
 
 Merasa situasi semakin rumit, mereka memutuskan untuk berpencar. Lingyang mencoba mengikuti Exiles dan melihat apa yang mereka lakukan untuk mencegah korban lain yang mereka jebak, sementara Rover tetap bersama Bei Shi untuk mencari sang kakak
 
@@ -138,25 +138,25 @@ Pesan berakhir.
 
 Suaranya terdengar dengan rasa bersalah, sang adik menduga hal itu dikarenakan keputusannya menjadi bagian dari **Pioneer association** yang mana hak itu sangat ditentang oleh sang kakak. Dan untuk alasan mengapa ia ingin membunuh **Jingle Beast**, tidak ada yang tau...
 
-<figure><img src="../../../.gitbook/assets/Lingyang_Story_1_Picture13.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lore/companion-quest/lingyang/Lingyang_Story_1_Picture13.jpg" alt=""><figcaption></figcaption></figure>
 
 Disaat yang bersamaan, mereka mendengar suara bel berdering di sekitar. Bei Shi merasa ketakutan mengatakan kalau **Jingle Beast** berada di dekat mereka— ia yakin dikarenakan tempo hari lalu saat ia sedang dalam sebuah misi, ia diserbu oleh gerombolan TD. Dan disaat sedang berjuang keras untuk kabur, ia terus mendengar deringan bel ya g seolah mengejarnya tanpa henti hingga ke tempat tenang. Meskipun ia tak melihatnya secara langsung dikarenakan kepanikan luar biasa dan fokusnya yang terpaku hanya ingin kabur dari sana.
 
-<div><figure><img src="../../../.gitbook/assets/Lingyang_Story_1_Picture14.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Lingyang_Story_1_Picture15.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/lore/companion-quest/lingyang/Lingyang_Story_1_Picture14.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/lore/companion-quest/lingyang/Lingyang_Story_1_Picture15.jpg" alt=""><figcaption></figcaption></figure></div>
 
 Rover menenangkannya dan menemaninya pergi ke sumber suara, namun hanya melihat Lingyang yang berdua disana menunggu kedatangan mereka— tak ada tanda – tanda keberadaan **Jingle Beast**...
 
-<figure><img src="../../../.gitbook/assets/Lingyang_Story_1_Picture16.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lore/companion-quest/lingyang/Lingyang_Story_1_Picture16.jpg" alt=""><figcaption></figcaption></figure>
 
 Lingyang mengalihkan topik dan menyampaikan hal yang ia temukan, para Exiles pergi ke sebuah gua bersama sang kakak untuk melakukan sesuatu. Lingyang ingin meminta bantuan Rover untuk ikut pergi kedalam dikarenakan sang kakak kemungkinan sedang dalam bahaya besar, ia meminta sang adik untuk pergi kembali ke kota untuk memanggil petugas keamanan ke gua itu— dengan berat hati ia menyetujuinya dan kembali.
 
 Berfokus pada pencarian, Rover dan Lingyang melewati berbagai halangan rumit untuk mencapai tempat terdalam gua tersebut hingga Sampai ke sebuah ruang besar.
 
-<figure><img src="../../../.gitbook/assets/Lingyang_Story_1_Picture17.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lore/companion-quest/lingyang/Lingyang_Story_1_Picture17.jpg" alt=""><figcaption></figcaption></figure>
 
 Terlihat Exiles yang sedang mengejar Bei Ji dikarenakan dia mengetahui kebenaran dibalik rumornya— singkat cerita, Lingyang dan Rover mengalahkan para Exiles dan menyerahkan mereka pada penjaga yang telah sampai kesana. Sang kakak beradik tersebut akhirnya bisa bertemu kembali.
 
-<figure><img src="../../../.gitbook/assets/Lingyang_Story_1_Picture18.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lore/companion-quest/lingyang/Lingyang_Story_1_Picture18.jpg" alt=""><figcaption></figcaption></figure>
 
 Mereka kembali ke kota, alasan sang kakak terobsesi dengan **Jingle Beast** dikarenakan sang kakak menduga makhluk tersebut adalah alasan mengapa sang adik kehilangan keberaniannya. Hal itu pula yang membuatnya termakan oleh rumor Exiles dan bergabung dengan mereka, pada akhirnya ya tak mencapai apapun dan merasa menyesal karena hanya bisa terpuruk dalam kecemasan dan ketakutan. Namun lingyang menyemangati nya karena paling tidak ia memiliki sifat manusiawi yang kuat untuk membuktikan keberanian atas aksinya
 
@@ -174,17 +174,17 @@ Hari esok tiba dan Lingyang terlihat sangat sibuk mempersiapkan diri untuk penta
 
 Lingyang menjelaskan dengan semangat, ia juga menjelaskan hubungan dari acara ini juga dapat membantu Bei Shi mengatasi rasa takutnya pada **Jingle Beast** yang sebenarnya tak pernah mengejarnya, Namun semata mata hanyalah memori palsu yang diakibatkan kepanikan luar biasa.
 
-<figure><img src="../../../.gitbook/assets/Lingyang_Story_1_Picture19.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lore/companion-quest/lingyang/Lingyang_Story_1_Picture19.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Lingyang_Story_1_Picture20.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lore/companion-quest/lingyang/Lingyang_Story_1_Picture20.jpg" alt=""><figcaption></figcaption></figure>
 
 Lingyang memulai pementasannya, sudut pandang Lingyang beralih pada salah satu aksinya di masa lalu yang menyelamatkan seorang wanita dari sekumpulan TD di suatu malam...
 
-<figure><img src="../../../.gitbook/assets/Lingyang_Story_1_Picture21.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lore/companion-quest/lingyang/Lingyang_Story_1_Picture21.jpg" alt=""><figcaption></figcaption></figure>
 
 Pementasan berakhir dengan sangat meriah, Lingyang bertemu kembali dengan kakak beradik dan Rover yang menunggunya. Sang adik mengatakan kalau saat ia dikejar kejar dari segerombolan TD hal yang ia dengar kala itu adalah deringan bel seiring dengan pelariannya, dia sempat mengira kalau suara bel tersebutlah yang mengejarnya Namun sekarang ia yakin bahwa sumber suara tersebut adalah makhluk yang melindunginya saat kejaran para TD. Lingyang merasa senang karena sang adik mendapat keberaniannya kembali dan hubungan bersaudara tersebut kembali membaik.
 
-<figure><img src="../../../.gitbook/assets/Lingyang_Story_1_Picture22.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lore/companion-quest/lingyang/Lingyang_Story_1_Picture22.jpg" alt=""><figcaption></figcaption></figure>
 
 Rover ingin menanyakan sesuatu kepada Lingyang jadi mereka pergi ke suatu tempat yang sepi, ia ingin bertanya mengenai **Jingle Beast** dan Lingyang pun menjawab
 
@@ -208,9 +208,9 @@ Meskipun pada akhirnya, makhluk tersebut tak dapat menjadi manusia. **Jingle Bea
 
 Selesai bercerita, Lingyang memberi hadiah sepasang bel sebagai kenang kenangan untuk Rover. Mereka berjabat tangan dan Lingyang pergi untuk mempersiapkan pentas berikutnya.... Lingyang meminta Rover untuk menyimpan bel tersebut agar sebagai pembawa keberuntungannya...
 
-<figure><img src="../../../.gitbook/assets/Lingyang_Story_1_Picture23.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lore/companion-quest/lingyang/Lingyang_Story_1_Picture23.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Lingyang_Story_1_Picture24.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lore/companion-quest/lingyang/Lingyang_Story_1_Picture24.jpg" alt=""><figcaption></figcaption></figure>
 
 | \*\*\* |
 | :----: |
