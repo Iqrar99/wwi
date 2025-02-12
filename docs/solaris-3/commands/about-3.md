@@ -27,6 +27,6 @@ You can freely input the query without worrying about entering the exact name si
 
 ## Example
 
-<figure><img src="../../.gitbook/assets/bot_command_sonata_1.png" alt=""><figcaption><p>Partial text is acceptable</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bot/bot_command_sonata_1.png" alt=""><figcaption><p>Partial text is acceptable</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/bot_command_sonata_2.png" alt=""><figcaption><p>Typo + partial text is also fine</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bot/bot_command_sonata_2.png" alt=""><figcaption><p>Typo + partial text is also fine</p></figcaption></figure>

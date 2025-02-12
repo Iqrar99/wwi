@@ -24,7 +24,7 @@ Solaris-3 Bot has prefix `s.` or `S.`
 
 Write it on the bot channel, and then the bot will be triggered.
 
-<figure><img src="../../.gitbook/assets/bot_tutorial_1.png" alt=""><figcaption><p>Result</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bot/bot_tutorial_1.png" alt=""><figcaption><p>Result</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Slash Command" %}
@@ -32,13 +32,13 @@ Slash command or application command can be triggered after typing `/` first bef
 
 <mark style="color:yellow;">**Example**</mark>: `/about`
 
-<figure><img src="../../.gitbook/assets/bot_tutorial_2.png" alt=""><figcaption><p>Tyoe <code>/</code>on the chat then it will show a command suggestion. Choose your desired command.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bot/bot_tutorial_2.png" alt=""><figcaption><p>Tyoe <code>/</code>on the chat then it will show a command suggestion. Choose your desired command.</p></figcaption></figure>
 
 The command can also be called by using an application button like this below.
 
-<figure><img src="../../.gitbook/assets/bot_tutorial_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bot/bot_tutorial_3.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/bot_tutorial_4.png" alt=""><figcaption><p>Result</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bot/bot_tutorial_4.png" alt=""><figcaption><p>Result</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

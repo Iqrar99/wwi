@@ -24,4 +24,4 @@ description: Show information about materials to upgrade a character available i
 
 ## Example
 
-<figure><img src="../../.gitbook/assets/bot_command_character_ascension_1.png" alt=""><figcaption><p>Credit to <em><strong>deviltakoyaki</strong></em>. Check out their X account for more information.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bot/bot_command_character_ascension_1.png" alt=""><figcaption><p>Credit to <em><strong>deviltakoyaki</strong></em>. Check out their X account for more information.</p></figcaption></figure>

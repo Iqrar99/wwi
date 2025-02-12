@@ -23,4 +23,4 @@ description: Show event calendar for current game version
 
 ## Example
 
-<figure><img src="../../.gitbook/assets/bot_command_calendar_1.png" alt=""><figcaption><p>Credit to <em><strong>pxldawn</strong></em>. Check out their YT channel for the support.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bot/bot_command_calendar_1.png" alt=""><figcaption><p>Credit to <em><strong>pxldawn</strong></em>. Check out their YT channel for the support.</p></figcaption></figure>

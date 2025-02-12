@@ -27,6 +27,6 @@ You can freely input the query without worrying about entering the exact weapon 
 
 ## Example
 
-<figure><img src="../../.gitbook/assets/bot_command_weapon_1.png" alt=""><figcaption><p>Partial text is acceptable</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bot/bot_command_weapon_1.png" alt=""><figcaption><p>Partial text is acceptable</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/bot_command_weapon_2.png" alt=""><figcaption><p>It's also fine if you have small typo</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bot/bot_command_weapon_2.png" alt=""><figcaption><p>It's also fine if you have small typo</p></figcaption></figure>

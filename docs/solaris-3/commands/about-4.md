@@ -22,6 +22,6 @@ description: Show character kit information available in-game
 
 ## Example
 
-<figure><img src="../../.gitbook/assets/bot_command_character_kit_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bot/bot_command_character_kit_1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/bot_command_character_kit_2.png" alt=""><figcaption><p>There will be a dropdown to choose which skill you want to check.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bot/bot_command_character_kit_2.png" alt=""><figcaption><p>There will be a dropdown to choose which skill you want to check.</p></figcaption></figure>
