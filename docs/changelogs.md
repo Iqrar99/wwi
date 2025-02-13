@@ -21,6 +21,11 @@ layout:
 
 # Changelogs
 
+## 13/02/2025
+
+* Add more rectifer weapon description
+* Revised Phoebe weapon guide
+
 ## 12/02/2025
 
 * Add Lingyang companion quest summary

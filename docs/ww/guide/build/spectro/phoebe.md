@@ -119,4 +119,4 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/gjCHsdFK/Phoebe.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/nVQsTQKK/Phoebe.png" alt=""><figcaption></figcaption></figure>
