@@ -152,3 +152,7 @@ Saat _<mark style="color:yellow;">**Euphonia**</mark>_ diambil, meningkatkan <im
 ## Special Food
 
 <table data-header-hidden><thead><tr><th width="267"></th><th width="100" align="center"></th><th></th></tr></thead><tbody><tr><td><img src="https://wuthering.wiki/img/item_80001002.png" alt=""></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td>Meningkatkan Crit. Rate semua Resonator dalam tim sebesar 12%, bertahan selama 15 menit. Hanya efektif pada Resonator milik sendiri saat di dalam Mode Co-op.</td></tr></tbody></table>
+
+## Material Upgrade Karakter
+
+<figure><img src="https://i.postimg.cc/fRTwLBsv/Baizhi.png" alt=""><figcaption><p>Sumber :  @deviltakoyaki on X</p></figcaption></figure>

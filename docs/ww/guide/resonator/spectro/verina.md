@@ -155,3 +155,8 @@ Saat Verina menyembuhkan anggota tim dengan **HP** di bawah **50%**, efek penyem
 ## Special Food
 
 <table data-header-hidden><thead><tr><th width="267"></th><th width="136" align="center"></th><th></th></tr></thead><tbody><tr><td><img src="https://wuthering.wiki/img/item_80001029.png" alt=""></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td><strong>Meningkatkan ATK semua Resonator di tim sebesar 44% selama 30 menit.</strong> (Hanya untuk Resonator sendiri di Co-op Mode).</td></tr></tbody></table>
+
+## Material Upgrade Karakter
+
+<figure><img src="https://i.postimg.cc/RVWdBz61/Verina.png" alt=""><figcaption><p>Sumber :  @deviltakoyaki on X</p></figcaption></figure>
+

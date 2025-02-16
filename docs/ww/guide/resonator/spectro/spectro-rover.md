@@ -147,3 +147,9 @@ Serangan dari **Resonance Skill:&#x20;**<mark style="color:yellow;">**Resonating
 {% endtab %}
 {% endtabs %}
 
+## Material Upgrade Karakter
+
+<figure><img src="https://i.postimg.cc/rwwtzjnN/Rover-Spectro.png" alt=""><figcaption><p>Sumber :  @deviltakoyaki on X</p></figcaption></figure>
+
+
+

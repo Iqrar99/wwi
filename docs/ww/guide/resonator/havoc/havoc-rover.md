@@ -145,3 +145,8 @@ Saat dalam <mark style="color:yellow;">**Dark Surge**</mark>**&#x20;Mode**, **Ba
 Saat dalam <mark style="color:yellow;">**Dark Surge**</mark>**&#x20;Mode**, **Crit. Rate Rover** meningkat sebesar **25%**.
 {% endtab %}
 {% endtabs %}
+
+## Material Upgrade Karakter
+
+<figure><img src="https://i.postimg.cc/YCmd1wt2/Rover-Havoc.png" alt=""><figcaption><p>Sumber :  @deviltakoyaki on X</p></figcaption></figure>
+

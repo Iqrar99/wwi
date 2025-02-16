@@ -154,3 +154,8 @@ Saat **Resonance Liberation:&#x20;**<mark style="color:yellow;">**Violent Finale
 ## Special Food
 
 <table data-header-hidden><thead><tr><th width="267"></th><th width="142" align="center"></th><th></th></tr></thead><tbody><tr><td><img src="https://wuthering.wiki/img/item_80001024.png" alt=""></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td><strong>DEF</strong> semua <strong>Resonator</strong> dalam tim meningkat <strong>55%</strong> selama <strong>30 menit</strong>.<br>Efek ini hanya berlaku untuk <strong>Resonator</strong> milik sendiri dalam <strong>Co-op Mode</strong>.</td></tr></tbody></table>
+
+## Material Upgrade Karakter
+
+<figure><img src="https://i.postimg.cc/C14PzHSj/Mortefi.png" alt=""><figcaption><p>Sumber :  @deviltakoyaki on X</p></figcaption></figure>
+

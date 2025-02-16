@@ -186,3 +186,7 @@ Meningkatkan **DMG Multiplier** dari **Intro Skill:&#x20;**<mark style="color:ye
 ## Special Food
 
 <table data-header-hidden><thead><tr><th width="267"></th><th width="136" align="center"></th><th></th></tr></thead><tbody><tr><td><img src="https://wuthering.wiki/img/item_80001039.png" alt=""></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td>Meningkatkan <strong>DEF</strong> dan <strong>Max HP</strong> semua <strong>Resonator</strong> dalam tim masing-masing sebesar <strong>12%</strong> dan <strong>22%</strong> selama <strong>30 menit</strong>. Hanya berlaku untuk <strong>Resonator milik sendiri</strong> dalam <strong>Co-op Mode</strong>.</td></tr></tbody></table>
+
+## Material Upgrade Karakter
+
+<figure><img src="https://i.postimg.cc/MpBw5XY4/Shorekeeper.png" alt=""><figcaption><p>Sumber :  @deviltakoyaki on X</p></figcaption></figure>

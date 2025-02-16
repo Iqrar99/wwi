@@ -172,3 +172,8 @@ Menggunakan **Resonance Liberation -&#x20;**<mark style="color:yellow;">**Commed
 ## Special Food
 
 <table data-header-hidden><thead><tr><th width="267"></th><th width="127" align="center"></th><th></th></tr></thead><tbody><tr><td><img src="https://wuthering.wiki/img/item_80001043.png" alt=""></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td>Mengurangi konsumsi <strong>Flight STA</strong> untuk semua <strong>Resonator dalam tim</strong> sebesar <strong>18% selama 30 menit</strong>.<br>Hanya berlaku untuk <strong>Resonator milik sendiri</strong> dalam <strong>Co-op Mode</strong>.</td></tr></tbody></table>
+
+## Material Upgrade Karakter
+
+<figure><img src="https://i.postimg.cc/Kvjq8MVM/Roccia.png" alt=""><figcaption><p>Sumber :  @deviltakoyaki on X</p></figcaption></figure>
+

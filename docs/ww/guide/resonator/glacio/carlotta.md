@@ -230,3 +230,7 @@ Menggunakan **Heavy Attack, Heavy Attack&#x20;**<mark style="color:yellow;">**Co
 ## Special Food
 
 <table data-header-hidden><thead><tr><th width="267"></th><th width="100" align="center"></th><th></th></tr></thead><tbody><tr><td><img src="https://wuthering.wiki/img/item_80001045.png" alt=""></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td>Mengurangi konsumsi Flight STA untuk semua Resonator dalam tim sebesar 12% selama 15 menit. Hanya efektif pada Resonator milik sendiri saat dalam Mode Co-op.</td></tr></tbody></table>
+
+## Material Upgrade Karakter
+
+<figure><img src="https://i.postimg.cc/C5g0V4Jk/Carlotta.png" alt=""><figcaption><p>Sumber :  @deviltakoyaki on X</p></figcaption></figure>

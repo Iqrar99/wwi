@@ -186,3 +186,8 @@ Kebal terhadap **interupsi** saat menggunakan <mark style="color:yellow;">**Pere
 ## Special Food
 
 <table data-header-hidden><thead><tr><th width="267"></th><th width="127" align="center"></th><th></th></tr></thead><tbody><tr><td><img src="https://wuthering.wiki/img/item_80001007.png" alt=""></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td><p></p><ul><li>Mengalahkan <strong>musuh di overworld</strong> memberikan <strong>28% lebih banyak Shell Credits</strong> selama <strong>30 menit</strong>.</li><li><strong>Hanya berlaku untuk Resonator milik sendiri dalam Co-op Mode</strong>.</li></ul></td></tr></tbody></table>
+
+## Material Upgrade Karakter
+
+<figure><img src="https://i.postimg.cc/XYQYctLh/Camellya.png" alt=""><figcaption><p>Sumber :  @deviltakoyaki on X</p></figcaption></figure>
+

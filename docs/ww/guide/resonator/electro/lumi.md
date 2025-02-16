@@ -184,3 +184,8 @@ Setelah menggunakan **Resonance Liberation&#x20;**<mark style="color:yellow;">**
 ## Special Food
 
 <table data-header-hidden><thead><tr><th width="267"></th><th width="127" align="center"></th><th></th></tr></thead><tbody><tr><td><img src="https://wuthering.wiki/img/item_80001011.png" alt=""></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td>Meningkatkan <strong>ATK semua Resonator dalam tim sebesar 28% selama 30 menit</strong> (hanya berlaku untuk <strong>Resonator sendiri</strong> dalam <strong>Co-op Mode</strong>).</td></tr></tbody></table>
+
+## Material Upgrade Karakter
+
+<figure><img src="https://i.postimg.cc/kXgZRZVD/Lumi.png" alt=""><figcaption><p>Sumber :  @deviltakoyaki on X</p></figcaption></figure>
+

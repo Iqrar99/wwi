@@ -161,3 +161,10 @@ Setelah menggunakan **Intro Skill**, **ATK** seluruh anggota tim meningkat **20%
 ## Special Food
 
 <table data-header-hidden><thead><tr><th width="267"></th><th width="127" align="center"></th><th></th></tr></thead><tbody><tr><td><img src="https://wuthering.wiki/img/item_80001034.png" alt=""></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td><p>Meningkatkan <strong>Energy Regen</strong> semua <strong>Resonator</strong> dalam tim sebesar <strong>24%</strong>, bertahan selama <strong>30 menit</strong>.</p><p>Hanya berlaku untuk <strong>Resonator</strong> sendiri dalam <strong>Co-op Mode</strong>.</p></td></tr></tbody></table>
+
+## Material Upgrade Karakter
+
+<figure><img src="https://i.postimg.cc/yYnHwcR3/Changli.png" alt=""><figcaption><p>Sumber :  @deviltakoyaki on X</p></figcaption></figure>
+
+
+

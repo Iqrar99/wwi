@@ -21,13 +21,19 @@ layout:
 
 # Changelogs
 
-## 13/02/2025
+## 16/02/2025
 
 * Add more rectifer weapon description
 * Revised Phoebe weapon guide
+* Add Phoebe teamcomp
+* Add character material upgrade infographic
+* Initiate character backstory page
+* Fix some typos on main lore
 
 ## 12/02/2025
 
 * Add Lingyang companion quest summary
 * Complete bot command documentation
+* Fix some typos
+* Small fix on Phoebe guide
 * Initial publication

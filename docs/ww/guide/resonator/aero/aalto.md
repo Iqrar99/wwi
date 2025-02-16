@@ -145,3 +145,8 @@ Saat **Heavy Attack** Aalto melewati **"**_<mark style="color:yellow;">**Gate of
 ## Special Food
 
 <table data-header-hidden><thead><tr><th width="267"></th><th width="100" align="center"></th><th></th></tr></thead><tbody><tr><td><img src="https://api.hakush.in/ww/UI/UIResources/Common/Image/IconCook/T_IconCook_SP_05_UI.webp" alt=""></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td>Meningkatkan <strong>DEF</strong> semua <strong>Resonator</strong> dalam tim sebesar <strong>14%</strong> dan <strong>Max HP</strong> sebesar <strong>12%</strong> selama <strong>30 menit</strong>. Efek ini hanya berlaku untuk <strong>Resonator</strong> milik sendiri dalam <strong>Co-op Mode</strong>.</td></tr></tbody></table>
+
+## Material Upgrade Karakter
+
+<figure><img src="https://i.postimg.cc/Kv5GxC6z/Aalto.png" alt=""><figcaption><p>Sumber :  @deviltakoyaki on X</p></figcaption></figure>
+

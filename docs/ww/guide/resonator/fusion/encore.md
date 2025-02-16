@@ -179,3 +179,8 @@ di mana setiap **stack(s)** meningkatkan **ATK** sebesar **5%** selama **10 deti
 ## Special Food
 
 <table data-header-hidden><thead><tr><th width="267"></th><th width="127" align="center"></th><th></th></tr></thead><tbody><tr><td><img src="https://wuthering.wiki/img/item_80001021.png" alt=""></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td><p></p><p><strong>DEF</strong> seluruh <strong>Resonator</strong> dalam tim meningkat <strong>40%</strong> selama <strong>30 menit</strong>.</p><p>Efek ini hanya berlaku untuk <strong>Resonator</strong> milik sendiri dalam <strong>Co-op Mode</strong>.</p></td></tr></tbody></table>
+
+## Material Upgrade Karakter
+
+<figure><img src="https://i.postimg.cc/J47wc0Fr/Encore.png" alt=""><figcaption><p>Sumber :  @deviltakoyaki on X</p></figcaption></figure>
+

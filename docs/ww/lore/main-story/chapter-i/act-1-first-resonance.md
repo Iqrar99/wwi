@@ -14,7 +14,7 @@ layout:
 
 # Act 1: First Resonance
 
-Sesampainya mereka di **Ressonance Nexus**, Chixia menjelaskan kepada Rover kalau **Resonance Nexus** itu semacam server besar pusat informasi yang menyimpan berbagai data mulai dari pemetaan hingga pertahanan. Setelah mendaftarkan Terminalnya di **Jinzhou**, Yangyang menunggu Rover dan Chixia di _<mark style="color:blue;">**City Hall**</mark>_ yang mana mereka berniat untuk bertemu dengan **Magistrate** untuk memenuhi undangan darinya sekaligus mencari petunjuk mengenai amnesia yang ia alami.
+Sesampainya mereka di **Resonance Nexus**, Chixia menjelaskan kepada Rover kalau **Resonance Nexus** itu semacam server besar pusat informasi yang menyimpan berbagai data mulai dari pemetaan hingga pertahanan. Setelah mendaftarkan Terminalnya di **Jinzhou**, Yangyang menunggu Rover dan Chixia di _<mark style="color:blue;">**City Hall**</mark>_ yang mana mereka berniat untuk bertemu dengan **Magistrate** untuk memenuhi undangan darinya sekaligus mencari petunjuk mengenai amnesia yang ia alami.
 
 Di dalam City Hall hanya Rover yang diperbolehkan masuk, di sana ia bertemu Sanhua seorang _bodyguard_ dari **Magistrate** yang nampak dingin dan kaku. Sanhua memberitahukan bahwa Nyonya **Magistrate** baru akan kembali 3 hari kemudian karena masih ada tugas yang dikerjakan. Sebagai permintaan maaf, **Magistrate** memberikan akses bebas kepada **Rover** agar bisa kemana saja di **Jinzhou** termasuk token sebagai hadiah penyambutan dengan niat agar Rover mengeksplor **Jinzhou** dan akomodasi gratis ketika dia butuh tempat beristirahat.
 
@@ -30,15 +30,13 @@ Rover pun pergi dari **City Hall** untuk kembali ke Yangyang dan Chixia dimana m
 
 <div data-full-width="true"><figure><img src="https://wuthering.wiki/img/item_70139306.png" alt=""><figcaption><p>Mangosteen<br>Token Jinhsi: I</p></figcaption></figure> <figure><img src="https://wuthering.wiki/img/item_70139308.png" alt=""><figcaption><p>Leaf affected by "Waveworn"<br>Token Jinhsi: II</p></figcaption></figure> <figure><img src="https://wuthering.wiki/img/item_70139310.png" alt=""><figcaption><p>Sundial<br>Token Jinhsi: III</p></figcaption></figure> <figure><img src="https://wuthering.wiki/img/item_70139313.png" alt=""><figcaption><p>Sugar Pearl<br>Token Jinhsi: IV</p></figcaption></figure></div>
 
-
-
 Ketika mereka akan masuk, Chixia ternyata sudah memasuki shift patrolinya jadi ia meninggalkan Yangyang dan Rover untuk pergi ke **Huaxu Academy** berdua. Di sana mereka bertemu Mortefi seorang peneliti yang tampak garang setelah memarahi seseorang. Mortefi kemudian mengontak Baizhi agar Yangyang dan Rover bisa bertemu dengannya. Ketika bertemu Baizhi, ia sudah menyiapkan alat untuk pemeriksaan fisiknya. Sementara token–token yang **Rover** bawa diteliti oleh Mortefi.
 
 <figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act1_Picture3.png" alt=""><figcaption></figcaption></figure>
 
 Ketika ingin memulai pemeriksaan, Baizhi memberitahukan bahwa yang diserap Rover sebelumnya adalah Tacet Discord kelas _**Overlord**_ yang mana merupakan kelas 2 paling kuat dari hirarki kelas Tacet Discord. Secara berurutan dari yang paling lemah adalah _**Common Class,**_ kemudian _**Elite Class,**_ dilanjut dengan _**Overlord Class**_, dan terakhir adalah _**Calamity Class**_ yang sangat kuat. Namun ada juga Tacet Discord spesial yang disebut _<mark style="color:blue;">**Threnodian**</mark>_.
 
-Menurut semua catatan yang pernah ada, manusia umumnya hanya bisa menyerap atau mereplikasi frekuensi echo apabila mereka punya Terminal karena itu perlu dilakukan pemeriksaan agar menghindari perubahan internal yang sulit diketahui. Ketika mati, Tacet Discord mungkin meninggalkan energi frekuensi tak berwujud atau diketahui sebagai “_**Reverbrations**_” yang ketika dikumpulkan dalam Terminal dapat digunakan dalam pertarungan bahkan merubah bentuk Resonator menjadi Tacet Discord untuk sementara waktu.
+Menurut semua catatan yang pernah ada, manusia umumnya hanya bisa menyerap atau mereplikasi frekuensi echo apabila mereka punya Terminal karena itu perlu dilakukan pemeriksaan agar menghindari perubahan internal yang sulit diketahui. Ketika mati, Tacet Discord mungkin meninggalkan energi frekuensi tak berwujud atau diketahui sebagai “_**Reverberations**_” yang ketika dikumpulkan dalam Terminal dapat digunakan dalam pertarungan bahkan merubah bentuk Resonator menjadi Tacet Discord untuk sementara waktu.
 
 <figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act1_Picture4.png" alt=""><figcaption></figcaption></figure>
 
@@ -64,15 +62,11 @@ Kemudian Mortefi datang dengan **Sundial** yang sudah diperbaiki. Ternyata mekan
 >
 > _\[Penilaian Resonansi RA1OO1-G]_
 >
-> &#x20;
->
 > _\[Laporan Evaluasi Resonansi]_
 >
 > _Resonator █████ melaporkan amnesia terkait fortenya, tanpa waktu kebangkitan yang jelas. Tacet Mark ada di tangan kanan mereka. Tidak ada perubahan fisik yang terlihat setelah kebangkitan. Tacet Mark dan pupil mata mereka menunjukkan lingkaran cahaya keemasan ketika mereka menggunakan Forte. Tes Spektrum Resonansi menunjukkan Syntony yang kuat dengan berbagai pola frekuensi, tetapi penyebab Kebangkitan Resonator █████ masih belum dapat disimpulkan. Pemeriksaan lebih lanjut diperlukan untuk menentukan asal usul forte mereka._
 >
 > _Analisis sampel uji telah mengungkapkan Rabelle’s Curve yang non-konvergen dengan bentuk gelombang periodik yang nyata, yang mengklasifikasikan █████ sebagai Resonator Congenital._
->
-> &#x20;
 >
 > _\[Laporan Diagnosa Overclocking]_
 >
@@ -82,8 +76,8 @@ Kemudian Mortefi datang dengan **Sundial** yang sudah diperbaiki. Ternyata mekan
 >
 > _Lampiran : Seremoni Pendirian Jinzhou \[DISUNTING]_\
 > \
-> &#xNAN;_&#x4B;omentar dari Peneliti #31:_\
-> &#xNAN;_&#x48;ilangnya data harus ditangani sebelum pemeliharaan database selanjutnya untuk menghindari masalah lebih lanjut_
+> \&#xNAN;_Komentar dari Peneliti #31:_\
+> \&#xNAN;_Hilangnya data harus ditangani sebelum pemeliharaan database selanjutnya untuk menghindari masalah lebih lanjut_
 >
 > _-Archive : “The First Resonator”_
 
@@ -94,9 +88,6 @@ Rover kemudian memutuskan untuk lanjut membicarakan tokennya. intinya 1 token bi
 <figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act1_Picture7.png" alt=""><figcaption></figcaption></figure>
 
 Mereka pun akhirnya pergi dari **Huaxu Academy** dan bertemu dengan Chixia lagi yang sayangnya belum menemukan petunjuk apapun. Karena hari sudah larut maka mereka memutuskan untuk bertemu lagi di restoran milik Panhua untuk sarapan besok kemudian. Yangyang bertanya apakah Rover punya tempat untuk istirahat dan menawarkan ruang tamu kosong dirumahnya. Namu ide ini ditepis Chixia dengan mengingatkan Yangyang bahwa Rover sudah diberi akomodasi oleh Jinhsi. Kemudian mereka berpisah dan Rover beristirahat untuk hari ini.
-
-| \*\*\* |
-| :----: |
 
 {% hint style="info" %}
 :notebook: **GLOSARIUM**
@@ -146,6 +137,4 @@ Mereka pun akhirnya pergi dari **Huaxu Academy** dan bertemu dengan Chixia lagi 
 * Retroact Rain
 
 > Retroact Rain merupakan fenomena unik yang tergolong sebagai salah satu bentuk **Waveworn Phenomenon**. Hujan ini terdiri dari **Energi Remnant** yang terkondensasi dari **Etheric Sea**, energi yang merekam peristiwa lintas waktu dan ruang. Karakteristik yang menentukan dari hujan ini adalah kemampuannya untuk memunculkan ilusi peristiwa masa lalu, yang diproyeksikan sebagai **Phantom** (hantu) bagi mereka yang terpapar olehnya. Hantu-hantu ini sering kali dikaitkan dengan hubungan emosional yang kuat dengan area yang terkena dampak, yang menyebabkan halusinasi yang lebih intens dan personal bagi individu.
-
-
 {% endhint %}

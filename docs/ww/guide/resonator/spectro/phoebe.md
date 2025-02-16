@@ -132,10 +132,6 @@ Saat dalam <mark style="color:yellow;">**Absolution**</mark>**&#x20;Status** ata
 
 </details>
 
-## Special Food
-
-<table data-header-hidden><thead><tr><th width="267"></th><th width="136" align="center"></th><th></th></tr></thead><tbody><tr><td><img src="https://wuthering.wiki/img/item_80001041.png" alt=""></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td><p></p><p>Meningkatkan <strong>Basic Attack DMG Bonus</strong> seluruh Resonator dalam tim sebesar <strong>44%</strong> selama <strong>30 menit</strong>.</p><ul><li><strong>Hanya berlaku untuk Resonator milik sendiri dalam Co-op Mode</strong>.</li></ul></td></tr></tbody></table>
-
 ## Resonance Chain
 
 {% tabs %}
@@ -190,3 +186,12 @@ Saat dalam <mark style="color:yellow;">**Absolution**</mark>**&#x20;atau&#x20;**
   **Starflash tambahan ini tidak mengonsumsi&#x20;**<mark style="color:yellow;">**Divine Voice**</mark>**&#x20;dan tidak dihitung sebagai Heavy Attack**.
 {% endtab %}
 {% endtabs %}
+
+## Special Food
+
+<table data-header-hidden><thead><tr><th width="267"></th><th width="136" align="center"></th><th></th></tr></thead><tbody><tr><td><img src="https://wuthering.wiki/img/item_80001041.png" alt=""></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td><p></p><p>Meningkatkan <strong>Basic Attack DMG Bonus</strong> seluruh Resonator dalam tim sebesar <strong>44%</strong> selama <strong>30 menit</strong>.</p><ul><li><strong>Hanya berlaku untuk Resonator milik sendiri dalam Co-op Mode</strong>.</li></ul></td></tr></tbody></table>
+
+## Material Upgrade Karakter
+
+<figure><img src="https://i.postimg.cc/HnPmZyRG/Phoebe.png" alt=""><figcaption><p>Sumber :  @deviltakoyaki on X</p></figcaption></figure>
+

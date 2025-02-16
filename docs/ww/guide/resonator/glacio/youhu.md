@@ -176,3 +176,8 @@ Setiap stack meningkatkan **Crit. DMG Youhu sebesar 15%**.
 ## Special Food
 
 <table data-header-hidden><thead><tr><th width="267"></th><th width="100" align="center"></th><th></th></tr></thead><tbody><tr><td><img src="https://wuthering.wiki/img/item_80001040.png" alt=""></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td>Meningkatkan ATK dan Crit. DMG semua Resonator dalam tim masing-masing sebesar 10% dan 16%, berlangsung selama 30 menit. Hanya efektif pada Resonator milik sendiri saat dalam Mode Co-op.</td></tr></tbody></table>
+
+## Material Upgrade Karakter
+
+<figure><img src="https://i.postimg.cc/cLqRGtNZ/Youhu.png" alt=""><figcaption><p>Sumber :  @deviltakoyaki on X</p></figcaption></figure>
+

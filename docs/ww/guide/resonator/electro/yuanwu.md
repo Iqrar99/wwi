@@ -160,3 +160,8 @@ Semua anggota tim di sekitar dalam jangkauan **Resonance Skill&#x20;**<mark styl
 ## Special Food
 
 <table data-header-hidden><thead><tr><th width="267"></th><th width="127" align="center"></th><th></th></tr></thead><tbody><tr><td><img src="https://wuthering.wiki/img/item_80001008.png" alt=""></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td>Meningkatkan <strong>Max HP</strong> semua <strong>Resonators</strong> dalam tim sebesar 28% selama 30 menit. Efek ini hanya berlaku untuk <strong>Resonators</strong> milik sendiri dalam <strong>Co-op Mode</strong>.</td></tr></tbody></table>
+
+## Material Upgrade Karakter
+
+<figure><img src="https://i.postimg.cc/QMm176Kx/Yuanwu.png" alt=""><figcaption><p>Sumber :  @deviltakoyaki on X</p></figcaption></figure>
+

@@ -172,3 +172,8 @@ Setelah menggunakan **Resonance Liberation&#x20;**<mark style="color:yellow;">**
 ## Special Food
 
 <table data-header-hidden><thead><tr><th width="267"></th><th width="100" align="center"></th><th></th></tr></thead><tbody><tr><td><img src="https://wuthering.wiki/img/item_80001033.png" alt=""></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td>Meningkatkan <strong>Crit. DMG semua Resonator dalam tim sebesar 36%</strong> selama <strong>30 menit</strong>.<br>Efek ini hanya berlaku untuk <strong>Resonator milik sendiri</strong> dalam <strong>Co-op Mode</strong>.</td></tr></tbody></table>
+
+## Material Upgrade Karakter
+
+<figure><img src="https://i.postimg.cc/pTM49L8t/Jinhsi.png" alt=""><figcaption><p>Sumber :  @deviltakoyaki on X</p></figcaption></figure>
+

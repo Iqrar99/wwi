@@ -100,7 +100,8 @@
       * [Act 1: First Resonance](ww/lore/main-story/chapter-i/act-1-first-resonance.md)
   * [Companion Quest](ww/lore/companion-quest/README.md)
     * [Lingyang - Wild Heart's Return](ww/lore/companion-quest/lingyang-wild-hearts-return.md)
-  * [Character Backstory](ww/lore/character-backstory.md)
+  * [Character Backstory](ww/lore/character-backstory/README.md)
+    * [Aalto](ww/lore/character-backstory/aalto.md)
 
 ## Solaris-3 Bot <a href="#solaris-3" id="solaris-3"></a>
 
@@ -108,14 +109,14 @@
 * [⚙️ Commands](solaris-3/commands/README.md)
   * [Help](solaris-3/commands/help.md)
   * [About](solaris-3/commands/about.md)
-  * [Weapon](solaris-3/commands/about-1.md)
-  * [Echo](solaris-3/commands/about-2.md)
-  * [Sonata Effect](solaris-3/commands/about-3.md)
-  * [Character Kit](solaris-3/commands/about-4.md)
-  * [Resonance Chain](solaris-3/commands/about-5.md)
-  * [Ascension Information](solaris-3/commands/about-6.md)
-  * [Waveplate Reminder](solaris-3/commands/about-7.md)
-  * [Patch Calendar](solaris-3/commands/about-8.md)
+  * [Weapon](solaris-3/commands/weapon.md)
+  * [Echo](solaris-3/commands/echo.md)
+  * [Sonata Effect](solaris-3/commands/sonata.md)
+  * [Character Kit](solaris-3/commands/kit.md)
+  * [Resonance Chain](solaris-3/commands/rc.md)
+  * [Ascension Information](solaris-3/commands/ascension.md)
+  * [Waveplate Reminder](solaris-3/commands/waveplate.md)
+  * [Patch Calendar](solaris-3/commands/calendar.md)
 
 ***
 

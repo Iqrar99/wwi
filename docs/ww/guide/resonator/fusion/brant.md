@@ -205,3 +205,8 @@ memberikan **Fusion DMG** (**dihitung sebagai Basic Attack DMG**) sebesar **30% 
 ## Special Food
 
 <table data-header-hidden><thead><tr><th width="267"></th><th width="127" align="center"></th><th></th></tr></thead><tbody><tr><td><img src="https://wuthering.wiki/img/item_80001052.png" alt=""></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span><span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span></td><td><p><strong>Heavy Attack DMG Bonus</strong> untuk semua <strong>Resonator</strong> dalam tim meningkat <strong>28%</strong> selama <strong>15 menit</strong>.</p><p>Efek ini hanya berlaku untuk <strong>Resonator</strong> milik sendiri dalam <strong>Co-op Mode</strong>.</p></td></tr></tbody></table>
+
+## Material Upgrade Karakter
+
+<figure><img src="https://i.postimg.cc/xjs9TwCs/Brant.png" alt=""><figcaption><p>Sumber :  @deviltakoyaki on X</p></figcaption></figure>
+
