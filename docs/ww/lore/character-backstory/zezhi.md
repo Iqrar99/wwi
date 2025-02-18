@@ -20,11 +20,11 @@ layout:
 
 ## :mag: Informasi
 
-| Tanggal Lahir | 31 Desmber |
-| ------------- | ---------- |
-| Jenis Kelamin | Perempuan  |
-| Tempat Lahir  | Huanglong  |
-| Afiliasi      | Jinzhou    |
+| Tanggal Lahir | 31 Desember |
+| ------------- | ----------- |
+| Jenis Kelamin | Perempuan   |
+| Tempat Lahir  | Huanglong   |
+| Afiliasi      | Jinzhou     |
 
 ## :clipboard: Forte Examination Report
 
