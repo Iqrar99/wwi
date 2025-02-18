@@ -23,7 +23,7 @@ layout:
 | Tanggal Lahir | 11 Juni          |
 | ------------- | ---------------- |
 | Jenis Kelamin | Laki-laki        |
-| Tempate Lahir | New Federation   |
+| Tempat Lahir  | New Federation   |
 | Afiliasi      | The Black Shores |
 
 
