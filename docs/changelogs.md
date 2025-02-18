@@ -21,6 +21,11 @@ layout:
 
 # Changelogs
 
+## 18/02/2025
+
+* Add more backstories
+* Set the website to dark mode by default
+
 ## 16/02/2025
 
 * Add more rectifer weapon description
