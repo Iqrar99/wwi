@@ -34,7 +34,7 @@ layout:
 
 ### <mark style="color:blue;">Resonance Evaluation Report</mark>
 
-\[Catatan Arsip yang Diambil - A.A1001] \
+\[**Catatan Arsip yang Diambil - A.A1001**] \
 Subjek: Instansi Kedua / Second Instance\
 Perekam: ▇▇▇▇ \
 Segmen Rekaman: A.A-000

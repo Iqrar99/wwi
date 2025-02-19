@@ -16,7 +16,7 @@ layout:
 
 
 
-<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1107.png" alt="" width="375"><figcaption><p>Putri kedua keluarga Montelli dan seorang investor seni  yang tak terikat oleh norma, Carlotta bergerak dengan anggun di antara lingkaran sosial dan transaksi bisnis, sembari diam-diam menangani masalah keluarga yang tak bisa diungkapkan.</p></figcaption></figure></div>
+<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1107.png" alt="" width="375"><figcaption><p>Putri kedua keluarga <strong>Montelli</strong> dan seorang investor seni  yang tak terikat oleh norma, <strong>Carlotta</strong> bergerak dengan anggun di antara lingkaran sosial dan transaksi bisnis, sembari diam-diam menangani masalah keluarga yang tak bisa diungkapkan.</p></figcaption></figure></div>
 
 ## :mag: Informasi
 
@@ -34,11 +34,11 @@ layout:
 
 ### <mark style="color:blue;">Resonance Evaluation Report</mark>
 
-\[Dikutip dari Catatan Internal Keluarga Montelli - Access Shared]
+[ Dikutip dari **Catatan Internal Keluarga Montelli - Access Shared** ]
 
 **Codename: Opal**
 
-Resonance Awakening anggota ini terjadi lebih dari **sepuluh tahun** yang lalu, dan ia memiliki kontrol yang sangat baik atas **Forte**-nya.
+**Resonance Awakening** anggota ini terjadi lebih dari **sepuluh tahun** yang lalu, dan ia memiliki kontrol yang sangat baik atas **Forte**-nya.
 
 **Tacet Mark**-nya terletak di area punggung bawah, dan tidak ditemukan perubahan fisik signifikan setelah Awakening. Dia mampu menciptakan kristal bercahaya tanpa batas yang menyerupai **opal**, yang dapat dikonstruksi ulang menjadi senjata api dan amunisi sesuai kebutuhan. Saat menggunakan **Forte**, rambutnya juga menampilkan efek kristalisasi. Musuh yang terkena kristal ini juga akan mengalami kristalisasi.
 
@@ -50,7 +50,7 @@ Analisis sampel uji menunjukkan **non-convergent Rabelle’s Curve**, sehingga a
 
 ### <mark style="color:blue;">Overclock Diagnostic Report</mark>
 
-\[Dikutip dari Catatan Internal Keluarga Montelli - Access Shared]
+[ Dikutip dari **Catatan Internal Keluarga Montelli - Access Shared** ]
 
 **Codename: Opal**
 
@@ -60,7 +60,7 @@ Grafik gelombang anggota ini menunjukkan fluktuasi elips. Pola **Time Domain** t
 * Tidak ada riwayat **Overclocking** dalam catatan.
 * Tidak diperlukan sesi konseling psikologis saat ini.
 
-Sungguh elegan! Lady Carlo... eh, maksudku, anggota ini selalu tampil elegan, sempurna—bahkan dalam tes ini... Elegan sekali!
+> Sungguh elegan! Lady **Carlo**... eh, maksudku, anggota ini selalu tampil elegan, sempurna—bahkan dalam tes ini... Elegan sekali!
 
 ## :package: Cherished Items
 
@@ -118,7 +118,8 @@ menghilang ke dalam kegelapan dan hujan malam.
 
 Malam itu, hujan turun tiba-tiba.
 
-Air membanjiri jalanan, membawa kesuraman yang semakin pekat menjelang tengah malam. **Carlotta** mendongak, menatap bayangan buram yang samar-samar terlihat di balik tirai hujan. Bukankah dia juga hanya bayangan lain di tengah badai? Ya... bayangan yang datang untuk merenggut nyawa demi menebus kesalahan masa lalu.
+Air membanjiri jalanan, membawa kesuraman yang semakin pekat menjelang tengah malam. **Carlotta** mendongak, menatap bayangan buram yang samar-samar terlihat di balik tirai hujan. Bukankah dia juga hanya bayangan lain di tengah badai?\
+Ya... bayangan yang datang untuk merenggut nyawa demi menebus kesalahan masa lalu.
 
 Hujan tak akan menghentikannya menemukan orang yang ia cari.
 
@@ -184,7 +185,9 @@ Di lantai dansa, **Carlotta** menukar senyum sopan dengan perwakilan **Fisalia**
 
 > "Tidak, hanya menikmati malam,"&#x20;
 
-jawab **Carlotta**, jemarinya bertumpu ringan di pinggang wanita itu. Tangan lawannya pun merayap naik di sepanjang lengan **Carlotta**, sebelum akhirnya telapak tangan mereka bertemu dan tubuh mereka mulai bergerak selaras—rok mereka berputar layaknya kelopak bunga yang mekar di bawah lampu kristal.
+jawab **Carlotta**, 
+
+jemarinya bertumpu ringan di pinggang wanita itu. Tangan lawannya pun merayap naik di sepanjang lengan **Carlotta**, sebelum akhirnya telapak tangan mereka bertemu dan tubuh mereka mulai bergerak selaras—rok mereka berputar layaknya kelopak bunga yang mekar di bawah lampu kristal.
 
 > "Ayolah, kau pasti tak datang hanya untuk menari. Klan **Montelli** pasti juga ada di sini, bukan?"
 
@@ -202,7 +205,7 @@ hingga akhirnya melodi mencapai puncaknya.
 Wanita itu menarik diri, pandangannya menyapu ballroom, \
 mencari sosok-sosok tersembunyi dari **Montelli**.
 
-Namun **Carlotta** menggenggam tangannya lebih erat, mengarahkan tubuhnya kembali ke dalam irama dansa mereka. Musik tetap mengikat mereka bersama. Wanita itu tak punya jalan keluar dan tak bisa membuat keributan. \
+Namun, **Carlotta** menggenggam tangannya lebih erat, mengarahkan tubuhnya kembali ke dalam irama dansa mereka. Musik tetap mengikat mereka bersama. Wanita itu tak punya jalan keluar dan tak bisa membuat keributan. \
 Yang bisa ia lakukan hanyalah menatap **Carlotta** dengan kebencian membara.
 
 > "**Montelli** punya telinga di mana-mana. Sejak awal, kau mengincar 'anak-anakku'. Aku harap kau siap menari... sampai maut memisahkan kita."

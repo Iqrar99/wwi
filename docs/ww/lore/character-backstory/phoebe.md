@@ -34,13 +34,13 @@ layout:
 
 ### <mark style="color:blue;">Resonance Evaluation Report</mark>
 
-\[Cuplikan Surat Rekomendasi dari Order Orphanage]
+\[**Cuplikan Surat Rekomendasi dari Order Orphanage**]
 
 Saat pertama kali aku melihat **Tacet Mark** yang bercahaya di paha kiri atasnya, aku langsung tahu bahwa ini adalah berkah dari **Imperator**.
 
 ...Kemampuannya memungkinkan dia untuk memanifestasikan cahaya, membiaskannya ke dalam berbagai bentuk prisma. Bahkan di malam paling gelap, saat badai telah memadamkan semua cahaya lain, dia mengisi setiap ruangan dengan sinar lembut yang menenangkan. Cahaya yang begitu menenteramkan, seolah membawa esensi harapan di tengah kegelapan. Seperti tertulis dalam **Tenets of the Deep**, cahaya seperti itu pasti telah lama bersemayam di dalam hatinya, sebagai tanda dari pengabdiannya yang tanpa henti...
 
-Catatan ini telah dipindahkan dari Orphanage ke arsip **Order of the Deep**.
+Catatan ini telah dipindahkan dari **Orphanage** ke arsip **Order of the Deep**.
 
 Kami memiliki alasan untuk percaya bahwa kemampuan **Resonance** yang luar biasa dari **Acolyte Initiate Phoebe** berasal dari imannya yang tak tergoyahkan terhadap **Divinity**.
 
@@ -48,11 +48,10 @@ Hal ini terlihat dari hubungan erat yang ia jalin dengan **Echoes**, sebuah kete
 
 Namun, beberapa anggota **Order** berpendapat bahwa kedekatannya dengan **Echoes** melanggar doktrin. **Berkah dari Divine Envoys** seharusnya dibagikan secara merata, sebagaimana kasih **Sentinel** terhadap umatnya bersifat adil dan tanpa keberpihakan. Kedekatan yang terlalu erat dengan **Divine Envoys** dapat membawa risiko yang tak terduga. Oleh karena itu, kami tidak merekomendasikan penempatannya di **Servitude Hall**, dan percaya bahwa keputusan yang paling bijaksana adalah memindahkannya ke **Ministry of Holy Rituals**.
 
->
 
 ### <mark style="color:blue;">Overclock Diagnostic Report</mark>
 
-\[Order of the Deep - Ministry of Holy Rituals Records]
+\[**Order of the Deep - Ministry of Holy Rituals Records**]
 
 Grafik gelombang **Resonator Phoebe** menunjukkan fluktuasi elips. Pola **Time Domain** tetap stabil, dan tidak ditemukan tanda-tanda fluktuasi abnormal. Hasil pengujian berada dalam rentang fase normal.
 

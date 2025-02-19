@@ -34,15 +34,15 @@ layout:
 
 ### <mark style="color:blue;">Resonance Evaluation Report</mark>
 
-**Dasar Evaluasi**: \[**Resonance Assessment 2893-G**]
+Dasar Evaluasi: \[**Resonance Assessment 2893-G**]
 
-**Resonator Chixia** mengalami **Kebangkitan** **enam tahun lalu** setelah terpapar **suhu ekstrem dan kobaran api yang dahsyat**.
+**Resonator Chixia** mengalami **Awakneing** **enam tahun lalu** setelah terpapar **suhu ekstrem dan kobaran api yang dahsyat**.
 
-**Tacet Mark** milik **Chixia** terletak di **bagian bawah perut kirinya**. Setelah **Kebangkitan**, ia mengalami **perubahan warna rambut menjadi merah**, serta **peningkatan suhu tubuh yang signifikan**.
+**Tacet Mark** milik **Chixia** terletak di **bagian bawah perut kirinya**. Setelah **Awakneing**, ia mengalami **perubahan warna rambut menjadi merah**, serta **peningkatan suhu tubuh yang signifikan**.
 
 Ia memiliki kemampuan untuk **mengubah frekuensi zat bersuhu tinggi menjadi amunisi api yang nyata**.
 
-**Resonance Spectrum Pattern** Chixia menunjukkan **keselarasan erat dengan elemen api**. Reaksi **Syntony** yang kuat terdeteksi dalam pengujian, meskipun **penyebab pasti Kebangkitannya masih belum diketahui**.
+**Resonance Spectrum Pattern** **Chixia** menunjukkan **keselarasan erat dengan elemen api**. Reaksi **Syntony** yang kuat terdeteksi dalam pengujian, meskipun **penyebab pasti Kebangkitannya masih belum diketahui**.
 
 Analisis terhadap **sampel uji** menunjukkan adanya **Kurva Rabelle yang tidak konvergen**, dengan **kenaikan curam di bagian tengahnya**.
 
@@ -173,7 +173,7 @@ Sepanjang malam, **Chixia terus mencari**, hingga akhirnya **fajar mulai menying
 
 **Itu salah satu dialog Fiamma!**
 
-Chixia langsung menimpali:
+**Chixia** langsung menimpali:
 
 > **"...Aku akan melenyapkan monster itu!"**
 
@@ -197,7 +197,7 @@ meyakinkannya.
 
 > **"Aku... Aku gak bisa. Ayah dan ibu udah cukup kesulitan..."**
 
-Chixia berpikir sejenak, lalu tersenyum.
+**Chixia** berpikir sejenak, lalu tersenyum.
 
 > **"Baiklah. Sekarang janji sama aku—jangan naik ke atap lagi, oke?"**\
 > &#xNAN;**"Itu bakal bikin tugasku jauh lebih gampang. Sebagai gantinya, aku bakal kasih kamu tiket pertunjukan. Setuju?"**

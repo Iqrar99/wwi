@@ -16,7 +16,7 @@ layout:
 
 
 
-<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1405.png" alt="" width="375"><figcaption><p>Jianxin, seorang biksu Tao sekaligus penerus <strong>Fengyiquan</strong>, telah mengabdikan hidupnya untuk menguasai seni bela diri tertinggi. Dengan kekuatannya dalam mengendalikan dan mengubah <strong>Chi</strong> dari lingkungan sekitar, ia bisa menciptakan penghalang pelindung yang mampu menyucikan tubuh dan pikiran.</p></figcaption></figure></div>
+<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1405.png" alt="" width="375"><figcaption><p><strong>Jianxin</strong>, seorang biksu <strong>Tao</strong> sekaligus penerus <strong>Fengyiquan</strong>, telah mengabdikan hidupnya untuk menguasai seni bela diri tertinggi. Dengan kekuatannya dalam mengendalikan dan mengubah <strong>Chi</strong> dari lingkungan sekitar, ia bisa menciptakan penghalang pelindung yang mampu menyucikan tubuh dan pikiran.</p></figcaption></figure></div>
 
 ## :mag: Informasi
 
@@ -34,36 +34,36 @@ layout:
 
 ### <mark style="color:blue;">Resonance Evaluation Report</mark>
 
-**Dasar Evaluasi**: \[Resonance Assessment **1541-G**]\
+Dasar Evaluasi: \[**Resonance Assessment 1541-G**]\
 **Resonator** Jianxin mengalami **Awakening** **3 tahun** yang lalu. \
 Awakening ini tidak dipicu oleh kejadian tertentu, sehingga dikategorikan sebagai **Natural Awakening**.
 
-**Tacet Mark** milik Jianxin terletak di bahu kirinya. \
+**Tacet Mark** milik **Jianxin** terletak di bahu kirinya. \
 Setelah Awakening, tidak ditemukan perubahan fisik yang signifikan.
 
-**Forte** milik Jianxin memungkinkannya memperkuat serangan \
+**Forte** milik **Jianxin** memungkinkannya memperkuat serangan \
 dengan mengendalikan aliran udara dan menciptakan **force field**. \
 Hasil evaluasi mencatat kecepatan serangannya mencapai **340 meter per detik**. \
 Namun, detail mengenai **force field** yang diciptakannya masih belum dapat disimpulkan. \
-Secara keseluruhan, Forte Jianxin menunjukkan potensi untuk berkembang lebih jauh.
+Secara keseluruhan, Forte **Jianxin** menunjukkan potensi untuk berkembang lebih jauh.
 
 Polanya dalam **Resonance Spectrum** menunjukkan kemiripan sebesar **5%** dengan lebih dari **10 objek**, tetapi tidak ada kesamaan yang mencapai **20%** atau lebih. \
 Oleh karena itu, sumber Awakening-nya belum dapat ditentukan.
 
-Analisis sampel uji menunjukkan pola **Rabelle’s Curve** yang tidak konvergen dengan kenaikan yang stabil. Terdapat beberapa fluktuasi kecil yang masih berada dalam batas normal. Dengan demikian, Jianxin diklasifikasikan sebagai **Natural Resonator**.
+Analisis sampel uji menunjukkan pola **Rabelle’s Curve** yang tidak konvergen dengan kenaikan yang stabil. Terdapat beberapa fluktuasi kecil yang masih berada dalam batas normal. Dengan demikian, **Jianxin** diklasifikasikan sebagai **Natural Resonator**.
 
 ### <mark style="color:blue;">Overclock Diagnostic Report</mark>
 
-**waveform graph** milik Jianxin menunjukkan **Time Domain** yang stabil, sesuai dengan pola fluktuasi standar. Tidak ada parameter abnormal yang terdeteksi dalam sampel uji.
+**waveform graph** milik **Jianxin** menunjukkan **Time Domain** yang stabil, sesuai dengan pola fluktuasi standar. Tidak ada parameter abnormal yang terdeteksi dalam sampel uji.
 
 * **Resonant Criticality:** **Tinggi**
-* Frekuensi **Resonator** Jianxin menunjukkan stabilitas yang tinggi, dengan risiko **Overclocking** yang sangat rendah.
+* Frekuensi **Resonator** **Jianxin** menunjukkan stabilitas yang tinggi, dengan risiko **Overclocking** yang sangat rendah.
 * Tidak ada riwayat **Overclocking** yang terdokumentasi. \
   Pemeriksaan dan konseling rutin tidak diperlukan.
 
 ## :package: Cherished Items
 
-<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Mirrors of Clarity</td><td><img src="https://wuthering.wiki/img/T_Treasure52_UI.png" alt=""></td><td>Saat masih kecil, Jianxin menerima cenderamata berharga dari gurunya—sebuah set cermin kecil dengan beberapa bagian yang hilang. <br>Selama pelatihannya, ia sering menggunakannya untuk merenungkan perkembangan dirinya, memahami bahwa pertumbuhan dalam seni bela diri membutuhkan kesabaran dan dedikasi. <br>Ketika ia kembali ke sekte, sang guru dengan hati-hati mengganti bagian cermin yang hilang. Saat itulah Jianxin melihat bayangannya dalam cermin yang utuh—sebuah simbol dari semua ajaran dan perjalanan yang telah ia lalui.</td></tr><tr><td align="center">Coupon Clip</td><td><img src="https://wuthering.wiki/img/T_Treasure53_UI.png" alt=""></td><td><p>Jianxin pertama kali belajar mengumpulkan kupon saat ia turun gunung bersama gurunya untuk hidup di kota. <br>Baginya, ini bukan hanya cara unik untuk bertahan hidup, tetapi juga simbol dari kebaikan orang-orang di sekitarnya.</p><p></p><p><em>"Makanan eksklusif... GRATIS!"</em></p><p></p><p>Jianxin tidak memahami bagaimana seorang pedagang menggunakan ukuran font untuk menciptakan daya tarik visual, apalagi daftar panjang syarat dan ketentuan yang menyertainya.</p></td></tr><tr><td align="center"></td><td></td><td></td></tr><tr><td align="center">VintVelvet Grass</td><td><img src="https://wuthering.wiki/img/T_Treasure54_UI.png" alt=""></td><td><p>Tanaman ini berdiri tegak dan kuat, seolah masih bergoyang tertiup angin pegunungan. Melihatnya saja sudah memberikan sensasi menyegarkan, seakan berdiri di puncak tertinggi.</p><p>Spesies ini hampir punah, hanya tersisa dalam deskripsi singkat Jianxin. <br>Meskipun telah dilakukan investigasi mendalam, <strong>Academy</strong> masih belum dapat menentukan lokasi di mana ia menemukannya. Yang pasti, tanaman langka ini pernah ada dalam genggamannya. <br>Beberapa orang percaya bahwa tanaman ini memiliki kekuatan mistis, sementara yang lain melihatnya sebagai simbol ketahanan dan kelangsungan hidup.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Mirrors of Clarity</td><td><img src="https://wuthering.wiki/img/T_Treasure52_UI.png" alt=""></td><td>Saat masih kecil, <strong>Jianxin</strong> menerima cenderamata berharga dari gurunya—sebuah set cermin kecil dengan beberapa bagian yang hilang. <br>Selama pelatihannya, ia sering menggunakannya untuk merenungkan perkembangan dirinya, memahami bahwa pertumbuhan dalam seni bela diri membutuhkan kesabaran dan dedikasi. <br>Ketika ia kembali ke <strong>sekte</strong>, sang guru dengan hati-hati mengganti bagian cermin yang hilang. Saat itulah <strong>Jianxin</strong> melihat bayangannya dalam cermin yang utuh—sebuah simbol dari semua ajaran dan perjalanan yang telah ia lalui.</td></tr><tr><td align="center">Coupon Clip</td><td><img src="https://wuthering.wiki/img/T_Treasure53_UI.png" alt=""></td><td><p><strong>Jianxin</strong> pertama kali belajar mengumpulkan kupon saat ia turun gunung bersama gurunya untuk hidup di kota. <br>Baginya, ini bukan hanya cara unik untuk bertahan hidup, tetapi juga simbol dari kebaikan orang-orang di sekitarnya.</p><p></p><p><em>"Makanan eksklusif... GRATIS!"</em></p><p></p><p><strong>Jianxin</strong> tidak memahami bagaimana seorang pedagang menggunakan ukuran <strong>font</strong> untuk menciptakan daya tarik <strong>visual</strong>, apalagi daftar panjang syarat dan ketentuan yang menyertainya.</p></td></tr><tr><td align="center"></td><td></td><td></td></tr><tr><td align="center">VintVelvet Grass</td><td><img src="https://wuthering.wiki/img/T_Treasure54_UI.png" alt=""></td><td><p>Tanaman ini berdiri tegak dan kuat, seolah masih bergoyang tertiup angin pegunungan. Melihatnya saja sudah memberikan sensasi menyegarkan, seakan berdiri di puncak tertinggi.</p><p>Spesies ini hampir punah, hanya tersisa dalam deskripsi singkat Jianxin. <br>Meskipun telah dilakukan investigasi mendalam, <strong>Academy</strong> masih belum dapat menentukan lokasi di mana ia menemukannya. Yang pasti, tanaman langka ini pernah ada dalam genggamannya. <br>Beberapa orang percaya bahwa tanaman ini memiliki kekuatan mistis, sementara yang lain melihatnya sebagai simbol ketahanan dan kelangsungan hidup.</p></td></tr></tbody></table>
 
 ## :scroll: Story
 
@@ -129,18 +129,18 @@ Yang ia inginkan hanyalah menguasai seni bela diri—sebuah pencapaian yang memb
 
 ***
 
-> "Jianxin, sudah larut. Latihan lagi besok."
+> "**Jianxin**, sudah larut. Latihan lagi besok."
 
 > "Aku akan pulang setelah menyelesaikan ini! Guru sebaiknya beristirahat dulu!"
 
 Di tanah latihan yang semakin gelap, gadis itu mengulang gerakannya tanpa lelah. Dari yang awalnya hati-hati hingga semakin cepat, ia berlatih hingga gerakan itu menjadi bagian dari dirinya.
 
-Hati Jianxin yang murni membimbing pilihannya, bebas dari rasa takut dan kelemahan. \
+Hati **Jianxin** yang murni membimbing pilihannya, bebas dari rasa takut dan kelemahan. \
 Pikirannya sederhana, tetapi keyakinannya tak tergoyahkan.
 
-> "Jianxin, dia terlalu kuat. Ayo pergi. Biarkan saja dia mengambil persediaan itu."
+> "**Jianxin**, dia terlalu kuat. Ayo pergi. Biarkan saja dia mengambil persediaan itu."
 
-Namun, Jianxin bersiap untuk bertarung.&#x20;
+Namun, **Jianxin** bersiap untuk bertarung.&#x20;
 
 > "Aku tidak akan pergi. Aku tahu kita kalah kuat, tapi aku ingin mencoba."
 
@@ -153,9 +153,9 @@ Namun, Jianxin bersiap untuk bertarung.&#x20;
 ### <mark style="color:blue;">Benevolent Hand of Grace</mark>
 
 Suatu hari, dalam perjalanan naik gunung untuk mengumpulkan bambu, \
-Jianxin bertemu dengan seorang **Taoist** di **Jembatan Qingyang**.\
+**Jianxin** bertemu dengan seorang **Taoist** di **Jembatan Qingyang**.\
 Ia tidak mengenal orang itu atau tahu dari mana asalnya.\
-Namun, Rongfu, sang **Taoist**, langsung berhenti begitu melihat Jianxin.
+Namun, **Rongfu**, sang **Taoist**, langsung berhenti begitu melihat **Jianxin**.
 
 > "Kamu memang punya potensi, tapi kamu belum menjadi manusia,"&#x20;
 
@@ -163,7 +163,7 @@ katanya.
 
 > "Apa maksudnya? Aku ini manusia,"&#x20;
 
-Jianxin membantah.
+**Jianxin** membantah.
 
 > "Menjadi manusia berarti tahu bagaimana mencintai, tapi kamu tidak mencintai," Rongfu menatap matanya, "Kamu begitu murni, tapi hatimu masih kosong."
 
@@ -171,11 +171,11 @@ Jianxin membantah.
 
 > "Saat aku bicara soal cinta, maksudku adalah menolong mereka yang membutuhkan dan peduli pada orang-orang yang menderita di dunia ini"
 
-jelas Rongfu.
+jelas **Rongfu**.
 
 > "**Master** Shiling juga pernah mengatakan hal serupa. Tapi apa manfaatnya?"&#x20;
 
-Jianxin bertanya.
+Jianxin**** bertanya.
 
 > "Para **sage** terbaik mendapatkan pencerahan di medan perang, para **sage** biasa mendapatkannya di tengah hiruk pikuk kota, dan para **sage** terburuk mencarinya dalam pengasingan. \
 > **Tao** tidak bisa dicapai hanya dengan menyendiri atau bermeditasi. Justru dengan berinteraksi dengan orang lain, seseorang bisa mencapai kebebasan spiritual dan peningkatan fisik. \
@@ -183,42 +183,42 @@ Jianxin bertanya.
 
 > "Lalu, bagaimana aku bisa belajar mencintai?"&#x20;
 
-Jianxin bertanya.
+**Jianxin** bertanya.
 
 > "Kamu belum pernah meninggalkan gunung ini, bukan?"&#x20;
 
-tanya Rongfu.
+tanya **Rongfu**.
 
 > "Belum,"
 
-&#x20;jawab Jianxin.
+&#x20;jawab **Jianxin**.
 
 > "Mungkin sebelumnya belum waktunya bagimu untuk pergi. Tapi sekarang, saatnya telah tiba. Bagaimana kamu bisa benar-benar memahami **Tao** tanpa pernah mengalami dunia luar?"
 
-Rongfu duduk di samping Jianxin, dan mereka berbincang lama di jembatan tentang arti mencintai sesama.
+**Rongfu** duduk di samping **Jianxin**, dan mereka berbincang lama di jembatan tentang arti mencintai sesama.
 
 ***
 
-> "**Master** Rongfu, lama tidak bertemu!"
+> "**Master** **Rongfu**, lama tidak bertemu!"
 
-> "Jianxin, karena kita bertemu lagi, bagaimana kalau ikut denganku untuk membantu orang-orang yang membutuhkan?"
+> "**Jianxin**, karena kita bertemu lagi, bagaimana kalau ikut denganku untuk membantu orang-orang yang membutuhkan?"
 
 > "Tentu saja!"
 
-Mendengar ucapan terima kasih yang tulus dan merasakan genggaman tangan orang-orang asing yang hangat, Jianxin tahu bahwa tindakannya telah membawa perubahan kecil. \
+Mendengar ucapan terima kasih yang tulus dan merasakan genggaman tangan orang-orang asing yang hangat, **Jianxin** tahu bahwa tindakannya telah membawa perubahan kecil. \
 Senyum menghiasi wajahnya, menghapus kebingungan yang sebelumnya ada dalam hatinya.
 
 ### <mark style="color:blue;">Dilligent Devotion</mark>
 
-> "Ini terakhir kalinya aku mentraktirmu, Jianxin. Mulai sekarang, kamu harus menghidupi dirimu sendiri dan mencari uang untuk makan."
+> "Ini terakhir kalinya aku mentraktirmu, **Jianxin**. Mulai sekarang, kamu harus menghidupi dirimu sendiri dan mencari uang untuk makan."
 
 > "Tapi **Master**, aku tidak tahu cara membaca garis tangan atau meramal keberuntungan."
 
 > "Kamu tidak harus cari uang dengan cara yang biasa dilakukan para **Taoist**! Kamu bisa melakukan apa saja. Kamu belajar dengan cepat, itu kelebihanmu."
 
-Jianxin pun berkelana, bekerja keras, dan menggunakan penghasilannya untuk menghidupi diri serta membantu orang lain. Ia menerima pekerjaan apa pun, sekecil apa pun, dengan penuh ketekunan dan kegigihan, membangun reputasi baik di sepanjang perjalanannya.
+**Jianxin** pun berkelana, bekerja keras, dan menggunakan penghasilannya untuk menghidupi diri serta membantu orang lain. Ia menerima pekerjaan apa pun, sekecil apa pun, dengan penuh ketekunan dan kegigihan, membangun reputasi baik di sepanjang perjalanannya.
 
-> "Hei Jianxin, pelanggan di toko ini jadi jauh lebih ramai sejak kamu datang! Ngomong-ngomong, bolehkah kamu membagikan resep makanan yang kamu buat? Pelanggan sangat menyukainya, kita bisa menjadikannya menu andalan. Ini gajimu bulan ini, teruslah bekerja dengan baik!"
+> "Hei **Jianxin**, pelanggan di toko ini jadi jauh lebih ramai sejak kamu datang! Ngomong-ngomong, bolehkah kamu membagikan resep makanan yang kamu buat? Pelanggan sangat menyukainya, kita bisa menjadikannya menu andalan. Ini gajimu bulan ini, teruslah bekerja dengan baik!"
 
 > "Tentu! Aku akan menuliskannya untukmu."
 
@@ -244,13 +244,13 @@ Jianxin pun berkelana, bekerja keras, dan menggunakan penghasilannya untuk mengh
 
 ### <mark style="color:blue;">All in One</mark>
 
-Tekad Jianxin untuk mencapai kesempurnaan dalam **martial arts** terus mendorongnya untuk berkembang. Namun, mendorong batas tubuh dan pikiran adalah tantangan yang berat. \
+Tekad **Jianxin** untuk mencapai kesempurnaan dalam **martial arts** terus mendorongnya untuk berkembang. Namun, mendorong batas tubuh dan pikiran adalah tantangan yang berat. \
 Pencerahan adalah perjalanan yang harus dilalui sendiri. Jawaban tidak bisa diberikan oleh orang lain—hanya bisa ditemukan dengan usaha dan pemahaman diri sendiri.
 
 > "Dengarkan hatimu dan tempa jalanmu sendiri. Pelajaran hidup bukan hanya kebetulan. \
 > Gunakan pengalaman itu sebagai kekuatan dan biarkan jiwamu tumbuh dengan kebijaksanaan."
 
-Dengan bimbingan **Shiling**, Jianxin mulai lebih mendalami pengembangan diri secara spiritual dan melepaskan pencapaiannya di masa lalu. \
+Dengan bimbingan **Shiling**, **Jianxin** mulai lebih mendalami pengembangan diri secara spiritual dan melepaskan pencapaiannya di masa lalu. \
 Prinsip alami **Taoism** mengajarkannya untuk menghargai dan mencintai dunia di sekitarnya, memanfaatkan emosi orang lain sebagai sumber kekuatannya. \
 Dalam kondisi fokus yang mendalam, ia mengandalkan teknik **martial arts** yang sederhana untuk menyatu dengan dunia. Itu hampir seperti keadaan setengah gila, tetapi justru membawa kesatuan dan harmoni. Tinju dan telapak tangannya seakan menggenggam dunia serta egonya sendiri, menyatu menjadi satu. Setiap pukulan membawa kasih sayang dan kebajikan, diulang hingga **tiga ribu kali**. Pikiran yang penuh gejolak akhirnya menjadi kekuatan spiritual yang lebih kuat.
 
@@ -260,5 +260,5 @@ Bernapas selaras dengan angin, merasakan kehidupan yang mengalir dalam pepohonan
 Saat pikiran tenang, kekuatan menjadi lembut. Saat kekuatan lembut, esensi menjadi kokoh. \
 Saat esensi kokoh, semangat menjadi tak terbendung.
 
-Kini, latihan **martial arts** Jianxin telah melampaui batas fisik, didorong oleh kekuatan batin yang tidak dapat digoyahkan oleh pengaruh luar. Dalam dunianya, setiap gerakan terfokus dan penuh intensitas, mencerminkan harmoni dengan alam. Pukulannya bergerak dengan kecepatan yang tak terlihat, memanfaatkan kekuatan angin dengan kelembutan yang luar biasa. Dengan kelembutannya, ia mampu menghadapi segala rintangan dengan cinta dan rasa hormat terhadap dunia di sekitarnya.
+Kini, latihan **martial arts** **Jianxin** telah melampaui batas fisik, didorong oleh kekuatan batin yang tidak dapat digoyahkan oleh pengaruh luar. Dalam dunianya, setiap gerakan terfokus dan penuh intensitas, mencerminkan harmoni dengan alam. Pukulannya bergerak dengan kecepatan yang tak terlihat, memanfaatkan kekuatan angin dengan kelembutan yang luar biasa. Dengan kelembutannya, ia mampu menghadapi segala rintangan dengan cinta dan rasa hormat terhadap dunia di sekitarnya.
 

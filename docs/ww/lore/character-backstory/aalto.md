@@ -16,7 +16,7 @@ layout:
 
 
 
-<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1403.png" alt="" width="375"><figcaption><p>Aalto adalah seorang Broker Informasi yang misterius, dikenal karena sifatnya yang suka menghindar dan senyumnya yang ramah. Rumor mengatakan bahwa dia akan memberikan informasi apa pun dengan harga yang tepat.</p></figcaption></figure></div>
+<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1403.png" alt="" width="375"><figcaption><p><strong>Aalto</strong> adalah seorang Broker Informasi yang misterius, dikenal karena sifatnya yang suka menghindar dan senyumnya yang ramah. Rumor mengatakan bahwa dia akan memberikan informasi apa pun dengan harga yang tepat.</p></figcaption></figure></div>
 
 ## :mag: Informasi
 
@@ -36,7 +36,7 @@ layout:
 
 ### <mark style="color:blue;">Resonance Evaluation Report</mark>
 
-**Dasar Evaluasi:** \[Resonance Assessment 1617-G]
+Dasar Evaluasi: \[**Resonance Assessment 1617-G**]
 
 Berdasarkan laporan **Resonator** Aalto, pada hari kelahirannya terjadi kabut tebal yang langka. **Tacet Mark** miliknya terletak di sisi kiri leher. Selain memperoleh kemampuan untuk berubah menjadi bentuk kabut dalam waktu singkat, tidak ada perubahan fisik signifikan yang terjadi pada tubuhnya setelah **Awakening**.
 
@@ -53,7 +53,7 @@ Tes menunjukkan reaksi **Syntony** yang kuat, mengonfirmasi keterkaitan antara k
 
 ### <mark style="color:blue;">Overclock Diagnostic Report</mark>
 
-Grafik gelombang **Resonator** Aalto menunjukkan fluktuasi elips yang stabil dalam **Time Domain**, tanpa pola abnormal. Hasil pemeriksaan menunjukkan bahwa semua parameter berada dalam batas normal.
+Grafik gelombang **Resonator** **Aalto** menunjukkan fluktuasi elips yang stabil dalam **Time Domain**, tanpa pola abnormal. Hasil pemeriksaan menunjukkan bahwa semua parameter berada dalam batas normal.
 
 * **Resonant Criticality:** \
   Tingkat **moderate**, dengan stabilitas tinggi, sehingga risiko **Overclocking** rendah.
@@ -62,7 +62,7 @@ Grafik gelombang **Resonator** Aalto menunjukkan fluktuasi elips yang stabil dal
 
 ## :package: Cherished Items
 
-<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Wind Chimes</td><td><img src="https://wuthering.wiki/img/T_Treasure11_UI.png" alt=""></td><td>Sebuah seruling tulang yang tampak biasa, tetapi sebenarnya adalah perekam suara yang telah dimiliki Aalto sejak kecil. Perangkat kecil ini telah mengumpulkan banyak intelijen berharga untuknya.</td></tr><tr><td align="center">Intelligence Network</td><td><img src="https://wuthering.wiki/img/T_Treasure10_UI.png" alt=""></td><td>Aalto adalah ahli dalam membangun koneksi dan mengumpulkan informasi. Baginya, setiap orang adalah aset potensial dalam jaringannya, membuat kartu nama menjadi sesuatu yang sangat bernilai. Teman sejati mungkin jarang ia temui, tetapi ia tahu bahwa kunci kesuksesan terletak pada mengenal lebih banyak orang.</td></tr><tr><td align="center">Vintage Console</td><td><img src="https://wuthering.wiki/img/T_Treasure42_UI.png" alt=""></td><td>Sebuah konsol game bergaya retro. Meskipun hanya berisi permainan pixel klasik yang sederhana, konsol ini membangkitkan semangat kompetitif antara Aalto dan Encore. Mereka terus berusaha mengalahkan skor tertinggi satu sama lain, tetapi bagi Aalto, kesenangan terbesar adalah melihat rekornya sendiri dikalahkan.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Wind Chimes</td><td><img src="https://wuthering.wiki/img/T_Treasure11_UI.png" alt=""></td><td>Sebuah seruling tulang yang tampak biasa, tetapi sebenarnya adalah perekam suara yang telah dimiliki <strong>Aalto</strong> sejak kecil. Perangkat kecil ini telah mengumpulkan banyak intelijen berharga untuknya.</td></tr><tr><td align="center">Intelligence Network</td><td><img src="https://wuthering.wiki/img/T_Treasure10_UI.png" alt=""></td><td><strong>Aalto</strong> adalah ahli dalam membangun koneksi dan mengumpulkan informasi. Baginya, setiap orang adalah aset potensial dalam jaringannya, membuat kartu nama menjadi sesuatu yang sangat bernilai. Teman sejati mungkin jarang ia temui, tetapi ia tahu bahwa kunci kesuksesan terletak pada mengenal lebih banyak orang.</td></tr><tr><td align="center">Vintage Console</td><td><img src="https://wuthering.wiki/img/T_Treasure42_UI.png" alt=""></td><td>Sebuah konsol game bergaya retro. Meskipun hanya berisi permainan pixel klasik yang sederhana, konsol ini membangkitkan semangat kompetitif antara <strong>Aalto</strong> dan <strong>Encore</strong>. Mereka terus berusaha mengalahkan skor tertinggi satu sama lain, tetapi bagi <strong>Aalto</strong>, kesenangan terbesar adalah melihat rekornya sendiri dikalahkan.</td></tr></tbody></table>
 
 ## :scroll: Story
 
@@ -70,12 +70,12 @@ Grafik gelombang **Resonator** Aalto menunjukkan fluktuasi elips yang stabil dal
 
 Sebuah kesepakatan buruk. Atau begitulah kelihatannya.
 
-Suatu hari, Aalto dikenal sebagai sumber intelijen tentang harta karun kuno. Dari anak-anak nakal hingga pria tua berusia **60 tahun**, banyak yang ingin membeli informasi darinya, tetapi ia menolak setiap tawaran dengan sopan.
+Suatu hari, **Aalto** dikenal sebagai sumber intelijen tentang harta karun kuno. Dari anak-anak nakal hingga pria tua berusia **60 tahun**, banyak yang ingin membeli informasi darinya, tetapi ia menolak setiap tawaran dengan sopan.
 
 > "Hei, bocah kecil. Jangan habiskan uang sakumu untuk ini. Ayo, aku antar pulang."\
 > "Maaf, kakek. Aku tidak menerima dana pensiun."
 
-Banyak yang mengira tawaran mereka terlalu rendah untuk menarik perhatian Aalto, \
+Banyak yang mengira tawaran mereka terlalu rendah untuk menarik perhatian **Aalto**, \
 padahal sebenarnya, ia hanya menunggu pembeli yang tepat.
 
 Kemudian, pada suatu hari, pembeli yang dinantinya akhirnya muncul, mengenakan jubah berlapis-lapis. Dengan harga yang mengejutkan rendah, transaksi pun terjadi.
@@ -87,33 +87,33 @@ Beberapa hari kemudian, layar elektronik di kantor polisi **New Federation** men
 Sang kepala polisi menggebrak meja dengan sebuah map dokumen, di sampingnya sebuah koper berisi **Credits**.
 
 > "Trik yang cukup lihai tadi. \
-> Katakan padaku, Tuan Aalto, bagaimana kau begitu yakin mereka akan terjebak? Menawarkan intel berharga tentang harta legendaris di tempat terbuka, apa kau tidak takut dicurigai?"
+> Katakan padaku, Tuan **Aalto**, bagaimana kau begitu yakin mereka akan terjebak? Menawarkan intel berharga tentang harta legendaris di tempat terbuka, apa kau tidak takut dicurigai?"
 
 > "Jangan remehkan para penjudi yang mengincar uang cepat. \
 > Mereka akan mempertaruhkan segalanya, bahkan nyawa mereka sendiri. Keuntungan lebih berharga daripada bahaya."
 
-Sang kepala polisi mendorong koper dan map berisi daftar nama yang diminta Aalto.
+Sang kepala polisi mendorong koper dan map berisi daftar nama yang diminta **Aalto**.
 
 > "Ini pembayaranmu, serta daftar yang kau inginkan. \
 > Senang berbisnis denganmu."
 
 > "Sama-sama."
 
-Aalto membuka koper, mengambil satu keping **Shell Credit**, lalu melemparkannya ke udara. Sebelum **Credit** itu menyentuh tanah, tubuhnya telah berubah menjadi kabut, menghilang tanpa jejak.
+**Aalto** membuka koper, mengambil satu keping **Shell Credit**, lalu melemparkannya ke udara. Sebelum **Credit** itu menyentuh tanah, tubuhnya telah berubah menjadi kabut, menghilang tanpa jejak.
 
 ### <mark style="color:blue;">A Fair Exchange</mark>
 
-Di bawah aturan Aalto. Baginya, setiap pelanggan adalah setara.  Baik pejabat tinggi, bangsawan, rakyat jelata, atau **Exile** yang dikucilkan masyarakat, semuanya sama. Ia tidak pernah menggolongkan kliennya berdasarkan status atau kekayaan. Prinsipnya selalu teguh: semua pelanggan diperlakukan setara. Namun, selalu ada orang yang mencoba menguji batasnya.
+Di bawah aturan **Aalto**. Baginya, setiap pelanggan adalah setara.  Baik pejabat tinggi, bangsawan, rakyat jelata, atau **Exile** yang dikucilkan masyarakat, semuanya sama. Ia tidak pernah menggolongkan kliennya berdasarkan status atau kekayaan. Prinsipnya selalu teguh: semua pelanggan diperlakukan setara. Namun, selalu ada orang yang mencoba menguji batasnya.
 
-> "Aalto, kan? Kau ikut dengan kami."
+> "**Aalto**, kan? Kau ikut dengan kami."
 
-Aalto menangkap niat buruk dari pendekatan mereka, \
+**Aalto** menangkap niat buruk dari pendekatan mereka, \
 tetapi tetap memasang senyum ramah seperti biasa.
 
 > "Aduh... Maaf, teman. Tapi itu tidak mungkin. Pelanggan ini duluan."
 
 Seorang pria yang tengah berbisnis dengannya tiba-tiba didorong kasar oleh para preman yang menyerbu masuk. Kepanikan pun terjadi di ruangan yang penuh sesak.\
-Dengan tenang, Aalto menolong korbannya keluar, lalu merapikan kursi yang terbalik \
+Dengan tenang, **Aalto** menolong korbannya keluar, lalu merapikan kursi yang terbalik \
 sebelum dengan santai meletakkan lengannya di bahu salah satu preman.
 
 > "Dengar, kawanku, setiap hal ada aturannya. \
@@ -129,7 +129,7 @@ menciptakan kekacauan hingga mereka saling serang dalam kepanikan.
 > "Ups, maaf. Aku lupa menyebutkan satu aturan lagi: ‘Tidak boleh mengganggu transaksi.’ \
 > Beri tahu bosmu agar tidak melanggar aturan lagi. Bisnis tak bisa berjalan tanpanya."
 
-Para preman melarikan diri, sementara Aalto kembali memasang senyuman ramah.
+Para preman melarikan diri, sementara **Aalto** kembali memasang senyuman ramah.
 
 > "Baiklah! Mari kita lanjutkan. Apa yang ingin Anda tanyakan tadi, Tuan?"
 
@@ -210,7 +210,7 @@ Saat cerita hari itu berakhir, E**ncore** tak bisa menahan diri untuk bertanya,&
 
 ### <mark style="color:blue;">Water the Flowers, Dear Guest</mark>
 
-> "Selamat datang di **Black Shores**! \
+> "Selamat datang di **Black Shores**!\
 > Mau mulai dengan menyirami bunga, atau menyelamatkan umat manusia?"
 
 **Black Shores** terletak di sebuah pulau terpencil. Selain musim hujan, arus laut, dan kupu-kupu, \

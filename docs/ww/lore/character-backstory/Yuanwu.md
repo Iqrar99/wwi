@@ -17,7 +17,7 @@ layout:
 
 
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1303.png" alt="" width="375">
-<figcaption><p>Yuanwu memiliki gym tinju tempat ia mengajarkan seni bela diri serta manajemen kesehatan. Ia sangat dihormati di komunitasnya karena sikapnya yang ramah dan kepribadiannya yang menyenangkan.</p></figcaption></figure></div>
+<figcaption><p><strong>Yuanwu</strong> memiliki gym tinju tempat ia mengajarkan seni bela diri serta manajemen kesehatan. Ia sangat dihormati di komunitasnya karena sikapnya yang ramah dan kepribadiannya yang menyenangkan.</p></figcaption></figure></div>
 
 ## :mag: Informasi
 
@@ -37,7 +37,7 @@ layout:
 
 ### <mark style="color:blue;">Resonance Evaluation Report</mark>
 
-**Dasar Evaluasi:** \[Resonance Assessment **1425-G**]
+Dasar Evaluasi: \[**Resonance Assessment 1425-G**]
 
 Waktu pasti **Awakening** dari **Yuanwu** tidak diketahui. **Yuanwu** mengingat bahwa sebelum **Awakening**, ia terpapar energi listrik kuat dalam waktu yang lama.  
 
@@ -64,9 +64,9 @@ Saat ini, kondisi psikologis **Yuanwu** dinilai stabil dan sehat. Pemeriksaan ru
 <table data-header-hidden><thead><tr><th width="178" 
 align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td 
 align="center">Dried Fish</td><td><img src="https://wuthering.wiki/img/T_Treasure45_UI.png" 
-alt=""></td><td>Ikan kering yang dibuat dari Tetra. Biasanya dibawa oleh Lingyang ke Yuanwu Boxing Gym sebagai tanda terima kasih karena Mimi telah "sparring" dengannya. Jika Mimi tidak bisa menghabiskan ikannya, Yuanwu akan mengeringkannya untuk digunakan nanti.</td></tr><tr><td 
+alt=""></td><td>Ikan kering yang dibuat dari Tetra. Biasanya dibawa oleh <strong>Lingyang</strong> ke <strong>Yuanwu</strong> Boxing Gym sebagai tanda terima kasih karena <strong>Mimi</strong> telah "sparring" dengannya. Jika <strong>Mimi</strong> tidak bisa menghabiskan ikannya, <strong>Yuanwu</strong> akan mengeringkannya untuk digunakan nanti.</td></tr><tr><td 
 align="center">Blue Flask</td><td><img src="https://wuthering.wiki/img/T_Treasure25_UI.png" 
-alt=""></td><td>Yuanwu selalu membawa botol ini dalam aktivitas sehari-harinya. Beberapa orang mengatakan bahwa botol itu berisi ramuan rahasianya agar tetap bugar, tetapi kenyataannya, isinya hanyalah air panas biasa.</td></tr><tr><td 
+alt=""></td><td><strong>Yuanwu</strong> selalu membawa botol ini dalam aktivitas sehari-harinya. Beberapa orang mengatakan bahwa botol itu berisi ramuan rahasianya agar tetap bugar, tetapi kenyataannya, isinya hanyalah air panas biasa.</td></tr><tr><td 
 align="center">Old Gauntlet</td><td><img src="https://wuthering.wiki/img/T_Treasure23_UI.png" 
 alt=""></td><td>Sarung tangan tua yang sudah tidak diproduksi lagi. Bagian luarnya menunjukkan tanda-tanda aus akibat penggunaan yang intens, dengan sebagian besar komponen dalamnya terbuka. Meski begitu, sarung tangan ini dirawat dengan sangat baik, hingga setiap garis dan celahnya masih terlihat jelas.</td></tr></tbody></table>
 

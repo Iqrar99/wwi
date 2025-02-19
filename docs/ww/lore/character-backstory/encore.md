@@ -16,7 +16,7 @@ layout:
 
 
 
-<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1203.png" alt="" width="375"><figcaption><p>Seorang gadis yang selalu ditemani oleh satu Wooly hitam dan satu Wooly putih. Encore, Konsultan dari Black Shores, bermimpi menciptakan kisah-kisah bahagia dengan permen, dongeng, dan imajinasinya.</p></figcaption></figure></div>
+<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1203.png" alt="" width="375"><figcaption><p>Seorang gadis yang selalu ditemani oleh satu <strong>Wooly</strong> hitam dan satu <strong>Wooly</strong> putih. Encore, Konsultan dari <strong>Black Shores</strong>, bermimpi menciptakan kisah-kisah bahagia dengan permen, dongeng, dan imajinasinya.</p></figcaption></figure></div>
 
 ## :mag: Informasi
 
@@ -34,17 +34,17 @@ layout:
 
 ### <mark style="color:blue;">Resonance Evaluation Report</mark>
 
-**Dasar Evaluasi**: \[**Resonance Assessment 1631-G**]
+Dasar Evaluasi: \[**Resonance Assessment 1631-G**]
 
-Waktu pasti **Kebangkitan** **Resonator Encore** masih belum diketahui.
+Waktu pasti **Awakening** **Resonator Encore** masih belum diketahui.
 
 Berdasarkan laporan dari **Encore** dan hasil inspeksi resonansi, entitas berbentuk **domba** yang selalu menyertainya dianggap sebagai **manifestasi dari imajinasinya dan kondisi psikologisnya**.
 
 Mereka diyakini sebagai representasi dari **kemampuan Forte-nya**.
 
-**Evaluasi Resonansi** Encore menunjukkan bahwa hasilnya **sangat dipengaruhi oleh emosi kolektif di lingkungan uji**.
+**Evaluasi Resonansi** **Encore** menunjukkan bahwa hasilnya **sangat dipengaruhi oleh emosi kolektif di lingkungan uji**.
 
-Selama pengujian, respons **Syntony-nya sangat kuat**, namun **penyebab pasti Kebangkitannya masih belum dikonfirmasi**.
+Selama pengujian, respons **Syntony-nya sangat kuat**, namun **penyebab pasti Awakeing-nya masih belum dikonfirmasi**.
 
 **Encore memiliki Tacet Mark di bagian atas punggungnya**.
 
@@ -72,7 +72,7 @@ Disarankan untuk **menghubungi walinya untuk pemeriksaan rutin**, serta **member
 
 **Catatan Coretan:**
 
-> **Encore bilang Aalto BUKAN walinya! Gak mau pemeriksaan! Dia lebih suka cerita!**
+> Encore bilang Aalto BUKAN walinya! Gak mau pemeriksaan! Dia lebih suka cerita!
 
 **Catatan tambahan:**
 
@@ -86,11 +86,11 @@ Disarankan untuk **menghubungi walinya untuk pemeriksaan rutin**, serta **member
 
 ### <mark style="color:blue;">Let's be Friends!</mark>
 
-> **"Kalau ada pertanyaan yang bikin pusing, jangan khawatir, tinggal tanya Encore! Kalau ada jawaban yang terasa sulit dipahami, jangan khawatir, tinggal minta Encore bantuin! Kalau ada tempat yang gak bisa kamu jangkau... tetap aja gak perlu khawatir, ayo kita teriak bareng—‘Encore’!"**
+> "Kalau ada pertanyaan yang bikin pusing, jangan khawatir, tinggal tanya Encore! Kalau ada jawaban yang terasa sulit dipahami, jangan khawatir, tinggal minta Encore bantuin! Kalau ada tempat yang gak bisa kamu jangkau... tetap aja gak perlu khawatir, ayo kita teriak bareng—‘Encore’!"
 
 > Bagi yang baru tiba di **Black Shores**, jangan sampai **keindahan menyeramkan dari Blake Bloom** dan metode **"hortikultura" unik** organisasi ini membuatmu gentar. Dengan **Little Encore** di sisimu, semua keraguan akan segera sirna berkat **sapaan hangat dan penuh semangatnya**.
 
-> **Dia penuh percaya diri, tulus, dan benar-benar apa adanya.** Teman kecil yang **menawan** ini **akan memastikan perjalananmu penuh warna**.
+> Dia penuh percaya diri, tulus, dan benar-benar apa adanya. Teman kecil yang **menawan** ini **akan memastikan perjalananmu penuh warna**.
 
 > Jangan lupa untuk **menikmati waktu-waktu istimewa bersama Woolies-nya Encore**
 
@@ -105,325 +105,325 @@ Disarankan untuk **menghubungi walinya untuk pemeriksaan rutin**, serta **member
 >
 > Tapi kalau hadiah itu ternyata berupa **permen... atau makanan**, siapkan mentalmu untuk menghadapi **"penampilan berani" hidangannya**.
 >
-> Meskipun begitu, **kalau kamu makan sambil merem, siapa tahu ternyata rasanya gak seburuk yang kamu kira!**
+> Meskipun begitu, kalau kamu makan sambil merem, siapa tahu ternyata rasanya gak seburuk yang kamu kira!
 
 ***
 
-> **Encore adalah teman perjalanan yang luar biasa.**\
+> Encore adalah teman perjalanan yang luar biasa.\
 > Ia akan **menggenggam tanganmu**, membawamu **menjelajahi setiap sudut dunia**.
 
 > Takut dengan **Tacet Discords**? **Tenang saja.**\
-> **Encore bukan anak kecil biasa yang bersembunyi di balik orang dewasa.**
+> Encore bukan anak kecil biasa yang bersembunyi di balik orang dewasa.
 
 > Dengan **sedikit nyala api dari Forte-nya**, **Tacet Discords bisa berubah jadi abu dalam sekejap**.\
-> Sekarang, **kalau dia gak sengaja membakar rambutmu...?**
+> Sekarang, kalau dia gak sengaja membakar rambutmu...?
 
 > **Encore janji bakal lebih hati-hati lain kali!**\
-> Lagian, **mengganti gaya rambut sesekali itu gak buruk juga, kan?**
+> Lagian, mengganti gaya rambut sesekali itu gak buruk juga, kan?
 
-> Jadi, **ayo bergabung dengan Encore dalam petualangan besar ini!**\
+> Jadi, ayo bergabung dengan Encore dalam petualangan besar ini!\
 > Percayalah, **tidak ada yang lebih menyenangkan di Black Shores selain ini.**\
-> Tapi, tentu saja, **kamu harus siap sepenuhnya**.\
-> **Tarik napas dalam-dalam, hitung sampai tiga, dan tanyakan pada dirimu—Apakah kamu sudah siap?**
+> Tapi, tentu saja, kamu harus siap sepenuhnya.\
+> Tarik napas dalam-dalam, hitung sampai tiga, dan tanyakan pada dirimu—Apakah kamu sudah siap?
 
 ### <mark style="color:blue;">A Kid from the Theater</mark>
 
-**Encore tidak begitu ingat sejak kapan Cosmos dan Cloudy menjadi bagian dari hidupnya. Rasanya mereka selalu ada di sana**, menyatu dengan keberadaannya sejak awal.\
-Mungkin **ia bertemu mereka saat masih terlalu kecil untuk mengingat?**
+**Encore** tidak begitu ingat sejak kapan **Cosmos** dan **Cloudy** menjadi bagian dari hidupnya. Rasanya mereka selalu ada di sana, menyatu dengan keberadaannya sejak awal.\
+Mungkin ia bertemu mereka saat masih terlalu kecil untuk mengingat?
 
-Tapi, **kenangan pertamanya yang paling jelas tentang Woolies-nya berasal dari sebuah teater kecil yang sesak dan ramai**. Saat itu, **sebuah pertunjukan yang memukau tengah berlangsung**, diiringi **tepuk tangan meriah dan sorakan anak-anak**.
+Tapi, kenangan pertamanya yang paling jelas tentang **Woolies**-nya berasal dari sebuah teater kecil yang sesak dan ramai. Saat itu, sebuah pertunjukan yang memukau tengah berlangsung, diiringi tepuk tangan meriah dan sorakan anak-anak.
 
-**Anak-anak lain yang seusianya berteriak penuh semangat, memanggil nama sang pahlawan**, tapi panggung **masih gelap**, dengan **tirai yang tertutup rapat**.
+Anak-anak lain yang seusianya berteriak penuh semangat, memanggil nama sang pahlawan, tapi panggung masih gelap, dengan **tirai yang tertutup rapat**.
 
 Sempat kebingungan, mereka akhirnya menemukan irama mereka lagi—**bersama-sama meneriakkan**&#x20;
 
 > **"Encore!"**
 
-Lalu, **tabuhan drum terdengar**, tirai pun **terangkat**, menyambut **kembalinya sang pahlawan**.
+Lalu, **tabuhan drum terdengar**, tirai pun **terangkat**, menyambut kembalinya sang pahlawan.
 
-**Ibunya—atau lebih tepatnya, Wooly ksatria yang "diperankan" oleh ibunya—muncul di panggung**, mengayunkan **pedang panjangnya** hingga **sang penjahat melarikan diri**. **Wooly hitam menyelamatkan Wooly putih sang putri**, dan **mereka pun hidup bahagia selamanya**.
+Ibunya—atau lebih tepatnya, **Wooly** ksatria yang "diperankan" oleh ibunya—muncul di panggung, mengayunkan **pedang panjangnya** hingga sang penjahat melarikan diri. **Wooly** hitam menyelamatkan Wooly putih sang putri, dan **mereka pun hidup bahagia selamanya**.
 
-Untuk waktu yang lama, **Encore selalu menghubungkan sosok ibunya dengan Wooly ksatria hitam itu**. **Pelindung kerajaan yang gagah** itu **mengingatkannya pada cara ibunya selalu menjaga dan merawatnya**.
+Untuk waktu yang lama, **Encore** selalu menghubungkan sosok ibunya dengan **Wooly** ksatria hitam itu. **Pelindung kerajaan yang gagah** itu mengingatkannya pada cara ibunya selalu menjaga dan merawatnya.
 
-Terkadang, saat Encore **bertindak nakal**, ia melihat **ekspresi tegas yang sama di wajah ibunya dan Wooly ksatria itu**.
+Terkadang, saat Encore **bertindak nakal**, ia melihat ekspresi tegas yang sama di wajah ibunya dan **Wooly** ksatria itu.
 
 Sebagai anak kecil, **Encore sebenarnya lebih menyukai Cloudy yang lucu**, meskipun **ia tidak pernah memberitahu Cosmos soal itu**.
 
 Cloudy adalah **putri yang lembut dan baik hati**, selalu **mengenakan gaun indah dan mahkota**, tinggal di dalam **istana yang seperti mimpi**. **Encore kecil bercita-cita menjadi seorang putri**, membayangkan dirinya **mengenakan gaun elegan**, duduk di atas **ranjang megah** yang empuk.
 
-Anak bebas seperti **Encore kecil tidak terlalu peduli dengan monster di luar istana**.
+Anak bebas seperti **Encore** kecil tidak terlalu peduli dengan monster di luar istana.
 
-> **Di luar istana adalah medan perang para ksatria.**\
-> **Tugas Wooly hitam adalah melindungi sang putri.**
+> Di luar istana adalah medan perang para ksatria.\
+> Tugas **Wooly** hitam adalah melindungi sang putri.
 
-**Dulu, Cosmos dan Cloudy hanyalah boneka biasa.**\
+Dulu, **Cosmos** dan **Cloudy** hanyalah boneka biasa.\
 **Mereka adalah teman baik Encore**, tetapi setelah waktu bermain selesai, mereka **tetap diam**, berbaring di dalam kotak tanpa mengucapkan sepatah kata pun.
 
-Namun, **saat malam tiba**, bisikan lembut **mulai terdengar di samping tempat tidurnya**.
+Namun, saat malam tiba, bisikan lembut mulai terdengar di samping tempat tidurnya.
 
-> **Tangan kecil berbulu mereka menyentuh pipi Encore dengan lembut**, memberi kenyamanan dan mengusir mimpi buruknya.
+> Tangan kecil berbulu mereka menyentuh pipi **Encore** dengan lembut, memberi kenyamanan dan mengusir mimpi buruknya.
 
-> **"Jangan takut, Encore. Tidurlah dengan nyenyak, karena petualangan bersama Woolies akan tersimpan dengan baik dalam mimpi."**
+> "Jangan takut, **Encore**. Tidurlah dengan nyenyak, karena petualangan bersama **Woolies** akan tersimpan dengan baik dalam mimpi."
 
 ### <mark style="color:blue;">A Heroine's Return</mark>
 
-**Cosmos dan Cloudy pertama kali berbicara kepada Encore saat pemakaman ibunya.**
+**Cosmos** dan **Cloudy** pertama kali berbicara kepada **Encore** saat pemakaman ibunya.
 
-Semuanya terjadi begitu tiba-tiba—**Encore masih bisa mengingat dengan jelas suara mereka, bersamaan dengan jatuhnya tanah dan daun layu ke atas peti mati**.
+Semuanya terjadi begitu tiba-tiba—**Encore** masih bisa mengingat dengan jelas suara mereka, bersamaan dengan jatuhnya tanah dan daun layu ke atas peti mati.
 
-Awalnya, **boneka-boneka Wooly itu hanya diam di pelukannya**, seperti bagaimana mereka **selalu berbaring tenang di dalam kotak yang ibunya bawa untuk pertunjukan**.
+Awalnya, boneka-boneka **Wooly** itu hanya diam di pelukannya, seperti bagaimana mereka **selalu berbaring tenang di dalam kotak yang ibunya bawa untuk pertunjukan**.
 
-Namun, saat para pelayat mulai **menimbun peti dengan tanah**, **Cloudy menghela napas pelan**—hampir tak terdengar.
+Namun, saat para pelayat mulai **menimbun peti dengan tanah**, **Cloudy** menghela napas pelan—hampir tak terdengar.
 
-Tak ada yang memperhatikannya **selain Encore**.
+Tak ada yang memperhatikannya selain **Encore**.
 
 > **"Encore, Encore..."**
 
-Ketika mereka menyadari **tak ada orang lain yang mendengar suara mereka**, suara **Cosmos dan Cloudy semakin jelas**. **Encore dengan waspada melirik sekelilingnya**, memastikan tak ada orang lain yang mendengar.
+Ketika mereka menyadari tak ada orang lain yang mendengar suara mereka, suara **Cosmos** dan **Cloudy** semakin jelas. **Encore** dengan waspada melirik sekelilingnya, memastikan tak ada orang lain yang mendengar.
 
-> **"Ayo pergi, Encore. Aku bosan sekali..."**&#x20;
+> "Ayo pergi, **Encore**. Aku bosan sekali..."&#x20;
 
 keluh **Cosmos**.\
-**Suara itu terdengar lebih mirip Encore daripada suara ibunya sendiri.**
+Suara itu terdengar lebih mirip **Encore** daripada suara ibunya sendiri.
 
-> **"Tapi... tapi Cloudy gak mau pergi..."**&#x20;
+> "Tapi... tapi **Cloudy** gak mau pergi..."&#x20;
 
 lirih **Cloudy**, suaranya berubah-ubah—\
-**kadang terdengar seperti Encore, kadang seperti ibunya.**
+kadang terdengar seperti **Encore**, kadang seperti ibunya.
 
-Kemudian, **keheningan sesaat melingkupi mereka**.\
+Kemudian, keheningan sesaat melingkupi mereka.\
 **Angin dingin pagi itu berembus kencang, melewati kerumunan yang berduka**, membawa **suara tanah yang jatuh ke peti mati semakin menjauh**.
 
-> **"Tidak!"** \
-> &#xNAN;**"Kita gak bisa nunggu lebih lama! Pertunjukannya hampir selesai!"**
+> "Tidak!" \
+> &#xNAN;"Kita gak bisa nunggu lebih lama! Pertunjukannya hampir selesai!"
 
 seru **Cosmos** dengan tidak sabar.
 
-Seolah baru mengingat sesuatu, **Cloudy menjadi panik**.
+Seolah baru mengingat sesuatu, **Cloudy** menjadi panik.
 
-> **"Encore, Encore! Ke teater! Kita harus ke teater!"**
+> **"Encore**, **Encore**! Ke teater! Kita harus ke teater!
 
-**Memandang ke kejauhan, di balik bayangan pepohonan pemakaman,** Encore terpaku pada **papan nama teater yang sudah usang namun masih mencolok**. **Ia mendengar tawa anak-anak—kebahagiaan mereka yang tak terbendung kontras dengan suara tanah dan batu yang jatuh.**
+Memandang ke kejauhan, di balik bayangan pepohonan pemakaman, **Encore** terpaku pada papan nama teater yang sudah usang namun masih mencolok. Ia mendengar tawa anak-anak—kebahagiaan mereka yang tak terbendung kontras dengan suara tanah dan batu yang jatuh.
 
-Di tengah **tatapan tidak setuju dari para kerabatnya**, **Encore berlari meninggalkan pemakaman**, menuju **teater yang terbengkalai**. Saat **ia mendorong pintu yang berdebu**, **keheningan yang pekat langsung buyar**. **Sorotan lampu panggung menyala redup**, **mengungkap hamparan bunga**.
+Di tengah tatapan tidak setuju dari para kerabatnya, **Encore** berlari meninggalkan pemakaman, menuju teater yang terbengkalai. Saat ia mendorong pintu yang berdebu, keheningan yang pekat langsung buyar. Sorotan lampu panggung menyala redup, **mengungkap hamparan bunga**.
 
-Di tengah lautan bunga itu, **Encore melihat ibunya yang dulu tampak layu, kini bersinar terang**.\
+Di tengah lautan bunga itu, **Encore** melihat ibunya yang dulu tampak layu, kini bersinar terang.\
 **Kerinduannya membuncah.**
 
 > **"Mama..."**
 
-Matanya **berkaca-kaca**, kakinya **gemetar saat ia melangkah ke panggung**. Namun, **sebelum ia bisa menyentuh ibunya, kegelapan menariknya masuk**.
+Matanya **berkaca-kaca**, kakinya gemetar saat ia melangkah ke panggung. Namun, sebelum ia bisa menyentuh ibunya, kegelapan menariknya masuk.
 
-**Pertunjukan telah usai.**\
-**Lampu-lampu meredup, tirai tertutup rapat.**\
-**Kesunyian yang mencekam memenuhi teater**, dan **bayangan ketakutan mulai menghantui Encore**.
+Pertunjukan telah usai.\
+Lampu-lampu meredup, tirai tertutup rapat.\
+Kesunyian yang mencekam memenuhi teater, dan bayangan ketakutan mulai menghantui **Encore**.
 
-> **"Encore!"**&#x20;
+> "**Encore**!"&#x20;
 
 teriak **Cosmos**.
 
-> **"Encore!"**&#x20;
+> "**Encore**!"&#x20;
 
 seru **Cloudy**.
 
-Untuk mengusir **rasa takut dan mengembalikan keberaniannya**, Cosmos dan Cloudy terus **menyerukan nama yang bisa menghidupkan kembali pertunjukan itu**.
+Untuk mengusir rasa takut dan mengembalikan keberaniannya, **Cosmos** dan **Cloudy** terus menyerukan nama yang bisa menghidupkan kembali pertunjukan itu.
 
 > **"ENCORE!"**
 
-Mereka terus **berteriak**, sampai **Encore kembali sadar dan ikut bergabung**.
+Mereka terus berteriak, sampai **Encore** kembali sadar dan ikut bergabung.
 
 Dan kemudian—
 
-**Tirai panggung terbuka kembali.**\
-**Tabuhan drum menggema.**\
-**Cahaya menembus kegelapan.**
+Tirai panggung terbuka kembali.\
+Tabuhan drum menggema.\
+Cahaya menembus kegelapan.
 
-Encore **berdiri di atas panggung sebagai pemeran utama yang baru**, disambut **tepuk tangan meriah dari Cosmos dan Cloudy**. Tangisnya pecah—**kesedihan dan ketakutan yang menghantuinya akhirnya luruh bersama air matanya**.
+**Encore** berdiri di atas panggung sebagai pemeran utama yang baru, disambut tepuk tangan meriah dari **Cosmos** dan **Cloudy**. Tangisnya pecah—kesedihan dan ketakutan yang menghantuinya akhirnya luruh bersama air matanya.
 
-Tak lama, **senyum khasnya kembali menghiasi wajahnya**.
+Tak lama, senyum khasnya kembali menghiasi wajahnya.
 
-Sekarang, **giliran Encore menjadi Wooly ksatria pemberani.**\
-**Petualangan baru akan dimulai.**
+Sekarang, giliran **Encore** menjadi **Wool**y ksatria pemberani.\
+Petualangan baru akan dimulai.
 
-> **Kali ini, ia akan memastikan kisahnya berakhir bahagia.**
+> Kali ini, ia akan memastikan kisahnya berakhir bahagia.
 
 ### <mark style="color:blue;">Orphanage and Candy House</mark>
 
-Meskipun kini **Encore telah menjadi Konsultan hebat di Black Shores**, ia tetap **menolak untuk bertingkah seperti orang dewasa**.
+Meskipun kini **Encore** telah menjadi Konsultan hebat di **Black Shores**, ia tetap menolak untuk bertingkah seperti orang dewasa.
 
-> **Baginya, tumbuh dewasa berarti harus mengucapkan selamat tinggal pada dongeng sebelum tidur.**
+> Baginya, tumbuh dewasa berarti harus mengucapkan selamat tinggal pada dongeng sebelum tidur.
 
-Dan itu adalah sesuatu yang **tidak akan pernah ia terima**.\
-**Tidur dalam kegelapan tanpa mimpi penuh warna? Itu bukan pilihan.**\
-Untungnya, **orang dewasa di Black Shores membiarkannya seperti itu**.
+Dan itu adalah sesuatu yang tidak akan pernah ia terima.\
+Tidur dalam kegelapan tanpa mimpi penuh warna? Itu bukan pilihan.\
+Untungnya, orang dewasa di Black Shores membiarkannya seperti itu.
 
-Tapi masalahnya... **siapa di antara mereka yang cukup senggang untuk membacakan cerita sebelum tidur? Saat itulah Cloudy mengangkat tangan kecilnya yang berbulu.**
+Tapi masalahnya... siapa di antara mereka yang cukup senggang untuk membacakan cerita sebelum tidur? Saat itulah **Cloudy** mengangkat tangan kecilnya yang berbulu.
 
-Tak lama, **Cosmos juga ikut mengangkat tangannya yang gelap dan berbulu lebat**.\
-Malam itu, **Cloudy membacakan cerita lama tentang Rumah Permen**.
+Tak lama, **Cosmos** juga ikut mengangkat tangannya yang gelap dan berbulu lebat.\
+Malam itu, **Cloudy** membacakan cerita lama tentang Rumah Permen.
 
-> **"Lalu... lalu..."**
+> "Lalu... lalu..."
 
-Suaranya **melemah**. Oh tidak. **Cloudy lupa bagian selanjutnya.**\
-Gugup, **ia melirik Cosmos**, lalu **menyelimuti dirinya sendiri karena malu**.
+Suaranya melemah. Oh tidak. **Cloudy** lupa bagian selanjutnya.\
+Gugup, ia melirik **Cosmos**, lalu menyelimuti dirinya sendiri karena malu.
 
-> **"Aku tahu! Aku tahu!"**&#x20;
+> "Aku tahu! Aku tahu!"&#x20;
 
 seru **Cosmos**, dengan penuh semangat.\
-Ia **mendorong Cloudy ke samping**, lalu **berdiri tegak di samping ranjang Encore**.
+Ia mendorong **Cloudy** ke samping, lalu berdiri tegak di samping ranjang Encore.
 
-> **"Lalu, Sang Hebat Encore, yang diberkati dengan api yang berkobar, mengalahkan kucing jahat! Bulu kotorannya terbakar habis!"**
+> "Lalu, Sang Hebat **Encore**, yang diberkati dengan api yang berkobar, mengalahkan kucing jahat! Bulu kotorannya terbakar habis!"
 
-> **"Lalu, bagaimana dengan teman-teman Sang Hebat Encore?"**&#x20;
+> "Lalu, bagaimana dengan teman-teman Sang Hebat **Encore**?"&#x20;
 
 tanya **Encore**, mengantuk.
 
-> **"Tentu saja semuanya selamat! Berkat Sang Hebat Encore, mereka bisa hidup bahagia tanpa takut pada kucing jahat lagi!"**
+> "Tentu saja semuanya selamat! Berkat Sang Hebat **Encore**, mereka bisa hidup bahagia tanpa takut pada kucing jahat lagi!"
 
-**Encore larut dalam cerita itu**, sampai **matanya semakin berat dan akhirnya terpejam**.\
+**Encore** larut dalam cerita itu, sampai matanya semakin berat dan akhirnya terpejam.\
 Di tengah **kantuknya**, ia **mencoba menggumamkan sesuatu**.
 
-> **"Mama Direktur... bukan kucing jahat..."**
+> "Mama Direktur... bukan kucing jahat..."
 
-Tapi ia **terlalu lelah untuk menyelesaikan kalimatnya**.\
-Cosmos dan Cloudy, yang kebingungan dengan **gumaman Encore**, akhirnya ikut **merayap masuk ke bawah selimutnya**.
+Tapi ia terlalu lelah untuk menyelesaikan kalimatnya.\
+**Cosmos** dan **Cloudy**, yang kebingungan dengan gumaman **Encore**, akhirnya ikut merayap masuk ke bawah selimutnya.
 
 **Mereka pun tertidur bersama.**
 
-**Dalam mimpinya, Encore kembali ke panti asuhan.**\
-Di hadapannya, **Rumah Permen dilahap oleh kobaran api**. **Atapnya meleleh dalam panas**, dan **sirup mendidih menetes ke tubuh kucing hitam yang sekarat**. Makhluk itu **adalah lambang dari segala dosanya sendiri**.
+Dalam mimpinya, **Encore** kembali ke panti asuhan.\
+Di hadapannya, Rumah Permen dilahap oleh kobaran api. Atapnya meleleh dalam panas, dan sirup mendidih menetes ke tubuh kucing hitam yang sekarat. Makhluk itu adalah lambang dari segala dosanya sendiri.
 
-Encore **menyaksikan kejatuhannya**, sebuah akhir yang tak terhindarkan. Namun, **Sang Pencabut Nyawa tidak memberikan pengampunan dengan mudah**.
+**Encore** menyaksikan kejatuhannya, sebuah akhir yang tak terhindarkan. Namun, Sang Pencabut Nyawa tidak memberikan pengampunan dengan mudah.
 
-Sebaliknya, **ia menikmati penderitaan kucing itu**, memaksanya **mengakui segala kesalahannya**.
+Sebaliknya,*ia menikmati penderitaan kucing itu, memaksanya mengakui segala kesalahannya.
 
-> **Jeritan menyayat memenuhi hutan.**\
-> **Hyena yang dulu kejam dan gagak yang dulu sombong, kini meringkuk ketakutan.**
+> Jeritan menyayat memenuhi hutan.\
+> **Hyena** yang dulu kejam dan gagak yang dulu sombong, kini meringkuk ketakutan.
 
-Di tengah **kesunyian**, hanya **Encore dan jiwa-jiwa yang sekarat yang tersisa**.
+Di tengah **kesunyian**, hanya **Encore** dan jiwa-jiwa yang sekarat yang tersisa.
 
-> **"Pasti sakit sekali..."**
+> "Pasti sakit sekali..."
 
-Dalam cahaya api yang menari, Encore **mendekati kucing yang sekarat itu**.\
-Dengan **tangan kecilnya yang penuh luka bakar**, ia **mengelus bulu kucing itu dengan lembut**.
+Dalam cahaya api yang menari, **Encore** mendekati kucing yang sekarat itu.\
+Dengan tangan kecilnya yang penuh luka bakar, ia mengelus bulu kucing itu dengan lembut.
 
-**Kucing itu membenci Encore.** Ia **ingin gadis itu merasakan hal yang sama**.
+Kucing itu membenci **Encore**. Ia ingin gadis itu merasakan hal yang sama.
 
-**Namun, mengapa...**\
-**Mengapa dari tangan kecilnya, yang ada hanya kehangatan dan kesedihan?**
+Namun, mengapa...\
+Mengapa dari tangan kecilnya, yang ada hanya kehangatan dan kesedihan?
 
-**Api terus membakar Rumah Permen.**\
-Namun, **Encore tidak takut**.\
-Ia **menyandarkan dirinya pada kucing besar itu**, lalu **mulai menyanyikan lagu pengantar tidur**.
+Api terus membakar Rumah Permen.\
+Namun, **Encore** tidak takut.\
+Ia menyandarkan dirinya pada kucing besar itu, lalu mulai menyanyikan lagu pengantar tidur.
 
-> **Lagu yang dulu dinyanyikan oleh "Mama Direktur" untuk semua anak-anaknya.**
+> Lagu yang dulu dinyanyikan oleh "Mama Direktur" untuk semua anak-anaknya.
 
-Encore **terus bernyanyi**, **suaranya semakin serak**, hingga **api perlahan padam**.\
-Sampai **cahaya pagi pertama menyinari langit**. Ketika ia membuka matanya, **kucing besar yang mengerikan itu telah berubah menjadi anak kucing kecil**.
+**Encore** terus bernyanyi, **suaranya semakin serak**, hingga **api perlahan padam**.\
+Sampai cahaya pagi pertama menyinari langit. Ketika ia membuka matanya, kucing besar yang mengerikan itu telah berubah menjadi anak kucing kecil.
 
 Yang kini **tertidur nyenyak dalam pelukannya**.
 
 ### <mark style="color:blue;">A New Story, A New Adventure</mark>
 
-**Kesan pertama Encore terhadap Aalto berada di antara "lumayan" dan "aneh."**
+Kesan pertama **Encore** terhadap **Aalto** berada di antara "lumayan" dan "aneh."
 
-> **"Orang dewasa yang aneh tapi seru,"**&#x20;
+> "Orang dewasa yang aneh tapi seru,"&#x20;
 
 komentarnya.
 
-Melihat seseorang memakai **kacamata hitam di dalam ruangan** tentu menarik perhatiannya. Tapi memakainya di **tempat yang remang-remang**? Itu terasa **benar-benar aneh**.\
-Encore tidak bisa **memahami alasannya**.
+Melihat seseorang memakai kacamata hitam di dalam ruangan tentu menarik perhatiannya. Tapi memakainya di **tempat yang remang-remang**? Itu terasa **benar-benar aneh**.\
+**Encore** tidak bisa **memahami alasannya**.
 
-Saat melihat **perawat membimbing orang dewasa aneh itu masuk**, Encore **cepat-cepat kembali ke ranjang**, berpura-pura **membaca buku ceritanya**.
+Saat melihat perawat membimbing orang dewasa aneh itu masuk, **Encore** cepat-cepat kembali ke ranjang, berpura-pura membaca buku ceritanya.
 
-> **"Jadi... kamu anak itu? Yang dari berita... anak dari panti asuhan..."**
+> "Jadi... kamu anak itu? Yang dari berita... anak dari panti asuhan..."
 
-Aalto melepas **kacamata hitamnya**, menatap Encore dengan **penuh perhatian**.
+**Aalto** melepas **kacamata hitamnya**, menatap **Encore** dengan **penuh perhatian**.
 
-> **Mungkinkah anak sekecil ini benar-benar telah melakukan semua itu?**
+> Mungkinkah anak sekecil ini benar-benar telah melakukan semua itu?
 
-**Ia teringat tajuk berita yang pernah ia lihat:**
+Ia teringat tajuk berita yang pernah ia lihat:
 
-> **"Gadis Sembilan Tahun Pecahkan Kasus Sensasional!"**
+> "Gadis Sembilan Tahun Pecahkan Kasus Sensasional!"
 
-Meski ia masih **meragukan kebenaran berita tabloid**, ia tetap memiliki **misi yang harus diselesaikan**.
+Meski ia masih meragukan kebenaran berita tabloid, ia tetap memiliki **misi yang harus diselesaikan**.
 
-Lagi pula, **bahkan ORANG ITU pun berkata**:
+Lagi pula, bahkan ORANG ITU pun berkata:
 
-> **"Ini keputusan dari Tethys."**
+> "Ini keputusan dari **Tethys**."
 
 Dan **Sistem Tethys tak pernah salah**.
 
-> **"Paman ini aneh sekali. Encore gak ngerti apa yang paman bicarakan."**
+> "Paman ini aneh sekali. **Encore** gak ngerti apa yang paman bicarakan."
 
-Encore **menutup bukunya**, lalu mulai **menatap Aalto dengan penuh rasa ingin tahu**—**meniru cara pria itu menatapnya tadi**.
+**Encore** menutup bukunya, lalu mulai menatap **Aalto** dengan penuh rasa ingin tahu — meniru cara pria itu menatapnya tadi.
 
-Bagi **Encore**, **Aalto terlihat seperti anjing besar... atau mungkin serigala**. **Serigala abu-abu yang ramah, yang tidak akan mengancamnya.**
+Bagi **Encore**, **Aalto** terlihat seperti anjing besar... atau mungkin serigala. **Serigala abu-abu yang ramah, yang tidak akan mengancamnya.**
 
-> **"Oh iya, kamu ini Encore. Benar juga. Kamu yang kucari."**\
-> &#xNAN;**"Tunggu! Kenapa kau manggil aku 'paman'?! Coba lihat baik-baik, aku gak setua itu, kan?"**
+> "Oh iya, kamu ini **Encore**. Benar juga. Kamu yang kucari."\
+> &#xNAN;"Tunggu! Kenapa kau manggil aku 'paman'?! Coba lihat baik-baik, aku gak setua itu, kan?"
 
-Raut wajah **Aalto yang putus asa hanya membuat Encore tertawa**.\
-**Sepertinya, karena terlalu bosan dirawat di rumah sakit, dia ingin sedikit mengerjai orang dewasa aneh ini.**
+Raut wajah **Aalto** yang putus asa hanya membuat **Encore** tertawa.\
+Sepertinya, karena terlalu bosan dirawat di rumah sakit, dia ingin sedikit mengerjai orang dewasa aneh ini.
 
-> **"Baiklah, biar Encore lihat lebih dekat... Yap! Masih terlihat tua! Tetap paman!"**
+> "Baiklah, biar Encore lihat lebih dekat... Yap! Masih terlihat tua! Tetap paman!"
 
 ***
 
-Aalto menghela napas panjang.
+**Aalto** menghela napas panjang.
 
-> **"Haaah..."**
+> "Haaah..."
 
-> **"Ayolah, bilang sesuatu yang baik. Ini tugas yang gak mudah, lho."**
+> "Ayolah, bilang sesuatu yang baik. Ini tugas yang gak mudah, lho."
 
-> **"Aku juga harus ngurus anak-anak lain dari panti asuhan itu, tahu?"**
+> "Aku juga harus ngurus anak-anak lain dari panti asuhan itu, tahu?"
 
-Tapi, **digoda oleh seorang anak tidak ada artinya dibandingkan tugasnya di Black Shores**.
+Tapi, digoda oleh seorang anak tidak ada artinya dibandingkan tugasnya di **Black Shores**.
 
-> **"Baiklah, kembali ke intinya. Anak kecil, kamu ikut aku atau tidak?"**
+> "Baiklah, kembali ke intinya. Anak kecil, kamu ikut aku atau tidak?"
 
-Nada **Aalto berubah serius**, lalu kembali **santai seperti biasa**.
+Nada **Aalto** berubah serius, lalu kembali santai seperti biasa.
 
-> **"Kamu bisa dapat permen sebanyak yang kamu mau. Tapi ya... gak terlalu banyak, sih. Nanti gigimu rusak."**
+> "Kamu bisa dapat permen sebanyak yang kamu mau. Tapi ya... gak terlalu banyak, sih. Nanti gigimu rusak."
 
-> **"Hmm... mencurigakan,"**&#x20;
+> "Hmm... mencurigakan,"&#x20;
 
 gumam **Encore**, matanya berbinar penasaran.
 
-Alih-alih menjawab **pertanyaan Aalto**, ia **mengangkat Cosmos dan Cloudy**, lalu **mendekatkan mereka ke telinganya**.
+Alih-alih menjawab pertanyaan **Aalto**, ia mengangkat **Cosmos** dan **Cloudy**, lalu mendekatkan mereka ke telinganya.
 
-> **"Woolies? Kalian mau ngomong sesuatu?"**\
-> &#xNAN;**"Hmm... Hah? Serius? Jadi paman aneh ini sebenarnya orang baik?"**\
-> &#xNAN;**"Gak mungkin!"**
+> "**Woolies**? Kalian mau ngomong sesuatu?"\
+> &#xNAN;"Hmm... Hah? Serius? Jadi paman aneh ini sebenarnya orang baik?"\
+> &#xNAN;"Gak mungkin!"
 
-> **"Hei! Aku bisa terima kalau kamu manggil aku 'paman' sekarang, tapi kenapa 'gak mungkin'?!** \
-> **Apa aku gak keliatan kayak orang baik?"**
+> "Hei! Aku bisa terima kalau kamu manggil aku 'paman' sekarang, tapi kenapa 'gak mungkin'?! \
+> Apa aku gak keliatan kayak orang baik?"
 
-> **"Karena Cosmos dan Cloudy bilang kamu orang baik, Encore akan ikut!"**
+> "Karena **Cosmos** dan **Cloudy** bilang kamu orang baik, **Encore** akan ikut!"
 
-Encore **mengangkat dagunya dengan bangga**, berusaha **menggunakan nada bicara resmi**.
+**Encore** mengangkat dagunya dengan bangg*, berusaha **menggunakan nada bicara resmi**.
 
-> **"Tapi Cosmos dan Cloudy juga ikut. Mereka teman terbaik Encore."**
+> "Tapi **Cosmos** dan **Cloudy** juga ikut. Mereka teman terbaik **Encore**."
 
-> **"Tentu."**&#x20;
+> "Tentu."&#x20;
 
-Aalto **mengangguk tanpa ragu**.
+**Aalto** mengangguk tanpa ragu.
 
-> **"Mereka cuma boneka biasa, kan?"**
+> "Mereka cuma boneka biasa, kan?"
 
-Namun, saat **Aalto memandangi Cosmos dan Cloudy**, ia **tak bisa memahami perspektif seorang anak**.
+Namun, saat **Aalto** memandangi **Cosmos** dan **Cloudy**, ia tak bisa memahami perspektif seorang anak.
 
-> **Benda mati ini... mengapa Encore begitu percaya kalau mereka hidup?**
+> Benda mati ini... mengapa **Encore** begitu percaya kalau mereka hidup?
 
-**Tapi bagi Encore, ini adalah awal dari sebuah petualangan.**
+Tapi bagi **Encore**, ini adalah awal dari sebuah petualangan.
 
-Ia **memeluk Woolies kesayangannya**, **berputar-putar dalam kebahagiaan**—**pertama dengan Cosmos, lalu dengan Cloudy**.
+Ia memeluk **Woolies** kesayangannya, berputar-putar dalam kebahagiaan—pertama dengan **Cosmos**, lalu dengan **Cloudy**.
 
-**Seiring waktu, ia belajar untuk memperlakukan semua temannya dengan cinta dan perhatian yang sama.** Namun, tiba-tiba **Encore teringat sesuatu yang penting**.
+Seiring waktu, ia belajar untuk memperlakukan semua temannya dengan cinta dan perhatian yang sama. Namun, tiba-tiba **Encore*** teringat sesuatu yang penting.
 
-> **"Sebentar, kita akan melakukan apa?"**
+> "Sebentar, kita akan melakukan apa?"
 
-**Aalto tersenyum misterius, lalu kembali mengenakan kacamata hitamnya.**
+**Aalto** tersenyum misterius, lalu kembali mengenakan kacamata hitamnya.
 
 > **"Menyelamatkan dunia, tentu saja!"**
 

@@ -16,7 +16,7 @@ layout:
 
 
 
-<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1302.png" alt="" width="375"><figcaption><p>Yinlin adalah seorang Patroli yang terampil dan Natural Resonator yang kuat. Setelah diskors dari tugasnya di Biro Keamanan Publik, dia sekarang harus mengejar kejahatan tersembunyi secara diam-diam.</p></figcaption></figure></div>
+<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1302.png" alt="" width="375"><figcaption><p><strong>Yinlin</strong> adalah seorang Patroli yang terampil dan <strong>Natural Resonator</strong> yang kuat. Setelah diskors dari tugasnya di Biro Keamanan Publik, dia sekarang harus mengejar kejahatan tersembunyi secara diam-diam.</p></figcaption></figure></div>
 
 ## :mag: Informasi
 
@@ -36,24 +36,24 @@ layout:
 
 ### <mark style="color:blue;">Resonance Evaluation Report</mark>
 
-**Dasar Evaluasi:** \[Resonance Assessment **2917-G**]
+Dasar Evaluasi: \[**Resonance Assessment 2917-G**]
 
-**Tacet Mark** Resonator Yinlin terletak di sisi luar paha kirinya.\
-Tidak ada perubahan fisik signifikan yang diamati pada tubuh Yinlin setelah Kebangkitannya.\
+**Tacet Mark** Resonator **Yinlin** terletak di sisi luar paha kirinya.\
+Tidak ada perubahan fisik signifikan yang diamati pada tubuh **Yinlin** setelah Kebangkitannya.\
 Arus listrik ringan telah terdeteksi di permukaan kulitnya, tetapi belum menyebabkan efek samping yang terdeteksi pada tubuhnya.
 
-Yinlin memiliki kekuatan untuk menyatukan arus listrik menjadi benang tipis.
+**Yinlin** memiliki kekuatan untuk menyatukan arus listrik menjadi benang tipis.
 Manipulasinya terhadap benang-benang ini sangat mahir.
 
-**Resonance Spectrum Pattern** Yinlin ditemukan mirip dengan Pola Spektrum bahan konduktif yang dikenal.\
+**Resonance Spectrum Pattern** **Yinlin** ditemukan mirip dengan Pola Spektrum bahan konduktif yang dikenal.\
 Pengujian telah menemukan **Syntony** yang kuat.\
-Analisis sampel uji telah mengungkapkan **Kurva Rabelle** yang tidak konvergen dengan bentuk gelombang periodik yang nyata, yang mengklasifikasikan Yinlin sebagai **Congenital Resonator**.
+Analisis sampel uji telah mengungkapkan **Kurva Rabelle** yang tidak konvergen dengan bentuk gelombang periodik yang nyata, yang mengklasifikasikan **Yinlin** sebagai **Congenital Resonator**.
 > Side Note:\
-> Yinlin memiliki aritmia yang sudah ada sebelumnya yang mungkin atau mungkin tidak terkait dengan Forte-nya. Pemblokiran Forte-nya berpotensi meningkatkan risiko fibrilasi atrium.
+> **Yinlin** memiliki aritmia yang sudah ada sebelumnya yang mungkin atau mungkin tidak terkait dengan Forte-nya. Pemblokiran **Forte**-nya berpotensi meningkatkan risiko **fibrilasi atrium**.
 
 ### <mark style="color:blue;">Overclock Diagnostic Report</mark>
 Grafik bentuk gelombang **Resonator Yinlin** menunjukkan fluktuasi zigzag.\
-Pola **Time Domain** tidak teratur. Baik nilai puncak atas maupun bawah tinggi dan menunjukkan kedekatan dengan level Criticality.\
+Pola **Time Domain** tidak teratur. Baik nilai puncak atas maupun bawah tinggi dan menunjukkan kedekatan dengan level Criticality.
 
 Bentuk gelombang menampilkan segmen kekaburan parsial dan bentuk gelombang abnormal dapat dilihat.
 > **Resonant Criticality**:
@@ -67,7 +67,7 @@ Menilai dari pengamatan sejauh ini, risiko **Overclocking** minimal.\
 
 ## :package: Cherished Items
 
-<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Zapstring the Puppet</td><td><img src="https://wuthering.wiki/img/T_Treasure4_UI.png" alt=""></td><td>Dulu hanya boneka biasa, kini menjadi senjata yang mematikan berkat kemampuan Resonance Yinlin. Dia mungkin menyangkalnya, tapi cintanya pada boneka itu terlihat jelas dalam setiap detail, meski sudah usang karena bertahun-tahun bertempur. Dulu hanya sebuah karya latihan bagi seorang pembuat boneka, tapi sekarang berfungsi sebagai sekutu terpercaya Yinlin di medan perang.</td></tr><tr><td align="center">Book on Qipao</td><td><img src="https://wuthering.wiki/img/T_Treasure27_UI.png" alt=""></td><td>Qipao Yinlin mungkin tampak hanya sebagai pilihan mode, tapi sebenarnya berfungsi sebagai buku kode rahasia untuk berkomunikasi dengan penghubungnya. Buku tentang desain qipao ini terus berubah dan dipenuhi dengan gambar dan simbol terenkripsi, sehingga sulit bahkan bagi penghubung berpengalaman untuk menggunakannya. Selain peralatan dan senjata tersembunyi, qipao juga membantu Yinlin bergerak tanpa terdeteksi, tetapi penampilannya yang khas terkadang menarik perhatian yang tidak diinginkan.</td></tr><tr><td align="center">Magnifying Glass</td><td><img src="https://wuthering.wiki/img/T_Treasure44_UI.png" alt=""></td><td>Kaca Pembesar Investigasi ini diberikan kepada Patroller baru oleh Biro Keamanan Publik. Kecil tapi kuat, membantu mereka menemukan petunjuk tersembunyi. Yinlin, sebagai agen rahasia, tidak sering menggunakannya. Tapi itu tetap memegang makna penting baginya: Ini adalah penghormatan kepada mendiang orang tuanya dan pengingat akan identitas aslinya.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Zapstring the Puppet</td><td><img src="https://wuthering.wiki/img/T_Treasure4_UI.png" alt=""></td><td>Dulu hanya boneka biasa, kini menjadi senjata yang mematikan berkat kemampuan Resonance <strong>Yinlin</strong>. Dia mungkin menyangkalnya, tapi cintanya pada boneka itu terlihat jelas dalam setiap detail, meski sudah usang karena bertahun-tahun bertempur. Dulu hanya sebuah karya latihan bagi seorang pembuat boneka, tapi sekarang berfungsi sebagai sekutu terpercaya <strong>Yinlin</strong> di medan perang.</td></tr><tr><td align="center">Book on Qipao</td><td><img src="https://wuthering.wiki/img/T_Treasure27_UI.png" alt=""></td><td>Qipao <strong>Yinlin</strong> mungkin tampak hanya sebagai pilihan mode, tapi sebenarnya berfungsi sebagai buku kode rahasia untuk berkomunikasi dengan penghubungnya. Buku tentang desain qipao ini terus berubah dan dipenuhi dengan gambar dan simbol terenkripsi, sehingga sulit bahkan bagi penghubung berpengalaman untuk menggunakannya. Selain peralatan dan senjata tersembunyi, qipao juga membantu <strong>Yinlin</strong> bergerak tanpa terdeteksi, tetapi penampilannya yang khas terkadang menarik perhatian yang tidak diinginkan.</td></tr><tr><td align="center">Magnifying Glass</td><td><img src="https://wuthering.wiki/img/T_Treasure44_UI.png" alt=""></td><td>Kaca Pembesar Investigasi ini diberikan kepada Patroller baru oleh Biro Keamanan Publik. Kecil tapi kuat, membantu mereka menemukan petunjuk tersembunyi. <strong>Yinlin</strong>, sebagai agen rahasia, tidak sering menggunakannya. Tapi itu tetap memegang makna penting baginya: Ini adalah penghormatan kepada mendiang orang tuanya dan pengingat akan identitas aslinya.</td></tr></tbody></table>
 
 ## :scroll: Story
 
@@ -169,9 +169,7 @@ Pria itu menolak tanpa berpikir panjang—tanpa sadar bahwa bocah kecil itu suda
 
 Saat dia mencoba meraih anak itu kembali, yang didapatnya justru sebuah boneka aneh. Di detik berikutnya, sengatan listrik yang kuat menyambar tubuhnya, membuatnya tak sadarkan diri.  
 
-**...**  
-
-**...**  
+...
 
 > "Bos! Berita buruk!"  
 
@@ -257,7 +255,7 @@ Pemuda itu berpura-pura sibuk mengemasi barang, tapi diam-diam menangkap sorot m
 
 ...
 
-...
+
 
 Di tengah kobaran api yang membara, seorang pemuda mendekap bayi dalam pelukannya. Anak itu tetap tenang, hanya menatap kosong saat orang-orang berlarian di sekitar mereka.
 
@@ -283,7 +281,7 @@ Mereka berjalan melewati api yang berkobar, menghilang ke dalam kegelapan malam 
 
 > "Master **Dollmaker**, aku ingin bergabung dengan **Biro Keamanan Publik**," 
 
-ujar Yinlin dengan penuh tekad.
+ujar **Yinlin** dengan penuh tekad.
 
 **Dollmaker** tampak tidak terkejut, tapi wanita tua di sampingnya menunjukkan ekspresi khawatir. 
 
@@ -309,7 +307,7 @@ Setelah hening cukup lama, akhirnya **Dollmaker** mengangguk.
 
 ### <mark style="color:blue;">A Corner in Darkness</mark>
 
-Dengan wajah menahan sakit di sisi tubuhnya, Yinlin berusaha berdiri, menggunakan meja di dekatnya sebagai tumpuan.
+Dengan wajah menahan sakit di sisi tubuhnya, **Yinlin** berusaha berdiri, menggunakan meja di dekatnya sebagai tumpuan.
 
 Dari bayangan, sosok pria muncul, mencabut bilah tajam dari tubuhnya—bilah dari boneka milik **Yinlin**—lalu melemparkannya begitu saja ke lantai.
 
@@ -321,7 +319,7 @@ Dengan sisa tenaga, **Yinlin** mengumpulkan listrik di ujung jarinya, membentuk 
 
 > "**Forte-ku** bisa menyebabkan aritmia. Selama kau masih manusia, kau tak akan bisa menghindarinya."
 
-Saat **Tacet Mark** di lengan pria itu bersinar terang, tubuh Yinlin kehilangan seluruh kekuatannya. Ia jatuh ke tanah, napasnya semakin melemah.
+Saat **Tacet Mark** di lengan pria itu bersinar terang, tubuh **Yinlin** kehilangan seluruh kekuatannya. Ia jatuh ke tanah, napasnya semakin melemah.
 
 > "Memang, kami belum punya **Resonator** selevel dirimu dalam tim kami," 
 
