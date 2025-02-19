@@ -16,7 +16,7 @@ layout:
 
 
 
-<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1205.png" alt="" width="375"><figcaption><p>A</p></figcaption></figure></div>
+<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1205.png" alt="" width="375"><figcaption><p><strong>Changli</strong> adalah penasihat yang melayani <strong>Magistrat Jinzhou</strong>, dan mantan Sekretaris Jenderal di ibu kota.  Terselubung dalam api, dia ditakdirkan untuk bersinar terang hingga bara terakhirnya.  Dengan tekadnya yang membara dan pola pikir strategisnya, dia naik ke tampuk kekuasaan, selalu berpikir ke depan untuk mencapai tujuan akhirnya.</p></figcaption></figure></div>
 
 ## :mag: Informasi
 

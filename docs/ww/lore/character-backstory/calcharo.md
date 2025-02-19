@@ -16,7 +16,7 @@ layout:
 
 
 
-<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1301.png" alt="" width="375"><figcaption><p>A</p></figcaption></figure></div>
+<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1301.png" alt="" width="375"><figcaption><p>Pemimpin <strong>"Ghost Hounds,"<strong> sebuah kelompok tentara bayaran internasional.  Kejam, pendendam, tak kenal ampun.  Klien potensial harus memperhatikan harga yang harus dibayar sebelum memberinya tawaran.</p></figcaption></figure></div>
 
 ## :mag: Informasi
 
@@ -144,7 +144,7 @@ Pada akhirnya, sang pemimpin memutuskan untuk mengambil nasib ke tangannya sendi
 
 ...
 
-Bertahun-tahun kemudian, **New Federation** melancarkan perang melawan "the Underdogs," **gang** terakhir di Zona Tanpa Hukum. Dalam sebuah kejutan, kelompok tentara bayaran baru yang dikenal sebagai "**Ghost Hounds**" mencaplok "the **Underdogs**" dalam semalam dan mengakhiri kekacauan.
+Bertahun-tahun kemudian, **New Federation** melancarkan perang melawan "**the Underdogs**," **gang** terakhir di Zona Tanpa Hukum. Dalam sebuah kejutan, kelompok tentara bayaran baru yang dikenal sebagai "**Ghost Hounds**" mencaplok "the **Underdogs**" dalam semalam dan mengakhiri kekacauan.
 
 Baru kemudian orang-orang mengetahui bahwa pemimpin kelompok tentara bayaran itu memiliki nama yang sama dengan mantan ketua the "**Underdogs**."
 
