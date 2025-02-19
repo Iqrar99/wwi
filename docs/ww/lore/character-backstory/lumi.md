@@ -22,7 +22,7 @@ layout:
 
 | Tanggal Lahir | TBA             |
 | ------------- | --------------- |
-| Jenis Kelamin | Laki-laki       |
+| Jenis Kelamin | Perempuan       |
 | Tempat Lahir  | Huanglong       |
 | Afiliasi      | Lollo Logistics |
 

@@ -25,6 +25,7 @@ layout:
 
 * Add more backstories
 * Set the website to dark mode by default
+* Fix some typos
 
 ## 16/02/2025
 

@@ -16,7 +16,7 @@ layout:
 
 
 
-<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1301.png" alt="" width="375"><figcaption><p>A</p></figcaption></figure></div>
+<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1301.png" alt="" width="375"><figcaption><p>Pemimpin "Ghost Hounds," kelompok tentara bayaran internasional. Kejam, pendendam, dan tak kenal ampun. Calon klien harus mempertimbangkan harga yang harus dibayar sebelum mengajukan penawaran.</p></figcaption></figure></div>
 
 ## :mag: Informasi
 
