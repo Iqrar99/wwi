@@ -76,7 +76,7 @@ Saat melihat hasil karyanya, dia tak bisa menahan tawa.
 Desainnya menyerupai hadiah yang sangat dihargai dari era yang telah lalu, dilengkapi dengan fitur pelacakan serupa untuk menjaga lokasi dan keselamatan pemakainya dari jauh.
 <strong>Camellya</strong> mengerti bahwa dia bukan lagi <strong>Lady Flora</strong> yang dulu, dan dia tidak ingin menjadi seperti itu. Masa-masa di mana dia mengikuti Rover sudah berlalu, tapi buat apa? Keduanya akan melakukan apa yang membuat mereka bahagia.
 Bagi <strong>Camellya</strong>, ini adalah satu-satunya jangkar dalam lautan makna yang tiada habisnya.</td></tr><tr><td align="center">A Camellia</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure78_UI.webp" alt=""></td><td>Sebuah bunga yang didedikasikan untuk seseorang tertentu.
-Entah sebagai pemimpin, seorang <strong>Modulator</strong>, atau sekarang sebagai Rover, pahlawan Jinzhou, seorang pemandu… <strong>Camellya</strong> tidak pernah peduli dengan gelar atau tanggung jawab yang menyertainya. Namun, dia tahu bahwa dia tidak bisa, dan memang tidak akan, membiarkan pandangannya tentang kehidupan mempengaruhi penilaian {Male=his;Female=her}.
+Entah sebagai pemimpin, seorang <strong>Modulator</strong>, atau sekarang sebagai Rover, pahlawan Jinzhou, seorang pemandu… <strong>Camellya</strong> tidak pernah peduli dengan gelar atau tanggung jawab yang menyertainya. Namun, dia tahu bahwa dia tidak bisa, dan memang tidak akan, membiarkan pandangannya tentang kehidupan mempengaruhi penilaiannya.
 Jadi, biarkan bunga abadi ini menyampaikan perasaannya di tempat yang kata-kata mungkin gagal.
 
 "Itu hanya mekar untukmu, selamanya dan selalu."</td></tr></tbody></table>
