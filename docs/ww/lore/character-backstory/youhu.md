@@ -38,22 +38,22 @@ Dasar Evaluasi: \[**Evaluasi Resonansi **RA1013-G**]
 
 Awakening **Resonator Youhu** terjadi **tiga tahun lalu**, dengan manifestasi awal sudah terlihat sejak masa kanak-kanak. Awakening ini disertai gejala **hipotermia** akibat paparan suhu rendah dalam waktu yang lama.
 
-**Tacet Mark** **Youhu** terletak di **lengan kiri atas**, dengan pola kristal salju yang muncul di kedua lengan bawah. Suhu pada pola ini **tercatat di bawah 0°C**. Tekstur kulit di area tersebut **tidak menunjukkan perubahan signifikan**, meskipun pemeriksaan taktil mendeteksi adanya partikel **mikro-kristal** dalam jumlah kecil.
+**Tacet Mark** **Youhu** terletak di lengan kiri atas, dengan pola kristal salju yang muncul di kedua lengan bawah. Suhu pada pola ini **tercatat di bawah 0°C**. Tekstur kulit di area tersebut tidak menunjukkan perubahan signifikan, meskipun pemeriksaan taktil mendeteksi adanya partikel **mikro-kristal** dalam jumlah kecil.
 
-**Youhu** memiliki kemampuan untuk **menduplikasi benda antik menggunakan es**, dengan cara **beresonansi dengan frekuensi benda tersebut**. Namun, pengumpulan data yang lebih rinci **terhambat oleh sifat Youhu yang tidak dapat diprediksi dan kurang kooperatif**.
+**Youhu** memiliki kemampuan untuk **menduplikasi benda antik menggunakan es**, dengan cara beresonansi dengan frekuensi benda tersebut. Namun, pengumpulan data yang lebih rinci terhambat oleh sifat **Youhu** yang tidak dapat diprediksi dan kurang kooperatif.
 
-Spektrum Resonansi **Youhu** menunjukkan **keselarasan kuat dengan Ruyi Ring**, yang mengindikasikan **reaksi Syntony yang tinggi**.
+Spektrum Resonansi **Youhu** menunjukkan keselarasan kuat dengan **Ruyi Ring**, yang mengindikasikan reaksi **Syntony** yang tinggi.
 
-Analisis terhadap sampel uji menunjukkan bahwa kurva Rabelle yang terbentuk **tidak konvergen**, dengan **kenaikan tajam di bagian tengahnya**. Oleh karena itu, **Youhu** diklasifikasikan sebagai **Mutant Resonator**.
+Analisis terhadap sampel uji menunjukkan bahwa kurva Rabelle yang terbentuk tidak konvergen, dengan kenaikan tajam di bagian tengahnya. Oleh karena itu, **Youhu** diklasifikasikan sebagai **Mutant Resonator**.
 
 ### <mark style="color:blue;">Overclock Diagnostic Report</mark>
 
-Grafik gelombang **Resonator Youhu** menunjukkan **pulse fluctuation persegi non-periodik** yang terjadi sekali, dengan nilai puncak yang bertahan selama interval tertentu sebelum perlahan menurun. Saat ini, gelombang ini menunjukkan **sinusoidal fluctuations** **yang jelas**, dengan **nilai puncak atas dan bawah yang rendah**.
+Grafik gelombang **Resonator Youhu** menunjukkan **pulse fluctuation persegi non-periodik** yang terjadi sekali, dengan nilai puncak yang bertahan selama interval tertentu sebelum perlahan menurun. Saat ini, gelombang ini menunjukkan **sinusoidal fluctuations** yang jelas, dengan nilai puncak atas dan bawah yang rendah.
 
 **Kritisitas Resonansi:** **Relatif tinggi**.\
 Frekuensi resonansi **Youhu** menunjukkan **stabilitas tinggi**, dengan **risiko Overclocking yang rendah**.
 
-Dianjurkan untuk melakukan **pemeriksaan fisik rutin**, sementara **konseling psikologis belum diperlukan untuk saat ini**.
+Dianjurkan untuk melakukan pemeriksaan fisik rutin, sementara konseling psikologis belum diperlukan untuk saat ini.
 
 ## :package: Cherished Items
 

@@ -72,7 +72,7 @@ Tidak ditemukan insiden besar yang menyebabkan luka pada warga sipil atau kerusa
 
 ### <mark style="color:blue;">"Dogs of War"</mark>
 
-**Calcharo** "si Kejam" dulunya adalah salah satu **Exile** di Zona Tanpa Hukum **New Federation**. Ia telah lama menguasai berbagai strategi licik untuk bertahan hidup. Kini, ia semakin kejam dalam menjalankan profesinya sebagai tentara bayaran: meracun, membunuh, menyuap, menculik, hingga menggunakan bom. Ia akan melakukan apa pun yang dianggap perlu untuk menyelesaikan pekerjaannya. Rumor mengenai kemampuan **Calcharo** yang luar biasa terus beredar. Ada yang mengatakan bahwa ia pernah bertahan di gurun selama **tujuh hari** tanpa air demi merencanakan penyergapan, sementara yang lain menyebutkan bahwa ia pernah mengenakan bom di sekujur tubuhnya saat melakukan negosiasi. 
+**Calcharo** "**si Kejam**" dulunya adalah salah satu **Exile** di Zona Tanpa Hukum **New Federation**. Ia telah lama menguasai berbagai strategi licik untuk bertahan hidup. Kini, ia semakin kejam dalam menjalankan profesinya sebagai tentara bayaran: meracun, membunuh, menyuap, menculik, hingga menggunakan bom. Ia akan melakukan apa pun yang dianggap perlu untuk menyelesaikan pekerjaannya. Rumor mengenai kemampuan **Calcharo** yang luar biasa terus beredar. Ada yang mengatakan bahwa ia pernah bertahan di gurun selama **tujuh hari** tanpa air demi merencanakan penyergapan, sementara yang lain menyebutkan bahwa ia pernah mengenakan bom di sekujur tubuhnya saat melakukan negosiasi. 
 
 Bahkan, ada pula desas-desus yang mengatakan bahwa ia menyewa pembunuh bayaran untuk memalsukan kematiannya sebagai bagian dari rencana untuk mendapatkan kepercayaan.
 

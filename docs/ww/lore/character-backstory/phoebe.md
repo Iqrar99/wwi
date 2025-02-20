@@ -167,7 +167,7 @@ tempat di mana dia bisa menyembuhkan luka-lukanya dengan damai.
 
 ...
 
-> "Jangan sedih, Sister Isabella."
+> "Jangan sedih, **Sister Isabella**."
 
 Tiba-tiba, sebuah es krim diulurkan ke hadapanku. Sekelompok **Echoes** kecil telah muncul tanpa aku sadari, masing-masing membawa es krim dan permen yang seharusnya untuk turis. \
 Mereka mengelilingi kami—atau lebih tepatnya, mengelilingi **Phoebe**.

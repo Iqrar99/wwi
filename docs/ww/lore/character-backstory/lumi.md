@@ -305,7 +305,7 @@ Ibunya mengangkat alis, tertarik.
 
 **Lumi** tertawa, matanya berbinar. 
 
-> "Benar! Aku kesulitan dengan beberapa pekerjaan, tapi berkat {Male=dia;Female=dia}, aku berhasil membalikkan keadaan. Begini ceritanya…"  
+> "Benar! Aku kesulitan dengan beberapa pekerjaan, tapi berkatnya, aku berhasil membalikkan keadaan. Begini ceritanya…"  
 
 Keesokan paginya, dengan desa masih diselimuti ketenangan fajar, **Lumi** meninggalkan rumah untuk menikmati pemandangan pagi di ladang. Tidak banyak yang berubah. Tempat ini masih menyimpan jejak-jejak yang membentuk dirinya.  
 

@@ -16,7 +16,7 @@ layout:
 
 
 
-<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1601.png" alt="" width="375"><figcaption><p><strong>Taoqi</strong> adalah direktur pertahanan perbatasan di <strong>Kementerian Pembangunan</strong>.  Meskipun terlihat santai, dia selalu bisa diandalkan dan  suportif, selalu siap membantu siapa pun yang membutuhkan.  Taoqi bukan cuma rekan kerja yang bisa diharap, tapi juga teman yang bisa dipercaya dan di ajak curhat.</p></figcaption></figure></div>
+<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1601.png" alt="" width="375"><figcaption><p><strong>Taoqi</strong> adalah direktur pertahanan perbatasan di <strong>Kementerian Pembangunan</strong>.  Meskipun terlihat santai, dia selalu bisa diandalkan dan  suportif, selalu siap membantu siapa pun yang membutuhkan.  <strong>Taoqi</strong> bukan cuma rekan kerja yang bisa diharap, tapi juga teman yang bisa dipercaya dan di ajak curhat.</p></figcaption></figure></div>
 
 ## :mag: Informasi
 

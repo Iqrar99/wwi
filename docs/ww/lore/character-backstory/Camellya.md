@@ -70,16 +70,18 @@ Sebelum pertemuannya kembali di Jinzhou, <strong>Camellya</strong> telah berulan
 Sekarang, setelah semua usaha dan kekecewaan yang samar, visinya akhirnya menjadi kenyataan. 
 Saat melihat hasil karyanya, dia tak bisa menahan tawa.
 
-"Jadi, beginilah seharusnya," pikirnya.
+> "Jadi, beginilah seharusnya,"
 
-"Hehe, lucu sekali seperti yang aku bayangkan."</td></tr><tr><td align="center">Spectrum Bracelet</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure76_UI.webp" alt=""></td><td>Sebuah gelang pemantau spektrum frekuensi yang dirancang oleh <strong>Black Shores</strong>, dibuat atas desakan kuat dari <strong>Camellya</strong>.
+pikirnya.
+
+> "Hehe, lucu sekali seperti yang aku bayangkan."</td></tr><tr><td align="center">Spectrum Bracelet</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure76_UI.webp" alt=""></td><td>Sebuah gelang pemantau spektrum frekuensi yang dirancang oleh <strong>Black Shores</strong>, dibuat atas desakan kuat dari <strong>Camellya</strong>.
 Desainnya menyerupai hadiah yang sangat dihargai dari era yang telah lalu, dilengkapi dengan fitur pelacakan serupa untuk menjaga lokasi dan keselamatan pemakainya dari jauh.
 <strong>Camellya</strong> mengerti bahwa dia bukan lagi <strong>Lady Flora</strong> yang dulu, dan dia tidak ingin menjadi seperti itu. Masa-masa di mana dia mengikuti Rover sudah berlalu, tapi buat apa? Keduanya akan melakukan apa yang membuat mereka bahagia.
 Bagi <strong>Camellya</strong>, ini adalah satu-satunya jangkar dalam lautan makna yang tiada habisnya.</td></tr><tr><td align="center">A Camellia</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure78_UI.webp" alt=""></td><td>Sebuah bunga yang didedikasikan untuk seseorang tertentu.
 Entah sebagai pemimpin, seorang <strong>Modulator</strong>, atau sekarang sebagai Rover, pahlawan Jinzhou, seorang pemandu… <strong>Camellya</strong> tidak pernah peduli dengan gelar atau tanggung jawab yang menyertainya. Namun, dia tahu bahwa dia tidak bisa, dan memang tidak akan, membiarkan pandangannya tentang kehidupan mempengaruhi penilaiannya.
 Jadi, biarkan bunga abadi ini menyampaikan perasaannya di tempat yang kata-kata mungkin gagal.
 
-"Itu hanya mekar untukmu, selamanya dan selalu."</td></tr></tbody></table>
+> "Itu hanya mekar untukmu, selamanya dan selalu."</td></tr></tbody></table>
 
 ## :scroll: Story
 
@@ -97,11 +99,12 @@ Dia tahu **Rover** akan tetap berada di **Black Shores**, mempersiapkan perjalan
 
 Dia memberi **Rover** sebuah hadiah, sebuah gelang yang dirancang untuk memantau frekuensi, seperti yang dulu diberikan olehnya.
 
-Itu adalah hadiah pertama yang pernah dia persiapkan untuk seseorang.
+> Itu adalah hadiah pertama yang pernah dia persiapkan untuk seseorang.
 
 > "Betapa aneh!" 
 
-gumamnya.\
+gumamnya.
+
 Memikirkan keselamatan seseorang, atau apakah mereka bahkan ada... benar-benar perasaan yang baru! Pasti itu berarti dia peduli dengan kehidupan mereka. Pemikiran seperti itu terasa asing—dia tidak pernah peduli dengan hidupnya sendiri, atau hidup orang lain. Namun, setelah meninggalkan **Stellar Matrix** bersama **Rover** dan menemukan identitasnya sebagai **Lady Flora**, dia mulai melihat segala sesuatu dengan cara yang sangat halus, namun berbeda.
 
 Namun, dia tidak berniat mengikuti **Rover** ke **Rinascita**. Pandangannya tentang beberapa aspek sejarah **Solaris** berbeda, dan sama seperti dia tidak berniat mengganggu pilihannya, dia juga tidak merasa perlu untuk menjelaskan pilihannya sendiri. Bahkan, untuk menghindari beban tambahan bagi **Rover**, dia menyembunyikan beberapa kebenaran darinya. Di **Stellar Matrix**, dia belum sepenuhnya kehilangan semua ingatan tentang masa lalunya.
@@ -116,7 +119,7 @@ Dia telah mengikuti perjalanan **Rover** dari **Jinzhou** hingga sekarang.
 
 Sebuah kekuatan tunggal, yang selalu bergerak maju, mengumpulkan berbagai macam teman di sepanjang jalan.
 
-Dia mengerti bahwa ini masih bukan jalannya, namun dia tidak lagi menentang untuk mengamatinya. Seperti satu batu yang bertemu dengan batu lainnya, mengirimkan riak di permukaan air, dia menerima gagasan untuk menjadi "variabel" dalam tarian ini. 
+Dia mengerti bahwa ini masih bukan jalannya, namun dia tidak lagi menentang untuk mengamatinya. Seperti satu batu yang bertemu dengan batu lainnya, mengirimkan riak di permukaan air, dia menerima gagasan untuk menjadi "**variabel**" dalam tarian ini. 
 
 Kini, kebahagiaan yang dia rasakan dari hubungan mereka begitu mendalam. Dia tidak merasakan kebosanan biasa yang menyusup, dan dia tidak ingin menghapus pikiran tentang mereka. Sebaliknya, pikirannya sering kali mengarah padanya, merindukan untuk mengetahui lebih banyak tentang petualangannya dan berbagi lebih banyak permainan yang menyenangkan. 
 
@@ -140,7 +143,6 @@ Dengan sebuah desahan, dia memilih untuk tidak terlalu memikirkannya. Karena... 
 
 ### <mark style="color:blue;">Labyrinth</mark>
 
-**Labirin**  
 Dia terbangun dari mimpinya.
 
 Dinding-dinding pod medis tenggelam dalam kegelapan. Terbungkus dalam keheningan berat karena peredam suara, **Camellya** berkedip dan mengalihkan pandangannya yang kering ke kanan. Indikator di layar **Terminal** kembali normal. Belenggu di pergelangan tangan dan kaki telah melonggar, namun dia masih merasa lemah, memaksanya tetap terbaring dalam ruang sempit pod.
@@ -187,7 +189,9 @@ Dia bukanlah jenis tanaman yang bisa tahan terhadap dingin.
 
 > "Ke mana pemimpin pergi?" 
 
-tanyanya setelah meneguk beberapa teguk air, lalu menoleh ke **Bloom Bearer** yang duduk di kursi depan. "Aku tidak melihat dia."
+tanyanya setelah meneguk beberapa teguk air, lalu menoleh ke **Bloom Bearer** yang duduk di kursi depan. 
+
+> "Aku tidak melihat dia."
 
 > "Pemimpin? dia pergi ke barat. Dia bilang ada sesuatu yang menarik yang muncul dan ingin melihatnya."
 
@@ -243,7 +247,6 @@ dengarnya membalas.
 
 ### <mark style="color:blue;">Eve</mark>
 
-**Eve**  
 Dia terbangun dari mimpinya.
 
 Jarak antara ketidaksadaran dan kesadaran semakin pendek dengan setiap hari yang berlalu. **Lady Flora** mulai merasa kesulitan membedakan di mana mimpi berakhir dan kenyataan dimulai. Bahkan, dia tidak ingat kapan kebingungannya ini dimulai.

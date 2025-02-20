@@ -50,9 +50,9 @@ Kemampuan **Forte**:
 
 **Resonance Spectrum Pattern Mortefi** menunjukkan keselarasan kuat dengan **Dragonkin**, spesies yang **telah dinyatakan punah**.
 
-Namun, karena tidak adanya **Dragonkin** yang masih hidup untuk **pengujian Syntony**, penyebab pasti Kebangkitan **Mortefi** masih belum dapat dikonfirmasi secara empiris.
+Namun, karena tidak adanya **Dragonkin** yang masih hidup untuk pengujian **Syntony**, penyebab pasti Kebangkitan **Mortefi** masih belum dapat dikonfirmasi secara empiris.
 
-Analisis terhadap **sampel uji** menunjukkan **Kurva Rabelle yang tidak konvergen**, dengan **kenaikan tajam di bagian tengahnya**.
+Analisis terhadap sampel uji menunjukkan **Kurva Rabelle yang tidak konvergen**, dengan kenaikan tajam di bagian tengahnya.
 
 > Berdasarkan hasil ini, **Resonator Mortefi** diklasifikasikan sebagai Mutant Resonator.
 
