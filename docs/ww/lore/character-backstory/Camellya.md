@@ -65,7 +65,7 @@ Pemeriksaan fisik secara teratur wajib dilakukan, dan intervensi wajib dijadwalk
 
 ## :package: Cherished Items
 
-<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Wooden Doll</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure75_UI.webp" alt=""></td><td>Sebuah boneka kayu yang diukir dengan rumit, dibentuk menyerupai {PlayerName} dan terbuat dari akar yang diciptakan oleh <strong>Forte</strong> milik <strong>Camellya</strong>. Ini mencerminkan estetika uniknya.
+<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Wooden Doll</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure75_UI.webp" alt=""></td><td>Sebuah boneka kayu yang diukir dengan rumit, dibentuk menyerupai Rover dan terbuat dari akar yang diciptakan oleh <strong>Forte</strong> milik <strong>Camellya</strong>. Ini mencerminkan estetika uniknya.
 Sebelum pertemuannya kembali di Jinzhou, <strong>Camellya</strong> telah berulang kali mencoba memahat wajah boneka tersebut, namun setiap kali dia merasa frustrasi karena tidak bisa menyempurnakan goresan terakhirnya.
 Sekarang, setelah semua usaha dan kekecewaan yang samar, visinya akhirnya menjadi kenyataan. 
 Saat melihat hasil karyanya, dia tak bisa menahan tawa.
@@ -74,7 +74,7 @@ Saat melihat hasil karyanya, dia tak bisa menahan tawa.
 
 "Hehe, lucu sekali seperti yang aku bayangkan."</td></tr><tr><td align="center">Spectrum Bracelet</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure76_UI.webp" alt=""></td><td>Sebuah gelang pemantau spektrum frekuensi yang dirancang oleh <strong>Black Shores</strong>, dibuat atas desakan kuat dari <strong>Camellya</strong>.
 Desainnya menyerupai hadiah yang sangat dihargai dari era yang telah lalu, dilengkapi dengan fitur pelacakan serupa untuk menjaga lokasi dan keselamatan pemakainya dari jauh.
-<strong>Camellya</strong> mengerti bahwa dia bukan lagi <strong>Lady Flora</strong> yang dulu, dan dia tidak ingin menjadi seperti itu. Masa-masa di mana dia mengikuti {PlayerName} sudah berlalu, tapi buat apa? Keduanya akan melakukan apa yang membuat mereka bahagia.
+<strong>Camellya</strong> mengerti bahwa dia bukan lagi <strong>Lady Flora</strong> yang dulu, dan dia tidak ingin menjadi seperti itu. Masa-masa di mana dia mengikuti Rover sudah berlalu, tapi buat apa? Keduanya akan melakukan apa yang membuat mereka bahagia.
 Bagi <strong>Camellya</strong>, ini adalah satu-satunya jangkar dalam lautan makna yang tiada habisnya.</td></tr><tr><td align="center">A Camellia</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure78_UI.webp" alt=""></td><td>Sebuah bunga yang didedikasikan untuk seseorang tertentu.
 Entah sebagai pemimpin, seorang <strong>Modulator</strong>, atau sekarang sebagai Rover, pahlawan Jinzhou, seorang pemandu… <strong>Camellya</strong> tidak pernah peduli dengan gelar atau tanggung jawab yang menyertainya. Namun, dia tahu bahwa dia tidak bisa, dan memang tidak akan, membiarkan pandangannya tentang kehidupan mempengaruhi penilaian {Male=his;Female=her}.
 Jadi, biarkan bunga abadi ini menyampaikan perasaannya di tempat yang kata-kata mungkin gagal.
@@ -93,50 +93,50 @@ Matahari terbit di cakrawala, memancarkan cahaya hangat di atas **Black Shores**
 
 gumamnya. Dia merasa stabil, baik secara pikiran maupun tubuh, dan pikiran tentang membutuhkan pod medis terasa begitu jauh. Ini adalah hal yang baik.
 
-Dia tahu **{PlayerName}** akan tetap berada di **Black Shores**, mempersiapkan perjalanan **{Male=his;Female=her}** ke **Rinascita**. Prospek itu menyenangkannya, karena itu berarti lebih banyak waktu untuk berbicara, tertawa, dan menghabiskan waktu bersama.
+Dia tahu **Rover** akan tetap berada di **Black Shores**, mempersiapkan perjalanannya ke **Rinascita**. Prospek itu menyenangkannya, karena itu berarti lebih banyak waktu untuk berbicara, tertawa, dan menghabiskan waktu bersama.
 
-Dia memberi **{PlayerName}** sebuah hadiah, sebuah gelang yang dirancang untuk memantau frekuensi, seperti yang dulu diberikan oleh **{Male=he;Female=she}**.
+Dia memberi **Rover** sebuah hadiah, sebuah gelang yang dirancang untuk memantau frekuensi, seperti yang dulu diberikan olehnya.
 
 Itu adalah hadiah pertama yang pernah dia persiapkan untuk seseorang.
 
 > "Betapa aneh!" 
 
 gumamnya.\
-Memikirkan keselamatan seseorang, atau apakah mereka bahkan ada... benar-benar perasaan yang baru! Pasti itu berarti dia peduli dengan kehidupan mereka. Pemikiran seperti itu terasa asing—dia tidak pernah peduli dengan hidupnya sendiri, atau hidup orang lain. Namun, setelah meninggalkan **Stellar Matrix** bersama **{PlayerName}** dan menemukan identitasnya sebagai **Lady Flora**, dia mulai melihat segala sesuatu dengan cara yang sangat halus, namun berbeda.
+Memikirkan keselamatan seseorang, atau apakah mereka bahkan ada... benar-benar perasaan yang baru! Pasti itu berarti dia peduli dengan kehidupan mereka. Pemikiran seperti itu terasa asing—dia tidak pernah peduli dengan hidupnya sendiri, atau hidup orang lain. Namun, setelah meninggalkan **Stellar Matrix** bersama **Rover** dan menemukan identitasnya sebagai **Lady Flora**, dia mulai melihat segala sesuatu dengan cara yang sangat halus, namun berbeda.
 
-Namun, dia tidak berniat mengikuti **{PlayerName}** ke **Rinascita**. Pandangannya tentang beberapa aspek sejarah **Solaris** berbeda, dan sama seperti dia tidak berniat mengganggu pilihan **{Male=his;Female=her}**, dia juga tidak merasa perlu untuk menjelaskan pilihannya sendiri. Bahkan, untuk menghindari beban tambahan bagi **{PlayerName}**, dia menyembunyikan beberapa kebenaran dari **{Male=him;Female=her}**. Di **Stellar Matrix**, dia belum sepenuhnya kehilangan semua ingatan tentang masa lalunya.
+Namun, dia tidak berniat mengikuti **Rover** ke **Rinascita**. Pandangannya tentang beberapa aspek sejarah **Solaris** berbeda, dan sama seperti dia tidak berniat mengganggu pilihannya, dia juga tidak merasa perlu untuk menjelaskan pilihannya sendiri. Bahkan, untuk menghindari beban tambahan bagi **Rover**, dia menyembunyikan beberapa kebenaran darinya. Di **Stellar Matrix**, dia belum sepenuhnya kehilangan semua ingatan tentang masa lalunya.
 
 Ya, masa lalunya…\
-**Camellya** menyipitkan mata, sebuah dengungan lembut keluar dari bibirnya saat dia merenung tentang langkah selanjutnya. Dia ingin menyelidikinya lebih lanjut sendiri, menunggu waktu yang tepat untuk berbagi apa yang dia ketahui dengan **{PlayerName}**. Dia memiliki sedikit kepercayaan pada organisasi yang dibangun di pantai ini, dan lebih sedikit lagi pada **Tethys System**. Selain **{PlayerName}**, dia memiliki sedikit kepercayaan pada orang lain.
+**Camellya** menyipitkan mata, sebuah dengungan lembut keluar dari bibirnya saat dia merenung tentang langkah selanjutnya. Dia ingin menyelidikinya lebih lanjut sendiri, menunggu waktu yang tepat untuk berbagi apa yang dia ketahui dengan **Rover**. Dia memiliki sedikit kepercayaan pada organisasi yang dibangun di pantai ini, dan lebih sedikit lagi pada **Tethys System**. Selain **Rover**, dia memiliki sedikit kepercayaan pada orang lain.
 
 Dulu,\
-sebagai **Lady Flora**, dia menghindari keterikatan, enggan melihat **{PlayerName}** mengorbankan **{Male=himself;Female=herself}** demi kebaikan yang lebih besar. Tetapi kini pandangannya telah berubah. Dia merasa bahwa dia sangat berbeda dari **Lady Flora** yang dulu.
+sebagai **Lady Flora**, dia menghindari keterikatan, enggan melihat **Rover** mengorban dirinya demi kebaikan yang lebih besar. Tetapi kini pandangannya telah berubah. Dia merasa bahwa dia sangat berbeda dari **Lady Flora** yang dulu.
 
-Dia telah mengikuti perjalanan **{PlayerName}** dari **Jinzhou** hingga sekarang.
+Dia telah mengikuti perjalanan **Rover** dari **Jinzhou** hingga sekarang.
 
 Sebuah kekuatan tunggal, yang selalu bergerak maju, mengumpulkan berbagai macam teman di sepanjang jalan.
 
 Dia mengerti bahwa ini masih bukan jalannya, namun dia tidak lagi menentang untuk mengamatinya. Seperti satu batu yang bertemu dengan batu lainnya, mengirimkan riak di permukaan air, dia menerima gagasan untuk menjadi "variabel" dalam tarian ini. 
 
-Kini, kebahagiaan yang dia rasakan dari hubungan mereka begitu mendalam. Dia tidak merasakan kebosanan biasa yang menyusup, dan dia tidak ingin menghapus pikiran tentang mereka. Sebaliknya, pikirannya sering kali mengarah pada **{Male=him;Female=her}**, merindukan untuk mengetahui lebih banyak tentang petualangan **{Male=his;Female=her}** dan berbagi lebih banyak permainan yang menyenangkan. 
+Kini, kebahagiaan yang dia rasakan dari hubungan mereka begitu mendalam. Dia tidak merasakan kebosanan biasa yang menyusup, dan dia tidak ingin menghapus pikiran tentang mereka. Sebaliknya, pikirannya sering kali mengarah padanya, merindukan untuk mengetahui lebih banyak tentang petualangannya dan berbagi lebih banyak permainan yang menyenangkan. 
 
 Saat itu, **Camellya** menyadari bahwa pikiran-pikiran ini sudah meninggalkan jejak yang menyakitkan namun menyenankan di jiwanya, jauh sebelum dia menyadarinya.
 
-Merasa terinspirasi, dia mengaktifkan **Terminal**-nya dan menulis pesan singkat untuk **{PlayerName}**, yang akan dikirim tepat sebelum keberangkatan **{Male=his;Female=her}**. Gelang itu memungkinkannya untuk memeriksa keadaan **{Male=him;Female=her}** kapan saja, jadi tidak ada yang perlu dikhawatirkan. Meskipun **Solaris** sangat luas, dia percaya bahwa jika mereka adalah benang dalam cerita yang sama, jalan mereka pasti akan bertemu lagi.
+Merasa terinspirasi, dia mengaktifkan **Terminal**-nya dan menulis pesan singkat untuk **Rover**, yang akan dikirim tepat sebelum keberangkatannya. Gelang itu memungkinkannya untuk memeriksa keadaannya kapan saja, jadi tidak ada yang perlu dikhawatirkan. Meskipun **Solaris** sangat luas, dia percaya bahwa jika mereka adalah benang dalam cerita yang sama, jalan mereka pasti akan bertemu lagi.
 
-Pada saat di mana **{PlayerName}** tidak tahu apa-apa, saat itulah dia akan mengejutkan **{Male=him;Female=her}**!
+Pada saat di mana **Rover** tidak tahu apa-apa, saat itulah dia akan mengejutkannya!
 
 Saat dia membayangkan momen yang menyenangkan itu, sebuah melodi keluar dari bibirnya. Sulur-sulur melilit lengannya, naik ke atas, saat kuncup-kuncup kecil mulai mekar di ujungnya.
 
 Tiba-tiba, sebuah pemikiran muncul.
 
-> "Aku akan memberi **{Male=him;Female=her}** sebuah bunga."
+> "Aku akan memberinya sebuah bunga."
 
-Saat ide ini meresap dalam pikirannya, itu sepenuhnya menguasainya. Dia harus segera menemui **{PlayerName}**—sekarang! Bunga itu, yang lahir dari dirinya, tidak akan layu atau membusuk kecuali dia mati. Dia terkejut dengan kegembiraannya sendiri dan merasakan secercah kesedihan. Saat dia merenung, sebuah rasa sakit yang tumpul menginterupsi pikirannya.
+Saat ide ini meresap dalam pikirannya, itu sepenuhnya menguasainya. Dia harus segera menemui **Rover** —sekarang! Bunga itu, yang lahir dari dirinya, tidak akan layu atau membusuk kecuali dia mati. Dia terkejut dengan kegembiraannya sendiri dan merasakan secercah kesedihan. Saat dia merenung, sebuah rasa sakit yang tumpul menginterupsi pikirannya.
 
-Dengan sebuah desahan, dia memilih untuk tidak terlalu memikirkannya. Karena... Ya! Sebuah senyuman menyapu bibirnya saat dia memutuskan untuk menjaga bunga itu tetap mekar untuk **{PlayerName}**. Dia akan berusaha semampunya untuk tidak mati terlalu cepat.
+Dengan sebuah desahan, dia memilih untuk tidak terlalu memikirkannya. Karena... Ya! Sebuah senyuman menyapu bibirnya saat dia memutuskan untuk menjaga bunga itu tetap mekar untuk **Rover**. Dia akan berusaha semampunya untuk tidak mati terlalu cepat.
 
-**Camellya** melompat dari puncak pohon, dengan penuh kegembiraan menuju **{PlayerName}**, biji takdir yang dia cintai.
+**Camellya** melompat dari puncak pohon, dengan penuh kegembiraan menuju **Rover**, biji takdir yang dia cintai.
 
 ### <mark style="color:blue;">Labyrinth</mark>
 
@@ -187,29 +187,29 @@ Dia bukanlah jenis tanaman yang bisa tahan terhadap dingin.
 
 > "Ke mana pemimpin pergi?" 
 
-tanyanya setelah meneguk beberapa teguk air, lalu menoleh ke **Bloom Bearer** yang duduk di kursi depan. "Aku tidak melihat {Male=dia;Female=dia}."
+tanyanya setelah meneguk beberapa teguk air, lalu menoleh ke **Bloom Bearer** yang duduk di kursi depan. "Aku tidak melihat dia."
 
-> "Pemimpin? {Male=Dia;Female=Dia} pergi ke barat. {Male=Dia;Female=Dia} bilang ada sesuatu yang menarik yang muncul dan ingin melihatnya."
+> "Pemimpin? dia pergi ke barat. Dia bilang ada sesuatu yang menarik yang muncul dan ingin melihatnya."
 
-> "Kenapa {Male=dia;Female=dia} tidak mengajakku? Bukankah aku pengawalnya?" 
+> "Kenapa dia tidak mengajakku? Bukankah aku pengawalnya?" 
 
 keluhnya pelan.
 
 **Bloom Bearer** di depannya tertawa ringan sambil mengemudi, sesekali melirik sup yang mengepul. 
 
-> "Kamu tidur! Kamu sudah tidak tidur dengan baik selama perjalanan, selalu menggigil di tengah dingin. {Male=Dia;Female=Dia} tidak ingin membangunkanmu saat akhirnya kamu bisa tidur dengan nyenyak."
+> "Kamu tidur! Kamu sudah tidak tidur dengan baik selama perjalanan, selalu menggigil di tengah dingin. Dia tidak ingin membangunkanmu saat akhirnya kamu bisa tidur dengan nyenyak."
 
 Murum dengan pelan, **Lady Flora** mendengus dan membuka pintu. 
 
-> "Bagaimanapun, aku akan menemui {Male=dia;Female=dia} sekarang!"
+> "Bagaimanapun, aku akan menemuinya sekarang!"
 
 **Bloom Bearer** melambaikan tangan, jelas sudah terbiasa dengan dinamika antara **Lady Flora** dan pemimpin mereka.
 
 Meninggalkan kehangatan kendaraan, **Lady Flora** menyeret kakinya menyeberangi hamparan salju, kenangan tentang pertemuan pertama mereka di **Petalfall Village** kembali memenuhi benaknya. Dia sudah tahu bahwa mereka akan datang ke dataran salju ini untuk misi ini, dan meskipun dia tidak menyukai dingin, dia tahu waktu yang dihabiskan bersama pemimpin **Black Shores** akan sebanding. 
 
-Kebanyakan waktu, dia lebih memilih menemani {PlayerName} dalam berbagai tugas, meninggalkan jejak kakinya di sepanjang **Solaris**, dari kota yang ramai hingga lorong-lorong tersembunyi, tempat-tempat aman hingga tanah yang berbahaya.
+Kebanyakan waktu, dia lebih memilih menemani **Rover**  dalam berbagai tugas, meninggalkan jejak kakinya di sepanjang **Solaris**, dari kota yang ramai hingga lorong-lorong tersembunyi, tempat-tempat aman hingga tanah yang berbahaya.
 
-**Lady Flora** menikmati eksistensi ini, dipenuhi dengan kegembiraan dari yang tak diketahui, dan {PlayerName} memiliki bakat luar biasa untuk mengubah yang biasa menjadi sesuatu yang luar biasa.
+**Lady Flora** menikmati eksistensi ini, dipenuhi dengan kegembiraan dari yang tak diketahui, dan **Rover** memiliki bakat luar biasa untuk mengubah yang biasa menjadi sesuatu yang luar biasa.
 
 Dia tidak keberatan dengan ancaman bahaya. Bahkan, dia lebih menikmatinya. Baginya, bahaya berarti perubahan, dan perubahan mengarah pada kegembiraan. Namun, dia mendapati, dengan pemimpinnya di sisinya, dia menahan dorongan untuk mencari masalah hanya demi kesenangan.
 
@@ -221,17 +221,17 @@ Bahaya...
 
 pikirnya. 
 
-> "Jika aku mulai kehilangan kendali, {Male=dia;Female=dia} harus menjaga diriku. Itu akan mengganggu seluruh misi."
+> "Jika aku mulai kehilangan kendali, Dia harus menjaga diriku. Itu akan mengganggu seluruh misi."
 
 Dia benci kehilangan kendali.
 
-Dalam beberapa tahun terakhir, **Lady Flora** dihantui oleh mimpi-mimpi aneh dan terpecah-pecah. Mereka terasa seperti kenangan dari kehidupan yang belum pernah dia jalani. Dalam mimpi-mimpi itu, dia selalu mencari {PlayerName}, tetapi keduanya tidak pernah bertemu. Setiap kali dia terjaga, kegelisahan menyelimuti dirinya, kekacauan mental itu meresap ke dalam dirinya. Dia sering kali terpaksa melapor ke fasilitas medis **Black Shores**.
+Dalam beberapa tahun terakhir, **Lady Flora** dihantui oleh mimpi-mimpi aneh dan terpecah-pecah. Mereka terasa seperti kenangan dari kehidupan yang belum pernah dia jalani. Dalam mimpi-mimpi itu, dia selalu mencari **Rover**, tetapi keduanya tidak pernah bertemu. Setiap kali dia terjaga, kegelisahan menyelimuti dirinya, kekacauan mental itu meresap ke dalam dirinya. Dia sering kali terpaksa melapor ke fasilitas medis **Black Shores**.
 
 Pikiran itu merusak suasana hatinya.
 
-Dia perlu menemukan {Male=dia;Female=dia} secepatnya.
+Dia perlu menemukan **Rover** secepatnya.
 
-Menepis pikiran-pikiran kusut itu, dia fokus untuk menemukan frekuensi {PlayerName}. Setelah menyeberangi dua bukit dan danau beku, akhirnya dia melihat sosok kabur di kejauhan.
+Menepis pikiran-pikiran kusut itu, dia fokus untuk menemukan frekuensi **Rover**. Setelah menyeberangi dua bukit dan danau beku, akhirnya dia melihat sosok kabur di kejauhan.
 
 > "**Camellya**, bagaimana tidurmu?"
 
@@ -254,11 +254,11 @@ Setelah berjuang untuk mengambil beberapa langkah tertatih, dia terjatuh ke tepi
 
 Berapa kali ini terjadi? Dia menatap kosong langit malam yang gelap di atasnya.
 
-Kosongnya kekacauan berputar di dalam dirinya, namun ada satu hal yang terlihat jelas: **{PlayerName}**.
+Kosongnya kekacauan berputar di dalam dirinya, namun ada satu hal yang terlihat jelas: **Rover**.
 
 Sekarang dia ingat semuanya.
 
-Siapa dirinya, siapa **{PlayerName}**, alasan keberadaannya, **Solaris**, dan **Lament**...
+Siapa dirinya, siapa **Rover**, alasan keberadaannya, **Solaris**, dan **Lament**...
 
 Sebelum kegilaan **Overclocking** menelan dirinya, kenangan-kenangan itu selalu terkubur dalam-dalam, terkunci di kedalaman jiwanya. Setiap kali dia terbangun, dia kehilangan ingatan, hanya meninggalkan kekosongan yang menyakitkan. Seiring berjalannya waktu dan tubuhnya melemah di bawah beban **Overclocking**, sekilas tentang misinya dan akarnya akan muncul, hanya untuk menghilang lagi dalam siklus tanpa akhir.
 
@@ -268,11 +268,11 @@ Peradaban runtuh menjadi debu, hanya untuk bangkit kembali; kehidupan memudar, h
 
 Dia adalah saksi pasang surut **Solaris**, namun tetap selamanya menjadi pengembara dalam pikirannya sendiri.
 
-> "**{PlayerName}**..." 
+> "**Rover**..." 
 
 Nama itu terlepas dari bibirnya seperti doa.
 
-Mereka tidak pernah benar-benar bertemu atau saling bertukar kata, dan sekarang, dengan ingatannya yang memudar, dia bahkan tidak bisa mengatakan apakah mereka teman atau musuh. Namun entah bagaimana, ketika dia terbangun berikutnya, dia tahu nalurinya akan membawanya untuk mencari **{Male=dia;Female=dia}**. Itu bukanlah kerinduan lembut. Itu lebih terasa seperti beratnya rantai yang berat, yang tidak bisa ditolak oleh **Lady Flora**.
+Mereka tidak pernah benar-benar bertemu atau saling bertukar kata, dan sekarang, dengan ingatannya yang memudar, dia bahkan tidak bisa mengatakan apakah mereka teman atau musuh. Namun entah bagaimana, ketika dia terbangun berikutnya, dia tahu nalurinya akan membawanya untuk mencarinya. Itu bukanlah kerinduan lembut. Itu lebih terasa seperti beratnya rantai yang berat, yang tidak bisa ditolak oleh **Lady Flora**.
 
 Namun dia tidak merasakan kebencian terhadap rantai itu.
 
@@ -280,9 +280,9 @@ Gemerisik daun menghancurkan lamunannya. Dengan lelah, dia berkedip, dan bunga k
 
 Sejujurnya, selain nalurinya, tidak ada lagi yang bisa dipegang olehnya.
 
-> "Suatu saat nanti, jika hanya aku bisa benar-benar mengenal **{PlayerName}** dan berbicara dengannya."
+> "Suatu saat nanti, jika hanya aku bisa benar-benar mengenal **Rover** dan berbicara dengannya."
 
-**Lady Flora** termenung dengan samar. Mungkin **Tethys System** akan membawa **{PlayerName}** padanya, karena dia telah mengungkapkan dirinya dalam misi ini.
+**Lady Flora** termenung dengan samar. Mungkin **Tethys System** akan membawa **Rover** padanya, karena dia telah mengungkapkan dirinya dalam misi ini.
 
 **Lady Flora** menutup matanya dan menyerah pada kegelapan saat rasa sakit mencapai puncaknya.
 
@@ -296,13 +296,13 @@ Dia terbangun dari mimpinya.
 
 Angin mengerang dengan keras di tepi atap saat dia meregangkan tubuh, menyipitkan mata menatap jalanan yang ramai di bawah. Kendaraan-kendaraan saling bersilangan di jalan, lampu rem mereka membentuk rantai api yang semarak. Menyandarkan dagunya di tangan, dia mulai mendendangkan lagu.
 
-Lagu yang dia pelajari dari **{PlayerName}**.
+Lagu yang dia pelajari dari **Rover**.
 
-Tentu saja, dia tidak mendengarnya langsung dari **{PlayerName}** **{Male=dirinya;Female=diri}**, dia mempelajarinya secara diam-diam.
+Tentu saja, dia tidak mendengarnya langsung dari **Rover**, dia mempelajarinya secara diam-diam.
 
-Mereka mungkin bukan musuh, tapi hubungan mereka jauh dari kata bersahabat—setidaknya, itu adalah kenalan sepihak. Kehadiran **{PlayerName}** menarik perhatian berbagai pihak, termasuk organisasi tempat dia berada. Namun, itu tidak banyak mengganggunya, dan bukan pula sesuatu yang bisa dia pikirkan.
+Mereka mungkin bukan musuh, tapi hubungan mereka jauh dari kata bersahabat—setidaknya, itu adalah kenalan sepihak. Kehadiran **Rover** menarik perhatian berbagai pihak, termasuk organisasi tempat dia berada. Namun, itu tidak banyak mengganggunya, dan bukan pula sesuatu yang bisa dia pikirkan.
 
-Dia hanyalah "**benih terpilih**," sebuah "**bunga**" yang mekar dengan satu tujuan untuk memburu **{PlayerName}**. Sebagian besar hari, suntikan yang diberikan membuatnya berada dalam kabut, melayang dalam kesadaran yang setengah mati, dengan hanya hasrat naluriah untuk seseorang yang terpatri dalam hatinya.
+Dia hanyalah "**benih terpilih**," sebuah "**bunga**" yang mekar dengan satu tujuan untuk memburu **Rover**. Sebagian besar hari, suntikan yang diberikan membuatnya berada dalam kabut, melayang dalam kesadaran yang setengah mati, dengan hanya hasrat naluriah untuk seseorang yang terpatri dalam hatinya.
 
 Zat yang diberikan padanya memiliki bau tajam dan asam, menyeret akalnya ke dalam kubangan, merampas kejernihan dan jati diri.
 
@@ -310,22 +310,22 @@ Pikirannya berputar dengan kacau, seperti bom yang hampir meledak, dipaksa untuk
 
 Namun dia tidak peduli.
 
-Di luar **{PlayerName}**, hampir tidak ada yang menarik perhatiannya. Terkadang, **{Male=dia;Female=dia}** merasa seperti bayangan di atas kanvas kosong, sekadar gambaran seorang asing. Potret itu digambar dari potongan-potongan informasi yang dia kumpulkan dengan susah payah—mereka begitu dekat, namun tidak pernah benar-benar bertemu. Dia tidak tahu seperti apa rupa **{Male=dia;Female=dia}**.
+Di luar **Rover**, hampir tidak ada yang menarik perhatiannya. Terkadang, Dia merasa seperti bayangan di atas kanvas kosong, sekadar gambaran seorang asing. Potret itu digambar dari potongan-potongan informasi yang dia kumpulkan dengan susah payah—mereka begitu dekat, namun tidak pernah benar-benar bertemu. Dia tidak tahu seperti apa rupa dirinya.
 
 Katanya, jarak ini diperlukan untuk menghindari pelacakan **Tethys System**. Kontak dilarang.
 
-Tapi betapa dia merindukan untuk bertemu dengan **{PlayerName}**!
+Tapi betapa dia merindukan untuk bertemu dengan **Rover**!
 
 Duduk di tepi bangunan dengan bahaya mengintai, dia tertawa membayangkan fantasi itu. Sulur-sulur tanaman melilit lengannya, merambat lebih tinggi, dengan kuncup-kuncup lembut yang perlahan membuka di ujung-ujungnya.
 
 Tiba-tiba, sebuah pikiran terlintas di benaknya.
 
-> "Aku akan memberikan **{Male=dia;Female=dia}** sebuah bunga."
+> "Aku akan memberikan dia sebuah bunga."
 
-Begitu pikiran itu muncul, ia menguasainya sepenuhnya. Dia membayangkan saat dia akan menemukan **{PlayerName}** dan memberikan hadiah ini—sebuah bunga yang tumbuh dari dirinya sendiri. Bunga itu tidak akan layu atau busuk kecuali dia mati. Namun, seperti kilat, pikiran itu lenyap ke dalam kekacauan pikirannya, meninggalkan tidak ada jejak.
+Begitu pikiran itu muncul, ia menguasainya sepenuhnya. Dia membayangkan saat dia akan menemukan **Rover** dan memberikan hadiah ini—sebuah bunga yang tumbuh dari dirinya sendiri. Bunga itu tidak akan layu atau busuk kecuali dia mati. Namun, seperti kilat, pikiran itu lenyap ke dalam kekacauan pikirannya, meninggalkan tidak ada jejak.
 
-Sedikit yang dia tahu, berabad-abad kemudian, pemandangan di depannya akan lenyap dalam **Lament**. Dia akan terombang-ambing tanpa henti melalui labirin kenangan hingga suatu pagi musim gugur, di tepi danau **Petalfall Village**, di mana dia akhirnya akan bertemu dengan **{PlayerName}**, di sana untuk menyelamatkan desa dari serangan **Tacet Discord**. Dari sana, dia akan bergabung dengan **Black Shores** dan menghabiskan beberapa ratus tahun bersama sebelum **{Male=dia;Female=dia}** akhirnya meninggalkannya. 
+Sedikit yang dia tahu, berabad-abad kemudian, pemandangan di depannya akan lenyap dalam **Lament**. Dia akan terombang-ambing tanpa henti melalui labirin kenangan hingga suatu pagi musim gugur, di tepi danau **Petalfall Village**, di mana dia akhirnya akan bertemu dengan **Rover**, di sana untuk menyelamatkan desa dari serangan **Tacet Discord**. Dari sana, dia akan bergabung dengan **Black Shores** dan menghabiskan beberapa ratus tahun bersama sebelum dia akhirnya meninggalkannya. 
 
 Dia juga akan meninggalkan **Black Shores**, hanya untuk dipertemukan kembali beberapa dekade kemudian di **Jinzhou**. Semua masa depan itu belum terungkap, seperti halnya kemungkinan yang terlelap di dalam benih, menunggu takdir untuk mekar.
 
-Dia melompat dari bangunan itu, sulurnya menenun melalui struktur-struktur kota, mencari **{Male=dia;Female=dia}**.
+Dia melompat dari bangunan itu, sulurnya menenun melalui struktur-struktur kota, mencarinya.
