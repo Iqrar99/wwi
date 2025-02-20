@@ -34,7 +34,7 @@ layout:
 
 ### <mark style="color:blue;">Resonance Evaluation Report</mark>
 
-Dasar Evaluasi: \[**Resonance Assessment **2190-G**]
+Dasar Evaluasi: \[**Resonance Assessment 2190-G**]
 
 Resonator **Baizhi** mengalami **Awakening** empat tahun lalu, setelah terpapar sumber **Energi Remnant** yang kuat satu tahun sebelumnya. Paparan ini mengaktifkan frekuensi **Remnant** yang bersesuaian dalam dirinya. Berdasarkan kesaksiannya, **Baizhi** merasakan dorongan kuat untuk menghidupkan kembali seorang rekan tim selama **Awakening**-nya. Akibatnya, frekuensi tersebut termanifestasi dalam bentuk **Makhluk Remnant**, yang kini menjadi pendampingnya.
 

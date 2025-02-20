@@ -83,11 +83,11 @@ Pada saat itu, dia akhirnya hanyalah <strong>Brant</strong>.</td></tr><tr><td al
 
 **Brant** masih ingat penampilan pertama yang disaksikannya di atas Fool's Sail.  Kapten, tanpa gentar menghadapi gelombang yang menerjang, memimpin krunya melalui Stygian Fjords dan menempatkan topi segitiga di kepala bocah yang bersemangat itu.  Kapten, dengan kedipan nakal, memanggilnya, 
 
-"Kapten **Brant**."
+> "Kapten **Brant**."
 
 Bertahun-tahun kemudian, **Brant** juga ingat penampilan pertamanya sendiri.  Berdiri tinggi di tiang kapal, dia meneriakkan perintah untuk mengangkat layar dan mengarahkan kapal menjauhi pusaran air yang mengancam untuk menelan mereka seluruhnya.  Pada saat itu, salah satu kru dengan hormat menempatkan topi segitiga yang sama di kepalanya.  Sorak-sorai meletus saat seluruh kru berteriak serempak, 
 
-"Kapten **Brant**! Kapten **Brant**!"</td></tr></tbody></table>
+> "Kapten **Brant**! Kapten **Brant**!"</td></tr></tbody></table>
 
 ## :scroll: Story
 
