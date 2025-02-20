@@ -34,7 +34,7 @@ layout:
 
 ### <mark style="color:blue;">Resonance Evaluation Report</mark>
 
-\[Catatan Arsip yang Diambil - A.A1001] \
+\[**Catatan Arsip yang Diambil - A.A1001**] \
 Subjek: Instansi Kedua / Second Instance\
 Perekam: ▇▇▇▇ \
 Segmen Rekaman: A.A-000
@@ -75,15 +75,15 @@ Setelah dentuman drum, kami menyebut hati yang menari dalam kegelapan sebagai bu
 
 Beberapa kehidupan lahir karena kebetulan. Lainnya diciptakan dengan niat.
 
-Saat dunia mendekati akhirnya yang membeku, mereka yang ditakdirkan menghadapi momen terakhir meletakkan harapan mereka pada seorang individu tertentu. Mereka memberkati {Male=dia;Female=dia}, berharap {Male=dia;Female=dia} akan membawa mereka menuju hari esok yang lebih cerah. Namun perjalanan yang sepi ini membutuhkan sebuah wadah yang tak terikat waktu untuk menyelesaikan **Reverberations**, dan yang terbaik yang bisa mereka tawarkan adalah sebuah alat yang tahan lama. Maka lahirlah **Shorekeeper**—sebuah ciptaan yang disengaja, sebuah kepompong kristal biru muda dari **Remnant Energy** yang dikumpulkan dari **Anchor**.
+Saat dunia mendekati akhirnya yang membeku, mereka yang ditakdirkan menghadapi momen terakhir meletakkan harapan mereka pada seorang individu tertentu. Mereka memberkatinya, berharap dia akan membawa mereka menuju hari esok yang lebih cerah. Namun perjalanan yang sepi ini membutuhkan sebuah wadah yang tak terikat waktu untuk menyelesaikan **Reverberations**, dan yang terbaik yang bisa mereka tawarkan adalah sebuah alat yang tahan lama. Maka lahirlah **Shorekeeper**—sebuah ciptaan yang disengaja, sebuah kepompong kristal biru muda dari **Remnant Energy** yang dikumpulkan dari **Anchor**.
 
 **Shorekeeper** tahu apa yang perlu dilakukan jauh sebelum dia memahami bagaimana caranya. Namun sebuah alat membutuhkan panduan. Dia menunggu tanpa tujuan di kehampaan hingga, saat lautan mendekati tepian, dia merasakan detak jantung mendekat melalui angin laut yang asin.
 
-Dalam keheningan malam, **Astral Modulator** mengamati tanah saat teriakan **Lament** memudar ke kejauhan, meninggalkan hanya {Male=detak jantungnya;Female=detak jantungnya} yang stabil.
+Dalam keheningan malam, **Astral Modulator** mengamati tanah saat teriakan **Lament** memudar ke kejauhan, meninggalkan hanya detak jantungnya yang stabil.
 
 > “Mungkin bawah tanah membutuhkan langit secemerlang yang ada di atas…”&#x20;
 
-gumam **Modulator**, merencanakan masa depan. Saat {Male=dia;Female=dia} mengulurkan tangan untuk mengaktifkan **Tethys System**, sebuah daya tarik misterius dari kristal biru memanggil {Male=dia;Female=dia} lebih dekat. Pertemuan frekuensi mereka memicu resonansi yang memecah kristal itu, melepaskan lonjakan energi yang meletus seperti nebula atau kupu-kupu yang keluar dari kepompongnya.
+gumam **Modulator**, merencanakan masa depan. Saat dia mengulurkan tangan untuk mengaktifkan **Tethys System**, sebuah daya tarik misterius dari kristal biru memanggilnya lebih dekat. Pertemuan frekuensi mereka memicu resonansi yang memecah kristal itu, melepaskan lonjakan energi yang meletus seperti nebula atau kupu-kupu yang keluar dari kepompongnya.
 
 Energi itu berputar dan berkumpul, membentuk sosok seorang wanita muda, yang menyapa orang yang telah membangunkannya.
 
@@ -122,7 +122,7 @@ Namun seperti yang diprediksi **Tethys**, pertanda segera menjadi kenyataan, men
 
 Orang-orang yang sebelumnya ramah jatuh ke dalam keputusasaan—berkelahi memperebutkan sumber daya, menangis dalam kesengsaraan, wajah mereka terpelintir dengan keputusasaan dan ketakutan. Untuk pertama kalinya, **Shorekeeper** menyaksikan **Lament** sendiri, bukan melalui **Sonoros**, tetapi dalam kenyataan yang mentah dan luar biasa.
 
-Yang lebih mengejutkan baginya adalah **Modulator**. {Male=Dia;Female=Dia} memimpin semua Resonator dalam melawan **Tacet Discords**, mendorong semua orang untuk bertahan sampai bala bantuan datang. {Male=Dia;Female=Dia} mencoba mengubah masa depan yang sudah ditentukan, tapi mengapa melakukan begitu banyak untuk sekelompok orang asing? \
+Yang lebih mengejutkan baginya adalah **Modulator**. Dia memimpin semua Resonator dalam melawan **Tacet Discords**, mendorong semua orang untuk bertahan sampai bala bantuan datang. Dia mencoba mengubah masa depan yang sudah ditentukan, tapi mengapa melakukan begitu banyak untuk sekelompok orang asing? \
 **Shorekeeper** teringat instruksi dari **Tethys System**:
 
 > “**Masa depan yang telah diubah ditakdirkan untuk diubah. Berusaha mengubah hasil yang telah ditentukan harus dihindari.**”

@@ -16,7 +16,7 @@ layout:
 
 
 
-<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1107.png" alt="" width="375"><figcaption><p>Putri kedua keluarga Montelli dan seorang investor seni  yang tak terikat oleh norma, Carlotta bergerak dengan anggun di antara lingkaran sosial dan transaksi bisnis, sembari diam-diam menangani masalah keluarga yang tak bisa diungkapkan.</p></figcaption></figure></div>
+<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1107.png" alt="" width="375"><figcaption><p>Putri kedua keluarga <strong>Montelli</strong> dan seorang investor seni  yang tak terikat oleh norma, <strong>Carlotta</strong> bergerak dengan anggun di antara lingkaran sosial dan transaksi bisnis, sembari diam-diam menangani masalah keluarga yang tak bisa diungkapkan.</p></figcaption></figure></div>
 
 ## :mag: Informasi
 
@@ -34,15 +34,15 @@ layout:
 
 ### <mark style="color:blue;">Resonance Evaluation Report</mark>
 
-\[Dikutip dari Catatan Internal Keluarga Montelli - Access Shared]
+[ Dikutip dari **Catatan Internal Keluarga Montelli - Access Shared** ]
 
 **Codename: Opal**
 
-Resonance Awakening anggota ini terjadi lebih dari **sepuluh tahun** yang lalu, dan ia memiliki kontrol yang sangat baik atas **Forte**-nya.
+**Resonance Awakening** anggota ini terjadi lebih dari **sepuluh tahun** yang lalu, dan ia memiliki kontrol yang sangat baik atas **Forte**-nya.
 
 **Tacet Mark**-nya terletak di area punggung bawah, dan tidak ditemukan perubahan fisik signifikan setelah Awakening. Dia mampu menciptakan kristal bercahaya tanpa batas yang menyerupai **opal**, yang dapat dikonstruksi ulang menjadi senjata api dan amunisi sesuai kebutuhan. Saat menggunakan **Forte**, rambutnya juga menampilkan efek kristalisasi. Musuh yang terkena kristal ini juga akan mengalami kristalisasi.
 
-Yang menarik, beberapa orang pernah mencoba mengambil keuntungan dengan mengoleksi "permata" ini, tetapi mereka mendapati bahwa kristal tersebut tidak bisa dijual atau diperdagangkan. Secara tampilan memang menyerupai batu permata berharga, tetapi pada dasarnya, kristal ini adalah suatu medium yang memicu rekonstruksi struktur, yang dapat menyebabkan frekuensi target yang terkena runtuh dan terurai hingga lenyap sepenuhnya.
+Yang menarik, beberapa orang pernah mencoba mengambil keuntungan dengan mengoleksi "**permata**" ini, tetapi mereka mendapati bahwa kristal tersebut tidak bisa dijual atau diperdagangkan. Secara tampilan memang menyerupai batu permata berharga, tetapi pada dasarnya, kristal ini adalah suatu medium yang memicu rekonstruksi struktur, yang dapat menyebabkan frekuensi target yang terkena runtuh dan terurai hingga lenyap sepenuhnya.
 
 Pola **Resonance Spectrum** yang dimilikinya menunjukkan kemiripan dengan dekorasi kaca patri dan bentuk alami kepingan salju. Diperkirakan bahwa hal ini berkaitan dengan perilaku proaktifnya dalam menentang tradisi serta penggunaan dekorasi sebagai senjata saat **Forte**-nya pertama kali bangkit.
 
@@ -50,7 +50,7 @@ Analisis sampel uji menunjukkan **non-convergent Rabelle’s Curve**, sehingga a
 
 ### <mark style="color:blue;">Overclock Diagnostic Report</mark>
 
-\[Dikutip dari Catatan Internal Keluarga Montelli - Access Shared]
+[ Dikutip dari **Catatan Internal Keluarga Montelli - Access Shared** ]
 
 **Codename: Opal**
 
@@ -60,11 +60,11 @@ Grafik gelombang anggota ini menunjukkan fluktuasi elips. Pola **Time Domain** t
 * Tidak ada riwayat **Overclocking** dalam catatan.
 * Tidak diperlukan sesi konseling psikologis saat ini.
 
-Sungguh elegan! Lady Carlo... eh, maksudku, anggota ini selalu tampil elegan, sempurna—bahkan dalam tes ini... Elegan sekali!
+> Sungguh elegan! Lady **Carlo**... eh, maksudku, anggota ini selalu tampil elegan, sempurna—bahkan dalam tes ini... Elegan sekali!
 
 ## :package: Cherished Items
 
-<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Art's Return</td><td><img src="https://wuthering.wiki/img/T_Treasure82_UI.png" alt=""></td><td><p>Ini bukan sekadar kolase dari berbagai material yang berbeda, melainkan interpretasi dari inspirasi dan konsep ideal konstruktivisme. Sang kreator memulai kariernya dengan inovasi yang mencolok, tetapi tetap tidak dihargai. Namun, <strong>Carlotta</strong> melihat potensi dalam "permata tersembunyi" ini, menggambarkan karyanya sebagai "kesan akan sesuatu yang berbeda dengan sentuhan puisi yang menghantui."</p><p>Kini, seniman instalasi terkenal di <strong>Ragunna</strong> ini menciptakan karya luar biasa ini sebagai tanda terima kasih khusus untuk <strong>Carlotta</strong>, atas dukungan serta kepercayaannya yang tak tergoyahkan.</p></td></tr><tr><td align="center">Executor's Case</td><td><img src="https://wuthering.wiki/img/T_Treasure83_UI.png" alt=""></td><td><p>Sebuah case elegan dengan ukiran permata yang rumit, sempurna untuk acara formal. Ada pepatah yang mengatakan bahwa tas seorang wanita adalah tempat rahasia disimpan—dan itu benar bagi <strong>Carlotta</strong>.</p><p>Botol parfum? Sebenarnya itu <strong>granat</strong> yang tersamar.<br>Kacamata? Alat khusus yang menampilkan lokasi serta hasil pencarian secara real-time.</p><p>Di balik keindahannya, benda-benda ini adalah sekutu paling andal bagi <strong>Carlotta</strong> dalam setiap misinya.</p><p>Dalam keindahan, mereka menghiasi; dalam kematian, mereka menghancurkan—benar-benar mencerminkan pemiliknya.</p></td></tr><tr><td align="center">Family's Creed</td><td><img src="https://wuthering.wiki/img/T_Treasure84_UI.png" alt=""></td><td><p>Sepasang sarung tangan hitam, dengan kilauan seperti malam, dihiasi permata yang memiliki nama yang sama dengan pemiliknya—<strong>Opal</strong>.</p><p>Di dalam keluarga, ada banyak aturan tak tertulis, hal-hal yang tidak perlu diucapkan secara langsung. Salah satu aturan tersebut adalah: mereka yang mengenakan sarung tangan hitam harus menyelesaikan <strong>"masalah"</strong> dengan diam-diam demi kepentingan keluarga.</p><p>Namun, ini bukan soal kompromi, melainkan pilihan <strong>Carlotta</strong> sendiri. Keluarga telah membawanya melihat dunia yang lebih luas, dan kini dia akan membawa mereka ke dunia yang lebih besar lagi—baik atas nama <strong>Montelli</strong> yang sejati maupun atas namanya sendiri.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Art's Return</td><td><img src="https://wuthering.wiki/img/T_Treasure82_UI.png" alt=""></td><td><p>Ini bukan sekadar kolase dari berbagai material yang berbeda, melainkan interpretasi dari inspirasi dan konsep ideal konstruktivisme. Sang kreator memulai kariernya dengan inovasi yang mencolok, tetapi tetap tidak dihargai. Namun, <strong>Carlotta</strong> melihat potensi dalam "<strong>permata tersembunyi</strong>" ini, menggambarkan karyanya sebagai "kesan akan sesuatu yang berbeda dengan sentuhan puisi yang menghantui."</p><p>Kini, seniman instalasi terkenal di <strong>Ragunna</strong> ini menciptakan karya luar biasa ini sebagai tanda terima kasih khusus untuk <strong>Carlotta</strong>, atas dukungan serta kepercayaannya yang tak tergoyahkan.</p></td></tr><tr><td align="center">Executor's Case</td><td><img src="https://wuthering.wiki/img/T_Treasure83_UI.png" alt=""></td><td><p>Sebuah case elegan dengan ukiran permata yang rumit, sempurna untuk acara formal. Ada pepatah yang mengatakan bahwa tas seorang wanita adalah tempat rahasia disimpan—dan itu benar bagi <strong>Carlotta</strong>.</p><p>Botol parfum? Sebenarnya itu <strong>granat</strong> yang tersamar.<br>Kacamata? Alat khusus yang menampilkan lokasi serta hasil pencarian secara real-time.</p><p>Di balik keindahannya, benda-benda ini adalah sekutu paling andal bagi <strong>Carlotta</strong> dalam setiap misinya.</p><p>Dalam keindahan, mereka menghiasi; dalam kematian, mereka menghancurkan—benar-benar mencerminkan pemiliknya.</p></td></tr><tr><td align="center">Family's Creed</td><td><img src="https://wuthering.wiki/img/T_Treasure84_UI.png" alt=""></td><td><p>Sepasang sarung tangan hitam, dengan kilauan seperti malam, dihiasi permata yang memiliki nama yang sama dengan pemiliknya—<strong>Opal</strong>.</p><p>Di dalam keluarga, ada banyak aturan tak tertulis, hal-hal yang tidak perlu diucapkan secara langsung. Salah satu aturan tersebut adalah: mereka yang mengenakan sarung tangan hitam harus menyelesaikan <strong>"masalah"</strong> dengan diam-diam demi kepentingan keluarga.</p><p>Namun, ini bukan soal kompromi, melainkan pilihan <strong>Carlotta</strong> sendiri. Keluarga telah membawanya melihat dunia yang lebih luas, dan kini dia akan membawa mereka ke dunia yang lebih besar lagi—baik atas nama <strong>Montelli</strong> yang sejati maupun atas namanya sendiri.</p></td></tr></tbody></table>
 
 ## :scroll: Story
 
@@ -118,11 +118,14 @@ menghilang ke dalam kegelapan dan hujan malam.
 
 Malam itu, hujan turun tiba-tiba.
 
-Air membanjiri jalanan, membawa kesuraman yang semakin pekat menjelang tengah malam. **Carlotta** mendongak, menatap bayangan buram yang samar-samar terlihat di balik tirai hujan. Bukankah dia juga hanya bayangan lain di tengah badai? Ya... bayangan yang datang untuk merenggut nyawa demi menebus kesalahan masa lalu.
+Air membanjiri jalanan, membawa kesuraman yang semakin pekat menjelang tengah malam. **Carlotta** mendongak, menatap bayangan buram yang samar-samar terlihat di balik tirai hujan. Bukankah dia juga hanya bayangan lain di tengah badai?\
+Ya... bayangan yang datang untuk merenggut nyawa demi menebus kesalahan masa lalu.
 
 Hujan tak akan menghentikannya menemukan orang yang ia cari.
 
-Klik... Klik... Klik. Suara langkah sepatu haknya mendekat. Sebuah pintu berderit terbuka, dan **Carlotta** melangkah masuk. Ia telah menempuh perjalanan melintasi **Ragunna** demi menemukan pria yang berdiri di hadapannya—seseorang yang hampir dilupakan oleh waktu. \
+Klik... Klik... Klik. 
+
+Suara langkah sepatu haknya mendekat. Sebuah pintu berderit terbuka, dan **Carlotta** melangkah masuk. Ia telah menempuh perjalanan melintasi **Ragunna** demi menemukan pria yang berdiri di hadapannya—seseorang yang hampir dilupakan oleh waktu. \
 Dengan nada dingin, ia berbicara,
 
 > "Terus terang saja, aku datang atas nama **Montelli** untuk membacakan obituarimu."
@@ -154,7 +157,7 @@ Ini bukan soal uang. Bukan soal penutupan. Tapi soal kesetiaan dan pengabdian.
 
 Bang!
 
-Satu lagi "permata" pecah menjadi serpihan.\
+Satu lagi "**permata**" pecah menjadi serpihan.\
 Pria tua itu tersungkur ke lantai. Dengan napas tersengal, dia menatap **Carlotta**, berusaha tetap fokus, tapi tubuhnya sudah tak bisa bergerak.
 
 > "Uhuk... uhuk... Kau belum menang... permainan ini... tidak berakhir... dengan kematian..."
@@ -184,7 +187,9 @@ Di lantai dansa, **Carlotta** menukar senyum sopan dengan perwakilan **Fisalia**
 
 > "Tidak, hanya menikmati malam,"&#x20;
 
-jawab **Carlotta**, jemarinya bertumpu ringan di pinggang wanita itu. Tangan lawannya pun merayap naik di sepanjang lengan **Carlotta**, sebelum akhirnya telapak tangan mereka bertemu dan tubuh mereka mulai bergerak selaras—rok mereka berputar layaknya kelopak bunga yang mekar di bawah lampu kristal.
+jawab **Carlotta**, 
+
+jemarinya bertumpu ringan di pinggang wanita itu. Tangan lawannya pun merayap naik di sepanjang lengan **Carlotta**, sebelum akhirnya telapak tangan mereka bertemu dan tubuh mereka mulai bergerak selaras—rok mereka berputar layaknya kelopak bunga yang mekar di bawah lampu kristal.
 
 > "Ayolah, kau pasti tak datang hanya untuk menari. Klan **Montelli** pasti juga ada di sini, bukan?"
 
@@ -202,7 +207,7 @@ hingga akhirnya melodi mencapai puncaknya.
 Wanita itu menarik diri, pandangannya menyapu ballroom, \
 mencari sosok-sosok tersembunyi dari **Montelli**.
 
-Namun **Carlotta** menggenggam tangannya lebih erat, mengarahkan tubuhnya kembali ke dalam irama dansa mereka. Musik tetap mengikat mereka bersama. Wanita itu tak punya jalan keluar dan tak bisa membuat keributan. \
+Namun, **Carlotta** menggenggam tangannya lebih erat, mengarahkan tubuhnya kembali ke dalam irama dansa mereka. Musik tetap mengikat mereka bersama. Wanita itu tak punya jalan keluar dan tak bisa membuat keributan. \
 Yang bisa ia lakukan hanyalah menatap **Carlotta** dengan kebencian membara.
 
 > "**Montelli** punya telinga di mana-mana. Sejak awal, kau mengincar 'anak-anakku'. Aku harap kau siap menari... sampai maut memisahkan kita."
@@ -307,7 +312,7 @@ Cahaya lembut matahari yang hampir tenggelam membasuh **Carlotta** saat ia menye
 
 Tanpa tujuan tertentu, ia berjalan, berhenti di tempat-tempat yang menarik perhatiannya. Ini bukan kebiasaannya, tapi mungkin di masa depan, ia akan mulai melakukannya lebih sering—seperti kebiasaannya yang baru, mencari bagian dari dirinya yang benar-benar miliknya sendiri, terpisah dari **Montelli**.
 
-Setelah merayakan **Carnevale** bersama tamu kehormatan, serta membongkar pengkhianatan **Capollo** dengan bantuan **{Male=nya;Female=nya}**, **Carlotta** akhirnya memahami apa yang dulu tidak sepenuhnya bisa diungkapkan oleh **Kakek** pada malam hujan itu.
+Setelah merayakan **Carnevale** bersama tamu kehormatan, serta membongkar pengkhianatan **Capollo** dengan bantuannya, **Carlotta** akhirnya memahami apa yang dulu tidak sepenuhnya bisa diungkapkan oleh **Kakek** pada malam hujan itu.
 
 Ia khawatir bahwa **Carlotta** akan melakukan sesuatu demi keluarga, meskipun bertentangan dengan prinsipnya sendiri. **Kakek** tak pernah mengarahkan jalannya berdasarkan masa lalunya sendiri. \
 Ia hanya berharap agar **Carlotta** tidak terjebak dalam pola yang sudah ditentukan.
@@ -328,9 +333,9 @@ Namun, baginya, lembaran masa depan jauh lebih menggoda. Ia akan menenunnya send
 
 Tapi untuk saat ini, ia ingin membiarkan dirinya merasa bangga, meski hanya sedikit.
 
-**Carlotta** belum siap memperlihatkan bagian dirinya yang hanya ada di ruang-ruang sunyi dalam pikirannya... Namun, mungkin **{PlayerName}** adalah pengecualian.
+**Carlotta** belum siap memperlihatkan bagian dirinya yang hanya ada di ruang-ruang sunyi dalam pikirannya... Namun, mungkin **Rover** adalah pengecualian.
 
-Ia masih lebih suka menyebut **{Male=nya;Female=nya}** sebagai **Cat’s Eye**. Mereka pernah berjalan beriringan untuk sementara waktu, tetapi pada akhirnya, tak ada dari mereka yang bisa berhenti hanya demi satu sama lain. **{Male=Dia;Female=Dia}** pernah berkata terus terang bahwa dirinya terlalu “sempurna.” Jadi, untuk menepati janjinya untuk “tidak terlalu tertutup,” **Carlotta** akan menenun **Cat’s Eye** ke dalam kisahnya.
+Ia masih lebih suka menyebutnya sebagai **Cat’s Eye**. Mereka pernah berjalan beriringan untuk sementara waktu, tetapi pada akhirnya, tak ada dari mereka yang bisa berhenti hanya demi satu sama lain. Dia pernah berkata terus terang bahwa dirinya terlalu “sempurna.” Jadi, untuk menepati janjinya untuk “tidak terlalu tertutup,” **Carlotta** akan menenun **Cat’s Eye** ke dalam kisahnya.
 
 Ia merasa bahwa takdir belum selesai dengan mereka. Kapan, bagaimana, dan petualangan seperti apa yang menanti mereka di masa depan… ia hampir tak sabar untuk mengetahuinya.
 

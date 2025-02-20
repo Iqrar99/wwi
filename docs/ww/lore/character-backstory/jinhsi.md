@@ -34,23 +34,23 @@ layout:
 
 ### <mark style="color:blue;">Resonance Evaluation Report</mark>
 
-**Dasar Evaluasi:** \[**Resonance Assessment 2100-G**]
+Dasar Evaluasi: \[**Resonance Assessment 2100-G**]
 
 Waktu pasti **Awakening** dari **Resonator Jinhsi** masih belum jelas. Tanda-tanda **Awakening** sudah muncul sejak dia kecil, menciptakan **resonansi** yang kuat dengan **Sentinel Jué**.
 
-Tanda **Tacet Mark** milik Jinhsi terletak di bagian tengah punggungnya, menjadi ciri khasnya yang unik. Saat mengaktifkan **Resonance Ability**, kristal berbentuk tanduk **Loong** muncul di atas kepalanya.
+Tanda **Tacet Mark** milik **Jinhsi** terletak di bagian tengah punggungnya, menjadi ciri khasnya yang unik. Saat mengaktifkan **Resonance Ability**, kristal berbentuk tanduk **Loong** muncul di atas kepalanya.
 
-Dengan bakat uniknya, Jinhsi bisa memanipulasi cahaya untuk menciptakan proyeksi holografik yang meniru **Sentinel Jué**, menunjukkan kekuatan yang setara dengan kemampuan **Sentinel** itu sendiri.
+Dengan bakat uniknya, **Jinhsi** bisa memanipulasi cahaya untuk menciptakan proyeksi holografik yang meniru **Sentinel Jué**, menunjukkan kekuatan yang setara dengan kemampuan **Sentinel** itu sendiri.
 
 Data observasi menunjukkan bahwa kemampuan **Resonance** miliknya memiliki potensi pertumbuhan yang luar biasa. Kemampuan ini, jika mencapai puncaknya, bisa membuka kemungkinan yang luar biasa—yakni **pergeseran waktu**.
 
-Analisis mendalam terhadap **Resonance Spectrum Pattern** Jinhsi mengungkapkan kemiripan mencolok dengan milik **Sentinel Jué**. Pengujian ketat menunjukkan reaksi **Syntony** yang sangat kuat. Meskipun begitu, pemicu pasti dari **Awakening** Jinhsi tetap menjadi misteri karena posisi spesial **Sentinel**.
+Analisis mendalam terhadap **Resonance Spectrum Pattern** **Jinhsi** mengungkapkan kemiripan mencolok dengan milik **Sentinel Jué**. Pengujian ketat menunjukkan reaksi **Syntony** yang sangat kuat. Meskipun begitu, pemicu pasti dari **Awakening** **Jinhsi** tetap menjadi misteri karena posisi spesial **Sentinel**.
 
-Analisis sampel uji menunjukkan bahwa **Rabelle's Curve** milik Jinhsi bersifat **non-konvergen** dengan gelombang periodik yang jelas, yang mengklasifikasikan dirinya sebagai **Congenital Resonator**.
+Analisis sampel uji menunjukkan bahwa **Rabelle's Curve** milik **Jinhsi** bersifat **non-konvergen** dengan gelombang periodik yang jelas, yang mengklasifikasikan dirinya sebagai **Congenital Resonator**.
 
 ### <mark style="color:blue;">Overclock Diagnostic Report</mark>
 
-Grafik gelombang **Resonator Jinhsi** menunjukkan fluktuasi elips. Pola **Time Domain** tetap stabil tanpa adanya gelombang abnormal.
+Grafik gelombang **Resonator** **Jinhsi** menunjukkan fluktuasi elips. Pola **Time Domain** tetap stabil tanpa adanya gelombang abnormal.
 
 * **Kritikal Resonansi:** Sangat tinggi. Frekuensi **Resonator Jinhsi** menunjukkan stabilitas yang luar biasa. Hampir bisa dipastikan bahwa dia tidak berisiko mengalami **Overclocking**.
 * **Riwayat Overclocking:** Tidak ada.
@@ -59,7 +59,7 @@ Pemeriksaan rutin tetap disarankan, namun untuk saat ini, konseling psikologis d
 
 ## :package: Cherished Items
 
-<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Loong Bun</td><td><img src="https://wuthering.wiki/img/T_Treasure47_UI.png" alt=""></td><td><p>Sepiring <strong>Loong Buns</strong> buatan Jinhsi sendiri, masing-masing memiliki warna merah muda dengan taburan gula bubuk bunga osmanthus.<br>Setiap <strong>Loong Bun</strong> memiliki isian yang berbeda: <strong>krim custard, pasta biji teratai, atau pasta kacang manis</strong>...</p><p><br><em>"Tamu kehormatan kita sudah menunggu di ambang pintu... Kira-kira rasa apa yang akan mereka pilih?"</em></p></td></tr><tr><td align="center">To-do List</td><td><img src="https://wuthering.wiki/img/T_Treasure48_UI.png" alt=""></td><td><p>Sebagai <strong>Magistrate</strong> di <strong>Jinzhou</strong>, Jinhsi selalu disibukkan dengan pekerjaannya. Dari urusan militer hingga pertahanan kota dan keamanan masyarakat, semuanya ada di tangannya. <strong>City Hall</strong> selalu dipenuhi dokumen yang harus ditangani, tetapi dokumen saja tidak cukup untuk membantunya mengambil keputusan yang tepat.</p><p>Jinhsi lebih suka turun langsung dan mendengarkan kebutuhan rakyatnya. Untuk mempermudah, dia meminta <strong>Xiangli Yao</strong> untuk membuat daftar tugas elektronik yang bisa diakses kapan saja, sehingga dia bisa meninjau dokumen sambil menyelesaikan tugas lainnya.</p></td></tr><tr><td align="center">Loong Scale</td><td><img src="https://wuthering.wiki/img/T_Treasure49_UI.png" alt=""></td><td><p>Sejak kecil, Jinhsi sering mengalami mimpi buruk.<br>Pernah suatu kali, dia bermimpi sedang tenggelam, terseret arus, dan hampir terjatuh ke dasar laut. Sebuah kayu apung melintas, dan dia meraihnya, lalu berhasil kembali ke daratan meski harus melawan arus.</p><p>Saat terbangun, dia masih menggenggam sesuatu—sebuah <strong>sisik</strong>. Jika diperhatikan lebih dekat, sisik itu sangat mirip dengan yang ada di tubuh <strong>Sentinel</strong>...</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Loong Bun</td><td><img src="https://wuthering.wiki/img/T_Treasure47_UI.png" alt=""></td><td><p>Sepiring <strong>Loong Buns</strong> buatan <strong>Jinhsi</strong> sendiri, masing-masing memiliki warna merah muda dengan taburan gula bubuk bunga osmanthus.<br>Setiap <strong>Loong Bun</strong> memiliki isian yang berbeda: <strong>krim custard, pasta biji teratai, atau pasta kacang manis</strong>...</p><p><br><em>"Tamu kehormatan kita sudah menunggu di ambang pintu... Kira-kira rasa apa yang akan mereka pilih?"</em></p></td></tr><tr><td align="center">To-do List</td><td><img src="https://wuthering.wiki/img/T_Treasure48_UI.png" alt=""></td><td><p>Sebagai <strong>Magistrate</strong> di <strong>Jinzhou</strong>, <strong>Jinhsi</strong> selalu disibukkan dengan pekerjaannya. Dari urusan militer hingga pertahanan kota dan keamanan masyarakat, semuanya ada di tangannya. <strong>City Hall</strong> selalu dipenuhi dokumen yang harus ditangani, tetapi dokumen saja tidak cukup untuk membantunya mengambil keputusan yang tepat.</p><p><strong>Jinhsi</strong> lebih suka turun langsung dan mendengarkan kebutuhan rakyatnya. Untuk mempermudah, dia meminta <strong>Xiangli Yao</strong> untuk membuat daftar tugas elektronik yang bisa diakses kapan saja, sehingga dia bisa meninjau dokumen sambil menyelesaikan tugas lainnya.</p></td></tr><tr><td align="center">Loong Scale</td><td><img src="https://wuthering.wiki/img/T_Treasure49_UI.png" alt=""></td><td><p>Sejak kecil, <strong>Jinhsi</strong> sering mengalami mimpi buruk.<br>Pernah suatu kali, dia bermimpi sedang tenggelam, terseret arus, dan hampir terjatuh ke dasar laut. Sebuah kayu apung melintas, dan dia meraihnya, lalu berhasil kembali ke daratan meski harus melawan arus.</p><p>Saat terbangun, dia masih menggenggam sesuatu—sebuah <strong>sisik</strong>. Jika diperhatikan lebih dekat, sisik itu sangat mirip dengan yang ada di tubuh <strong>Sentinel</strong>...</p></td></tr></tbody></table>
 
 ## :scroll: Story
 
@@ -87,7 +87,7 @@ Saat mereka memasuki kota, pemandangan yang hidup dan ramai terbentang di depan 
 
 > "Tak bisa dipercaya! Siapa sangka kota di perbatasan bisa berkembang seperti ini? Rasanya seperti utopia. Pasti butuh usaha luar biasa untuk membangun tempat seindah ini."
 
-> "Magistrate kami selalu mengajarkan pentingnya kerja keras. Tidak peduli keadaanmu, dengan tekad dan usaha, kamu bisa mencapai impianmu. Jadi, meski harus menghadapi gunung yang tandus dan **Tacet Discords**, kami tetap membangun rumah kami dan menikmati hidup sebelum kesulitan melanda."
+> "**Magistrate** kami selalu mengajarkan pentingnya kerja keras. Tidak peduli keadaanmu, dengan tekad dan usaha, kamu bisa mencapai impianmu. Jadi, meski harus menghadapi gunung yang tandus dan **Tacet Discords**, kami tetap membangun rumah kami dan menikmati hidup sebelum kesulitan melanda."
 
 > "Luar biasa, kalian berhasil melakukannya. Pasti tidak mudah, tapi kalian tetap bertahan. Sangat mengesankan."
 
@@ -210,7 +210,7 @@ Dengan tangan kasar yang penuh luka, **Shi** hanya ingin membawa uang hasil kerj
 
 Di malam yang dingin, **Shi** dan rekan-rekannya nekat menyelinap ke mansion sang pedagang, berharap mendapatkan kembali hak mereka. Tapi sebelum mereka sempat bertindak, suara lembut namun tajam terdengar dari dalam rumah.
 
-> "Tuan Zhu, aku datang untuk menyampaikan kabar,"&#x20;
+> "Tuan **Zhu**, aku datang untuk menyampaikan kabar,"&#x20;
 
 suara **Jinhsi** terdengar, tetap lembut namun dingin menusuk.
 
@@ -275,8 +275,8 @@ Bahkan bagi seseorang sekuat **Jinhsi**, keluar dari situasi berbahaya seperti i
 
 Di teras **City Hall**, **Jinhsi**—**Magistrate** yang baru saja kembali—menatap tamu istimewanya dengan kelegaan dan kebahagiaan. Dengan anggukan penuh makna, ia mengucapkan kata-kata yang telah ia latih dalam pikirannya ribuan kali:
 
-> **"Sudah tiga hari."**
+> "Sudah tiga hari."
 
-> **"Kita berdua berhasil tiba tepat waktu."**
+> *"Kita berdua berhasil tiba tepat waktu."
 
-> **"Izinkan aku memperkenalkan diri secara resmi. Aku adalah Jinhsi… Senang sekali akhirnya bisa bertemu denganmu, Rover."**
+> "Izinkan aku memperkenalkan diri secara resmi. Aku adalah **Jinhsi**… Senang sekali akhirnya bisa bertemu denganmu, **Rover**."
