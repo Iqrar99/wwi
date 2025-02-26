@@ -34,7 +34,7 @@ layout:
 
 ### <mark style="color:blue;">Resonance Evaluation Report</mark>
 
-**Evaluation Basis**: \[Resonance Assessment **2105-G**]
+Evaluation Basis: \[**Resonance Assessment **2105-G**]
 
 Berdasarkan laporan **Resonator Sanhua**, ia terlahir dengan struktur mata yang tidak normal, menyebabkan kebutaan total pada kedua matanya. Namun, setelah mengalami insiden **Tacet Discord** di tengah badai salju akibat **Waveworn Phenomenon**, terjadi erosi frekuensi pada mata kanannya. Insiden ini memicu gangguan penglihatan abnormal dan akhirnya membangkitkan **Forte** miliknya.
 
@@ -68,11 +68,11 @@ Karena kecenderungan **Overclocking** di masa lalu, **pemantauan ketat** terhada
 
 ### <mark style="color:blue;">The Magistrate's Bodyguard</mark>
 
-Alih-alih dikenal dengan namanya, **Sanhua** lebih sering disebut sebagai **"pengawal Magistrate"**.
+Alih-alih dikenal dengan namanya, **Sanhua** lebih sering disebut sebagai "**pengawal Magistrate**".
 
 **Sanhua** selalu terlihat berdiri diam di belakang **Jinhsi**, menjaga jarak yang tepat. Ia berdiri tegap dan penuh kewaspadaan, tersembunyi di sudut pandang orang lain—seperti sebilah pedang tajam yang siap dihunus kapan saja.
 
-Meskipun mayoritas suara yang menentang Jinhsi telah mereda, masih ada segelintir individu yang mencoba menantang otoritasnya. Karena Jinhsi tetap menyandang gelar **Magistrat Jinzhou**, beberapa orang menganggap pengawal di sisinya sebagai target yang lebih mudah untuk ditekan.
+Meskipun mayoritas suara yang menentang **Jinhsi** telah mereda, masih ada segelintir individu yang mencoba menantang otoritasnya. Karena Jinhsi tetap menyandang gelar **Magistrat Jinzhou**, beberapa orang menganggap pengawal di sisinya sebagai target yang lebih mudah untuk ditekan.
 
 Namun, anggapan itu salah besar.
 
@@ -90,26 +90,26 @@ Satu tebasan cepat.
 
 Badan masih utuh, tetapi kaki yang gemetar mengungkap ketakutan mereka. Kain celana yang tertebas pun jatuh tertiup angin dingin. Itu saja sudah cukup untuk mengusir sebagian besar tamu yang tidak diinginkan.
 
-Dan seperti biasa, begitu bilah pedang kembali ke sarungnya, semua bayangan pun sirna. Semua jejak kotoran dan perbuatan busuk terhapus bersih. **Cahaya Jinhsi tetap tak ternoda, tetap murni.**
+Dan seperti biasa, begitu bilah pedang kembali ke sarungnya, semua bayangan pun sirna. Semua jejak kotoran dan perbuatan busuk terhapus bersih. Cahaya **Jinhsi** tetap tak ternoda, tetap murni.
 
 Namun, terkadang hidup masih menyimpan kejutan bagi **Sanhua**…
 
-> "Halo. Anda pasti pengawal Madam Magistrat?"
+> "Halo. Anda pasti pengawal **Madam Magistrat**?"
 
-Begitulah kata **resonator aneh** yang berdiri di hadapannya. \
-Orang ini memancarkan **frekuensi berbentuk manusia yang begitu indah—sama seperti Jinhsi.**
+Begitulah kata **resonator** aneh yang berdiri di hadapannya. \
+Orang ini memancarkan frekuensi berbentuk manusia yang begitu indah—sama seperti **Jinhsi**.
 
 Dunianya, yang selama ini tenang, tiba-tiba beriak.
 
 ### <mark style="color:blue;">Sudden Snowfall</mark>
 
-Kisah Sanhua dimulai dengan salju.
+Kisah **Sanhua** dimulai dengan salju.
 
-Tempat kelahirannya **hancur oleh bencana Waveworn**, disapu oleh badai salju yang tak kenal ampun dan kehadiran **Tacet Discords** yang mematikan.
+Tempat kelahirannya hancur oleh bencana **Waveworn**, disapu oleh badai salju yang tak kenal ampun dan kehadiran **Tacet Discords** yang mematikan.
 
 Dalam sekejap mata,segala bentuk kehidupan dihancurkan oleh badai anomali. Namun, badai itu bukan sekadar angin dan salju—ia membentuk sesosok **TD raksasa** yang berdiri di atas gunung bersalju yang telah berubah menjadi **Tacet Field**.
 
-Pemandangan itu adalah perpaduan antara keagungan dan kengerian, sosok yang menjulang di atas lanskap yang hancur—**baik ilahi maupun iblis pada saat yang bersamaan**. TD itu menyerupai **patung raksasa Asura**.
+Pemandangan itu adalah perpaduan antara keagungan dan kengerian, sosok yang menjulang di atas lanskap yang hancur—baik ilahi maupun iblis pada saat yang bersamaan. TD itu menyerupai **patung raksasa Asura**.
 
 **Midnight Rangers** mengerahkan segala upaya untuk akhirnya **menumbangkan TD kolosal itu**. Dengan raungan yang menggema, monster itu akhirnya runtuh dan menghilang menjadi debu.
 
@@ -123,17 +123,17 @@ Tak seorang pun bisa membayangkan bagaimana ia bisa selamat dari bencana dahsyat
 
 Seruan penuh semangat mereka menggema jauh melampaui garis depan, menyalakan **nyala harapan** di hati para prajurit yang kelelahan. Kabar itu menyebar seperti api, menghangatkan medan perang yang dingin dengan semangat perjuangan.
 
-Orang-orang menyebutnya **"keajaiban berkah ilahi."**
+Orang-orang menyebutnya "**keajaiban berkah ilahi.**"
 
 Beberapa hari kemudian, gadis kecil yang diselamatkan dari neraka itu akhirnya membuka matanya.
 
 Mata yang berwarna aneh.
 
-**Tacet Discords tidak merenggut nyawanya**—sebaliknya, mereka **mengikis mata kanannya**. Frekuensi yang tersisa **membangun ulang pupilnya**, memberinya **mata baru** yang memungkinkan dia, yang terlahir buta, **melihat frekuensi segala sesuatu di dunia ini.**
+**Tacet Discords** tidak merenggut nyawanya—sebaliknya, mereka **mengikis mata kanannya**. Frekuensi yang tersisa **membangun ulang pupilnya**, memberinya **mata baru** yang memungkinkan dia, yang terlahir buta, **melihat frekuensi segala sesuatu di dunia ini.**
 
 Namun, yang tidak disadari semua orang saat itu…
 
-Ini juga adalah **"Kutukan Ratapan."**
+Ini juga adalah **"**Kutukan Ratapan**."
 
 Kutukan itu membelokkan segalanya di matanya, mengubah dunia menjadi **pemandangan cacat yang grotesk dan kacau**. Suara-suara menjadi sumbang, sosok-sosok tampak melengkung dan menyeramkan. Ia melihat tanpa kebohongan, tetapi ia juga tidak pernah melihat cahaya.
 
@@ -153,7 +153,7 @@ Dalam mimpinya, ia selalu tersesat di kegelapan tak berujung, mencari hamparan s
 
 Dan ia pun terbangun dengan napas terengah-engah.
 
-Semakin dewasa, kekuatan **Forte**-nya semakin sulit dikendalikan. Iblis dalam dirinya tak henti meronta, mendesaknya untuk mengikuti **naluri TD dalam melahap frekuensi**. Kekuatan salju semakin sulit dibendung, dan perbedaan antara manusia dan TD semakin samar di matanya.
+Semakin dewasa, kekuatan **Forte**-nya semakin sulit dikendalikan. Iblis dalam dirinya tak henti meronta, mendesaknya untuk mengikuti naluri **TD"" dalam melahap frekuensi. Kekuatan salju semakin sulit dibendung, dan perbedaan antara manusia dan **TD** semakin samar di matanya.
 
 Kadang, **Sanhua** berpikir dirinya telah lepas dari mimpi buruk itu… hanya untuk menyadari bahwa ia masih terperangkap di dalamnya. Bahwa ia telah berubah menjadi monster.
 
@@ -165,13 +165,15 @@ Menyadari bahwa takdirnya sudah terikat dengan iblis, **Sanhua** pun memulai per
 
 Namun, akhir-akhir ini, **Sanhua** masih bermimpi tentang salju.
 
-**Sanhua** tidak pernah membutuhkan lampu di kamarnya. Ia bisa melihat dengan jelas dalam kegelapan. Jadi, saat ia terbangun dari mimpi buruk dan mendapati cahaya di ruangan, ia langsung tahu—**Jinhsi pasti masih bekerja.**
+**Sanhua** tidak pernah membutuhkan lampu di kamarnya. Ia bisa melihat dengan jelas dalam kegelapan. Jadi, saat ia terbangun dari mimpi buruk dan mendapati cahaya di ruangan, ia langsung tahu—**Jinhsi** pasti masih bekerja.
 
 > "Maafkan saya, Madam..."&#x20;
 
 **Sanhua** meminta maaf karena tidak menjalankan tugasnya.
 
-Seorang wanita muda tengah menulis dengan penuh semangat di bawah cahaya lentera. Melihat gerak-gerik **Sanhua**, ia menoleh. "Bukankah aku sudah memintamu untuk beristirahat, Sanhua? Kalau bukan karena bantuanmu menyortir dokumen ini, aku tak akan bisa menyelesaikan setengahnya besok pagi."
+Seorang wanita muda tengah menulis dengan penuh semangat di bawah cahaya lentera. Melihat gerak-gerik **Sanhua**, ia menoleh. 
+
+> "Bukankah aku sudah memintamu untuk beristirahat, **Sanhua?** Kalau bukan karena bantuanmu menyortir dokumen ini, aku tak akan bisa menyelesaikan setengahnya besok pagi."
 
 > "Madam, Anda harus beristirahat. Biarkan saya yang mengurusnya."
 
@@ -195,7 +197,7 @@ Seorang wanita muda tengah menulis dengan penuh semangat di bawah cahaya lentera
 
 **Jinhsi** tertawa kecil.&#x20;
 
-> **"Sejujurnya, mengurus dokumen ini mulai melelahkanku..."**
+> "Sejujurnya, mengurus dokumen ini mulai melelahkanku..."
 
 **Sanhua** terdiam sejenak. Lalu, dengan nada lembut, ia berkata:
 
@@ -213,19 +215,19 @@ Seorang wanita muda tengah menulis dengan penuh semangat di bawah cahaya lentera
 
 Selama pengasingannya, ia mengembara ke berbagai tempat. Ia melewati pegunungan terpencil, melintasi padang luas, dan berdiri di puncak tebing, memandang hamparan tanah tandus yang tak berujung.
 
-Ia menyaksikan retakan berbentuk bintang menjalar di daratan—**Tacet Marks**, dari mana **TD tak henti-hentinya menetas**. Mereka menggerogoti tanah tempat manusia bergantung untuk bertahan hidup, seperti bagaimana mereka dulu menggerogoti matanya.
+Ia menyaksikan retakan berbentuk bintang menjalar di daratan—**Tacet Marks**, dari mana **TD** tak henti-hentinya menetas. Mereka menggerogoti tanah tempat manusia bergantung untuk bertahan hidup, seperti bagaimana mereka dulu menggerogoti matanya.
 
 **Sanhua** berusaha membantai monster-monster itu, tapi tidak menemukan kedamaian. Kekacauan suara yang tak berkesudahan terus menyiksanya, siang dan malam.
 
 Satu-satunya alasan ia terus maju adalah bertahan hidup—meski setiap detiknya terasa seperti siksaan yang tak berujung.
 
-Ia hanyalah **layang-layang yang terombang-ambing di atas padang belantara**, hanya tergantung pada **seutas benang tipis** yang seakan bisa putus kapan saja. Ia membiarkan **salju menerjangnya**, tanpa arah dan tujuan.
+Ia hanyalah layang-layang yang terombang-ambing di atas padang belantara, hanya tergantung pada seutas benang tipis yang seakan bisa putus kapan saja. Ia membiarkan salju menerjangnya, tanpa arah dan tujuan.
 
 Ke mana pun ia pergi, badai salju akan menghancurkan segalanya dalam jalannya.
 
 Ia sendiri telah menjadi bencana.
 
-Saat kabar mengenai dirinya yang membawa petak* mulai menyebar, orang-orang mulai memburunya. Ia tak tahu siapa mereka, ataupun mengapa mereka menginginkan kematiannya.
+Saat kabar mengenai dirinya yang membawa petak mulai menyebar, orang-orang mulai memburunya. Ia tak tahu siapa mereka, ataupun mengapa mereka menginginkan kematiannya.
 
 Namun, jauh di lubuk hatinya, ia tahu bahwa ia **harus menahan iblis dalam dirinya**.
 
@@ -233,17 +235,17 @@ Tapi tiap kali terpojok, naluri bertahan hidup selalu menang—dan ia akan berta
 
 Hingga suatu hari… ia terjebak di pegunungan.
 
-Saat itulah ia akhirnya **"melihat" salju**—**hujan salju keemasan yang bercahaya**, seperti kelopak bunga yang jatuh dari langit.
+Saat itulah ia akhirnya "**melihat**" salju—hujan salju keemasan yang bercahaya, seperti kelopak bunga yang jatuh dari langit.
 
-Pemandangan itu begitu **memukau.**
+Pemandangan itu begitu memukau.
 
-Untuk sesaat, ia melupakan rasa sakit dan dilema yang menyiksanya. Dalam keheningan itu, terdengar **suara dalam yang magis**, menenangkan pikirannya yang kacau.
+Untuk sesaat, ia melupakan rasa sakit dan dilema yang menyiksanya. Dalam keheningan itu, terdengar suara dalam yang magis, menenangkan pikirannya yang kacau.
 
-Saat badai menghilang, **ia dikelilingi oleh salju emas.**
+Saat badai menghilang, ia dikelilingi oleh salju emas.
 
 Seorang pria muncul dan memperkenalkan diri sebagai **abbot**. Saat itu barulah ia menyadari… semuanya hanyalah ilusi yang dimaksudkan untuk membukakan matanya.
 
->"Segala sesuatu yang bersyarat hanyalah mimpi, ilusi, gelembung, atau bayangan; seperti embun atau kilatan petir. Maka, demikianlah seharusnya seseorang merenungkannya. Apa yang kau anggap sebagai penderitaan, sebenarnya adalah jalan menuju pembebasan... Hanya melalui karma, sebab dan akibat dapat terwujud."
+> "Segala sesuatu yang bersyarat hanyalah mimpi, ilusi, gelembung, atau bayangan; seperti embun atau kilatan petir. Maka, demikianlah seharusnya seseorang merenungkannya. Apa yang kau anggap sebagai penderitaan, sebenarnya adalah jalan menuju pembebasan... Hanya melalui karma, sebab dan akibat dapat terwujud."
 
 **Sanhua** tak sepenuhnya memahami makna kata-kata itu, tapi untuk pertama kalinya… ia tidak mencoba melarikan diri.
 
@@ -255,7 +257,7 @@ Tak ada yang bisa menduga bahwa bukan kekuatan atau paksaan yang menjinakkannya�
 
 Di dalam kuil, ia diberi nama dharma "**Sanhua**".
 
-Ia berlatih ilmu pedang dan membaca **Sutra Hati** setiap hari bersama para biksu lainnya.\
+Ia berlatih ilmu pedang dan membaca Sutra Hati setiap hari bersama para biksu lainnya.\
 Dan di dalam hatinya, satu pertanyaan terus bergema:
 
 > "Jika karma melahirkan setiap sebab menuju takdirnya… maka ke mana takdirku akan membawaku?"
@@ -269,7 +271,7 @@ Bertahun-tahun yang lalu, mereka merampas matanya, menghancurkan rumahnya, saat 
 Namun kini, ia berdiri sebagai seorang pejuang. \
 Salju yang dahulu menjadi kutukannya, kini menjadi pedangnya.
 
-**Frekuensi TD yang begitu kuat mulai membebani penglihatannya.**
+Frekuensi **TD** yang begitu kuat mulai membebani penglihatannya.
 
 Telinganya dipenuhi dengan jeritan yang memekakkan.
 
