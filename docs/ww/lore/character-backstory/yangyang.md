@@ -91,7 +91,8 @@ Dua bulan kemudian, **Yangyang** kembali menjadi murid terbaik di kelas pedangny
 
 Beberapa orang mencoba menghibur **Yangyang**, mengingatkannya bahwa hidup tidak sempurna dan bahwa dia harus merasa puas dengan pujian yang diterimanya. Namun, **Yangyang** selalu menolak nasihat ini dengan lembut, karena dia tahu bahwa dorongan dalam dirinya bukan berasal dari pengakuan orang lain.
 
-Apakah dia sudah memberikan yang terbaik? Apakah semuanya telah dilakukan semaksimal mungkin? Pertanyaan-pertanyaan ini terus mengisi pikirannya.
+Apakah dia sudah memberikan yang terbaik? \
+Apakah semuanya telah dilakukan semaksimal mungkin? \ Pertanyaan-pertanyaan ini terus mengisi pikirannya.
 
 Dengan senyum dan gelengan kepala yang lembut, dia menolak setiap nasihat untuk beristirahat, bertekad untuk mencapai kesempurnaan tanpa meninggalkan penyesalan atau rasa malu.
 
@@ -100,7 +101,7 @@ Dengan senyum dan gelengan kepala yang lembut, dia menolak setiap nasihat untuk 
 Saat itulah **Yangyang** menjadi seorang **Outrider** dan berhasil membantu menyelesaikan krisis **TD regional**. Seperti biasa, orang-orang memuji keunggulannya.
 
 > "Ya, kali ini aku berhasil, tapi bagaimana dengan lain kali? Masih banyak hal yang bisa aku lakukan lebih baik; masih banyak hal yang tidak aku ketahui. \
-> Mungkin aku harus mencari nasihat dari anggota senior Midnight Ranger..."
+> Mungkin aku harus mencari nasihat dari anggota **senior Midnight Ranger**..."
 
 Menjadi seseorang yang selalu dapat diandalkan adalah tugas yang menakutkan, tetapi sangat penting. Hal itu membutuhkan usaha dan dedikasi yang tiada henti.
 
@@ -124,7 +125,7 @@ Hal ini menjawab beberapa kebingungan sebelumnya. Cara berinteraksinya yang semp
 
 Namun, pertanyaan lain muncul: Mengapa putri dari keluarga terkenal itu pergi ke kota perbatasan sendirian, mengorbankan kehidupan mewah dan karier yang menjanjikan? Apakah ada alasan mendalam yang membuatnya pergi?
 
-Jika memang ada alasan itu, **Yangyang** tidak pernah membicarakannya kepada siapa pun. Ia tidak pernah mengeluh atau menghindari tanggung jawab, baik saat menjalankan tugasnya sebagai Outrider maupun saat menghabiskan waktu bersama teman-temannya. Jika ada yang mengganggunya, itu mungkin justru teman-teman sesama Outrider-nya, karena... Ia selalu dengan sabar mendengarkan mereka.
+Jika memang ada alasan itu, **Yangyang** tidak pernah membicarakannya kepada siapa pun. Ia tidak pernah mengeluh atau menghindari tanggung jawab, baik saat menjalankan tugasnya sebagai **Outrider** maupun saat menghabiskan waktu bersama teman-temannya. Jika ada yang mengganggunya, itu mungkin justru teman-teman sesama **Outrider**-nya, karena... Ia selalu dengan sabar mendengarkan mereka.
 
 Banyak yang mencari ketenangan dengan menceritakan perasaan mereka pada **Yangyang**, bukan untuk mencari solusi, tetapi hanya untuk meluapkan stres. Ia sangat memahami hal ini dan tetap netral, berempati dengan perasaan mereka. Ia mendengarkan tanpa menyela, memberikan bimbingan ketika diperlukan, lalu kembali diam. \
 Dengan bantuannya, emosi yang kacau pun perlahan menjadi lebih teratur tanpa disadari. Sesi-sesi ini terbukti sangat berharga. Namun, dukungan **Yangyang** bukan sekadar setuju dengan semua yang dikatakan; ia memberikan saran yang tetap mengutamakan keinginan si pembicara.
@@ -209,7 +210,7 @@ Dia menyebutnya **Streams**, yang memungkinkannya menangkap fluktuasi energi, ke
 
 Namun, semakin dia berusaha memahami kemampuannya, semakin dia terjebak dalam pusaran informasi yang tak ada habisnya.
 
-Yang terjadi setelahnya bukanlah kejatuhan dalam arti fisik, melainkan kejatuhan dalam waktu. Sensory overload itu berlangsung selama **berbulan-bulan**, membuatnya berada di antara kesadaran dan ketidaksadaran. Dia merasa seperti bulu yang terjebak dalam badai, terus jatuh tanpa henti.
+Yang terjadi setelahnya bukanlah kejatuhan dalam arti fisik, melainkan kejatuhan dalam waktu. **Sensory overload** itu berlangsung selama berbulan-bulan, membuatnya berada di antara kesadaran dan ketidaksadaran. Dia merasa seperti bulu yang terjebak dalam badai, terus jatuh tanpa henti.
 
 > "Aku harus fokus pada detail yang bisa kugapai, bukan mencoba menangkap semuanya..."
 
@@ -262,18 +263,19 @@ Ibunya menatapnya dengan penuh kasih dan berkata,&#x20;
 Dan begitu, **Yangyang** menyimpan pertanyaan itu dalam hatinya, menunggu dengan sabar jawaban yang terus menghindarinya. Dia menunggu hingga dia kembali dari pemukiman yang tandus, hingga dia berhasil keluar dari jurang keputusasaan, hingga dia mulai lelah dengan perlindungan berlebihan dari keluarganya. \
 Keinginannya untuk menjelajahi dunia dan merasakan kerasnya kehidupan semakin besar. Dia tak lagi ingin menjadi daun yang hanya melayang terbawa angin. Dia ingin menanggung beban kenyataan, bukan bersembunyi darinya.
 
-Saat itulah sebuah serangan mendadak terjadi di wilayah liar. **Serangan dari Tacet Discord** di garis depan menyebabkan banyak korban jiwa. Berita tentang tragedi ini menyebar cepat ke seluruh kota, membangkitkan kesedihan, amarah, dan keputusasaan di antara penduduknya. \
+Saat itulah sebuah serangan mendadak terjadi di wilayah liar. Serangan dari **Tacet Discord** di garis depan menyebabkan banyak korban jiwa. Berita tentang tragedi ini menyebar cepat ke seluruh kota, membangkitkan kesedihan, amarah, dan keputusasaan di antara penduduknya. \
 Perasaan mereka memuncak saat orang-orang berkumpul di sekitar api unggun. \
 Tangis pecah, suara parau memenuhi malam. Namun saat pagi tiba, kesedihan menjadi kemewahan yang tak bisa mereka pertahankan—kehidupan harus terus berjalan.
 
 **Yangyang** berdiri di tengah mereka, air mata mengalir di wajahnya. Dia tidak kehilangan siapa pun secara pribadi, tetapi melihat kesedihan mereka dan kegembiraan anak-anak yang berhasil diselamatkan membangkitkan sesuatu di dalam dirinya. Momen itu mengubahnya. Dia menemukan panggilannya: **melindungi orang lain, seperti bagaimana dia pernah dilindungi.** \
 Dia ingin menjadi tameng yang menghalangi malapetaka dan memberi mereka harapan akan masa depan yang lebih cerah.
 
-Pada malam pendaftarannya sebagai seorang **Outrider**, **Yangyang** berdiri di tepi Jinzhou. \
-Dia menatap langit dan keramaian di bawahnya. Keraguan menyusup ke dalam hatinya. Mampukah dia benar-benar melindungi orang-orang ini? Apakah dia bisa mengemban tanggung jawab yang selama ini dia impikan?
+Pada malam pendaftarannya sebagai seorang **Outrider**, **Yangyang** berdiri di tepi **Jinzhou**. \
+Dia menatap langit dan keramaian di bawahnya. Keraguan menyusup ke dalam hatinya. Mampukah dia benar-benar melindungi orang-orang ini? \
+Apakah dia bisa mengemban tanggung jawab yang selama ini dia impikan?
 
 **Streams** datang dari kejauhan, mengelilinginya dalam pelukan lembut, menghapus sisa-sisa keraguannya.
 
 Mereka berbisik tanpa suara:&#x20;
 
-> _Jinzhou adalah tempatnya. Ini adalah tujuan bagi Yangyang si putri kaya, sekaligus awal perjalanan bagi Yangyang sang Outrider._
+> _**Jinzhou** adalah tempatnya. Ini adalah tujuan bagi Yangyang si putri kaya, sekaligus awal perjalanan bagi **Yangyang sang Outrider**._
