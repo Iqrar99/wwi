@@ -65,7 +65,7 @@ Kesalahan sistem, peringatan. Kesalahan sistem, tidak terbac▇▇▇%&#
 
 ## :package: Cherished Items
 
-<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">TBA</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure75_UI.webp" alt=""></td><td>TBA</td></tr><tr><td align="center">TBA</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure76_UI.webp" alt=""></td><td>TBA</td></tr><tr><td align="center">TBA</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure78_UI.webp" alt=""></td><td>TBA</td></tr></tbody></table>
+
 
 ## :scroll: Story
 
