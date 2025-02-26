@@ -65,6 +65,17 @@ Kesalahan sistem, peringatan. Kesalahan sistem, tidak terbac▇▇▇%&#
 
 ## :package: Cherished Items
 
+<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">TBA</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure75_UI.webp" alt=""></td><td>Payung yang dibawa **Cantarella**. Kanopinya yang bundar menyerupai ubur-ubur yang lembut dan gemuk dengan tentakel panjang dan anggun yang tampak melayang tanpa beban di udara. Tulang payungnya dibuat dari karang laut dalam, yang secara cermat dibentuk menjadi lekukan sempurna yang berkilauan dengan cahaya lembut, indah dan lembut sekaligus kuat dan tak tergoyahkan. Di gagangnya, safir tertanam, simbol otoritas yang tak tergoyahkan dari kepala keluarga.
+ Kekerasan tidak pernah menjadi pilihan pertama **Cantarella**, tetapi ketika terpaksa membela diri, ia hanya memutar payungnya, dan dalam sekejap, kanopi memancarkan cahaya yang cemerlang. Dari situ, gerombolan ubur-ubur yang mempesona terbentang, melayang ke laut ilusi yang fantastis.
+ Menarik musuh-musuhnya ke laut mimpi yang mempesona namun berbahaya ini adalah seni khas **Cantarella**. Seperti pemiliknya, payung itu mungkin tampak lembut dan mengalir, namun ketika dibutuhkan, ia selalu tak dapat dihancurkan."</td></tr><tr><td align="center">Cauldron of Sweet Dreams</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure76_UI.webp" alt=""></td><td>Kuali yang digunakan **Cantarella**, **The Sea Witch**, untuk menyeduh ramuan. Safir yang menghiasi kuali itu menandai otoritas **Cantarella** sebagai kepala keluarga Fisalia.
+
+Ia sering membiarkan keinginan hatinya membimbingnya, dengan sembarangan memasukkan bahan-bahan yang tak terduga, seperti tentakel ubur-ubur, sisik ikan, air mata orang yang patah hati, dan bahkan bisikan yang berlama-lama di udara.
+
+Apa pun yang ia tambahkan, hasilnya selalu berupa periuk mimpi manis yang melarutkan kepahitan kenyataan, dengan lembut menenangkan mereka yang tersesat dalam jurang.</td></tr><tr><td align="center">Potion Bottle</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure78_UI.webp" alt=""></td><td>**Cantarella** selalu membawa botol ramuan ini, dihiasi dengan safir secerah yang ia kenakan sebagai tanda otoritasnya. Di dalamnya, ia menyimpan ramuan khusus, yang ia siapkan dengan hati-hati untuk meredakan kelelahan dan menenangkan mimpi buruk.
+
+Namun, sejak kau membawanya pergi dari **Sea of Ghosts**, mimpi buruk itu telah berhenti.
+
+Sekarang, botol ini dipenuhi dengan ketulusan dan kelembutannya yang langka, seperti cahaya lembut yang menembus jurang, mencerminkan bisikan lembut yang tersembunyi di gelombang yang bergulung.  Ia sekarang menjadi simbol kepercayaan yang diberikan **Cantarella** kepadamu, orang yang telah menavigasi gelombang gelap dan mencapai kedalaman untuknya."</td></tr></tbody></table>
 
 
 ## :scroll: Story
