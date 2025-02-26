@@ -38,7 +38,7 @@ Dasar Evaluasi: \[**Resonance Assessment 2326-G**]
 
 Waktu pasti **Awakening** Resonator **Changli** masih belum dapat dipastikan. Laporan menunjukkan bahwa **Changli** mulai menunjukkan tanda-tanda awal manipulasi api sejak kecil, meskipun sering mengalami kesulitan dalam mengendalikannya. Namun, seiring bertambahnya usia, frekuensi dan kestabilan manifestasi **Forte**-nya mengalami peningkatan yang signifikan.
 
-**Tacet Mark** milik **Changli** terletak di*bagian bawah dadanya. Pemeriksaan **Post-Awakening** menunjukkan adanya perubahan fisik tertentu, termasuk pudarnya warna rambut di ujungnya secara bertahap serta bekas luka bakar berbentuk bulu di lengan kirinya, yang memancarkan cahaya seperti api sesuai dengan **Forte**-nya.
+**Tacet Mark** milik **Changli** terletak di bagian bawah dadanya. Pemeriksaan **Post-Awakening** menunjukkan adanya perubahan fisik tertentu, termasuk pudarnya warna rambut di ujungnya secara bertahap serta bekas luka bakar berbentuk bulu di lengan kirinya, yang memancarkan cahaya seperti api sesuai dengan **Forte**-nya.
 
 **Resonance Spectrum Pattern** **Changli** mencerminkan karakteristik api, menunjukkan reaksi **Syntony** yang kuat selama pengujian. Meskipun pemicu pasti Kebangkitannya masih belum diketahui, sejauh ini tidak ada sampel lain dengan kesamaan **Resonance Spectrum Pattern** melebihi **60%**. \
 **Forte** **Changli** tampaknya memiliki keselarasan erat dengan **burung roh mistis dari folklore Huanglong**, kemungkinan besar akibat pengaruh cerita-cerita yang ia dengar sejak kecil tentang makhluk legendaris tersebut.
