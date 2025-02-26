@@ -37,7 +37,7 @@ layout:
 **Level: Publik**
 Catatan Pemeriksaan Apoteker **Fisalia Rosemary**: Edisi Khusus Kepala Keluarga **Fisalia**
 
-> Jelas bahwa kepala keluarga **Fisalia** saat ini, Lady **Cantarella**, mewakili puncak kemampuan khusus keluarga tersebut dalam hal racun. Merupakan suatu kehormatan besar telah diundang ke kastil untuk melakukan pemeriksaan kesehatan beliau, dan juga telah diberikan akses tanpa batas ke taman Kastil **Porto-Veno*" untuk keperluan penelitian.
+> Jelas bahwa kepala keluarga **Fisalia** saat ini, Lady **Cantarella**, mewakili puncak kemampuan khusus keluarga tersebut dalam hal racun. Merupakan suatu kehormatan besar telah diundang ke kastil untuk melakukan pemeriksaan kesehatan beliau, dan juga telah diberikan akses tanpa batas ke taman Kastil **Porto-Veno**" untuk keperluan penelitian.
 
 > Kemampuan Lady **Cantarella** adalah bentuk langka dari toksin halusinogenik, berbeda dari racun mematikan yang lebih umum ditemukan dalam keluarga tersebut. Tidak seperti racun biasa, toksin ini tidak menyebabkan kematian langsung. Ketika gerombolan ubur-ubur muncul dari payungnya, lautan **Illusory** yang indah terbentuk di sekitarnya.  Individu yang terkena racun akan pertama kali mengalami halusinasi, mungkin keinginan terdalam mereka atau ilusi yang dibuat-buat. Jika mereka terlalu lama berada di dalam lautan ini, kelumpuhan akan terjadi, diikuti oleh pingsan, dan akhirnya, jika efeknya berlanjut, kematian.
 
