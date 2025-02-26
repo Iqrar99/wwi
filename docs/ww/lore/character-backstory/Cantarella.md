@@ -16,7 +16,7 @@ layout:
 
 
 
-<div align="center"><figure><img src="https://i.postimg.cc/ydkWHzTP/Cantarella-full-img.png" alt="" width="375"><figcaption><p>Pemimpin </strong>Fisalia<strong> saat ini adalah <strong>Cantarella<strong>, <strong>The Bane<strong>. Seorang bangsawan misterius, kecantikannya memikat sekaligus berbahaya. Ia tinggal di sebuah kastil berbentuk mahkota di puncak gunung, tempat mimpi-mimpi ilusi mengalir seperti aliran sungai, yang secara cermat ditenun oleh tangannya sendiri.  (<strong>Illusory dreams<strong>)</p></figcaption></figure></div>
+<div align="center"><figure><img src="https://i.postimg.cc/ydkWHzTP/Cantarella-full-img.png" alt="" width="375"><figcaption><p>Pemimpin <strong>Fisalia</strong> saat ini adalah <strong>Cantarella</strong>, <strong>The Bane</strong>. Seorang bangsawan misterius, kecantikannya memikat sekaligus berbahaya. Ia tinggal di sebuah kastil berbentuk mahkota di puncak gunung, tempat mimpi-mimpi ilusi mengalir seperti aliran sungai, yang secara cermat ditenun oleh tangannya sendiri.  (<strong>Illusory dreams</strong>)</p></figcaption></figure></div>
 
 ## :mag: Informasi
 
