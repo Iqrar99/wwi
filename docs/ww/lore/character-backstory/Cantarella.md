@@ -71,7 +71,7 @@ Payung yang dibawa **Cantarella**. Kanopinya yang bundar menyerupai ubur-ubur ya
 
 Kekerasan tidak pernah menjadi pilihan pertama **Cantarella**, tetapi ketika terpaksa membela diri, ia hanya memutar payungnya, dan dalam sekejap, kanopi memancarkan cahaya yang cemerlang. Dari situ, gerombolan ubur-ubur yang mempesona terbentang, melayang ke laut ilusi yang fantastis.
 
-Menarik musuh-musuhnya ke laut mimpi yang mempesona namun berbahaya ini adalah seni khas **Cantarella**. Seperti pemiliknya, payung itu mungkin tampak lembut dan mengalir, namun ketika dibutuhkan, ia selalu tak dapat dihancurkan."</td></tr><tr><td align="center">Cauldron of Sweet Dreams</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure76_UI.webp" alt=""></td><td>
+Menarik musuh-musuhnya ke laut mimpi yang mempesona namun berbahaya ini adalah seni khas **Cantarella**. Seperti pemiliknya, payung itu mungkin tampak lembut dan mengalir, namun ketika dibutuhkan, ia selalu tak dapat dihancurkan.</td></tr><tr><td align="center">Cauldron of Sweet Dreams</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure76_UI.webp" alt=""></td><td>
 
 Kuali yang digunakan **Cantarella**, **The Sea Witch**, untuk menyeduh ramuan. Safir yang menghiasi kuali itu menandai otoritas **Cantarella** sebagai kepala keluarga Fisalia.
 
@@ -81,7 +81,7 @@ Apa pun yang ia tambahkan, hasilnya selalu berupa periuk mimpi manis yang melaru
 
 Namun, sejak kau membawanya pergi dari **Sea of Ghosts**, mimpi buruk itu telah berhenti.
 
-Sekarang, botol ini dipenuhi dengan ketulusan dan kelembutannya yang langka, seperti cahaya lembut yang menembus jurang, mencerminkan bisikan lembut yang tersembunyi di gelombang yang bergulung.  Ia sekarang menjadi simbol kepercayaan yang diberikan **Cantarella** kepadamu, orang yang telah menavigasi gelombang gelap dan mencapai kedalaman untuknya."</td></tr></tbody></table>
+Sekarang, botol ini dipenuhi dengan ketulusan dan kelembutannya yang langka, seperti cahaya lembut yang menembus jurang, mencerminkan bisikan lembut yang tersembunyi di gelombang yang bergulung.  Ia sekarang menjadi simbol kepercayaan yang diberikan **Cantarella** kepadamu, orang yang telah menavigasi gelombang gelap dan mencapai kedalaman untuknya.</td></tr></tbody></table>
 
 
 ## :scroll: Story
