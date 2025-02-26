@@ -146,11 +146,88 @@ Kau lihat, "**Illusory Dream**" mengalir di dalam pembuluh darah kita, dan suka 
 
 ### <mark style="color:blue;">Jellyfish Lamp</mark>
 
+Di ruangan yang remang-remang, dipenuhi aroma aneh, cahaya kuning redup menerangi buku catatan tua dan kuali yang aneh. Wanita muda itu, terbungkus selendang putih, mencoret-coret catatan di buku sambil dengan santai melemparkan bahan-bahan ke dalam kuali. Asap yang mengepul menggelapkan pakaiannya, meninggalkan bercak hitam dan ungu. Celemeknya yang dulunya bersih sekarang berbintik-bintik, tetapi ia menyeka wajahnya dengan sembarangan, tidak terganggu oleh kekacauan itu.
 
+Air suling, peppermint, biji jarak, daun ikan teritip, rosemary… Aromanya segar, toksisitasnya ringan, dengan efek menenangkan dan analgesik. Ini bisa mengobati sindrom **Infantile Gray Matter** umum yang terlihat baru-baru ini… Aku akan menulis resep ini di catatan kecil dan meninggalkannya untuk Chloe nanti.
+
+Rumput Hilo, okra laut, daun ikan teritip, jus apel laut… Aromanya tidak enak, dan toksisitasnya kuat, meskipun dapat menangkal beberapa reaksi kelumpuhan saraf. Hmm, tetapi efek sampingnya… Tidak apa-apa, aku akan menyimpannya.
+
+Lendir okra laut, daun ikan teritip yang dikeringkan dan dihancurkan, sedikit jus apel laut, sedikit jus Jellyrose… Toksisitas Jellyrose terlalu kuat. Efektif, tetapi terlalu berisiko.
+
+Hancurkan daun ikan teritip, tetesi dengan jus Violacas, campur dengan lendir okra laut, tambahkan sedikit jus apel laut, dan biarkan difermentasi dalam botol kaca… Selesai. Setelah dikonsumsi, ini menenangkan jiwa dan menetralkan sebagian besar reaksi racun.  Sebaiknya aku membagikan beberapa kepada semua orang untuk melewati cobaan dalam beberapa hari mendatang. Dan namanya… oke, aku akan menyebutnya **Velvet Dream**.
+
+Bahan-bahan, metode pengolahan, urutan persiapan, dan suhu lingkungan… Tangani setiap langkah pada saat yang tepat, dan aku dapat menyeduh ramuan yang sempurna.  Aku percaya hal yang sama berlaku untuk kehidupan. Pada saat yang tepat, dengan langkah-langkah yang tepat, sebagian besar masalah dapat dipecahkan.  Tidak peduli seberapa tidak logis aturannya atau seberapa brutal situasinya, selalu ada cara untuk menemukan pendekatan yang tepat.
+
+Oleh karena itu, aku melangkah ke dalam kegelapan dengan lampu, menghadapi ketakutanku. Jurang itu mengejekku—menyendiri, lemah, tidak mampu beradaptasi. Lolongan ejekannya bergema di koridor, suara-suara terpelintir dari kepala keluarga masa lalu menyerbu ke depan, bisikan mereka menelan aku. Serius, kaku, pucat, suram, diam… Mereka terlalu mengenal aku, mampu memprediksi setiap langkahku dan menjebakku dengan mudah.
+
+Tetapi tetap saja, aku memainkan trik pertama dan terakhirku saat aku meminum dosis besar **Velvet Dream** terlebih dahulu.  Saat duri beracun ubur-ubur menusuk kulitku, aku menekan **Jellyrose Medusa** ke kepalaku. Toksin yang ganas bentrok di dalam pembuluh darahku, hampir merobekku. Jiwaku berputar antara hidup dan mati, di ambang tumpah melalui tenggorokanku yang terbakar. Aku tidak bisa mengatakan apakah itu darah, air mata, atau keringat yang bercampur dengan sisa-sisa ramuan… Itu menetes ke lampu yang hampir padam.
+
+Seekor ubur-ubur kecil bergoyang keluar dari cahaya redup. Ketika aku mengangkat mataku, kegelapan terangkat, dan penglihatanku yang kabur dipenuhi dengan ilusi yang berwarna-warni dan hidup.
+Berhasil.
+
+Jadi, seperti yang kukatakan, situasi apa pun dapat dipecahkan dengan langkah-langkah yang tepat pada waktu yang tepat, bahkan jika kau hanya bagian dari prosesnya. Sejak saat itu, aku tetap berada dalam keadaan abadi antara hidup dan mati, antara mimpi dan kenyataan. Aku sering melihat sekilas ilusi yang tersisa, seperti gadis bertopi merah itu. Siapa dia? Apakah itu aku? \
+Atau orang lain? Aku tidak bisa memahaminya.
+
+Bagaimanapun, aku akan abstain dari pemungutan suara. Tidak masalah apakah itu di mimpi atau kenyataan. Aku sudah terbiasa, dan aku bisa bertahan di mana saja.
 
 ### <mark style="color:blue;">Uncaged Bird</mark>
 
+Sejak aku ingat, aku selalu berada di rumah besar dan kosong itu. Aku akan berjalan dari ujung ke ujung, mengetahui setiap ubin di lantai dan setiap botol ramuan di rak. Rumah itu abu-abu, gelap, dan sunyi. Satu-satunya waktu yang pernah terasa hidup adalah ketika seekor burung terbang melewati jendela. Aku akan mengamati sayap putihnya mengepak naik turun sampai ia menjadi tidak lebih dari titik kecil di langit. Di luar itu, langit berubah menjadi biru cerah, dan pepohonan bersinar hijau terang. Itu pemandangan yang sangat indah.
 
+Saat itulah aku bertanya-tanya… apa yang terjadi di hutan lebat itu? Mungkin seorang putri sedang berpetualang.
+
+Aku membayangkan seorang putri yang cerdas yang tahu cara menemukan apel beracun. Ketika seekor ular mengejarnya, seekor burung kecil akan menyelamatkannya, membawanya tinggi ke langit. Di sana, ia akan menemukan seorang gadis bersepatu merah yang tidak bisa berhenti menari dan menyelamatkannya. Kemudian, mereka akan menyelam ke laut untuk menyelamatkan seorang putri duyung yang hampir berubah menjadi buih. Pada akhirnya, burung itu akan membawa mereka semua, terbang sejauh yang bisa sampai ia tidak bisa terbang lagi, akhirnya mendarat di sebuah kastil… Tapi seperti apa kastil itu? Aku hanya berharap itu tidak seperti rumah besar tempatku tinggal—besar dan membosankan.
+
+Maaf, mungkin itu terdengar kacau-balau, bukan? \
+Yah… Ibu dan Ayah selalu mengatakan bahwa gadis-gadis dari keluarga **Fisalia** tidak perlu membaca dongeng-dongeng konyol atau memiliki ide-ide aneh seperti itu. Kita seharusnya membaca buku—buku seperti *Panduan Lengkap Resep Racun*, *Ramuan Rahasia Keluarga Fisalia*, dan *108 Racun yang Tidak Pernah Kau Ketahui*.  Buku-buku itu menarik, tetapi setelah membacanya terlalu banyak kali, mereka menjadi membosankan.
+
+Tetap saja, Ibu dan Ayah bersikeras bahwa aku menghafal semuanya sehingga suatu hari nanti, aku bisa menyelamatkan diriku sendiri, atau bahkan menjadi seorang **Maiden** atau pemimpin keluarga. Itu terdengar seperti tanggung jawab yang besar. Aku tidak begitu memahaminya, tetapi aku melakukan apa yang mereka perintahkan.
+
+Mereka selalu sibuk, selalu bergegas. Setiap kali mereka pergi, mereka mengunci pintu dengan sangat erat dan memeriksanya berulang-ulang. Aku tidak pernah mengerti mengapa mereka menjadi semakin sibuk dan kurus. Dan mengapa mereka minum begitu banyak "air" dan menggumamkan kata-kata aneh?
+
+Aku juga telah belajar mengucapkan kata-kata itu: 
+
+> "Itu adalah kemuliaan dan takdir keluarga **Fisalia**."
+
+Akhirnya, aku tumbuh dewasa dan harus pindah ke rumah yang berbeda. Ketika aku pergi, Ibu dan Ayah tampak bangga, tetapi mata mereka penuh air mata.
+
+> "Memang, Tuan, anak kita memiliki bakat yang luar biasa, terutama dalam menyeduh racun."
+
+> "Ya, menjadi kandidat untuk ujian adalah kemuliaan dan takdir keluarga **Fisalia**."
+
+Itu adalah pertama kalinya aku meninggalkan rumah. Saat aku melangkah keluar, langkah kakiku mengejutkan gagak-gagak yang bertengger di pohon mati dekat gerbang. Mereka mengepakkan sayap hitam mereka dan terbang, menuju sebuah kastil aneh di kejauhan.
+
+Oh, maaf, aku menyimpang lagi. Yang ingin kukatakan adalah... setelah menghabiskan begitu lama terbang melalui mimpi, kau mulai merindukan perasaan kakimu di tanah. Tentu, kau mungkin menginjak lumpur atau tertusuk batu tajam, tetapi ada sesuatu yang menenangkan tentang melangkah di bumi yang padat.
+
+Jadi, ketika tiba waktunya untuk memilih, aku memilih kenyataan—Sisi Lain Mimpi, seperti yang orang dewasa suka menyebutnya. Mereka selalu menggunakan istilah-istilah mewah seperti itu. Tetapi jauh di lubuk hati, kau sudah tahu apa yang benar-benar diinginkan hatimu, bukan? \
+Bukan hanya dalam mimpi, tetapi juga dalam kenyataan. Kau bisa membuka pintu, melangkah keluar, dan pergi bersama semua orang.  Hanya terbang di samping burung-burung putih dan mengejar akhir bahagia untuk semua orang.
 
 ### <mark style="color:blue;">Lucid Dream</mark>
- 
+
+Di ruangan ungu berkabut, suara-suara berbaur—mewah atau mempesona, dingin atau teguh, tulus atau polos.  Mereka saling terkait, membentuk simfoni seperti mimpi.  Cahaya safir berkilauan dengan otoritas yang tenang, halaman-halaman buku berdesir lembut, dan aroma kue yang baru dipanggang bercampur dengan kehangatan ruangan, menciptakan suasana yang manis dan ethereal.
+
+**Cantarella** mengangkat teko yang halus dan menuangkan teh, berbeda dari biasanya.  Bukan lagi warna ungu yang memikat, tetapi secangkir teh dengan kejernihan yang menyegarkan.
+
+> "Terima kasih atas pendapat kalian yang sangat berharga,"
+
+ katanya, meletakkan teko. Aroma segar memenuhi ruangan. 
+
+> "Sekarang, aku sudah memutuskan."
+
+> "Aku akan terus mengenakan mahkota duri, karena racun telah meresap jauh ke dalam tulangku, dan mimpi adalah bagian dari diriku yang tidak bisa kutinggalkan."
+
+> "Aku akan terus menyeduh ramuan, karena mereka dibutuhkan bukan hanya oleh keluarga Fisalia, tetapi oleh semua orang yang berjuang."
+
+> "Aku akan melangkah keluar dan mengikuti penerbangan burung, ke gunung dan jalanan. Bisikan yang pernah menjebak kita telah hilang, dan sekarang kita bebas."
+
+> "Aku masih berada dalam mimpi, tetapi aku akan berusaha merasakan tanah di bawah kakiku… Pada saat singkat antara mimpi dan kenyataan, aku akan berpegang pada apa yang nyata."
+
+**Cantarella** menarik napas dalam-dalam, perlahan membuka matanya. Ia baru saja bangun dari tidur siang sebentar, melangkah keluar dari mimpi yang samar namun jernih.  Sinar matahari pukul tiga siang menyaring jendela kaca, memberikan cahaya lembut di ruangan. Satu-satunya suara yang tersisa adalah gelembung teh yang lembut dan napasnya yang tenang.
+
+Ia mengambil cangkirnya dan menyesapnya. Aroma segar itu menenangkan kegelisahan di mulutnya, tidak lagi berasal dari ilusi atau rasa sakit. Ini adalah teh yang ia beli pagi itu di **Ragunna**—teh biasa saja.  Rasa manis yang samar dan aroma yang lembut mengingatkannya pada angin sepoi-sepoi di pedesaan, pada tetesan embun yang tergantung di daun-daun segar…
+
+Jadi, inilah rasa kedamaian dan kebahagiaan setelah semuanya mereda.
+
+Pintu berderit terbuka. Ia menuangkan secangkir lagi dan menawarkannya kepada tamu yang baru saja tiba. Tamu itu memiliki rambut hitam dan mata emas, kehadiran ketenangan dan kekuatan yang tak tergoyahkan yang membumi ruangan. Siang yang tenang dan damai ini adalah keajaiban yang diberikan oleh tidak lain selain **Rover**.
+
+Sinar matahari lembut menyinari ruangan, dan aroma menyegarkan masih ada di antara mereka, memenuhi ruang di sekitar dua cangkir teh. Ia mengangkat matanya yang ungu kebiruan, kabut telah lama memudar, tatapannya sekarang seperti laut yang tenang, hanya dengan riak perasaan yang lembut.
