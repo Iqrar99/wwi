@@ -65,19 +65,19 @@ Kesalahan sistem, peringatan. Kesalahan sistem, tidak terbac▇▇▇%&#
 
 ## :package: Cherished Items
 
-<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">TBA</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure75_UI.webp" alt=""></td><td>
+<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">TBA</td><td><img src="https://api.hakushTBA.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure75_UI.webp" alt=""></td><td>
 
 Payung yang dibawa **Cantarella**. Kanopinya yang bundar menyerupai ubur-ubur yang lembut dan gemuk dengan tentakel panjang dan anggun yang tampak melayang tanpa beban di udara. Tulang payungnya dibuat dari karang laut dalam, yang secara cermat dibentuk menjadi lekukan sempurna yang berkilauan dengan cahaya lembut, indah dan lembut sekaligus kuat dan tak tergoyahkan. Di gagangnya, safir tertanam, simbol otoritas yang tak tergoyahkan dari kepala keluarga.
 
 Kekerasan tidak pernah menjadi pilihan pertama **Cantarella**, tetapi ketika terpaksa membela diri, ia hanya memutar payungnya, dan dalam sekejap, kanopi memancarkan cahaya yang cemerlang. Dari situ, gerombolan ubur-ubur yang mempesona terbentang, melayang ke laut ilusi yang fantastis.
 
-Menarik musuh-musuhnya ke laut mimpi yang mempesona namun berbahaya ini adalah seni khas **Cantarella**. Seperti pemiliknya, payung itu mungkin tampak lembut dan mengalir, namun ketika dibutuhkan, ia selalu tak dapat dihancurkan.</td></tr><tr><td align="center">Cauldron of Sweet Dreams</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure76_UI.webp" alt=""></td><td>
+Menarik musuh-musuhnya ke laut mimpi yang mempesona namun berbahaya ini adalah seni khas **Cantarella**. Seperti pemiliknya, payung itu mungkin tampak lembut dan mengalir, namun ketika dibutuhkan, ia selalu tak dapat dihancurkan.</td></tr><tr><td align="center">Cauldron of Sweet Dreams</td><td><img src="https://api.hakushTBA.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure76_UI.webp" alt=""></td><td>
 
 Kuali yang digunakan **Cantarella**, **The Sea Witch**, untuk menyeduh ramuan. Safir yang menghiasi kuali itu menandai otoritas **Cantarella** sebagai kepala keluarga Fisalia.
 
 Ia sering membiarkan keinginan hatinya membimbingnya, dengan sembarangan memasukkan bahan-bahan yang tak terduga, seperti tentakel ubur-ubur, sisik ikan, air mata orang yang patah hati, dan bahkan bisikan yang berlama-lama di udara.
 
-Apa pun yang ia tambahkan, hasilnya selalu berupa periuk mimpi manis yang melarutkan kepahitan kenyataan, dengan lembut menenangkan mereka yang tersesat dalam jurang.</td></tr><tr><td align="center">Potion Bottle</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure78_UI.webp" alt=""></td><td>**Cantarella** selalu membawa botol ramuan ini, dihiasi dengan safir secerah yang ia kenakan sebagai tanda otoritasnya. Di dalamnya, ia menyimpan ramuan khusus, yang ia siapkan dengan hati-hati untuk meredakan kelelahan dan menenangkan mimpi buruk.
+Apa pun yang ia tambahkan, hasilnya selalu berupa periuk mimpi manis yang melarutkan kepahitan kenyataan, dengan lembut menenangkan mereka yang tersesat dalam jurang.</td></tr><tr><td align="center">Potion Bottle</td><td><img src="https://api.hakushTBA.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure78_UI.webp" alt=""></td><td>**Cantarella** selalu membawa botol ramuan ini, dihiasi dengan safir secerah yang ia kenakan sebagai tanda otoritasnya. Di dalamnya, ia menyimpan ramuan khusus, yang ia siapkan dengan hati-hati untuk meredakan kelelahan dan menenangkan mimpi buruk.
 
 Namun, sejak kau membawanya pergi dari **Sea of Ghosts**, mimpi buruk itu telah berhenti.
 
@@ -153,54 +153,56 @@ Organ-organ yang terpelintir dan kabut beracun yang dihembuskan,
 Racun dan toksin yang dibanggakan keluarga **Fisalia** dan kemampuan yang lahir darinya pasti akan dihancurkan oleh bisikan… \
 Pada akhirnya, mereka berguna ketika digunakan untuk mencari akhir kehidupan, baik bagi keluarga **Fisalia** sendiri maupun kerabat mereka.
 
-Ini telah lama menjadi norma sampai aku mengembangkan "**Illusory Dream**". Ketika mahkota berduri itu masuk ke dagingku, darah mengalir dalam warna yang aneh dan berkilauan. Teh hitam yang diseduh dengan merkuri terasa seperti nektar madu yang kaya, sementara kue kering yang direndam dalam jus **Jellyrose** memiliki rasa manis yang lembut.  Rasa panas di tenggorokanku sangat menyengat, seolah-olah dengan tergesa-gesa menelan seluruh buah ceri, dan sensasi yang menyesakkan seperti melayang di laut tak berujung… Perlahan, rasa sakit itu memudar, dan tubuh serta pikiran menjadi ringan seperti udara. Botol-botol racun pecah di lantai, dan ekspresi kita berubah lega. Bisikan itu tak berdaya di dunia yang ditenun oleh lautan mimpi, karena itu dengan lembut melarutkan semua perselisihan. Di tengah gelombang warna-warni, mahkota berduri yang dulunya keras itu menjadi lunak… Sangat lembut sehingga membentuk lipatan-lipatan halus, bertengger ringan di kepalaku. Ia menjadi ringan dan murni, seperti bulu ekor **Celestial Steed**.
+> Ini telah lama menjadi norma sampai aku mengembangkan "**Illusory Dream**". Ketika mahkota berduri itu masuk ke dagingku, darah mengalir dalam warna yang aneh dan berkilauan. Teh hitam yang diseduh dengan merkuri terasa seperti nektar madu yang kaya, sementara kue kering yang direndam dalam jus **Jellyrose** memiliki rasa manis yang lembut.  Rasa panas di tenggorokanku sangat menyengat, seolah-olah dengan tergesa-gesa menelan seluruh buah ceri, dan sensasi yang menyesakkan seperti melayang di laut tak berujung… Perlahan, rasa sakit itu memudar, dan tubuh serta pikiran menjadi ringan seperti udara. Botol-botol racun pecah di lantai, dan ekspresi kita berubah lega. Bisikan itu tak berdaya di dunia yang ditenun oleh lautan mimpi, karena itu dengan lembut melarutkan semua perselisihan. Di tengah gelombang warna-warni, mahkota berduri yang dulunya keras itu menjadi lunak… Sangat lembut sehingga membentuk lipatan-lipatan halus, bertengger ringan di kepalaku. Ia menjadi ringan dan murni, seperti bulu ekor **Celestial Steed**.
 
-Itulah mengapa aku memberikan suara untuk "**Illusory Dream**". Lagipula, apa salahnya ilusi ini? \
-Bukankah kita semua telah mengembara di sini begitu lama? \
-Biarkan "**Velvet Dream**" mengalir ke air terjun di belakang kastil, dan biarkan seluruh Ragunna jatuh ke dalam mimpi yang dibentuk oleh tanganku… Yakinlah, ini hanya lelucon. Aku tidak berusaha untuk mengendalikan tetapi hanya berharap agar semua orang hidup lebih damai.
+> Itulah mengapa aku memberikan suara untuk "**Illusory Dream**". Lagipula, apa salahnya ilusi ini? \
+> Bukankah kita semua telah mengembara di sini begitu lama? \
+> Biarkan "**Velvet Dream**" mengalir ke air terjun di belakang kastil, dan biarkan seluruh Ragunna jatuh ke dalam mimpi yang dibentuk oleh tanganku… Yakinlah, ini hanya lelucon. Aku tidak berusaha untuk mengendalikan tetapi hanya berharap agar semua orang hidup lebih damai.
 
-Kau lihat, "**Illusory Dream**" mengalir di dalam pembuluh darah kita, dan suka atau tidak suka, itu adalah bagian permanen dan tak terpisahkan dari diri kita.
+> Kau lihat, "**Illusory Dream**" mengalir di dalam pembuluh darah kita, dan suka atau tidak suka, itu adalah bagian permanen dan tak terpisahkan dari diri kita.
 
 ### <mark style="color:blue;">Jellyfish Lamp</mark>
 
 Di ruangan yang remang-remang, dipenuhi aroma aneh, cahaya kuning redup menerangi buku catatan tua dan kuali yang aneh. Wanita muda itu, terbungkus selendang putih, mencoret-coret catatan di buku sambil dengan santai melemparkan bahan-bahan ke dalam kuali. Asap yang mengepul menggelapkan pakaiannya, meninggalkan bercak hitam dan ungu. Celemeknya yang dulunya bersih sekarang berbintik-bintik, tetapi ia menyeka wajahnya dengan sembarangan, tidak terganggu oleh kekacauan itu.
 
-Air suling, peppermint, biji jarak, daun ikan teritip, rosemary… Aromanya segar, toksisitasnya ringan, dengan efek menenangkan dan analgesik. Ini bisa mengobati sindrom **Infantile Gray Matter** umum yang terlihat baru-baru ini… Aku akan menulis resep ini di catatan kecil dan meninggalkannya untuk Chloe nanti.
+> **Air suling**, **peppermint**, **biji jarak**, **daun ikan teritip**, **rosemary**… Aromanya segar, toksisitasnya ringan, dengan efek menenangkan dan analgesik. Ini bisa mengobati sindrom **Infantile Gray Matter** umum yang terlihat baru-baru ini… Aku akan menulis resep ini di catatan kecil dan meninggalkannya untuk **Chloe** nanti.
 
-Rumput Hilo, okra laut, daun ikan teritip, jus apel laut… Aromanya tidak enak, dan toksisitasnya kuat, meskipun dapat menangkal beberapa reaksi kelumpuhan saraf. Hmm, tetapi efek sampingnya… Tidak apa-apa, aku akan menyimpannya.
+> **Rumput Hilo**, **okra laut**, **daun ikan teritip**, **jus apel laut**… Aromanya tidak enak, dan toksisitasnya kuat, meskipun dapat menangkal beberapa reaksi kelumpuhan saraf. Hmm, tetapi efek sampingnya… Tidak apa-apa, aku akan menyimpannya.
 
-Lendir okra laut, daun ikan teritip yang dikeringkan dan dihancurkan, sedikit jus apel laut, sedikit jus Jellyrose… Toksisitas Jellyrose terlalu kuat. Efektif, tetapi terlalu berisiko.
+> **Lendir okra laut**, **daun ikan teritip** yang dikeringkan dan dihancurkan, sedikit **jus apel laut**, sedikit **jus Jellyrose**… Toksisitas Jellyrose terlalu kuat. Efektif, tetapi terlalu berisiko.
 
-Hancurkan daun ikan teritip, tetesi dengan jus Violacas, campur dengan lendir okra laut, tambahkan sedikit jus apel laut, dan biarkan difermentasi dalam botol kaca… Selesai. Setelah dikonsumsi, ini menenangkan jiwa dan menetralkan sebagian besar reaksi racun.  Sebaiknya aku membagikan beberapa kepada semua orang untuk melewati cobaan dalam beberapa hari mendatang. Dan namanya… oke, aku akan menyebutnya **Velvet Dream**.
+> Hancurkan **daun ikan teritip**, tetesi dengan **jus Violacas**, campur dengan **lendir okra laut**, tambahkan sedikit **jus apel laut**, dan biarkan difermentasi dalam botol kaca… Selesai. Setelah dikonsumsi, ini menenangkan jiwa dan menetralkan sebagian besar reaksi racun.  Sebaiknya aku membagikan beberapa kepada semua orang untuk melewati cobaan dalam beberapa hari mendatang. Dan namanya… oke, aku akan menyebutnya **Velvet Dream**.
 
-Bahan-bahan, metode pengolahan, urutan persiapan, dan suhu lingkungan… Tangani setiap langkah pada saat yang tepat, dan aku dapat menyeduh ramuan yang sempurna.  Aku percaya hal yang sama berlaku untuk kehidupan. Pada saat yang tepat, dengan langkah-langkah yang tepat, sebagian besar masalah dapat dipecahkan.  Tidak peduli seberapa tidak logis aturannya atau seberapa brutal situasinya, selalu ada cara untuk menemukan pendekatan yang tepat.
+> Bahan-bahan, metode pengolahan, urutan persiapan, dan suhu lingkungan… Tangani setiap langkah pada saat yang tepat, dan aku dapat menyeduh ramuan yang sempurna.  Aku percaya hal yang sama berlaku untuk kehidupan. Pada saat yang tepat, dengan langkah-langkah yang tepat, sebagian besar masalah dapat dipecahkan.  Tidak peduli seberapa tidak logis aturannya atau seberapa brutal situasinya, selalu ada cara untuk menemukan pendekatan yang tepat.
 
-Oleh karena itu, aku melangkah ke dalam kegelapan dengan lampu, menghadapi ketakutanku. Jurang itu mengejekku—menyendiri, lemah, tidak mampu beradaptasi. Lolongan ejekannya bergema di koridor, suara-suara terpelintir dari kepala keluarga masa lalu menyerbu ke depan, bisikan mereka menelan aku. Serius, kaku, pucat, suram, diam… Mereka terlalu mengenal aku, mampu memprediksi setiap langkahku dan menjebakku dengan mudah.
+> Oleh karena itu, aku melangkah ke dalam kegelapan dengan lampu, menghadapi ketakutanku. Jurang itu mengejekku—menyendiri, lemah, tidak mampu beradaptasi. Lolongan ejekannya bergema di koridor, suara-suara terpelintir dari kepala keluarga masa lalu menyerbu ke depan, bisikan mereka menelan aku. Serius, kaku, pucat, suram, diam… Mereka terlalu mengenal aku, mampu memprediksi setiap langkahku dan menjebakku dengan mudah.
 
-Tetapi tetap saja, aku memainkan trik pertama dan terakhirku saat aku meminum dosis besar **Velvet Dream** terlebih dahulu.  Saat duri beracun ubur-ubur menusuk kulitku, aku menekan **Jellyrose Medusa** ke kepalaku. Toksin yang ganas bentrok di dalam pembuluh darahku, hampir merobekku. Jiwaku berputar antara hidup dan mati, di ambang tumpah melalui tenggorokanku yang terbakar. Aku tidak bisa mengatakan apakah itu darah, air mata, atau keringat yang bercampur dengan sisa-sisa ramuan… Itu menetes ke lampu yang hampir padam.
+> Tetapi tetap saja, aku memainkan trik pertama dan terakhirku saat aku meminum dosis besar **Velvet Dream** terlebih dahulu.  Saat duri beracun ubur-ubur menusuk kulitku, aku menekan **Jellyrose Medusa** ke kepalaku. Toksin yang ganas bentrok di dalam pembuluh darahku, hampir merobekku. Jiwaku berputar antara hidup dan mati, di ambang tumpah melalui tenggorokanku yang terbakar. Aku tidak bisa mengatakan apakah itu darah, air mata, atau keringat yang bercampur dengan sisa-sisa ramuan… Itu menetes ke lampu yang hampir padam.
 
-Seekor ubur-ubur kecil bergoyang keluar dari cahaya redup. Ketika aku mengangkat mataku, kegelapan terangkat, dan penglihatanku yang kabur dipenuhi dengan ilusi yang berwarna-warni dan hidup.
+> Seekor ubur-ubur kecil bergoyang keluar dari cahaya redup. Ketika aku mengangkat mataku, kegelapan terangkat, dan penglihatanku yang kabur dipenuhi dengan ilusi yang berwarna-warni dan hidup.
 Berhasil.
 
-Jadi, seperti yang kukatakan, situasi apa pun dapat dipecahkan dengan langkah-langkah yang tepat pada waktu yang tepat, bahkan jika kau hanya bagian dari prosesnya. Sejak saat itu, aku tetap berada dalam keadaan abadi antara hidup dan mati, antara mimpi dan kenyataan. Aku sering melihat sekilas ilusi yang tersisa, seperti gadis bertopi merah itu. Siapa dia? Apakah itu aku? \
-Atau orang lain? Aku tidak bisa memahaminya.
+> Jadi, seperti yang kukatakan, situasi apa pun dapat dipecahkan dengan langkah-langkah yang tepat pada waktu yang tepat, bahkan jika kau hanya bagian dari prosesnya. Sejak saat itu, aku tetap berada dalam keadaan abadi antara hidup dan mati, antara mimpi dan kenyataan. Aku sering melihat sekilas ilusi yang tersisa, seperti gadis bertopi merah itu. Siapa dia? \
+> Apakah itu aku? \
+> Atau orang lain? \
+> Aku tidak bisa memahaminya.
 
-Bagaimanapun, aku akan abstain dari pemungutan suara. Tidak masalah apakah itu di mimpi atau kenyataan. Aku sudah terbiasa, dan aku bisa bertahan di mana saja.
+> Bagaimanapun, aku akan abstain dari pemungutan suara. Tidak masalah apakah itu di mimpi atau kenyataan. Aku sudah terbiasa, dan aku bisa bertahan di mana saja.
 
 ### <mark style="color:blue;">Uncaged Bird</mark>
 
-Sejak aku ingat, aku selalu berada di rumah besar dan kosong itu. Aku akan berjalan dari ujung ke ujung, mengetahui setiap ubin di lantai dan setiap botol ramuan di rak. Rumah itu abu-abu, gelap, dan sunyi. Satu-satunya waktu yang pernah terasa hidup adalah ketika seekor burung terbang melewati jendela. Aku akan mengamati sayap putihnya mengepak naik turun sampai ia menjadi tidak lebih dari titik kecil di langit. Di luar itu, langit berubah menjadi biru cerah, dan pepohonan bersinar hijau terang. Itu pemandangan yang sangat indah.
+> Sejak aku ingat, aku selalu berada di rumah besar dan kosong itu. Aku akan berjalan dari ujung ke ujung, mengetahui setiap ubin di lantai dan setiap botol ramuan di rak. Rumah itu abu-abu, gelap, dan sunyi. Satu-satunya waktu yang pernah terasa hidup adalah ketika seekor burung terbang melewati jendela. Aku akan mengamati sayap putihnya mengepak naik turun sampai ia menjadi tidak lebih dari titik kecil di langit. Di luar itu, langit berubah menjadi biru cerah, dan pepohonan bersinar hijau terang. Itu pemandangan yang sangat indah.
 
-Saat itulah aku bertanya-tanya… apa yang terjadi di hutan lebat itu? Mungkin seorang putri sedang berpetualang.
+> Saat itulah aku bertanya-tanya… apa yang terjadi di hutan lebat itu? Mungkin seorang putri sedang berpetualang.
 
-Aku membayangkan seorang putri yang cerdas yang tahu cara menemukan apel beracun. Ketika seekor ular mengejarnya, seekor burung kecil akan menyelamatkannya, membawanya tinggi ke langit. Di sana, ia akan menemukan seorang gadis bersepatu merah yang tidak bisa berhenti menari dan menyelamatkannya. Kemudian, mereka akan menyelam ke laut untuk menyelamatkan seorang putri duyung yang hampir berubah menjadi buih. Pada akhirnya, burung itu akan membawa mereka semua, terbang sejauh yang bisa sampai ia tidak bisa terbang lagi, akhirnya mendarat di sebuah kastil… Tapi seperti apa kastil itu? Aku hanya berharap itu tidak seperti rumah besar tempatku tinggal—besar dan membosankan.
+> Aku membayangkan seorang putri yang cerdas yang tahu cara menemukan apel beracun. Ketika seekor ular mengejarnya, seekor burung kecil akan menyelamatkannya, membawanya tinggi ke langit. Di sana, ia akan menemukan seorang gadis bersepatu merah yang tidak bisa berhenti menari dan menyelamatkannya. Kemudian, mereka akan menyelam ke laut untuk menyelamatkan seorang putri duyung yang hampir berubah menjadi buih. Pada akhirnya, burung itu akan membawa mereka semua, terbang sejauh yang bisa sampai ia tidak bisa terbang lagi, akhirnya mendarat di sebuah kastil… Tapi seperti apa kastil itu? Aku hanya berharap itu tidak seperti rumah besar tempatku tinggal—besar dan membosankan.
 
-Maaf, mungkin itu terdengar kacau-balau, bukan? \
-Yah… Ibu dan Ayah selalu mengatakan bahwa gadis-gadis dari keluarga **Fisalia** tidak perlu membaca dongeng-dongeng konyol atau memiliki ide-ide aneh seperti itu. Kita seharusnya membaca buku—buku seperti *Panduan Lengkap Resep Racun*, *Ramuan Rahasia Keluarga Fisalia*, dan *108 Racun yang Tidak Pernah Kau Ketahui*.  Buku-buku itu menarik, tetapi setelah membacanya terlalu banyak kali, mereka menjadi membosankan.
+> Maaf, mungkin itu terdengar kacau-balau, bukan? \
+> Yah… Ibu dan Ayah selalu mengatakan bahwa gadis-gadis dari keluarga **Fisalia** tidak perlu membaca dongeng-dongeng konyol atau memiliki ide-ide aneh seperti itu. Kita seharusnya membaca buku—buku seperti *Panduan Lengkap Resep Racun*, *Ramuan Rahasia Keluarga Fisalia*, dan *108 Racun yang Tidak Pernah Kau Ketahui*.  Buku-buku itu menarik, tetapi setelah membacanya terlalu banyak kali, mereka menjadi membosankan.
 
-Tetap saja, Ibu dan Ayah bersikeras bahwa aku menghafal semuanya sehingga suatu hari nanti, aku bisa menyelamatkan diriku sendiri, atau bahkan menjadi seorang **Maiden** atau pemimpin keluarga. Itu terdengar seperti tanggung jawab yang besar. Aku tidak begitu memahaminya, tetapi aku melakukan apa yang mereka perintahkan.
+> Tetap saja, Ibu dan Ayah bersikeras bahwa aku menghafal semuanya sehingga suatu hari nanti, aku bisa menyelamatkan diriku sendiri, atau bahkan menjadi seorang **Maiden** atau pemimpin keluarga. Itu terdengar seperti tanggung jawab yang besar. Aku tidak begitu memahaminya, tetapi aku melakukan apa yang mereka perintahkan.
 
-Mereka selalu sibuk, selalu bergegas. Setiap kali mereka pergi, mereka mengunci pintu dengan sangat erat dan memeriksanya berulang-ulang. Aku tidak pernah mengerti mengapa mereka menjadi semakin sibuk dan kurus. Dan mengapa mereka minum begitu banyak "air" dan menggumamkan kata-kata aneh?
+> Mereka selalu sibuk, selalu bergegas. Setiap kali mereka pergi, mereka mengunci pintu dengan sangat erat dan memeriksanya berulang-ulang. Aku tidak pernah mengerti mengapa mereka menjadi semakin sibuk dan kurus. Dan mengapa mereka minum begitu banyak "air" dan menggumamkan kata-kata aneh?
 
 Aku juga telah belajar mengucapkan kata-kata itu: 
 
@@ -212,9 +214,9 @@ Akhirnya, aku tumbuh dewasa dan harus pindah ke rumah yang berbeda. Ketika aku p
 
 > "Ya, menjadi kandidat untuk ujian adalah kemuliaan dan takdir keluarga **Fisalia**."
 
-Itu adalah pertama kalinya aku meninggalkan rumah. Saat aku melangkah keluar, langkah kakiku mengejutkan gagak-gagak yang bertengger di pohon mati dekat gerbang. Mereka mengepakkan sayap hitam mereka dan terbang, menuju sebuah kastil aneh di kejauhan.
+> Itu adalah pertama kalinya aku meninggalkan rumah. Saat aku melangkah keluar, langkah kakiku mengejutkan gagak-gagak yang bertengger di pohon mati dekat gerbang. Mereka mengepakkan sayap hitam mereka dan terbang, menuju sebuah kastil aneh di kejauhan.
 
-Oh, maaf, aku menyimpang lagi. Yang ingin kukatakan adalah... setelah menghabiskan begitu lama terbang melalui mimpi, kau mulai merindukan perasaan kakimu di tanah. Tentu, kau mungkin menginjak lumpur atau tertusuk batu tajam, tetapi ada sesuatu yang menenangkan tentang melangkah di bumi yang padat.
+> Oh, maaf, aku menyimpang lagi. Yang ingin kukatakan adalah... setelah menghabiskan begitu lama terbang melalui mimpi, kau mulai merindukan perasaan kakimu di tanah. Tentu, kau mungkin menginjak lumpur atau tertusuk batu tajam, tetapi ada sesuatu yang menenangkan tentang melangkah di bumi yang padat.
 
 Jadi, ketika tiba waktunya untuk memilih, aku memilih kenyataan—Sisi Lain Mimpi, seperti yang orang dewasa suka menyebutnya. Mereka selalu menggunakan istilah-istilah mewah seperti itu. Tetapi jauh di lubuk hati, kau sudah tahu apa yang benar-benar diinginkan hatimu, bukan? \
 Bukan hanya dalam mimpi, tetapi juga dalam kenyataan. Kau bisa membuka pintu, melangkah keluar, dan pergi bersama semua orang.  Hanya terbang di samping burung-burung putih dan mengejar akhir bahagia untuk semua orang.
