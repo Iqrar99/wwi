@@ -14,8 +14,6 @@ layout:
 
 # Cantarella
 
-
-
 <div align="center"><figure><img src="https://i.postimg.cc/ydkWHzTP/Cantarella-full-img.png" alt="" width="375"><figcaption><p>Pemimpin <strong>Fisalia</strong> saat ini adalah <strong>Cantarella</strong>, <strong>The Bane</strong>. Seorang bangsawan misterius, kecantikannya memikat sekaligus berbahaya. Ia tinggal di sebuah kastil berbentuk mahkota di puncak gunung, tempat mimpi-mimpi ilusi mengalir seperti aliran sungai, yang secara cermat ditenun oleh tangannya sendiri.  (<strong>Illusory dreams</strong>)</p></figcaption></figure></div>
 
 ## :mag: Informasi
@@ -198,7 +196,7 @@ Berhasil.
 > Aku membayangkan seorang putri yang cerdas yang tahu cara menemukan apel beracun. Ketika seekor ular mengejarnya, seekor burung kecil akan menyelamatkannya, membawanya tinggi ke langit. Di sana, ia akan menemukan seorang gadis bersepatu merah yang tidak bisa berhenti menari dan menyelamatkannya. Kemudian, mereka akan menyelam ke laut untuk menyelamatkan seorang putri duyung yang hampir berubah menjadi buih. Pada akhirnya, burung itu akan membawa mereka semua, terbang sejauh yang bisa sampai ia tidak bisa terbang lagi, akhirnya mendarat di sebuah kastil… Tapi seperti apa kastil itu? Aku hanya berharap itu tidak seperti rumah besar tempatku tinggal—besar dan membosankan.
 
 > Maaf, mungkin itu terdengar kacau-balau, bukan? \
-> Yah… Ibu dan Ayah selalu mengatakan bahwa gadis-gadis dari keluarga **Fisalia** tidak perlu membaca dongeng-dongeng konyol atau memiliki ide-ide aneh seperti itu. Kita seharusnya membaca buku—buku seperti *Panduan Lengkap Resep Racun*, *Ramuan Rahasia Keluarga Fisalia*, dan *108 Racun yang Tidak Pernah Kau Ketahui*.  Buku-buku itu menarik, tetapi setelah membacanya terlalu banyak kali, mereka menjadi membosankan.
+> Yah… Ibu dan Ayah selalu mengatakan bahwa gadis-gadis dari keluarga **Fisalia** tidak perlu membaca dongeng-dongeng konyol atau memiliki ide-ide aneh seperti itu. Kita seharusnya membaca buku—buku seperti **Panduan Lengkap Resep Racun**, **Ramuan Rahasia Keluarga Fisalia**, dan **108 Racun yang Tidak Pernah Kau Ketahui**.  Buku-buku itu menarik, tetapi setelah membacanya terlalu banyak kali, mereka menjadi membosankan.
 
 > Tetap saja, Ibu dan Ayah bersikeras bahwa aku menghafal semuanya sehingga suatu hari nanti, aku bisa menyelamatkan diriku sendiri, atau bahkan menjadi seorang **Maiden** atau pemimpin keluarga. Itu terdengar seperti tanggung jawab yang besar. Aku tidak begitu memahaminya, tetapi aku melakukan apa yang mereka perintahkan.
 
@@ -218,7 +216,7 @@ Akhirnya, aku tumbuh dewasa dan harus pindah ke rumah yang berbeda. Ketika aku p
 
 > Oh, maaf, aku menyimpang lagi. Yang ingin kukatakan adalah... setelah menghabiskan begitu lama terbang melalui mimpi, kau mulai merindukan perasaan kakimu di tanah. Tentu, kau mungkin menginjak lumpur atau tertusuk batu tajam, tetapi ada sesuatu yang menenangkan tentang melangkah di bumi yang padat.
 
-Jadi, ketika tiba waktunya untuk memilih, aku memilih kenyataan—Sisi Lain Mimpi, seperti yang orang dewasa suka menyebutnya. Mereka selalu menggunakan istilah-istilah mewah seperti itu. Tetapi jauh di lubuk hati, kau sudah tahu apa yang benar-benar diinginkan hatimu, bukan? \
+> Jadi, ketika tiba waktunya untuk memilih, aku memilih kenyataan—Sisi Lain Mimpi, seperti yang orang dewasa suka menyebutnya. Mereka selalu menggunakan istilah-istilah mewah seperti itu. Tetapi jauh di lubuk hati, kau sudah tahu apa yang benar-benar diinginkan hatimu, bukan? \
 Bukan hanya dalam mimpi, tetapi juga dalam kenyataan. Kau bisa membuka pintu, melangkah keluar, dan pergi bersama semua orang.  Hanya terbang di samping burung-burung putih dan mengejar akhir bahagia untuk semua orang.
 
 ### <mark style="color:blue;">Lucid Dream</mark>
@@ -229,7 +227,7 @@ Di ruangan ungu berkabut, suara-suara berbaur—mewah atau mempesona, dingin ata
 
 > "Terima kasih atas pendapat kalian yang sangat berharga,"
 
- katanya, meletakkan teko. Aroma segar memenuhi ruangan. 
+katanya, meletakkan teko. Aroma segar memenuhi ruangan. 
 
 > "Sekarang, aku sudah memutuskan."
 
