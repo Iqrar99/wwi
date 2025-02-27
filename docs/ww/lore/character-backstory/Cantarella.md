@@ -30,7 +30,7 @@ layout:
 
 ### <mark style="color:blue;">**Resonance Power**</mark>
 
-> TBA
+> Sea Of Dreams
 
 ### <mark style="color:blue;">Resonance Evaluation Report</mark>
 
@@ -86,7 +86,7 @@ Sekarang, botol ini dipenuhi dengan ketulusan dan kelembutannya yang langka, sep
 
 ## :scroll: Story
 
-### <mark style="color:blue;">Sea Of Dreams</mark>
+### <mark style="color:blue;">Stay Tuned</mark>
 
 Cahaya menyaring kaca patri, membentuk pola berbintik-bintik di sofa merah tua.
 
