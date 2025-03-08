@@ -25,6 +25,7 @@ layout:
 
 * Add more backstories
 * Fix some typos
+* Fix formatting
 
 ## 18/02/2025
 

@@ -75,7 +75,7 @@ Permohonan **Troupe of Fools** disetujui. Mereka akan bertanggung jawab penuh at
 
 ### :scroll: Story
 
-#### <mark style="color:blue;">An Improvised Afternoon at the Tavern</mark>
+### <mark style="color:blue;">An Improvised Afternoon at the Tavern</mark>
 
 Suara guntur memecah irama bartender saat dia mengocok alat pengocok koktail, dan hujan deras yang menyusul langsung meredam sedikit keceriaan di antara para pengunjung. **Tavern**, kini hanya tempat berlindung yang basah kuyup, tidak memiliki cerita yang layak diceritakan. Bartender mengocok minumannya perlahan, bunyi denting es yang samar hampir tidak terdengar. Para pengunjung menguap terus-menerus seolah-olah minuman mereka pun telah kehilangan rasanya.
 
@@ -127,7 +127,7 @@ Ketika debu mereda, tavern dipenuhi dengan pita berwarna-warni, balon, dan hadia
 
 Para pengunjung tavern mengambil hadiah yang berserakan. Yang mengejutkan mereka, masing-masing adalah tiket untuk pertunjukan oleh **Troupe of Fools**.
 
-#### <mark style="color:blue;">Dusk, When Fools Sing</mark>
+### <mark style="color:blue;">Dusk, When Fools Sing</mark>
 
 Saat latihan berakhir, awan merah seakan membakar tepi laut.
 
@@ -172,9 +172,7 @@ Kapten menyipitkan matanya, menyerah pada rasa manis permen sebelum itu menyebab
 
 > "Dan sekarang, teman-teman **Fool**ku, mari kita isi perut kita!"
 
-#### <mark style="color:blue;">Reflections by the Campfire</mark>
-
-## Reflections by the Campfire
+### <mark style="color:blue;">Reflections by the Campfire</mark>
 
 Larut malam, **Brant** duduk di dekat api unggun untuk mengatur segala sesuatu yang dibutuhkan untuk pertunjukan.
 
@@ -201,9 +199,9 @@ Dengan sangat hati-hati, dia menyimpan properti panggung terpenting ini.
 
 Karena dia tahu bahwa hanya dengan menghormati dirinya sendiri, dia benar-benar dapat menjadikan tempat yang dia pijak sebagai lautannya.
 
-#### <mark style="color:blue;">Through the Sea Storms</mark>
+### <mark style="color:blue;">Through the Sea Storms</mark>
 
-## Through the Sea Storms
+
 
 Guntur menggelegar di telinganya, dan hujan deras membenamkan setiap suara kecuali suaranya sendiri.
 
@@ -271,7 +269,7 @@ Tapi untuk saat ini, **Brant** berdiri tegak di atas binatang itu, memberi horma
 
 > "BRAVO! BRAVO!"
 
-#### <mark style="color:blue;">When the Carnevale Ends</mark>
+### <mark style="color:blue;">When the Carnevale Ends</mark>
 
 Pesta sepanjang malam akhirnya berakhir. Di **Liberty Square**, konfeti dan pita masih berkilauan samar-samar di cahaya pagi. Orang yang lewat berbisik tentang penampilan malam sebelumnya, sebuah tontonan singkat bagi mereka. Tetapi bagi para pemain di atas panggung, jatuhnya tirai bukan hanya akhir, tetapi menandai awal dari sesuatu yang baru.
 
