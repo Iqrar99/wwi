@@ -21,6 +21,11 @@ layout:
 
 # Changelogs
 
+## 08/03/2025
+
+* Add more backstories
+* Fix some typos
+
 ## 18/02/2025
 
 * Add more backstories

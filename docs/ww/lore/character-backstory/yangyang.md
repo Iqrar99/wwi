@@ -14,13 +14,11 @@ layout:
 
 # Yangyang
 
-
-
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1402.png" alt="" width="375"><figcaption><p><strong>Yangyang</strong> adalah seorang <strong>Outrider</strong> dari <strong>Midnight Rangers</strong>. Dahulu dilindungi, kini menjadi pejuang. Ia melayang bersama angin untuk melindungi orang lain, bagaikan burung skylark di udara.</p></figcaption></figure></div>
 
 ## :mag: Informasi
 
-| Tanggal Lahir | 11 October |
+| Tanggal Lahir | 11 Oktober |
 | ------------- | ---------- |
 | Jenis Kelamin | Perempuan  |
 | Tempat Lahir  | Huanglong  |
@@ -48,7 +46,7 @@ Analisis terhadap sampel uji menunjukkan **Rabelle’s Curve** yang tidak konver
 
 ### <mark style="color:blue;">Overclock Diagnostic Report</mark>
 
-Grafik gelombang dari **Resonator Yangyang** menunjukkan fluktuasi elips yang stabil dalam **Time Domain** tanpa pola abnormal. \
+Grafik gelombang dari **Resonator Yangyang** menunjukkan fluktuasi elips yang stabil dalam **Time Domain** tanpa pola abnormal.\
 Setelah dilakukan pemeriksaan, semua hasilnya berada dalam parameter normal.
 
 Dari segi **Resonant Criticality**, **Resonator Yangyang** berada di peringkat yang relatif rendah dengan tingkat stabilitas yang tinggi. Hasil pemeriksaan menunjukkan bahwa tidak ada risiko **Overclocking**.
@@ -59,7 +57,7 @@ Dari segi **Resonant Criticality**, **Resonator Yangyang** berada di peringkat y
 
 Pada saat kejadian, **Resonator Yangyang** mengalami ledakan emosi dan kehilangan kontrol atas **Forte**-nya untuk sementara waktu. Untungnya, tidak ada korban jiwa atau bahaya yang dilaporkan, meskipun ia mengalami beberapa kali koma akibat stimulasi berlebihan. Pemeriksaan lebih lanjut mengungkap bahwa persepsi tinggi milik **Yangyang** menyebabkan efek samping yang merusak tubuhnya melalui **Forte**-nya. Efek samping ini kini telah stabil, tetapi transformasi seperti bulu di ujung rambutnya menjadi permanen.
 
-Sensory overload yang dialami **Yangyang** telah berhasil dikendalikan, dan kondisi emosionalnya sekarang stabil dengan prognosis yang positif. \
+Sensory overload yang dialami **Yangyang** telah berhasil dikendalikan, dan kondisi emosionalnya sekarang stabil dengan prognosis yang positif.\
 Pemeriksaan rutin direkomendasikan untuk pemantauan lebih lanjut.
 
 ## :package: Cherished Items
@@ -74,24 +72,24 @@ Dalam setiap kelompok sosial, selalu ada seseorang yang memancarkan aura meyakin
 
 **Yangyang** adalah salah satu dari mereka.
 
-> "**Yangyang**? Sepertinya... Dia bisa melakukan segalanya dengan sangat baik."&#x20;
+> "**Yangyang**? Sepertinya... Dia bisa melakukan segalanya dengan sangat baik."
 
-Orang-orang selalu berkata begitu. \
+Orang-orang selalu berkata begitu.\
 Kepercayaan ini mungkin berasal dari pengalaman mereka dengannya.
 
-Sejak kecil, **Yangyang** unggul dalam studinya, termasuk etika, musik, sastra, matematika, dan seni bela diri... Dia selalu menduduki peringkat teratas di semua mata pelajaran dan ujian setiap tahunnya. Bahkan ketika menghadapi pengetahuan baru atau masalah sulit, **Yangyang** tidak pernah menunjukkan frustrasi; \
+Sejak kecil, **Yangyang** unggul dalam studinya, termasuk etika, musik, sastra, matematika, dan seni bela diri... Dia selalu menduduki peringkat teratas di semua mata pelajaran dan ujian setiap tahunnya. Bahkan ketika menghadapi pengetahuan baru atau masalah sulit, **Yangyang** tidak pernah menunjukkan frustrasi;\
 sebaliknya, dia selalu berusaha untuk menyelesaikan masalah yang ada di hadapannya.
 
 **Yangyang** selalu dipilih untuk memberikan pidato pada upacara tahunan sekolahnya. Namun, seperti orang lain, dia tetap mengambil napas dalam sebelum berbicara, menyembunyikan kegugupannya. Meski memiliki bakat dalam memahami konsep yang kompleks, dia bukanlah seorang jenius sejati. Dan meskipun orang lain melihatnya sebagai sosok yang sukses dan percaya diri, dia juga menghadapi kesulitan dalam kehidupan sehari-hari.
 
-Dalam pelajaran pedang pertamanya, dia kesulitan mengendalikan ayunan dan mengeksekusi teknik dengan benar. Namun, alih-alih menyerah, dia bertekad untuk berlatih lebih keras. \
+Dalam pelajaran pedang pertamanya, dia kesulitan mengendalikan ayunan dan mengeksekusi teknik dengan benar. Namun, alih-alih menyerah, dia bertekad untuk berlatih lebih keras.\
 Selama dua bulan berikutnya, dia berlatih 100 kali sehari dan mencari bimbingan dari para senior, dengan rendah hati mengakui kelemahannya. Dia kemudian terus berlatih dengan reflektif, memperbaiki kekurangan yang dikemukakan orang lain. Akhirnya, tubuhnya beradaptasi dengan rasa sakit, dan dia mampu menahan beberapa serangan dari lawan.
 
 Dua bulan kemudian, **Yangyang** kembali menjadi murid terbaik di kelas pedangnya.
 
 Beberapa orang mencoba menghibur **Yangyang**, mengingatkannya bahwa hidup tidak sempurna dan bahwa dia harus merasa puas dengan pujian yang diterimanya. Namun, **Yangyang** selalu menolak nasihat ini dengan lembut, karena dia tahu bahwa dorongan dalam dirinya bukan berasal dari pengakuan orang lain.
 
-Apakah dia sudah memberikan yang terbaik? \
+Apakah dia sudah memberikan yang terbaik?\
 Apakah semuanya telah dilakukan semaksimal mungkin? \ Pertanyaan-pertanyaan ini terus mengisi pikirannya.
 
 Dengan senyum dan gelengan kepala yang lembut, dia menolak setiap nasihat untuk beristirahat, bertekad untuk mencapai kesempurnaan tanpa meninggalkan penyesalan atau rasa malu.
@@ -100,7 +98,7 @@ Dengan senyum dan gelengan kepala yang lembut, dia menolak setiap nasihat untuk 
 
 Saat itulah **Yangyang** menjadi seorang **Outrider** dan berhasil membantu menyelesaikan krisis **TD regional**. Seperti biasa, orang-orang memuji keunggulannya.
 
-> "Ya, kali ini aku berhasil, tapi bagaimana dengan lain kali? Masih banyak hal yang bisa aku lakukan lebih baik; masih banyak hal yang tidak aku ketahui. \
+> "Ya, kali ini aku berhasil, tapi bagaimana dengan lain kali? Masih banyak hal yang bisa aku lakukan lebih baik; masih banyak hal yang tidak aku ketahui.\
 > Mungkin aku harus mencari nasihat dari anggota **senior Midnight Ranger**..."
 
 Menjadi seseorang yang selalu dapat diandalkan adalah tugas yang menakutkan, tetapi sangat penting. Hal itu membutuhkan usaha dan dedikasi yang tiada henti.
@@ -111,14 +109,14 @@ Menjadi seseorang yang selalu dapat diandalkan adalah tugas yang menakutkan, tet
 
 Kebanyakan orang tidak tahu bahwa **Yangyang** memiliki **perfect pitch**.
 
-Mungkin karena ia selalu menjadi sosok yang pasif, tidak pernah bernyanyi di depan umum atau mencari sorotan. Ia lebih suka berada di latar belakang dan mendengarkan. \
+Mungkin karena ia selalu menjadi sosok yang pasif, tidak pernah bernyanyi di depan umum atau mencari sorotan. Ia lebih suka berada di latar belakang dan mendengarkan.\
 Sepertinya ia memang terlahir untuk menjadi pendengar.
 
-Itulah sebabnya **Chixia** begitu terkejut saat **Yangyang** bisa menyenandungkan melodi yang baru sekali ia dengar dengan akurat. Ia tak bisa menahan diri untuk berseru,&#x20;
+Itulah sebabnya **Chixia** begitu terkejut saat **Yangyang** bisa menyenandungkan melodi yang baru sekali ia dengar dengan akurat. Ia tak bisa menahan diri untuk berseru,
 
 > "Bagaimana bisa kamu menghafalnya secepat itu? Dan suaranya luar biasa! Astaga!"
 
-Tiba-tiba, semua orang teringat akan identitas lain **Yangyang**—anak kedua dari keluarga musisi. \
+Tiba-tiba, semua orang teringat akan identitas lain **Yangyang**—anak kedua dari keluarga musisi.\
 Tidak mengherankan jika ia memahami teori musik atau tahu cara bernyanyi.
 
 Hal ini menjawab beberapa kebingungan sebelumnya. Cara berinteraksinya yang sempurna dengan orang lain, etiketnya yang tampak tanpa cela bahkan bagi orang yang paling kritis. Ya, tentu saja, ia pasti berasal dari keluarga yang berpendidikan tinggi.
@@ -127,12 +125,12 @@ Namun, pertanyaan lain muncul: Mengapa putri dari keluarga terkenal itu pergi ke
 
 Jika memang ada alasan itu, **Yangyang** tidak pernah membicarakannya kepada siapa pun. Ia tidak pernah mengeluh atau menghindari tanggung jawab, baik saat menjalankan tugasnya sebagai **Outrider** maupun saat menghabiskan waktu bersama teman-temannya. Jika ada yang mengganggunya, itu mungkin justru teman-teman sesama **Outrider**-nya, karena... Ia selalu dengan sabar mendengarkan mereka.
 
-Banyak yang mencari ketenangan dengan menceritakan perasaan mereka pada **Yangyang**, bukan untuk mencari solusi, tetapi hanya untuk meluapkan stres. Ia sangat memahami hal ini dan tetap netral, berempati dengan perasaan mereka. Ia mendengarkan tanpa menyela, memberikan bimbingan ketika diperlukan, lalu kembali diam. \
+Banyak yang mencari ketenangan dengan menceritakan perasaan mereka pada **Yangyang**, bukan untuk mencari solusi, tetapi hanya untuk meluapkan stres. Ia sangat memahami hal ini dan tetap netral, berempati dengan perasaan mereka. Ia mendengarkan tanpa menyela, memberikan bimbingan ketika diperlukan, lalu kembali diam.\
 Dengan bantuannya, emosi yang kacau pun perlahan menjadi lebih teratur tanpa disadari. Sesi-sesi ini terbukti sangat berharga. Namun, dukungan **Yangyang** bukan sekadar setuju dengan semua yang dikatakan; ia memberikan saran yang tetap mengutamakan keinginan si pembicara.
 
 Tak lama kemudian, **Chixia** menceritakan bakat luar biasa **Yangyang** kepada semua orang, memicu permintaan iseng agar ia bernyanyi.
 
-**Yangyang** tersenyum malu dan melambaikan tangannya, berkata,&#x20;
+**Yangyang** tersenyum malu dan melambaikan tangannya, berkata,
 
 > "Mungkin... Aku akan menyanyikannya untuk kalian nanti, saat aku sudah siap?"
 
@@ -146,7 +144,7 @@ Begitulah **Yangyang** berpikir, saat ia kembali memilih untuk melangkah mundur,
 
 Sampai batas tertentu, tidak ada banyak perbedaan antara **Yangyang** saat berusia **enam belas tahun** dan **Yangyang** saat berusia **enam tahun**.
 
-Dia masih memegang harapan yang sama terhadap dunia, tetap percaya pada dongeng, percaya pada kebaikan antarmanusia, percaya pada keajaiban, \
+Dia masih memegang harapan yang sama terhadap dunia, tetap percaya pada dongeng, percaya pada kebaikan antarmanusia, percaya pada keajaiban,\
 dan percaya bahwa segala sesuatu yang indah pada akhirnya akan terjadi.
 
 Banyak orang menyebutnya sebagai keberuntungan yang naif, pemikiran seorang anak manja yang belum pernah menghadapi kenyataan pahit kehidupan.
@@ -155,20 +153,20 @@ Memang benar, **Yangyang** tumbuh dalam rumah yang penuh kasih sayang dan berkec
 
 ...Sampai hari itu tiba.
 
-Pada usia **11 tahun**, kehidupannya yang tenang hancur oleh serangan brutal dari **Exiles** saat dia melakukan perjalanan bersama kafilah keluarganya. Kengerian kematian dan kekejaman yang ia saksikan membuatnya terhuyung, memaksa dirinya melarikan diri dan mencari perlindungan di pemukiman asing. Penduduk di sana tangguh dan mandiri, hidup dengan hati-hati namun tetap mampu bertahan. **Yangyang**, yang sebelumnya tidak pernah kekurangan apa pun, \
+Pada usia **11 tahun**, kehidupannya yang tenang hancur oleh serangan brutal dari **Exiles** saat dia melakukan perjalanan bersama kafilah keluarganya. Kengerian kematian dan kekejaman yang ia saksikan membuatnya terhuyung, memaksa dirinya melarikan diri dan mencari perlindungan di pemukiman asing. Penduduk di sana tangguh dan mandiri, hidup dengan hati-hati namun tetap mampu bertahan. **Yangyang**, yang sebelumnya tidak pernah kekurangan apa pun,\
 kini harus belajar bertahan hidup di dunia yang asing baginya.
 
-Dia tidak bisa memastikan apakah orang-orang di sekitarnya sama seperti para penyerang atau tidak. Sikap waspada mereka membuatnya ragu apakah dia bisa mempercayai siapa pun. \
+Dia tidak bisa memastikan apakah orang-orang di sekitarnya sama seperti para penyerang atau tidak. Sikap waspada mereka membuatnya ragu apakah dia bisa mempercayai siapa pun.\
 Pakaian mewahnya membuatnya menonjol di antara mereka, dan mereka pun menatapnya dengan curiga. Apakah ini jebakan?
 
-Pada akhirnya, seseorang menyodorkan makanan kepadanya. \
+Pada akhirnya, seseorang menyodorkan makanan kepadanya.\
 Dan dia menerimanya, meskipun makanan itu sangat asing baginya.
 
 Bahkan di tempat yang paling gersang sekalipun, kebaikan tetap bisa tumbuh.
 
 **Yangyang** ingin membalas kepercayaan yang mereka berikan, tetapi pengetahuannya tidak berguna di alam liar, dan keterampilan pedangnya masih terlalu kekanak-kanakan untuk menghadapi bahaya yang sebenarnya. Semuanya terasa asing baginya, tetapi inilah kenyataan yang dihadapi sebagian besar orang setiap hari. Kenyataan itu terasa begitu menyakitkan.
 
-> "Nenek, apakah selama ini... Nenek selalu hidup seperti ini?"&#x20;
+> "Nenek, apakah selama ini... Nenek selalu hidup seperti ini?"
 
 **Yangyang** bertanya saat membantu seorang wanita tua memilah sumber daya mereka yang terbatas.
 
@@ -188,7 +186,7 @@ Dalam situasi tergelap sekalipun, akan selalu ada orang yang memilih untuk berbu
 
 Sejak hari itu, **Yangyang**yang selalu menyebarkan kebaikan kepada orang asing, semua berawal dari satu pertemuan itu.
 
-Tentu saja, kebaikannya bukan tanpa batas. \
+Tentu saja, kebaikannya bukan tanpa batas.\
 Pengkhianatan bisa mengubah angin sepoi-sepoi menjadi badai yang mengamuk.
 
 Namun, dia tetap berpegang pada harapan, percaya pada kekuatan kebaikan. Dia memilih untuk percaya dan mengharapkan yang terbaik dari orang lain. Ini adalah caranya untuk membuat dunia menjadi tempat yang lebih baik.
@@ -205,7 +203,7 @@ Namun, ketika ayunan itu terlalu tinggi, **Yangyang** merasakan desiran angin da
 
 **Kedua**, saat dia pingsan karena **sensory overload**.
 
-Seiring bertambahnya usia, kemampuan **Yangyang** dalam merasakan aliran udara semakin kuat. \
+Seiring bertambahnya usia, kemampuan **Yangyang** dalam merasakan aliran udara semakin kuat.\
 Dia menyebutnya **Streams**, yang memungkinkannya menangkap fluktuasi energi, keanehan, bahkan detail sekecil apa pun dari seseorang.
 
 Namun, semakin dia berusaha memahami kemampuannya, semakin dia terjebak dalam pusaran informasi yang tak ada habisnya.
@@ -222,12 +220,12 @@ Akhirnya, **Yangyang** berhasil menarik dirinya keluar dari pusaran itu dan "men
 
 **Yangyang** belum pernah menggunakan kemampuannya dalam situasi genting seperti ini, tetapi tekadnya untuk membantu mengalahkan keraguannya. **Streams** mengalir deras, membentuk jalur yang jelas menuju seorang anak hilang—yang saat itu sedang dikejar **TDs**, hampir jatuh dari tebing.
 
-Tanpa ragu, **Yangyang** melompat ke arah anak itu, \
+Tanpa ragu, **Yangyang** melompat ke arah anak itu,\
 mengulurkan tangannya untuk menyelamatkannya.
 
 Bulu-bulu beterbangan di udara, membawa **Yangyang** dan anak itu dalam hembusan angin yang lembut namun kuat.
 
-Anak itu melihat sekeliling dan bertanya,&#x20;
+Anak itu melihat sekeliling dan bertanya,
 
 > "Apakah Kakak adalah peri burung yang terbang di angin?"
 
@@ -241,7 +239,7 @@ Mungkin, dia memang benar-benar satu dengan angin.
 
 Dalam perjalanannya meninggalkan rumah, **Yangyang** bertemu dengan dua jenis orang.
 
-**Jenis pertama** selalu tampak terburu-buru, tetapi tidak pernah benar-benar tahu ke mana mereka pergi. Mereka sering tersesat dan akhirnya kembali dengan penyesalan. \
+**Jenis pertama** selalu tampak terburu-buru, tetapi tidak pernah benar-benar tahu ke mana mereka pergi. Mereka sering tersesat dan akhirnya kembali dengan penyesalan.\
 Sedangkan **jenis kedua** selalu memiliki tujuan yang jelas. Meskipun jalan yang mereka tempuh sulit dan penuh rintangan, mereka tetap berhasil mencapai tujuan akhirnya.
 
 **Yangyang** mendongak, menatap Kota **Jinzhou** di cakrawala. Dia tidak yakin apakah dirinya bisa dianggap sebagai bagian dari kelompok kedua. Sekali lagi, pikirannya kembali pada ajaran keluarganya: **"Satu Instrumen untuk Seumur Hidup."**
@@ -252,30 +250,30 @@ Instrumen ibunya adalah **menggubah musik**. **Yangyang** pernah melihat banyak 
 
 Namun, tidak seperti mereka, **Yangyang** kesulitan memilih **instrumen hidupnya sendiri**. Apa yang pantas menjadi tujuan hidupnya? Seperti apakah orang yang seharusnya dia jadi?
 
-Dia pun meminta petunjuk dari ibunya.&#x20;
+Dia pun meminta petunjuk dari ibunya.
 
 > "Ibu, apakah Ibu ingin aku mewarisi usaha keluarga? Atau, apa yang Ibu ingin aku lakukan? Aku bisa mencoba apa saja, dan aku akan berusaha sebaik mungkin. Meskipun hidup ini penuh kemungkinan, pada akhirnya kita hanya bisa memilih satu jalan, bukan?"
 
-Ibunya menatapnya dengan penuh kasih dan berkata,&#x20;
+Ibunya menatapnya dengan penuh kasih dan berkata,
 
 > "Anakku, justru karena itulah kamu tidak boleh mencari jawaban dariku, melainkan bertanya pada hatimu sendiri. Ini adalah pertanyaan sulit, tetapi kamu tidak perlu buru-buru menemukan jawabannya."
 
-Dan begitu, **Yangyang** menyimpan pertanyaan itu dalam hatinya, menunggu dengan sabar jawaban yang terus menghindarinya. Dia menunggu hingga dia kembali dari pemukiman yang tandus, hingga dia berhasil keluar dari jurang keputusasaan, hingga dia mulai lelah dengan perlindungan berlebihan dari keluarganya. \
+Dan begitu, **Yangyang** menyimpan pertanyaan itu dalam hatinya, menunggu dengan sabar jawaban yang terus menghindarinya. Dia menunggu hingga dia kembali dari pemukiman yang tandus, hingga dia berhasil keluar dari jurang keputusasaan, hingga dia mulai lelah dengan perlindungan berlebihan dari keluarganya.\
 Keinginannya untuk menjelajahi dunia dan merasakan kerasnya kehidupan semakin besar. Dia tak lagi ingin menjadi daun yang hanya melayang terbawa angin. Dia ingin menanggung beban kenyataan, bukan bersembunyi darinya.
 
-Saat itulah sebuah serangan mendadak terjadi di wilayah liar. Serangan dari **Tacet Discord** di garis depan menyebabkan banyak korban jiwa. Berita tentang tragedi ini menyebar cepat ke seluruh kota, membangkitkan kesedihan, amarah, dan keputusasaan di antara penduduknya. \
-Perasaan mereka memuncak saat orang-orang berkumpul di sekitar api unggun. \
+Saat itulah sebuah serangan mendadak terjadi di wilayah liar. Serangan dari **Tacet Discord** di garis depan menyebabkan banyak korban jiwa. Berita tentang tragedi ini menyebar cepat ke seluruh kota, membangkitkan kesedihan, amarah, dan keputusasaan di antara penduduknya.\
+Perasaan mereka memuncak saat orang-orang berkumpul di sekitar api unggun.\
 Tangis pecah, suara parau memenuhi malam. Namun saat pagi tiba, kesedihan menjadi kemewahan yang tak bisa mereka pertahankan—kehidupan harus terus berjalan.
 
-**Yangyang** berdiri di tengah mereka, air mata mengalir di wajahnya. Dia tidak kehilangan siapa pun secara pribadi, tetapi melihat kesedihan mereka dan kegembiraan anak-anak yang berhasil diselamatkan membangkitkan sesuatu di dalam dirinya. Momen itu mengubahnya. Dia menemukan panggilannya: **melindungi orang lain, seperti bagaimana dia pernah dilindungi.** \
+**Yangyang** berdiri di tengah mereka, air mata mengalir di wajahnya. Dia tidak kehilangan siapa pun secara pribadi, tetapi melihat kesedihan mereka dan kegembiraan anak-anak yang berhasil diselamatkan membangkitkan sesuatu di dalam dirinya. Momen itu mengubahnya. Dia menemukan panggilannya: **melindungi orang lain, seperti bagaimana dia pernah dilindungi.**\
 Dia ingin menjadi tameng yang menghalangi malapetaka dan memberi mereka harapan akan masa depan yang lebih cerah.
 
-Pada malam pendaftarannya sebagai seorang **Outrider**, **Yangyang** berdiri di tepi **Jinzhou**. \
-Dia menatap langit dan keramaian di bawahnya. Keraguan menyusup ke dalam hatinya. Mampukah dia benar-benar melindungi orang-orang ini? \
+Pada malam pendaftarannya sebagai seorang **Outrider**, **Yangyang** berdiri di tepi **Jinzhou**.\
+Dia menatap langit dan keramaian di bawahnya. Keraguan menyusup ke dalam hatinya. Mampukah dia benar-benar melindungi orang-orang ini?\
 Apakah dia bisa mengemban tanggung jawab yang selama ini dia impikan?
 
 **Streams** datang dari kejauhan, mengelilinginya dalam pelukan lembut, menghapus sisa-sisa keraguannya.
 
-Mereka berbisik tanpa suara:&#x20;
+Mereka berbisik tanpa suara:
 
 > _**Jinzhou** adalah tempatnya. Ini adalah tujuan bagi Yangyang si putri kaya, sekaligus awal perjalanan bagi **Yangyang sang Outrider**._
