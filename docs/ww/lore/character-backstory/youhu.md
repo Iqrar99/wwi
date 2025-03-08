@@ -153,7 +153,7 @@ Mula-mula mereka meremehkan nilai sebuah benda, membelinya dengan harga murah, l
 
 Keahlian? \
 Sejarah? \
- Semua itu hanya sekadar embel-embel dalam permainan harga mereka.\
+Semua itu hanya sekadar embel-embel dalam permainan harga mereka.\
 Namun, pendekatan **Youhu** berbeda.
 
 Baginya, nilai barang antik bukan hanya sekadar angka, tetapi sesuatu yang jauh lebih bermakna.
