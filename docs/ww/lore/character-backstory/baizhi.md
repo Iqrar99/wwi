@@ -14,8 +14,6 @@ layout:
 
 # Baizhi
 
-
-
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1103.png" alt="" width="375"><figcaption><p><strong>Baizhi</strong> adalah seorang peneliti di bidang <strong>Remnant Ecoacoustics</strong>. Dulu, ada sebuah harapan yang tak pernah terwujud—sebuah keinginan yang nyaris tak berarti, <strong>infinitely close to zero</strong>. Namun kini, keinginan itu telah mengambil wujud nyata. Makhluk <strong>Remnant You’tan</strong> bukan hanya pendamping setianya, tetapi juga sumber kekuatan penyembuhannya—dan fokus penelitiannya seumur hidup.</p></figcaption></figure></div>
 
 ## :mag: Informasi

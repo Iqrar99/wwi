@@ -14,8 +14,6 @@ layout:
 
 # Jiyan
 
-
-
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1404.png" alt="" width="375"><figcaption><p><strong>Jiyan</strong>, pemimpin <strong>Midnight Rangers</strong>, bertindak dengan kecepatan dan ketegasan yang luar biasa. Dia memiliki kemampuan dahsyat untuk memanggil <strong>Qingloong</strong> dari angin, membuatnya nyaris tak terkalahkan di medan perang.</p></figcaption></figure></div>
 
 ## :mag: Informasi

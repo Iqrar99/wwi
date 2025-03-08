@@ -14,8 +14,6 @@ layout:
 
 # Zezhi
 
-
-
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1105.png" alt="" width="375"><figcaption><p>Seorang <strong>seniman lepas</strong> yang berusaha mencari nafkah. Pendiam dan pemalu, ia tidak pandai merangkai kata-kata, tetapi setiap lukisannya berbicara lebih lantang daripada yang bisa ia ungkapkan. Dalam karyanya, dunia yang ia ciptakan tampak begitu nyata—seolah memiliki kehidupan sendiri, dengan <strong>keaslian yang nyaris mustahil</strong>.</p></figcaption></figure></div>
 
 ## :mag: Informasi

@@ -14,8 +14,6 @@ layout:
 
 # Encore
 
-
-
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1203.png" alt="" width="375"><figcaption><p>Seorang gadis yang selalu ditemani oleh satu <strong>Wooly</strong> hitam dan satu <strong>Wooly</strong> putih. Encore, Konsultan dari <strong>Black Shores</strong>, bermimpi menciptakan kisah-kisah bahagia dengan permen, dongeng, dan imajinasinya.</p></figcaption></figure></div>
 
 ## :mag: Informasi

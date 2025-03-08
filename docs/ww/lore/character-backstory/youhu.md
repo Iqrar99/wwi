@@ -14,8 +14,6 @@ layout:
 
 # Youhu
 
-
-
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1106.png" alt="" width="375"><figcaption><p>Seorang <strong>appraiser</strong> barang antik yang cerewet dan penuh kejenakaan. Dikenal karena kemampuannya menciptakan limerik secara spontan, ia menyampaikan hasil appraisal dengan <strong>gaya teatrikal namun akurat</strong>. Dengan membuka lapak di pinggir jalan, ia memastikan setiap barang antik menemukan pemilik yang benar-benar menghargainya.</p></figcaption></figure></div>
 
 ## :mag: Informasi

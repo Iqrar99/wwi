@@ -14,8 +14,6 @@ layout:
 
 # Sanhua
 
-
-
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1102.png" alt="" width="375"><figcaption><p>Pengawal pribadi <strong>Magistrate Jinzhou</strong>, dikenal karena kepribadiannya yang dingin. Dahulu dijuluki sebagai <strong>Asura of Calamity</strong>, kini <strong>Sanhua</strong> adalah penjaga yang pendiam namun tak tergoyahkan.</p></figcaption></figure></div>
 
 ## :mag: Informasi

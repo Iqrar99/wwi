@@ -14,8 +14,6 @@ layout:
 
 # Mortefi
 
-
-
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1204.png" alt="" width="375"><figcaption><p><strong>Mortefi</strong>, seorang ahli terampil dalam <strong>Applied Tacetite Study</strong> dan anggota <strong>Departemen Keamanan Akademi</strong>, memiliki <strong>kemampuan unik untuk mengubah frustrasi yang ia kumpulkan menjadi kobaran api yang mengamuk</strong>. Dari amarah yang membakar segalanya, sang naga merah akan turun.</p></figcaption></figure></div>
 
 ## :mag: Informasi
