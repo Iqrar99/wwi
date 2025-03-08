@@ -41,7 +41,7 @@ Segmen Rekaman: A.A-000
 
 **Second Instance**  (juga dikenal sebagai **Shorekeeper**) sepenuhnya terdiri dari kristal **Remnant Energy** dengan kemurnian tinggi. Aktivasi yang berhasil mengonfirmasi kebenaran teori ▇▇▇▇, yang mengusulkan hal berikut:&#x20;
 
-a. Dengan memodelkan jangkar modul "Blazar", **Remnant Energy** dapat ditarik dan dipadatkan, \
+a. Dengan memodelkan jangkar modul "**Blazar**", **Remnant Energy** dapat ditarik dan dipadatkan, \
 yang menghasilkan materialisasi energi.&#x20;
 
 b. Memasukkan data informasi ke dalam entitas energi memberi kemampuan kognitif kepadanya.
@@ -113,7 +113,14 @@ Saat itu, peradaban sedang berkembang pesat. **Astral Modulator** telah mendirik
 
 Seperti pengamat yang maha tahu, **Shorekeeper** bisa melacak data untuk memantau perilaku setiap manusia kapan saja dalam **Sonoros** yang ia ciptakan. Dia mencoba mengkategorikan dan menafsirkan manusia seperti fenomena lainnya, tetapi dengan cepat mendapati dirinya bingung dengan mereka.
 
-Mengapa mereka menangis dalam suka dan duka? Mengapa tindakan mereka begitu sering bertentangan dengan keinginan mereka? Mengapa mengejar sesuatu yang mereka tahu akan mereka sesali, atau bertahan dalam yang mustahil? Bagaimana bisa mereka dengan mudah menyakiti orang lain, tetapi mengorbankan diri mereka tanpa ragu? Setiap kali **Shorekeeper** merasa lebih dekat untuk memahami, sebuah kejadian tak terduga akan membalikkan kesimpulannya. Meski bingung, dia bertanya-tanya apakah kebingungannya itu penting—lagipula, itu tidak menghentikannya dari menyelesaikan tugasnya. Namun kemudian, **Astral Modulator** memberinya sebuah misi: tanda-tanda **Lament** yang akan datang telah muncul, yang membutuhkan penelitian lapangan untuk mengumpulkan data untuk analisis. Mereka akan pergi bersama dan... melihat apa yang bisa dilakukan lebih lanjut.
+Mengapa mereka menangis dalam suka dan duka? \
+Mengapa tindakan mereka begitu sering bertentangan dengan keinginan mereka? \
+Mengapa mengejar sesuatu yang mereka tahu akan mereka sesali, atau bertahan dalam yang mustahil? \
+Bagaimana bisa mereka dengan mudah menyakiti orang lain, tetapi mengorbankan diri mereka tanpa ragu? \
+
+ Setiap kali **Shorekeeper** merasa lebih dekat untuk memahami, sebuah kejadian tak terduga akan membalikkan kesimpulannya. Meski bingung, dia bertanya-tanya apakah kebingungannya itu penting—lagipula, itu tidak menghentikannya dari menyelesaikan tugasnya. 
+
+Namun kemudian, **Astral Modulator** memberinya sebuah misi: tanda-tanda **Lament** yang akan datang telah muncul, yang membutuhkan penelitian lapangan untuk mengumpulkan data untuk analisis. Mereka akan pergi bersama dan... melihat apa yang bisa dilakukan lebih lanjut.
 
 **Shorekeeper** mengikuti **Modulator** melalui ladang di daerah itu. Musim panen telah tiba—tanah di bawah kaki mereka lembut namun kokoh, kepala biji-bijian menggantung penuh dan matang, dan angin membawa aroma manis dari padi. Dia mengerti hal-hal ini, namun melihatnya langsung terasa berbeda. Terhanyut dalam sensasi yang asing ini, **Shorekeeper** tidak sadar bahwa ekspresinya mencerminkan rasa ingin tahu dan kagum seperti seorang anak yang melangkah keluar dari rumah untuk pertama kalinya. **Modulator** berbicara hangat dengan penduduk setempat, percakapan mereka dipenuhi dengan dialek dan deru kehidupan sehari-hari. Seorang wanita tua baik hati menawarkan makanan buatan rumah. \
 Kulitnya kasar, sementara bayi yang ia gendong memiliki jari yang hangat dan berkeringat.
@@ -125,7 +132,7 @@ Orang-orang yang sebelumnya ramah jatuh ke dalam keputusasaan—berkelahi memper
 Yang lebih mengejutkan baginya adalah **Modulator**. Dia memimpin semua Resonator dalam melawan **Tacet Discords**, mendorong semua orang untuk bertahan sampai bala bantuan datang. Dia mencoba mengubah masa depan yang sudah ditentukan, tapi mengapa melakukan begitu banyak untuk sekelompok orang asing? \
 **Shorekeeper** teringat instruksi dari **Tethys System**:
 
-> “**Masa depan yang telah diubah ditakdirkan untuk diubah. Berusaha mengubah hasil yang telah ditentukan harus dihindari.**”
+> “Masa depan yang telah diubah ditakdirkan untuk diubah. Berusaha mengubah hasil yang telah ditentukan harus dihindari.”
 
 > “Aku tidak bisa hanya berdiri diam dan tidak melakukan apa-apa. Jika ini adalah harga untuk mencapai esok, aku mempertanyakan apakah esok itu layak.”&#x20;
 
@@ -165,21 +172,21 @@ Saat kapal berlayar pergi, **Shorekeeper** melihat anak itu melambai dari dermag
 
 Jangan bersedih di tempat peristirahatan ku; aku tidak ada di sana, dan aku juga tidak pergi.
 
-Saat para robot menyebutkan nama **"Delone**," **Shorekeeper** langsung teringat semua yang terkait dengannya. Bukan hanya karena kemampuannya untuk menyimpan dan merekam informasi, tetapi karena Delone itu istimewa—dia adalah salah satu dari sedikit orang yang mencari **Black Shores** itu sendiri.
+Saat para robot menyebutkan nama "**Delone**," **Shorekeeper** langsung teringat semua yang terkait dengannya. Bukan hanya karena kemampuannya untuk menyimpan dan merekam informasi, tetapi karena **Delone**" itu istimewa—dia adalah salah satu dari sedikit orang yang mencari **Black Shores** itu sendiri.
 
-Pertama kali Sang Penjaga Pantai bertemu dengannya, **Delone** adalah gadis bersemangat, penuh dengan antusiasme. Dia mengeluh tentang betapa sulitnya mencari **Black Shores**, lalu mengangkat alis dengan sedikit kebanggaan.&#x20;
+Pertama kali **Shorekeeper** bertemu dengannya, **Delone** adalah gadis bersemangat, penuh dengan antusiasme. Dia mengeluh tentang betapa sulitnya mencari **Black Shores**, lalu mengangkat alis dengan sedikit kebanggaan.&#x20;
 
 > "Aku tahu! Pasti ada yang berkumpul untuk melawan **Laments** dan mencegah anomali lebih lanjut!"
 
 Saat itu, **Astral Modulator**, yang pernah memegang otoritas tertinggi di **Black Shores**, belum lama menghilang, dan **Shorekeeper** masih bisa mengunjungi permukaan. \
-Ketika gadis yang penuh semangat itu menggenggam tangannya, tekadnya untuk bergabung dengan **Black Shores** begitu terasa, Sang Penjaga Pantai merasa bingung harus bagaimana. \
+Ketika gadis yang penuh semangat itu menggenggam tangannya, tekadnya untuk bergabung dengan **Black Shores** begitu terasa, **Shorekeeper** merasa bingung harus bagaimana. \
 Dia merasakan tangan gadis itu—hangat, seperti api yang ada di matanya.
 
-**Shorekeeper** memberikan **Delone** kesempatan untuk mengikuti ujian masuk, meski ini bertentangan dengan protokol perekrutan **Tethys**. Sang Penjaga Pantai ingat apa yang pernah dikatakan oleh **Modulator** padanya,&#x20;
+**Shorekeeper** memberikan **Delone** kesempatan untuk mengikuti ujian masuk, meski ini bertentangan dengan protokol perekrutan **Tethys**. **Shorekeeper** ingat apa yang pernah dikatakan oleh **Modulator** padanya,&#x20;
 
 > "Manusia tidak terikat oleh pembatasan semacam itu... Kita bukan data atau konsep abstrak yang tersimpan dalam catatan."&#x20;
 
-**Shorekeeper** yakin **Modulator** juga akan bertindak sama, hanya untuk menjaga semangat membara gadis itu. Pada akhirnya, Delone lulus ujian dan menjadi anggota resmi **Black Shores**.
+**Shorekeeper** yakin **Modulator** juga akan bertindak sama, hanya untuk menjaga semangat membara gadis itu. Pada akhirnya, **Delone** lulus ujian dan menjadi anggota resmi **Black Shores**.
 
 **Shorekeeper** tak pernah membayangkan mereka akan bertemu lagi dalam keadaan yang begitu tragis.
 
@@ -188,7 +195,7 @@ Nyawa **Delone** semakin memudar, dan hanya ada satu kemungkinan hasil yang bisa
 
 > "Aku berhasil,"&#x20;
 
-kata Delone dengan senyum lemah.&#x20;
+kata **Delone** dengan senyum lemah.&#x20;
 
 > "Aku mengalahkan delapan **Tacet Discords** sekaligus saat **Lament**. Tapi Twala... mereka tidak seberuntung itu. Hanya aku yang tersisa untuk membawa data kembali."
 
@@ -208,7 +215,7 @@ Tapi, memandang mata itu, dia merasakan sesuatu yang berat di dadanya, emosi yan
 
 > "Terima kasih... Terima kasih, **Shorekeeper**,"&#x20;
 
-bisik Delone, dengan suara yang penuh kelegaan. \
+bisik **Delone**, dengan suara yang penuh kelegaan. \
 Lalu, dia berbisik,&#x20;
 
 > "Bintang-bintang... mereka begitu terang. \
@@ -216,10 +223,12 @@ Lalu, dia berbisik,&#x20;
 
 Sebuah air mata jatuh dari matanya, membawa kehangatan terakhirnya.
 
-Seperti yang Delone katakan, **Shorekeeper** mengubah frekuensi mereka yang telah meninggal menjadi sebuah "bintang," meninggalkan mereka di dalam konstelasi data. \
+Seperti yang Delone katakan, **Shorekeeper** mengubah frekuensi mereka yang telah meninggal menjadi sebuah "**bintang**," meninggalkan mereka di dalam konstelasi data. \
 Dia tidak ingat kapan dia mulai melakukan ini. Waktu telah merontokkan **Blake Blooms** dan mengikis **Black Shores**—itu juga telah mengambil nyawa mereka yang layak dikenang. Bintang-bintang yang selalu bersinar di langit telah menjadi satu-satunya tempat peristirahatan bagi jiwa-jiwa yang jatuh.
 
-Di bawah langit bertabur bintang, **Shorekeeper** berdiri di tepi pantai, disinari cahaya mereka, dan menatap luas ke laut. Apakah **Modulator** benar-benar tepat memberikan dia otoritas seperti itu? Apakah dia sudah cukup menjaga **Black Shores** seperti yang diperintahkan? Jawaban atas pertanyaan-pertanyaan ini ada pada orang yang telah pergi...&#x20;
+Di bawah langit bertabur bintang, **Shorekeeper** berdiri di tepi pantai, disinari cahaya mereka, dan menatap luas ke laut. Apakah **Modulator** benar-benar tepat memberikan dia otoritas seperti itu? \
+Apakah dia sudah cukup menjaga **Black Shores** seperti yang diperintahkan? \ 
+Jawaban atas pertanyaan-pertanyaan ini ada pada orang yang telah pergi...&#x20;
 
 Yang tersisa baginya hanyalah penantian yang tampaknya tak ada habisnya. Dan begitulah, dia menunggu, karena waktu adalah satu-satunya hal yang dia miliki dalam kelimpahan.
 
@@ -227,13 +236,13 @@ Yang tersisa baginya hanyalah penantian yang tampaknya tak ada habisnya. Dan beg
 
 Aku menawarkan inti diriku yang telah kujaga dengan hati-hati—sebuah inti yang tak tersentuh oleh kata-kata, tak tergantikan dalam mimpi, dan melampaui jangkauan waktu, kegembiraan, serta kesulitan.
 
-Bantuan untuk bencana saja tidak cukup untuk menyelamatkan mereka yang menderita. Alih-alih hanya mengumpulkan data setelah setiap **Lament**, **Modulator** berusaha untuk mencegah kejadian itu sendiri. {Laki-laki=Dia;Perempuan=Dia} memimpin **Shorekeeper** dan anggota lainnya untuk memberikan peringatan dan mengambil langkah-langkah pencegahan, meskipun sedikit berhasil.
+Bantuan untuk bencana saja tidak cukup untuk menyelamatkan mereka yang menderita. Alih-alih hanya mengumpulkan data setelah setiap **Lament**, **Modulator** berusaha untuk mencegah kejadian itu sendiri. Dia memimpin **Shorekeeper** dan anggota lainnya untuk memberikan peringatan dan mengambil langkah-langkah pencegahan, meskipun sedikit berhasil.
 
-Untuk keluar dari loop Möbius dan menciptakan realitas baru, **Modulator** mengusulkan rencana berani.
+Untuk keluar dari **loop Möbius** dan menciptakan realitas baru, **Modulator** mengusulkan rencana berani.
 
 Waktu untuk berpisah semakin dekat.
 
-**Modulator** memutuskan untuk menghapus semua kenangan dan bepergian melampaui **Black Shores** untuk mencari solusi yang memungkinkan. Mereka yang telah berjalan mengikuti jejak **Modulator** secara alami memilih untuk mengikuti {Laki-laki=dia;Perempuan=dia} lagi.
+**Modulator** memutuskan untuk menghapus semua kenangan dan bepergian melampaui **Black Shores** untuk mencari solusi yang memungkinkan. Mereka yang telah berjalan mengikuti jejak **Modulator** secara alami memilih untuk mengikutinya lagi.
 
 Hanya **Shorekeeper** yang tersisa.
 
@@ -254,7 +263,7 @@ Siksaan? Siksaan... Siksaan, siksaan!
 Semua yang telah terjadi, yang sedang terjadi, dan yang bisa terjadi, bersatu di dalam dirinya. Cahaya-nya meredup, bentuknya kehilangan kesempurnaannya. \
 Dia bisa merasakan tubuhnya retak, terpecah-pecah sepotong demi sepotong.
 
-"Tidak masalah. Sebuah alat rusak, itu normal. Satu-satunya perbedaan adalah apakah alat itu masih bisa digunakan atau tidak. Aku hanyalah kumpulan energi—setelah habis, yang lain akan menggantikanku. Selalu ada Sang Penjaga Pantai yang lain."
+> "Tidak masalah. Sebuah alat rusak, itu normal. Satu-satunya perbedaan adalah apakah alat itu masih bisa digunakan atau tidak. Aku hanyalah kumpulan energi—setelah habis, yang lain akan menggantikanku. Selalu ada **Shorekeeper** yang lain."
 
 Tidak masalah.
 
@@ -286,17 +295,17 @@ Dia yang menjaga rahasia, melindungi pantai, menopang pesisir ini, dan menunggu 
 
 Loop pengikat berhenti. Dia bebas dari lautan data yang mengancam akan menenggelamkan segalanya, menarik napas. Dia tidak ingin kehilangan hal-hal itu, tidak ingin tetap di sini, tidak ingin menghilang seperti ini, karena—karena—
 
-Aku adalah Sang Penjaga Pantai.\
-Aku adalah Sang Penjaga Pantai yang lahir karena dirimu.\
-Aku adalah Sang Penjaga Pantai yang kau sebut pendamping.\
-Aku adalah Sang Penjaga Pantai yang telah dibentuk oleh semua pengalaman, kenangan, dan emosi ini.\
-Aku adalah... Sang Penjaga Pantai satu-satunya karena dirimu.
+Aku adalah **Shorekeeper**.\
+Aku adalah **Shorekeeper** yang lahir karena dirimu.\
+Aku adalah **Shorekeeper** yang kau sebut pendamping.\
+Aku adalah **Shorekeeper** yang telah dibentuk oleh semua pengalaman, kenangan, dan emosi ini.\
+Aku adalah... **Shorekeeper** satu-satunya karena dirimu.
 
 ### <mark style="color:blue;">The Shorekeeper's Rebirth</mark>
 
 Kau seperti malam, dengan keheningan dan bintangnya.
 
-Penantian panjang akhirnya berakhir dengan kembalinya **Modulator**. Seperti yang dijanjikan, {Laki-laki=Dia;Perempuan=Dia} menemukan jalan kembali ke **Black Shores**. Meskipun {Laki-laki=Dia;Perempuan=Dia} telah kehilangan ingatannya, {Laki-laki=Dia;Perempuan=Dia} tetap mempertahankan pilihannya—bersama, mereka memperbaiki kesalahan **Tethys** dan mengembalikan kedamaian bagi jiwa-jiwa yang terperangkap dalam **Necrostar**.
+Penantian panjang akhirnya berakhir dengan kembalinya **Modulator**. Seperti yang dijanjikan, Dia menemukan jalan kembali ke **Black Shores**. Meskipun dia telah kehilangan ingatannya, dia tetap mempertahankan pilihannya—bersama, mereka memperbaiki kesalahan **Tethys** dan mengembalikan kedamaian bagi jiwa-jiwa yang terperangkap dalam **Necrostar**.
 
 Namun, di tengah perayaan itu, **Shorekeeper** merasakan sesuatu lebih dari sekadar kebahagiaan murni—ada arus ketidakpastian yang mengalir. Jalan yang telah ditetapkan oleh **Tethys**, oleh **Modulator**, dan bahkan oleh dirinya sendiri, telah mencapai akhir. Ke mana dia harus pergi selanjutnya? \
 Sementara anggota lain merayakan kesuksesan mereka, \

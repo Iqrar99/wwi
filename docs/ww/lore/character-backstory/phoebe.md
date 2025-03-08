@@ -38,7 +38,7 @@ layout:
 
 Saat pertama kali aku melihat **Tacet Mark** yang bercahaya di paha kiri atasnya, aku langsung tahu bahwa ini adalah berkah dari **Imperator**.
 
-...Kemampuannya memungkinkan dia untuk memanifestasikan cahaya, membiaskannya ke dalam berbagai bentuk prisma. Bahkan di malam paling gelap, saat badai telah memadamkan semua cahaya lain, dia mengisi setiap ruangan dengan sinar lembut yang menenangkan. Cahaya yang begitu menenteramkan, seolah membawa esensi harapan di tengah kegelapan. Seperti tertulis dalam **Tenets of the Deep**, cahaya seperti itu pasti telah lama bersemayam di dalam hatinya, sebagai tanda dari pengabdiannya yang tanpa henti...
+> ...Kemampuannya memungkinkan dia untuk memanifestasikan cahaya, membiaskannya ke dalam berbagai bentuk prisma. Bahkan di malam paling gelap, saat badai telah memadamkan semua cahaya lain, dia mengisi setiap ruangan dengan sinar lembut yang menenangkan. Cahaya yang begitu menenteramkan, seolah membawa esensi harapan di tengah kegelapan. Seperti tertulis dalam **Tenets of the Deep**, cahaya seperti itu pasti telah lama bersemayam di dalam hatinya, sebagai tanda dari pengabdiannya yang tanpa henti...
 
 Catatan ini telah dipindahkan dari **Orphanage** ke arsip **Order of the Deep**.
 
@@ -89,7 +89,7 @@ seru pemilik restoran, ekornya mengembang karena panik, sambil melompat-lompat d
 
 Saat itulah, sosok mungil melesat dari tengah kerumunan.
 
-> **"Tolong, tenanglah!"**
+> "Tolong, tenanglah!"
 
 Dengan tongkat di tangan, sosok kecil itu menggambar sebuah lengkungan lebar di udara. \
 Seekor **burung emas** turun dari langit, seolah membawa beban surga di sayapnya. \
@@ -316,7 +316,8 @@ Jantungnya berdegup lebih kencang. Di antara riuhnya sorak-sorai, pandangannya t
 
 Visinya mulai kabur di tengah tangisan bahagia yang menggema di sekelilingnya.
 
-Siapa yang tak akan tergerak oleh pemandangan yang begitu menyilaukan? Bahkan **Divinity** pun telah menurunkan mukjizatnya untuk momen ini. Dalam sekejap, **Phoebe** tak bisa menahan diri untuk bertanya-tanya: bagaimana mungkin **Sentinel** bisa murka melihat rakyatnya merayakan **Carnevale**? Bukankah **Sentinel** mencintai **Carnevale**, dan kebahagiaan yang dibawanya bagi semua orang?
+Siapa yang tak akan tergerak oleh pemandangan yang begitu menyilaukan? Bahkan **Divinity** pun telah menurunkan mukjizatnya untuk momen ini. Dalam sekejap, **Phoebe** tak bisa menahan diri untuk bertanya-tanya: bagaimana mungkin **Sentinel** bisa murka melihat rakyatnya merayakan **Carnevale**? \
+Bukankah **Sentinel** mencintai **Carnevale**, dan kebahagiaan yang dibawanya bagi semua orang?
 
 Bayangan samar yang menyelimuti hatinya sejak kembali dari **Atrium of Reflections** kembali muncul—tetapi untuk sesaat, semua itu hanyut dalam nyanyian dan tawa yang memenuhi udara.
 

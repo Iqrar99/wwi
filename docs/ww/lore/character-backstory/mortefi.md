@@ -114,16 +114,16 @@ Namun, **Mortefi** sendiri mengakui bahwa latar belakang keluarganya bukan satu-
 * Ia menyukai makanan manis karena setelah berjam-jam meneliti, ia butuh asupan energi cepat untuk menjaga otak tetap bekerja.
 * Obsesi terhadap kebersihan berasal dari kebutuhannya akan laboratorium yang steril, membuatnya benci terhadap siapa pun yang mengotori ruangannya.
 
-Namun, di balik semua itu, yang benar-benar mendefinisikan Mortefi adalah dedikasi dan gairahnya terhadap penelitian ilmiah.
+Namun, di balik semua itu, yang benar-benar mendefinisikan **Mortefi** adalah dedikasi dan gairahnya terhadap penelitian ilmiah.
 
-Meskipun prestasinya tidak terbantahkan**, identitasnya sebagai **peneliti asing tetap menuai kecurigaan dan rumor.
+Meskipun prestasinya tidak terbantahkan, identitasnya sebagai peneliti asing tetap menuai kecurigaan dan rumor.
 
 > "Dia pasti masuk karena koneksi keluarganya."\
 > &#xNAN;"Atau mungkin dia menyuap pejabat untuk mendapatkan posisi itu?"
 
 Namun, **Mortefi** membungkam semua keraguan dengan kemampuannya yang luar biasa.
 
-> Membuat lima prototipe senjata Tacetite dalam waktu kurang dari tiga hari?
+> Membuat lima prototipe senjata **Tacetite** dalam waktu kurang dari tiga hari?
 
 Itu lebih dari cukup untuk membungkam **mayoritas pengkritiknya**.
 
@@ -154,7 +154,7 @@ Lama-kelamaan, **Mortefi** justru menarik banyak pengikut dari kalangan ilmuwan 
 ### <mark style="color:blue;">The Tender Grump</mark>
 
 Bagi rekan-rekannya, laboratorium **Mortefi** adalah wilayah terlarang.\
-Namun, bagi **anak-anak Jinzhou**, lab tersebut adalah **surga penuh keajaiban**.
+Namun, bagi anak-anak **Jinzhou**, lab tersebut adalah **surga penuh keajaiban**.
 
 > Beri **Mortefi** permintaan yang jelas, tambahkan beberapa pujian tulus, dan dalam waktu singkat, keinginanmu akan terwujud.
 
@@ -190,7 +190,7 @@ Namun tetap menjalankan tugas yang diminta.
 
 Mereka yang berhasil lolos bersumpah tidak akan pernah membuat **Mortefi** marah lagi selama hidup mereka.
 
-> "Kalau **Jinzhou** punya departemen khusus untuk merancang hukuman kreatif bagi para kriminal, Mortefi pasti akan menjadi pemimpinnya."
+> "Kalau **Jinzhou** punya departemen khusus untuk merancang hukuman kreatif bagi para kriminal, **Mortefi** pasti akan menjadi pemimpinnya."
 
 ### <mark style="color:blue;">Shattered Crown of Prodigy</mark>
 

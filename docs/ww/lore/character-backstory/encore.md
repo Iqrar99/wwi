@@ -279,7 +279,7 @@ tanya **Encore**, mengantuk.
 **Encore** larut dalam cerita itu, sampai matanya semakin berat dan akhirnya terpejam.\
 Di tengah kantuknya, ia mencoba menggumamkan sesuatu.
 
-> "Mama Direktur... bukan kucing jahat..."
+> "**Mama Direktur**... bukan kucing jahat..."
 
 Tapi ia terlalu lelah untuk menyelesaikan kalimatnya.\
 **Cosmos** dan **Cloudy**, yang kebingungan dengan gumaman **Encore**, akhirnya ikut merayap masuk ke bawah selimutnya.
@@ -291,7 +291,7 @@ Di hadapannya, Rumah Permen dilahap oleh kobaran api. Atapnya meleleh dalam pana
 
 **Encore** menyaksikan kejatuhannya, sebuah akhir yang tak terhindarkan. Namun, Sang Pencabut Nyawa tidak memberikan pengampunan dengan mudah.
 
-Sebaliknya,*ia menikmati penderitaan kucing itu, memaksanya mengakui segala kesalahannya.
+Sebaliknya,ia menikmati penderitaan kucing itu, memaksanya mengakui segala kesalahannya.
 
 > Jeritan menyayat memenuhi hutan.\
 > **Hyena** yang dulu kejam dan gagak yang dulu sombong, kini meringkuk ketakutan.
@@ -312,7 +312,7 @@ Api terus membakar Rumah Permen.\
 Namun, **Encore** tidak takut.\
 Ia menyandarkan dirinya pada kucing besar itu, lalu mulai menyanyikan lagu pengantar tidur.
 
-> Lagu yang dulu dinyanyikan oleh "Mama Direktur" untuk semua anak-anaknya.
+> Lagu yang dulu dinyanyikan oleh "**Mama Direktur**" untuk semua anak-anaknya.
 
 **Encore** terus bernyanyi, suaranya semakin serak, hingga api perlahan padam.\
 Sampai cahaya pagi pertama menyinari langit. Ketika ia membuka matanya, kucing besar yang mengerikan itu telah berubah menjadi anak kucing kecil.

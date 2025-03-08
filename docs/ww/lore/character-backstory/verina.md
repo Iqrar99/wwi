@@ -70,7 +70,7 @@ Ini adalah kasus langka dalam hubungan antara **Resonator** dan tanaman simbioti
 
 > "Kalau kamu tanya soal **Verina**, wah, kamu bakal denger cerita panjang,"&#x20;
 
-Begitu selalu kata Riggs, pemimpin tim eksplorasi Pioneer, saat ditanya tentang **Verina**.&#x20;
+Begitu selalu kata **Riggs**, pemimpin tim eksplorasi **Pioneer**, saat ditanya tentang **Verina**.&#x20;
 
 > "Waktu pertama kali dia gabung tim kita, dia selalu sendirian dan gak banyak ngobrol sama orang. Kami semua khawatir, soalnya dia udah kehilangan orang tuanya..."
 
@@ -96,7 +96,7 @@ Buket-buket bunga itu hanya mekar untuk waktu yang singkat. Bunga yang dipetik h
 
 Hingga suatu hari, dia membaca harapan yang terlampir pada salah satu pesanan.
 
-> "Untuk menghormati teman seperjuanganku. Dia memberikan hidupnya demi kedamaian Jinzhou, namun namanya tak dikenal banyak orang. Namun aku masih ingat senyum tulusnya saat dia menerima **Iris** dari seorang teman lama. Jika namanya tak bisa diingat, biarlah makna bunga ini yang menghormatinya selamanya."
+> "Untuk menghormati teman seperjuanganku. Dia memberikan hidupnya demi kedamaian **Jinzhou**, namun namanya tak dikenal banyak orang. Namun aku masih ingat senyum tulusnya saat dia menerima **Iris** dari seorang teman lama. Jika namanya tak bisa diingat, biarlah makna bunga ini yang menghormatinya selamanya."
 
 Malam itu, **Verina** mengunci dirinya di rumah kaca.
 
@@ -108,17 +108,17 @@ Inilah saat-saat **Verina** berharap bisa bekerja sedikit lebih keras dan sediki
 
 ### <mark style="color:blue;">Noting the Differences</mark>
 
-Orang-orang selalu bertanya kenapa **Verina**a sangat mencintai tanaman. Ini adalah pertanyaan yang sudah dijawab **Verina** berkali-kali, tapi dia tahu kalau orang akan selalu memulai percakapan dengan pertanyaan demi pertanyaan, jadi setiap kali dia akan memberikan jawaban yang sudah dipikirkannya dengan matang:&#x20;
+Orang-orang selalu bertanya kenapa **Verina** sangat mencintai tanaman. Ini adalah pertanyaan yang sudah dijawab **Verina** berkali-kali, tapi dia tahu kalau orang akan selalu memulai percakapan dengan pertanyaan demi pertanyaan, jadi setiap kali dia akan memberikan jawaban yang sudah dipikirkannya dengan matang:&#x20;
 
-> "Waktu aku kecil, ibu sering meletakkan dua helai daun di tanganku dan bertanya apa perbedaan di antara keduanya.''
+> "Waktu aku kecil, ibu sering meletakkan dua helai daun di tanganku dan bertanya apa perbedaan di antara keduanya."
 
 Aku jawab,&#x20;
 
-> ''Bukannya mereka sama saja? Kan mereka datang dari pohon yang sama.''
+> "Bukannya mereka sama saja? Kan mereka datang dari pohon yang sama."
 
 Dan ibu menggeleng,&#x20;
 
-> ''Lihat lebih dekat, **Verina**.''
+> "Lihat lebih dekat, **Verina**."
 
 > "Jadi aku melihat lebih dekat, dan baru aku sadar kalau meskipun mereka terlihat sama dari luar, pembuluh daunnya menyebar ke arah yang berbeda. Mereka membentuk pola yang sama sekali berbeda."
 
@@ -169,9 +169,9 @@ Setelah sejenak merasakan kesedihan, dia mengambil botol semprot dan melanjutkan
 
 Setelah beberapa hari bekerja, dia tahu betapa pentingnya memberi waktu istirahat, baik untuk dirinya sendiri maupun untuk tanaman-tanamannya. Dia membersihkan pikirannya dan mengambil catatan petualangannya untuk menjelajahi jalanan **Jinzhou**.
 
-Jinzhou jauh berbeda dengan kampung halamannya di **New Federation**. Tidak ada harga bunga yang melambung tinggi atau kompetisi yang rumit di sini. Saat dia berjalan melalui gang-gang yang ramai, **Verina** merasakan sebuah kelegaan yang nyata. Uap yang naik dari gerobak pedagang dan para pembeli yang sibuk di sekitarnya memberikan kenyamanan dalam kehidupan normal di kota baru ini.
+**Jinzhou** jauh berbeda dengan kampung halamannya di **New Federation**. Tidak ada harga bunga yang melambung tinggi atau kompetisi yang rumit di sini. Saat dia berjalan melalui gang-gang yang ramai, **Verina** merasakan sebuah kelegaan yang nyata. Uap yang naik dari gerobak pedagang dan para pembeli yang sibuk di sekitarnya memberikan kenyamanan dalam kehidupan normal di kota baru ini.
 
-> "Ini baik, ini baik. "
+> "Ini baik, ini baik."
 
 Pikir **Verina** dalam hati saat berjalan di jalanan. Kenangan belajar tanaman bersama orang tuanya, dan rasa kesepian yang menyakitkan setelah kepergian mereka, membanjiri pikirannya. Tapi kini, berdiri di atas kaki sendiri, dia akhirnya bisa menikmati liburan yang tenang. Setelah merasa berjalan sendirian sepanjang waktu, kini dia telah tumbuh menjadi sosok yang mandiri.
 

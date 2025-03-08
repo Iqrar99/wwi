@@ -38,11 +38,11 @@ Dasar Evaluasi: \[**Resonance Assessment 1888-G**]
 
 Usia dan waktu **Awakening** dari **Resonator** **Lingyang** masih belum diketahui, namun tampaknya ia telah mengalami **Awakening** sejak lama. **Lingyang** telah bertahan dalam kondisi lingkungan yang ekstrem dalam waktu lama, dan kemungkinan besar telah mengaktifkan **Forte**-nya secara alami saat bertarung.
 
-Lingyang**** memiliki **Tacet Mark** di lengan kanannya. Tidak ditemukan mutasi setelah **Awakening**.
+**Lingyang** memiliki **Tacet Mark** di lengan kanannya. Tidak ditemukan mutasi setelah **Awakening**.
 
 Daya tahan fisik dan kekuatannya luar biasa, kemungkinan besar akibat terbiasa dengan kondisi ekstrem. Ia menunjukkan keterampilan bertarung dan bertahan hidup yang sangat baik, tetapi kurang berpengalaman dalam menggunakan **Forte**-nya karena tidak terbiasa menggunakannya dalam keseharian. Evaluasi lebih lanjut diperlukan untuk menentukan apakah ia membutuhkan bimbingan dalam menguasai **Forte**-nya.
 
-Saat berada di bawah pengaruh **Forte**-nya, **Lingyang** mengalami peningkatan indra dan dapat menghasilkan **Gusto** beku tak kasatmata dalam area terbatas. Efek ini juga menciptakan medan bersuhu rendah yang memberikan tekanan pada musuh di sekitarnya. Selain itu, **Lingyang** dapat memengaruhi dan membangkitkan semangat orang-orang di sekitarnya melalui kehendaknya yang ditransmisikan.
+Saat berada di bawah pengaruh **Forte**-nya, **Lingyang** mengalami peningkatan indra dan dapat menghasilkan **Gusto** beku tak kasat mata dalam area terbatas. Efek ini juga menciptakan medan bersuhu rendah yang memberikan tekanan pada musuh di sekitarnya. Selain itu, **Lingyang** dapat memengaruhi dan membangkitkan semangat orang-orang di sekitarnya melalui kehendaknya yang ditransmisikan.
 
 Belum pernah ditemukan **Resonance Spectrum Pattern** yang mirip dengan **Lingyang**. Penyebab **Awakening**-nya masih belum diketahui hingga saat ini.
 
@@ -81,7 +81,7 @@ Sebagai **Liondancer** utama, peran **Lingyang** tidak hanya terbatas pada pertu
 
 > "Apa **Liondance Troupe** sekarang juga menawarkan layanan konseling psikologis?"
 
-**Liondance Troupe** harus menghadapi jadwal padat, perubahan mendadak, dan berbagai keadaan tak terduga. Menyeimbangkan konflik dan ketegangan adalah tantangan konstan, karena satu kesalahan kecil saja bisa berarti kehilangan klien yang berharga. Oleh karena itu, kunci kesuksesan mereka terletak pada memahami dan menangani emosi setiap klien. **Lingyang**g telah menguasai seni negosiasi ini, menjadikannya salah satu keahliannya yang paling berharga.
+**Liondance Troupe** harus menghadapi jadwal padat, perubahan mendadak, dan berbagai keadaan tak terduga. Menyeimbangkan konflik dan ketegangan adalah tantangan konstan, karena satu kesalahan kecil saja bisa berarti kehilangan klien yang berharga. Oleh karena itu, kunci kesuksesan mereka terletak pada memahami dan menangani emosi setiap klien. **Lingyang** telah menguasai seni negosiasi ini, menjadikannya salah satu keahliannya yang paling berharga.
 
 Untungnya, **Lingyang** punya cara lain untuk menghadapi klien yang sulit: memberikan **Lucky Greetings**. Dengan senyum cerah dan harapan baik yang tulus, ia bahkan bisa membuat klien yang paling keras kepala luluh. Lambat laun, koleksi **Lucky Greetings** miliknya menjadi bacaan wajib bagi para **Liondancer**, hingga akhirnya kebiasaan “memberikan **Lucky Greetings** kepada semua orang” menjadi ciri khas dari **Liondance Troupe**.
 
@@ -93,9 +93,9 @@ Jadi, jika suatu hari kamu bertemu seorang **Liondancer** yang menghujanimu deng
 
 ### <mark style="color:blue;">A Twist of Fate</mark>
 
-Berbicara tentang bagaimana **Lingyang**bergabung dengan **Liondance Troupe**, kita harus kembali ke hari yang tampaknya “biasa” itu—hari ketika pertunjukan **Liondance** di **Jinzhou Theater** baru saja berakhir. Saat para staf sibuk merapikan properti panggung, seorang pemuda berpenampilan aneh tiba-tiba jatuh dari atap. Lebih tepatnya, bukan sekadar “jatuh”, tapi lebih seperti “terhempas” dengan cukup dramatis.
+Berbicara tentang bagaimana **Lingyang** bergabung dengan **Liondance Troupe**, kita harus kembali ke hari yang tampaknya “biasa” itu—hari ketika pertunjukan **Liondance** di **Jinzhou Theater** baru saja berakhir. Saat para staf sibuk merapikan properti panggung, seorang pemuda berpenampilan aneh tiba-tiba jatuh dari atap. Lebih tepatnya, bukan sekadar “jatuh”, tapi lebih seperti “terhempas” dengan cukup dramatis.
 
-Ternyata, ini bukan insiden biasa, melainkan kecelakaan yang sudah direncanakan dengan matang. **Lingyang**awalnya berniat mendekati **Liondance Troupe** dengan cara yang lebih terkontrol. Namun, satu hal yang tidak ia perhitungkan adalah bahwa atap, terutama setelah hujan, jauh lebih licin dibandingkan ranting pohon.
+Ternyata, ini bukan insiden biasa, melainkan kecelakaan yang sudah direncanakan dengan matang. **Lingyang** awalnya berniat mendekati **Liondance Troupe** dengan cara yang lebih terkontrol. Namun, satu hal yang tidak ia perhitungkan adalah bahwa atap, terutama setelah hujan, jauh lebih licin dibandingkan ranting pohon.
 
 Saat itu, **Lingyang** bahkan belum sepenuhnya menguasai bahasa manusia, dan ia juga belum memiliki nama. Dalam waktu yang cukup lama, para anggota **Liondance Troupe** hanya memanggilnya “si kecil”.
 
@@ -250,7 +250,7 @@ Sang master melanjutkan,&#x20;
 >
 > “Kalau begitu...”
 >
-> “Selamat ulang tahun, Lingyang!”
+> “Selamat ulang tahun, **Lingyang**!”
 
 Tiba-tiba, suara riuh menggema di sekelilingnya. Para seniornya telah berkumpul dan meneriakkan namanya dalam satu suara.
 
