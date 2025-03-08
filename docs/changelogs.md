@@ -26,6 +26,7 @@ layout:
 * Add more backstories
 * Fix some typos
 * Fix formatting
+* Update content list on [character-backstory](ww/lore/character-backstory/ "mention")
 
 ## 18/02/2025
 
