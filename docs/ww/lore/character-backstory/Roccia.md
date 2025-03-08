@@ -25,7 +25,6 @@ layout:
 | Afiliasi      | Troupe of Fools  |
 
 
-
 ## :clipboard: Forte Examination Report
 
 ### <mark style="color:blue;">**Resonance Power**</mark>

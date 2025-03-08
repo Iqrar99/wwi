@@ -20,7 +20,7 @@ Peneliti Utama di kampus **Jinzhou, Akademi Huaxu**, dan ilmuwan multi-disiplin 
 
 ## :mag: Informasi
 
-| Tanggal Lahir | Unknown        |
+| Tanggal Lahir |                |
 | ------------- | -------------- |
 | Jenis Kelamin | Laki-laki      |
 | Tempat Lahir  | Huanglong      |
