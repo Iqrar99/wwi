@@ -16,7 +16,7 @@ layout:
 
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1206.png" alt="" width="375"><figcaption><p><strong>Brant</strong>, kapten <strong>Rinascita's Troupe of Fools</strong>, adalah jiwa yang bebas dan romantis. Tak terduga dan penuh kehidupan, dia adalah jantung dari rombongan tersebut. Di atas panggung, dia memerankan banyak peran, mengenakan topeng baru untuk menghidupkan setiap cerita. Namun di luar sorotan, dia selalu tulus, menawarkan ketulusan sejati kepada orang-orang di sekitarnya.</p></figcaption></figure></div>
 
-### :mag: Informasi
+## :mag: Informasi
 
 | Tanggal Lahir |                 |
 | ------------- | --------------- |
@@ -24,13 +24,13 @@ layout:
 | Tempat Lahir  | Rinascita       |
 | Afiliasi      | Troupe of Fools |
 
-### :clipboard: Forte Examination Report
+## :clipboard: Forte Examination Report
 
-#### <mark style="color:blue;">**Resonance Power**</mark>
+### <mark style="color:blue;">**Resonance Power**</mark>
 
 > Flamebound Compass
 
-#### <mark style="color:blue;">Resonance Evaluation Report</mark>
+### <mark style="color:blue;">Resonance Evaluation Report</mark>
 
 \[**Troupe Medic Benir's Notes (Tidak Bernomor)**]
 
@@ -50,7 +50,7 @@ layout:
 > Yang menarik, aku sering melihat Kapten **Brant** berputar di udara selama pertempuran. Apakah itu trik untuk mempertajam rasa arahnya, atau rahasianya untuk bernavigasi di laut?\
 > Aku harap seseorang menemukan keberanian untuk bertanya kepadanya. Aku sangat ingin tahu!
 
-#### <mark style="color:blue;">Overclock Diagnostic Report</mark>
+### <mark style="color:blue;">Overclock Diagnostic Report</mark>
 
 \[ Permohonan Tur "**Revel in Freedom**" **Troupe of Fools** - **Ragunna** Stop Application ]
 
@@ -69,11 +69,11 @@ Permohonan **Troupe of Fools** disetujui. Mereka akan bertanggung jawab penuh at
 
 > Catatan dari seorang kapten tertentu: Tandai kata-kataku, tidak akan ada yang salah!
 
-### :package: Cherished Items
+## :package: Cherished Items
 
 <table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">The Initial Treasure</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure86_UI.webp" alt=""></td><td><p><strong>Fosil Ammonoid</strong> yang diawetkan dengan cermat. <strong>Brant</strong> kecil pernah berdiri di atas meja, dengan bangga menyatakan kepada ayahnya bahwa dia telah menemukan harta karun yang tersembunyi di antara buku-buku. Ayahnya melepaskan kacamatanya untuk melihat lebih dekat, mengenalinya sebagai <strong>fosil Ammonoid</strong> yang disimpan di bagian bawah rak buku. Memakai kesempatan itu, ayahnya menceritakan sebuah petualangan tentang penggalian masa lalu dan pencarian kebenaran.</p><p><strong>Ammonoid</strong> itu menjadi harta pertama <strong>Brant</strong> dan menandai awal perjalanannya ke dunia petualangan tanpa akhir.</p></td></tr><tr><td align="center">All the World's His Stage</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure85_UI.webp" alt=""></td><td><p>Patung topeng bertumpuk, masing-masing dibuat untuk drama dan kesempatan yang berbeda.</p><p>Di atas panggung, dia adalah bintang, pusat perhatian semua orang. Dengan setiap topeng, dia menghidupkan kisah tersebut, memikat penonton dengan kegembiraan dan kekaguman. Tetapi di luar panggung, tidak perlu menyembunyikan jati dirinya yang sebenarnya.</p><p>Pada saat itu, dia akhirnya hanyalah <strong>Brant</strong>.</p></td></tr><tr><td align="center">Testament to a Captain</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure87_UI.webp" alt=""></td><td><p>Topi segitiga, disulam dengan <strong>lambang Troupe of Fools</strong>.</p><p><strong>Brant</strong> masih ingat penampilan pertama yang disaksikannya di atas Fool's Sail. Kapten, tanpa gentar menghadapi gelombang yang menerjang, memimpin krunya melalui Stygian Fjords dan menempatkan topi segitiga di kepala bocah yang bersemangat itu. Kapten, dengan kedipan nakal, memanggilnya,</p><p>"Kapten <strong>Brant</strong>."</p><p>Bertahun-tahun kemudian, <strong>Brant</strong> juga ingat penampilan pertamanya sendiri. Berdiri tinggi di tiang kapal, dia meneriakkan perintah untuk mengangkat layar dan mengarahkan kapal menjauhi pusaran air yang mengancam untuk menelan mereka seluruhnya. Pada saat itu, salah satu kru dengan hormat menempatkan topi segitiga yang sama di kepalanya. Sorak-sorai meletus saat seluruh kru berteriak serempak,</p><p>"Kapten <strong>Brant</strong>! Kapten <strong>Brant</strong>!"</p></td></tr></tbody></table>
 
-### :scroll: Story
+## :scroll: Story
 
 ### <mark style="color:blue;">An Improvised Afternoon at the Tavern</mark>
 
