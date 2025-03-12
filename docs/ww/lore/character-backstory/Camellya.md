@@ -36,10 +36,9 @@ layout:
 
 Evaluation Basis: [Resonance Assessment **RA2███-G**]
 
-
 Waktu pasti **awakening** Resonator **Camellya** tidak dapat dipastikan karena gangguan ███ yang dialaminya. Sejak **awakening**, dia telah mampu memanfaatkan **Forte**-nya.
 
-**Tacet Mark** Resonator **Camellya** terletak di dadanya. Setelah **awakening**-nya, tubuhnya menunjukkan tanda-tanda somatisasi vegetatif yang jelas. Baik lengan kanan maupun kepalanya menunjukkan perubahan, dengan tingkat perubahan yang semakin intensif seiring dengan fluktuasi frekuensinya.
+**Tacet Mark** Resonator **Camellya** terletak di dadanya. Setelah **awakening**-nya, tubuhnya menunjukkan tanda-tanda somatisasi vegetatif yang jelas. Baik lengan kanan maupun kepalanya menunjukkan perubahan, dengan tingkat perubahan yang semakin intensif seiring fluktuasi frekuensinya.
 
 Pola **Resonance Spectrum Camellya** sangat mirip dengan bunga camelia, menunjukkan reaksi **Syntony** yang kuat.\
 Namun, penyebab kebangkitan **Camellya** masih belum jelas karena belum ditemukan objek yang sesuai dengan perubahan dalam **Resonance Spectrum Pattern**-nya.
