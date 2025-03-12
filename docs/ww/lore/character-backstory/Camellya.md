@@ -64,7 +64,9 @@ Pemeriksaan fisik secara teratur wajib dilakukan, dan intervensi wajib dijadwalk
 
 <table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Wooden Doll</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure75_UI.webp" alt=""></td><td>Sebuah boneka kayu yang diukir dengan rumit, dibentuk menyerupai Rover dan terbuat dari akar yang diciptakan oleh <strong>Forte</strong> milik <strong>Camellya</strong>. Ini mencerminkan estetika uniknya. Sebelum pertemuan mereka lagi di Jinzhou, <strong>Camellya</strong> berulang kali mencoba memahat wajah boneka itu, tapi selalu frustrasi karena tak bisa menyempurnakan detail terakhirnya. Sekarang, setelah semua usaha dan sedikit kekecewaan, visinya akhirnya jadi nyata. Saat melihat hasil karyanya, dia tidak bisa menahan tawa.
 
-> "Jadi, beginilah seharusnya," pikirnya.
+> "Jadi, beginilah seharusnya," 
+
+pikirnya.
 
 > "Hehe, lucu sekali seperti yang aku bayangkan."</td></tr><tr><td align="center">Spectrum Bracelet</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure76_UI.webp" alt=""></td><td>Sebuah gelang pemantau spektrum frekuensi yang dirancang oleh <strong>Black Shores</strong>, dibuat atas desakan <strong>Camellya</strong>. Desainnya mirip dengan hadiah berharga dari masa lalu, dilengkapi fitur pelacakan untuk menjaga lokasi dan keselamatan pemakainya dari jauh. <strong>Camellya</strong> paham kalau dia bukan lagi <strong>Lady Flora</strong> yang dulu, dan dia tidak mau kembali ke masa itu. Masa-masa mengikuti Rover sudah berlalu, tapi buat apa? Keduanya akan melakukan apa yang membuat mereka bahagia. Bagi <strong>Camellya</strong>, ini adalah satu-satunya jangkar dalam lautan makna yang tak ada habisnya.</td></tr><tr><td align="center">A Camellia</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure78_UI.webp" alt=""></td><td>Sebuah bunga yang didedikasikan untuk seseorang tertentu. Entah sebagai pemimpin, seorang <strong>Modulator</strong>, atau sekarang sebagai Rover, pahlawan Jinzhou, seorang pemandu… <strong>Camellya</strong> tidak pernah peduli dengan gelar atau tanggung jawab yang menyertainya. Namun, dia tahu bahwa dia tidak bisa, dan memang tidak akan, membiarkan pandangannya tentang kehidupan mempengaruhi penilaiannya. Jadi, biarkan bunga abadi ini menyampaikan perasaannya di tempat yang kata-kata mungkin gagal.
 
@@ -100,16 +102,13 @@ Namun, dia tidak berniat mengikuti **Rover** ke **Rinascita**. Pandangannya tent
 Ya, masa lalunya…\
 **Camellya** menyipitkan mata, sebuah dengungan lembut keluar dari bibirnya saat dia merenung tentang langkah selanjutnya. Dia ingin menyelidikinya lebih lanjut sendiri, menunggu waktu yang tepat untuk berbagi apa yang dia ketahui dengan **Rover**. Dia memiliki sedikit kepercayaan pada organisasi yang dibangun di pantai ini, dan lebih sedikit lagi pada **Tethys System**. Selain **Rover**, dia memiliki sedikit kepercayaan pada orang lain.
 
-Dulu,\
-sebagai **Lady Flora**, dia menghindari keterikatan, enggan melihat **Rover** mengorbankan dirinya demi kebaikan yang lebih besar. Tetapi kini pandangannya telah berubah. Dia merasa bahwa dia sangat berbeda dari **Lady Flora** yang dulu.
+Dulu,\ sebagai **Lady Flora**, dia menghindari keterikatan, enggan melihat **Rover** mengorbankan dirinya demi kebaikan yang lebih besar. Namun kini, pandangannya telah berubah. Dia merasa sangat berbeda dari **Lady Flora** yang dulu.
 
-Dia telah mengikuti perjalanan **Rover** dari **Jinzhou** hingga sekarang.
+Dia telah mengikuti perjalanan **Rover** dari **Jinzhou** hingga sekarang. Sebuah kekuatan tunggal, yang selalu bergerak maju, mengumpulkan berbagai macam teman di sepanjang jalan.
 
-Sebuah kekuatan tunggal, yang selalu bergerak maju, mengumpulkan berbagai macam teman di sepanjang jalan.
+Dia mengerti bahwa ini masih bukan jalannya, namun dia tidak lagi menentang untuk mengamatinya. Seperti satu batu yang bertemu dengan batu lainnya, mengirimkan riak di permukaan air, dia menerima gagasan untuk menjadi "**variabel**" dalam tarian ini.
 
-Dia mengerti bahwa ini masih bukan jalannya, namun dia tidak lagi menentang untuk mengamatinya. Seperti satu batu yang bertemu dengan batu lainnya, mengirimkan riak di permukaan air, dia menerima gagasan untuk menjadi "**variabel**" dalam tarian ini. 
-
-Kini, kebahagiaan yang dia rasakan dari hubungan mereka begitu mendalam. Dia tidak merasakan kebosanan biasa yang menyusup, dan dia tidak ingin menghapus pikiran tentang mereka. Sebaliknya, pikirannya sering kali mengarah padanya, merindukan untuk mengetahui lebih banyak tentang petualangannya dan berbagi lebih banyak permainan yang menyenangkan. 
+Kini, kebahagiaan yang dia rasakan dari hubungan mereka begitu mendalam. Dia tidak merasakan kebosanan biasa yang menyusup, dan dia tidak ingin menghapus pikiran tentang mereka. Sebaliknya, pikirannya sering kali mengarah padanya, merindukan untuk mengetahui lebih banyak tentang petualangannya dan berbagi lebih banyak permainan yang menyenangkan.
 
 Saat itu, **Camellya** menyadari bahwa pikiran-pikiran ini sudah meninggalkan jejak yang menyakitkan namun menyenangkan di jiwanya, jauh sebelum dia menyadarinya.
 
@@ -123,7 +122,7 @@ Tiba-tiba, sebuah pemikiran muncul.
 
 > "Aku akan memberinya sebuah bunga."
 
-Saat ide ini meresap dalam pikirannya, itu sepenuhnya menguasainya. Dia harus segera menemui **Rover** —sekarang! Bunga itu, yang lahir dari dirinya, tidak akan layu atau membusuk kecuali dia mati. Dia terkejut dengan kegembiraannya sendiri dan merasakan secercah kesedihan. Saat dia merenung, sebuah rasa sakit yang tumpul menginterupsi pikirannya.
+Saat ide ini meresap dalam pikirannya, itu sepenuhnya menguasainya. Dia harus segera menemui **Rover**—sekarang! Bunga itu, yang lahir dari dirinya, tidak akan layu atau membusuk kecuali dia mati. Dia terkejut dengan kegembiraannya sendiri dan merasakan secercah kesedihan. Saat dia merenung, sebuah rasa sakit yang tumpul menginterupsi pikirannya.
 
 Dengan sebuah desahan, dia memilih untuk tidak terlalu memikirkannya. Karena... Ya! Sebuah senyuman menyapu bibirnya saat dia memutuskan untuk menjaga bunga itu tetap mekar untuk **Rover**. Dia akan berusaha semampunya untuk tidak mati terlalu cepat.
 
@@ -135,7 +134,7 @@ Dia terbangun dari mimpinya.
 
 Dinding-dinding pod medis tenggelam dalam kegelapan. Terbungkus dalam keheningan berat karena peredam suara, **Camellya** berkedip dan mengalihkan pandangannya yang kering ke kanan. Indikator di layar **Terminal** kembali normal. Belenggu di pergelangan tangan dan kaki telah melonggar, namun dia masih merasa lemah, memaksanya tetap terbaring dalam ruang sempit pod.
 
-Dia berusaha mengingat apa yang telah terjadi. Dia memaksakan ketenangan yang rapuh mencoba mengingat, tetapi ingatan yang hilang terasa seperti lubang hitam tak berujung—menatapnya hanya mengungkapkan kegelapan. Ingatannya kembali terpecah.
+Dia berusaha mengingat apa yang telah terjadi. Dia memaksakan ketenangan yang rapuh, mencoba mengingat, tetapi ingatan yang hilang terasa seperti lubang hitam tak berujung—menatapnya hanya mengungkapkan kegelapan. Ingatannya kembali terpecah.
 
 Sudah setahun bersama **Black Shores**, **Camellya** baru saja lulus ujian untuk menjadi seorang **Bloom Bearer** resmi. Kini dia memiliki akses lebih luas ke arsip informasi **Tethys System**.
 
@@ -147,17 +146,17 @@ Butuh waktu lama baginya untuk keluar dari tempat terbengkalai itu. Ketika rasa 
 
 Meskipun sudah kembali ke peradaban, ingatan **Camellya** tetap kosong, tidak terstimulasi oleh lingkungan barunya. Dia merasa seperti binatang liar, hidup hanya berdasarkan insting. Aturan dan regulasi dunia manusia terasa asing baginya, namun dia tidak merasa frustrasi—menggunakan **Forte**-nya sudah cukup. Baginya, kekuatan adalah senjata instingtif, dan dia menggunakannya dengan bebas, membuka jalannya sendiri melalui tanah yang tercabik **Lament**.
 
-Awalnya, segala sesuatu di **Solaris** mempesonanya. Namun, seiring berjalannya waktu, rasa bosan datang dengan cepat. Kedatangan di **Black Shores** adalah sebuah kecelakaan, namun **Camellya** merasa ada keakraban aneh dengan tempat itu. Setahun kemudian, dia menemukan namanya di **Tethys System** dan mengetahui bahwa dia pernah tinggal dan bekerja di sana, dikenal saat itu sebagai **Lady Flora**. Aneh bagaimana dia bisa melupakan segalanya namun tetap mengingat nama "**Camellya**."
+Awalnya, segala sesuatu di **Solaris** mempesonanya. Namun, seiring berjalannya waktu, rasa bosan datang dengan cepat. Kedatangan di **Black Shores** terjadi secara tidak sengaja, namun **Camellya** merasa ada keakraban aneh dengan tempat itu. Setahun kemudian, dia menemukan namanya di **Tethys System** dan mengetahui bahwa dia pernah tinggal dan bekerja di sana, dikenal saat itu sebagai **Lady Flora**. Aneh bagaimana dia bisa melupakan segalanya namun tetap mengingat nama "**Camellya**."
 
-Didorong rasa ingin tahu, dia mulai menyelidiki **Black Shores**, bersemangat untuk mengungkap masa lalunya dan kisah **Lady Flora**. Apa yang sebenarnya terjadi padanya?
+Didorong oleh rasa ingin tahu, dia mulai menyelidiki **Black Shores**, bersemangat untuk mengungkap masa lalunya dan kisah **Lady Flora**. Apa yang sebenarnya terjadi padanya?
 
 Saat pikiran itu muncul, rasa sakit tajam kembali menusuk kepalanya, dan bunga di dadanya tiba-tiba membengkak, berubah menjadi ungu gelap. Duri tajam pada urat-uratnya mengancam untuk merobek pod medis. Potongan-potongan ingatan berkelebat dalam benaknya—Ah, **Lady Flora** melarangnya mengingat masa lalu. **Camellya** mengeluarkan teriakan teredam kesakitan saat belenggu di tubuhnya kembali mengencang, dan alarm keras berbunyi. Petugas medis akan segera datang.
 
 Namun, dia tahu tak banyak yang bisa mereka lakukan. Mereka sudah memeriksanya dengan teliti, menyimpulkan bahwa gejala **Overclocking**-nya unik dan tidak bisa diobati, hanya bisa dikendalikan dengan pembatasan. Kematian bisa memberikan kelegaan, tetapi dalam kondisinya saat ini, bahkan untuk mati begitu saja pun dia tidak bisa.
 
-Yang bisa dia lakukan hanyalah menunggu, menunggu anugerah kematian. Keadaan pasif ini menyiksa jiwanya. Jika dia tidak bisa memutuskan hasilnya, setidaknya dia ingin mengendalikan prosesnya.
+Yang bisa dia lakukan hanyalah menunggu, menanti anugerah kematian. Keadaan pasif ini menyiksa jiwanya. Jika dia tidak bisa memutuskan hasilnya, setidaknya dia ingin mengendalikan prosesnya.
 
-> "Aku akan mengikuti instingku sampai kematian menemui ku."
+> "Aku akan mengikuti instingku sampai kematian menemuiku."
 
 > "Itu sakit!" 
 
@@ -169,9 +168,9 @@ Meskipun kesakitan menyelimutinya, **Camellya** tertawa keras.
 
 Dia terbangun dari mimpinya.
 
-**Lady Flora** membuka matanya, merasakan udara dingin menyentuh ujung jari-jari tangannya, membuat tangan dan kakinya sedikit mati rasa. Dia duduk sesaat, perlahan bangkit untuk melihat sekelilingnya.
+**Lady Flora** membuka matanya, merasakan udara dingin menyentuh ujung jari-jarinya, membuat tangan dan kakinya sedikit mati rasa. Dia duduk sejenak, lalu perlahan bangkit untuk melihat sekelilingnya.
 
-Kendaraan itu berhenti di sebuah gua, berlindung dari badai salju di luar, di mana hamparan salju yang tak ada habisnya membentang di hadapannya. Bunga salju melayang dengan lembut dari langit, mendarat dengan hati-hati di ujung hidungnya. Menggigil, dia bersembunyi lebih dalam ke dalam pakaian tebalnya.
+Kendaraan itu berhenti di sebuah gua, berlindung dari badai salju di luar, di mana hamparan salju yang tak ada habisnya membentang di hadapannya. Bunga salju melayang lembut dari langit, mendarat dengan hati-hati di ujung hidungnya. Menggigil, dia menyelubungi dirinya lebih dalam ke pakaian tebalnya.
 
 Dia bukanlah jenis tanaman yang bisa tahan terhadap dingin.
 
@@ -181,7 +180,7 @@ tanyanya setelah meneguk beberapa teguk air, lalu menoleh ke **Bloom Bearer** ya
 
 > "Aku tidak melihat dia."
 
-> "Pemimpin? dia pergi ke barat. Dia bilang ada sesuatu yang menarik yang muncul dan ingin melihatnya."
+> "Pemimpin? Dia pergi ke barat. Dia bilang ada sesuatu yang menarik yang muncul dan ingin melihatnya."
 
 > "Kenapa dia tidak mengajakku? Bukankah aku pengawalnya?" 
 
@@ -191,39 +190,39 @@ keluhnya pelan.
 
 > "Kamu tidur! Kamu sudah tidak tidur dengan baik selama perjalanan, selalu menggigil di tengah dingin. Dia tidak ingin membangunkanmu saat akhirnya kamu bisa tidur dengan nyenyak."
 
-Murum dengan pelan, **Lady Flora** mendengus dan membuka pintu. 
+Murum dengan pelan, **Lady Flora** mendengus dan membuka pintu.
 
 > "Bagaimanapun, aku akan menemuinya sekarang!"
 
-**Bloom Bearer** melambaikan tangan, jelas sudah terbiasa dengan dinamika antara **Lady Flora** dan pemimpin mereka.
+**Bloom Bearer** melambaikan tangan, tampak sudah terbiasa dengan dinamika antara **Lady Flora** dan pemimpin mereka.
 
-Meninggalkan kehangatan kendaraan, **Lady Flora** menyeret kakinya menyeberangi hamparan salju, kenangan tentang pertemuan pertama mereka di **Petalfall Village** kembali memenuhi benaknya. Dia sudah tahu bahwa mereka akan datang ke dataran salju ini untuk misi ini, dan meskipun dia tidak menyukai dingin, dia tahu waktu yang dihabiskan bersama pemimpin **Black Shores** akan sebanding. 
+Meninggalkan kehangatan kendaraan, **Lady Flora** menyeret kakinya melintasi hamparan salju, kenangan tentang pertemuan pertama mereka di **Petalfall Village** kembali memenuhi benaknya. Dia tahu bahwa mereka akan datang ke dataran salju ini untuk misi, dan meskipun dia tidak menyukai dingin, dia tahu waktu yang dihabiskan bersama pemimpin **Black Shores** akan sebanding.
 
-Kebanyakan waktu, dia lebih memilih menemani **Rover**  dalam berbagai tugas, meninggalkan jejak kakinya di sepanjang **Solaris**, dari kota yang ramai hingga lorong-lorong tersembunyi, tempat-tempat aman hingga tanah yang berbahaya.
+Kebanyakan waktu, dia lebih memilih menemani **Rover** dalam berbagai tugas, meninggalkan jejak kakinya di sepanjang **Solaris**, dari kota yang ramai hingga lorong-lorong tersembunyi, dari tempat-tempat aman hingga tanah yang berbahaya.
 
 **Lady Flora** menikmati eksistensi ini, dipenuhi dengan kegembiraan dari yang tak diketahui, dan **Rover** memiliki bakat luar biasa untuk mengubah yang biasa menjadi sesuatu yang luar biasa.
 
-Dia tidak keberatan dengan ancaman bahaya. Bahkan, dia lebih menikmatinya. Baginya, bahaya berarti perubahan, dan perubahan mengarah pada kegembiraan. Namun, dia mendapati, dengan pemimpinnya di sisinya, dia menahan dorongan untuk mencari masalah hanya demi kesenangan.
+Dia tidak keberatan dengan ancaman bahaya. Bahkan, dia lebih menikmatinya. Baginya, bahaya berarti perubahan, dan perubahan mengarah pada kegembiraan. Namun, dia mendapati bahwa dengan pemimpinnya di sisinya, dia menahan dorongan untuk mencari masalah hanya demi kesenangan.
 
 Bahaya...
 
-**Camellya** mengangkat tangannya, rantai halus di pergelangannya menangkap cahaya. **Bracelet** yang memantau indikator **Rabelle**-nya terbaca normal. Dia memeras pergelangan tangannya dan menghela napas perlahan. 
+**Camellya** mengangkat tangannya, rantai halus di pergelangannya menangkap cahaya. **Bracelet** yang memantau indikator **Rabelle**-nya menunjukkan hasil normal. Dia memeras pergelangan tangannya dan menghela napas perlahan.
 
 > "Bagus, semuanya seperti seharusnya," 
 
-pikirnya. 
+pikirnya.
 
 > "Jika aku mulai kehilangan kendali, Dia harus menjaga diriku. Itu akan mengganggu seluruh misi."
 
 Dia benci kehilangan kendali.
 
-Dalam beberapa tahun terakhir, **Lady Flora** dihantui oleh mimpi-mimpi aneh dan terpecah-pecah. Mereka terasa seperti kenangan dari kehidupan yang belum pernah dia jalani. Dalam mimpi-mimpi itu, dia selalu mencari **Rover**, tetapi keduanya tidak pernah bertemu. Setiap kali dia terjaga, kegelisahan menyelimuti dirinya, kekacauan mental itu meresap ke dalam dirinya. Dia sering kali terpaksa melapor ke fasilitas medis **Black Shores**.
+Dalam beberapa tahun terakhir, **Lady Flora** dihantui oleh mimpi-mimpi aneh dan terpecah-pecah. Mimpi-mimpi itu terasa seperti kenangan dari kehidupan yang belum pernah dia jalani. Dalam mimpi-mimpi tersebut, dia selalu mencari **Rover**, tetapi keduanya tidak pernah bertemu. Setiap kali terjaga, kegelisahan menyelimuti dirinya, dan kekacauan mental itu meresap ke dalam dirinya. Dia sering kali terpaksa melapor ke fasilitas medis **Black Shores**.
 
 Pikiran itu merusak suasana hatinya.
 
 Dia perlu menemukan **Rover** secepatnya.
 
-Menepis pikiran-pikiran kusut itu, dia fokus untuk menemukan frekuensi **Rover**. Setelah menyeberangi dua bukit dan danau beku, akhirnya dia melihat sosok kabur di kejauhan.
+Menepis pikiran-pikiran kusut itu, dia memusatkan perhatian untuk menemukan frekuensi **Rover**. Setelah menyeberangi dua bukit dan danau beku, akhirnya dia melihat sosok kabur di kejauhan.
 
 > "**Camellya**, bagaimana tidurmu?"
 
