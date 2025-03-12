@@ -102,7 +102,8 @@ Namun, dia tidak berniat mengikuti **Rover** ke **Rinascita**. Pandangannya tent
 Ya, masa lalunya…\
 **Camellya** menyipitkan mata, sebuah dengungan lembut keluar dari bibirnya saat dia merenung tentang langkah selanjutnya. Dia ingin menyelidikinya lebih lanjut sendiri, menunggu waktu yang tepat untuk berbagi apa yang dia ketahui dengan **Rover**. Dia memiliki sedikit kepercayaan pada organisasi yang dibangun di pantai ini, dan lebih sedikit lagi pada **Tethys System**. Selain **Rover**, dia memiliki sedikit kepercayaan pada orang lain.
 
-Dulu,\ sebagai **Lady Flora**, dia menghindari keterikatan, enggan melihat **Rover** mengorbankan dirinya demi kebaikan yang lebih besar. Namun kini, pandangannya telah berubah. Dia merasa sangat berbeda dari **Lady Flora** yang dulu.
+Dulu,\
+sebagai **Lady Flora**, dia menghindari keterikatan, enggan melihat **Rover** mengorbankan dirinya demi kebaikan yang lebih besar. Namun kini, pandangannya telah berubah. Dia merasa sangat berbeda dari **Lady Flora** yang dulu.
 
 Dia telah mengikuti perjalanan **Rover** dari **Jinzhou** hingga sekarang. Sebuah kekuatan tunggal, yang selalu bergerak maju, mengumpulkan berbagai macam teman di sepanjang jalan.
 
@@ -236,11 +237,11 @@ dengarnya membalas.
 
 Dia terbangun dari mimpinya.
 
-Jarak antara ketidaksadaran dan kesadaran semakin pendek dengan setiap hari yang berlalu. **Lady Flora** mulai merasa kesulitan membedakan di mana mimpi berakhir dan kenyataan dimulai. Bahkan, dia tidak ingat kapan kebingungannya ini dimulai.
+Jarak antara ketidaksadaran dan kesadaran semakin pendek setiap hari. **Lady Flora** mulai merasa kesulitan membedakan di mana mimpi berakhir dan kenyataan dimulai. Bahkan, dia tidak ingat kapan kebingungan ini dimulai.
 
-Kenangan datang dengan gelombang-gelombang yang ganas, menghantam pikirannya dan mengacaukan inderanya. Rasa sakit merobek tubuhnya, tanpa henti dan tanpa ampun. Dia membuka mulut untuk berteriak, namun **Overclocking** telah mengubah tenggorokannya menjadi akar yang kusut dan kasar, membungkam jeritannya.
+Kenangan datang dalam gelombang-gelombang ganas, menghantam pikirannya dan mengacaukan inderanya. Rasa sakit merobek tubuhnya, tanpa henti dan tanpa ampun. Dia membuka mulut untuk berteriak, namun **Overclocking** telah mengubah tenggorokannya menjadi akar yang kusut dan kasar, membungkam jeritannya.
 
-Setelah berjuang untuk mengambil beberapa langkah tertatih, dia terjatuh ke tepi sungai berlumpur, gemetar, jari-jari tangannya kejang-kejang tanpa bisa dikendalikan.
+Setelah berjuang untuk mengambil beberapa langkah tertatih-tatih, dia terjatuh ke tepi sungai berlumpur, gemetar, jari-jari tangannya kejang-kejang tanpa bisa dikendalikan.
 
 Berapa kali ini terjadi? Dia menatap kosong langit malam yang gelap di atasnya.
 
@@ -250,7 +251,7 @@ Sekarang dia ingat semuanya.
 
 Siapa dirinya, siapa **Rover**, alasan keberadaannya, **Solaris**, dan **Lament**...
 
-Sebelum kegilaan **Overclocking** menelan dirinya, kenangan-kenangan itu selalu terkubur dalam-dalam, terkunci di kedalaman jiwanya. Setiap kali dia terbangun, dia kehilangan ingatan, hanya meninggalkan kekosongan yang menyakitkan. Seiring berjalannya waktu dan tubuhnya melemah di bawah beban **Overclocking**, sekilas tentang misinya dan akarnya akan muncul, hanya untuk menghilang lagi dalam siklus tanpa akhir.
+Sebelum kegilaan **Overclocking** menelan dirinya, kenangan-kenangan itu selalu terkubur dalam-dalam, terkunci di kedalaman jiwanya. Setiap kali dia terbangun, dia kehilangan ingatan, hanya menyisakan kekosongan yang menyakitkan. Seiring berjalannya waktu dan tubuhnya melemah di bawah beban **Overclocking**, sekilas tentang misinya dan akarnya muncul, hanya untuk menghilang lagi dalam siklus tanpa akhir.
 
 Berapa kali itu terjadi? **Lady Flora** tidak tahu jawabannya.
 
@@ -258,19 +259,19 @@ Peradaban runtuh menjadi debu, hanya untuk bangkit kembali; kehidupan memudar, h
 
 Dia adalah saksi pasang surut **Solaris**, namun tetap selamanya menjadi pengembara dalam pikirannya sendiri.
 
-> "**Rover**..." 
+> "**Rover**..."
 
 Nama itu terlepas dari bibirnya seperti doa.
 
-Mereka tidak pernah benar-benar bertemu atau saling bertukar kata, dan sekarang, dengan ingatannya yang memudar, dia bahkan tidak bisa mengatakan apakah mereka teman atau musuh. Namun entah bagaimana, ketika dia terbangun berikutnya, dia tahu nalurinya akan membawanya untuk mencarinya. Itu bukanlah kerinduan lembut. Itu lebih terasa seperti beratnya rantai yang berat, yang tidak bisa ditolak oleh **Lady Flora**.
+Mereka tidak pernah benar-benar bertemu atau saling bertukar kata, dan sekarang, dengan ingatannya yang memudar, dia bahkan tidak bisa memastikan apakah mereka teman atau musuh. Namun entah bagaimana, ketika dia terbangun berikutnya, dia tahu nalurinya akan membawanya untuk mencarinya. Itu bukan sekadar kerinduan lembut. Lebih terasa seperti beban rantai yang berat, yang tidak bisa ditolak oleh **Lady Flora**.
 
-Namun dia tidak merasakan kebencian terhadap rantai itu.
+Namun, dia tidak merasakan kebencian terhadap rantai itu.
 
 Gemerisik daun menghancurkan lamunannya. Dengan lelah, dia berkedip, dan bunga kamelia merah itu mekar, sulurnya menembus melalui **Tacet Discords** yang bersembunyi di bayang-bayang. Ya, ini adalah nalurinya, esensinya, inti dari keberadaannya... Bahkan ketika dia hampir lupa segalanya, dia selalu bisa mengandalkan nalurinya.
 
 Sejujurnya, selain nalurinya, tidak ada lagi yang bisa dipegang olehnya.
 
-> "Suatu saat nanti, jika hanya aku bisa benar-benar mengenal **Rover** dan berbicara dengannya."
+> "Suatu saat nanti, jika saja aku bisa benar-benar mengenal **Rover** dan berbicara dengannya."
 
 **Lady Flora** termenung dengan samar. Mungkin **Tethys System** akan membawa **Rover** padanya, karena dia telah mengungkapkan dirinya dalam misi ini.
 
@@ -288,31 +289,31 @@ Angin mengerang dengan keras di tepi atap saat dia meregangkan tubuh, menyipitka
 
 Lagu yang dia pelajari dari **Rover**.
 
-Tentu saja, dia tidak mendengarnya langsung dari **Rover**, dia mempelajarinya secara diam-diam.
+Tentu saja, dia tidak mendengarnya langsung dari **Rover**; dia mempelajarinya secara diam-diam.
 
 Mereka mungkin bukan musuh, tapi hubungan mereka jauh dari kata bersahabat—setidaknya, itu adalah kenalan sepihak. Kehadiran **Rover** menarik perhatian berbagai pihak, termasuk organisasi tempat dia berada. Namun, itu tidak banyak mengganggunya, dan bukan pula sesuatu yang bisa dia pikirkan.
 
-Dia hanyalah "**benih terpilih**," sebuah "**bunga**" yang mekar dengan satu tujuan untuk memburu **Rover**. Sebagian besar hari, suntikan yang diberikan membuatnya berada dalam kabut, melayang dalam kesadaran yang setengah mati, dengan hanya hasrat naluriah untuk seseorang yang terpatri dalam hatinya.
+Dia hanyalah "**benih terpilih**," sebuah "**bunga**" yang mekar dengan satu tujuan: memburu **Rover**. Sebagian besar hari, suntikan yang diberikan membuatnya berada dalam kabut, melayang dalam kesadaran yang setengah mati, dengan hanya hasrat naluriah terhadap seseorang yang terpatri dalam hatinya.
 
-Zat yang diberikan padanya memiliki bau tajam dan asam, menyeret akalnya ke dalam kubangan, merampas kejernihan dan jati diri.
+Zat yang diberikan padanya memiliki bau tajam dan asam, menyeret akalnya ke dalam kubangan, merampas kejernihan dan jati dirinya.
 
 Pikirannya berputar dengan kacau, seperti bom yang hampir meledak, dipaksa untuk mereset tepat sebelum hitungan mundur berakhir.
 
-Namun dia tidak peduli.
+Namun, dia tidak peduli.
 
-Di luar **Rover**, hampir tidak ada yang menarik perhatiannya. Terkadang, Dia merasa seperti bayangan di atas kanvas kosong, sekadar gambaran seorang asing. Potret itu digambar dari potongan-potongan informasi yang dia kumpulkan dengan susah payah—mereka begitu dekat, namun tidak pernah benar-benar bertemu. Dia tidak tahu seperti apa rupa dirinya.
+Di luar **Rover**, hampir tidak ada yang menarik perhatiannya. Terkadang, dia merasa seperti bayangan di atas kanvas kosong, sekadar gambaran seorang asing. Potret itu terbentuk dari potongan-potongan informasi yang dia kumpulkan dengan susah payah—mereka begitu dekat, namun tidak pernah benar-benar bertemu. Dia tidak tahu seperti apa rupa dirinya.
 
 Katanya, jarak ini diperlukan untuk menghindari pelacakan **Tethys System**. Kontak dilarang.
 
-Tapi betapa dia merindukan untuk bertemu dengan **Rover**!
+Namun, betapa dia merindukan untuk bertemu dengan **Rover**!
 
-Duduk di tepi bangunan dengan bahaya mengintai, dia tertawa membayangkan fantasi itu. Sulur-sulur tanaman melilit lengannya, merambat lebih tinggi, dengan kuncup-kuncup lembut yang perlahan membuka di ujung-ujungnya.
+Duduk di tepi bangunan dengan bahaya yang mengintai, dia tertawa membayangkan fantasi itu. Sulur-sulur tanaman melilit lengannya, merambat lebih tinggi, dengan kuncup-kuncup lembut yang perlahan membuka di ujung-ujungnya.
 
 Tiba-tiba, sebuah pikiran terlintas di benaknya.
 
 > "Aku akan memberikan dia sebuah bunga."
 
-Begitu pikiran itu muncul, ia menguasainya sepenuhnya. Dia membayangkan saat dia akan menemukan **Rover** dan memberikan hadiah ini—sebuah bunga yang tumbuh dari dirinya sendiri. Bunga itu tidak akan layu atau busuk kecuali dia mati. Namun, seperti kilat, pikiran itu lenyap ke dalam kekacauan pikirannya, meninggalkan tidak ada jejak.
+Begitu pikiran itu muncul, ia menguasainya sepenuhnya. Dia membayangkan saat dia akan menemukan **Rover** dan memberikan hadiah ini—sebuah bunga yang tumbuh dari dirinya sendiri. Bunga itu tidak akan layu atau busuk kecuali dia mati. Namun, seperti kilat, pikiran itu lenyap ke dalam kekacauan pikirannya, meninggalkan tanpa jejak.
 
 Sedikit yang dia tahu, berabad-abad kemudian, pemandangan di depannya akan lenyap dalam **Lament**. Dia akan terombang-ambing tanpa henti melalui labirin kenangan hingga suatu pagi musim gugur, di tepi danau **Petalfall Village**, di mana dia akhirnya akan bertemu dengan **Rover**, di sana untuk menyelamatkan desa dari serangan **Tacet Discord**. Dari sana, dia akan bergabung dengan **Black Shores** dan menghabiskan beberapa ratus tahun bersama sebelum dia akhirnya meninggalkannya. 
 
