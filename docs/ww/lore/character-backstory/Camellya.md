@@ -76,7 +76,7 @@ Pemeriksaan fisik secara teratur wajib dilakukan, dan intervensi wajib dijadwalk
  
 Dia terbangun dari mimpinya.
 
-Matahari terbit di cakrawala, memancarkan cahaya hangat di atas **Black Shores**. Itu adalah fajar dari hari biasa lainnya. **Camellya** membuka matanya, meregangkan tubuhnya dengan santai di atas puncak pohon. Gerakannya begitu anggun, dan jatuh tak pernah terbayangkan. Bahkan jika dia tergelincir, sulur-sulur akan menahan jatuhnya. Dia sangat suka tidur seperti ini, jauh dari gangguan atau orang lain.
+Matahari terbit di cakrawala, memancarkan cahaya hangat di atas **Black Shores**. Ini adalah fajar dari hari biasa lainnya. **Camellya** membuka matanya, meregangkan tubuhnya dengan santai di atas puncak pohon. Gerakannya begitu anggun, dan jatuh tak pernah terbayangkan. Bahkan jika dia tergelincir, sulur-sulur akan menahan jatuhnya. Dia sangat suka tidur seperti ini, jauh dari gangguan atau orang lain.
 
 > "Betapa indahnya pagi ini," 
 
@@ -100,7 +100,7 @@ Ya, masa lalunya…\
 **Camellya** menyipitkan mata, sebuah dengungan lembut keluar dari bibirnya saat dia merenung tentang langkah selanjutnya. Dia ingin menyelidikinya lebih lanjut sendiri, menunggu waktu yang tepat untuk berbagi apa yang dia ketahui dengan **Rover**. Dia memiliki sedikit kepercayaan pada organisasi yang dibangun di pantai ini, dan lebih sedikit lagi pada **Tethys System**. Selain **Rover**, dia memiliki sedikit kepercayaan pada orang lain.
 
 Dulu,\
-sebagai **Lady Flora**, dia menghindari keterikatan, enggan melihat **Rover** mengorban dirinya demi kebaikan yang lebih besar. Tetapi kini pandangannya telah berubah. Dia merasa bahwa dia sangat berbeda dari **Lady Flora** yang dulu.
+sebagai **Lady Flora**, dia menghindari keterikatan, enggan melihat **Rover** mengorbankan dirinya demi kebaikan yang lebih besar. Tetapi kini pandangannya telah berubah. Dia merasa bahwa dia sangat berbeda dari **Lady Flora** yang dulu.
 
 Dia telah mengikuti perjalanan **Rover** dari **Jinzhou** hingga sekarang.
 
@@ -110,7 +110,7 @@ Dia mengerti bahwa ini masih bukan jalannya, namun dia tidak lagi menentang untu
 
 Kini, kebahagiaan yang dia rasakan dari hubungan mereka begitu mendalam. Dia tidak merasakan kebosanan biasa yang menyusup, dan dia tidak ingin menghapus pikiran tentang mereka. Sebaliknya, pikirannya sering kali mengarah padanya, merindukan untuk mengetahui lebih banyak tentang petualangannya dan berbagi lebih banyak permainan yang menyenangkan. 
 
-Saat itu, **Camellya** menyadari bahwa pikiran-pikiran ini sudah meninggalkan jejak yang menyakitkan namun menyenankan di jiwanya, jauh sebelum dia menyadarinya.
+Saat itu, **Camellya** menyadari bahwa pikiran-pikiran ini sudah meninggalkan jejak yang menyakitkan namun menyenangkan di jiwanya, jauh sebelum dia menyadarinya.
 
 Merasa terinspirasi, dia mengaktifkan **Terminal**-nya dan menulis pesan singkat untuk **Rover**, yang akan dikirim tepat sebelum keberangkatannya. Gelang itu memungkinkannya untuk memeriksa keadaannya kapan saja, jadi tidak ada yang perlu dikhawatirkan. Meskipun **Solaris** sangat luas, dia percaya bahwa jika mereka adalah benang dalam cerita yang sama, jalan mereka pasti akan bertemu lagi.
 
