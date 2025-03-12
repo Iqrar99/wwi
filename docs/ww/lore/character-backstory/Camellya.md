@@ -36,12 +36,11 @@ layout:
 
 Evaluation Basis: [Resonance Assessment **RA2███-G**]
 
-Waktu pasti **awakening** Resonator **Camellya** tidak dapat dipastikan karena gangguan ███ yang dialaminya. Sejak **awakening**, dia telah mampu memanfaatkan **Forte**-nya.
+Waktu pasti **awakening** Resonator **Camellya** sulit dipastikan karena gangguan ███ yang dialaminya. Sejak **awakening**, dia sudah bisa memanfaatkan **Forte**-nya.
 
-**Tacet Mark** Resonator **Camellya** terletak di dadanya. Setelah **awakening**-nya, tubuhnya menunjukkan tanda-tanda somatisasi vegetatif yang jelas. Baik lengan kanan maupun kepalanya menunjukkan perubahan, dengan tingkat perubahan yang semakin intensif seiring fluktuasi frekuensinya.
+**Tacet Mark** Resonator **Camellya** ada di dadanya. Setelah **awakening**-nya, tubuhnya menunjukkan tanda-tanda somatisasi vegetatif. Lengan kanan dan kepalanya mengalami perubahan, dengan tingkat yang semakin intensif seiring fluktuasi frekuensinya.
 
-Pola **Resonance Spectrum Camellya** sangat mirip dengan bunga camelia, menunjukkan reaksi **Syntony** yang kuat.\
-Namun, penyebab kebangkitan **Camellya** masih belum jelas karena belum ditemukan objek yang sesuai dengan perubahan dalam **Resonance Spectrum Pattern**-nya.
+Pola **Resonance Spectrum Camellya** sangat mirip dengan bunga camelia, menunjukkan reaksi **Syntony** yang kuat. Namun, alasan kebangkitan **Camellya** masih belum jelas karena belum ditemukan objek yang sesuai dengan perubahan dalam **Resonance Spectrum Pattern**-nya.
 
 Fase awal **Rabelle's Curve** menunjukkan fluktuasi yang tidak teratur. Begitu **Rabelle's Curve** melewati batas kritis, █████████████████.
 
@@ -53,12 +52,11 @@ Grafik gelombang Resonator **Camellya** menunjukkan fluktuasi seperti jarum. Pol
 
 **Resonant Criticality:** Rendah. Frekuensi Resonator **Camellya** menunjukkan stabilitas yang sangat rendah, dengan risiko **Overclocking** yang tinggi.
 
-Resonator **Camellya** memiliki riwayat **Overclocking** yang tercatat. 
+Resonator **Camellya** memiliki riwayat **Overclocking** yang tercatat.
 
 > Nilai **Overclocking** tertinggi yang tercatat: Tinggi.
 
-Menurut laporan **Camellya**,\
-episode **Overclocking** terjadi setelah kebangkitannya dan sering dikaitkan dengan pemulihan dari gangguan ███, serta fluktuasi emosional. Pada tahap akhir **Overclocking**, gejalanya berkembang menjadi somatisasi vegetatif seluruh tubuh. Kondisi ini mengakibatkan penurunan kemampuan berbicara, disorientasi kognitif, dan episode rasa sakit. Pemicu spesifik untuk penurunan kondisi saat ini tetap tidak dapat ditentukan.
+Menurut laporan **Camellya**, episode **Overclocking** terjadi setelah kebangkitannya dan sering dikaitkan dengan pemulihan dari gangguan ███, serta fluktuasi emosional. Pada tahap akhir **Overclocking**, gejalanya berkembang menjadi somatisasi vegetatif seluruh tubuh. Kondisi ini mengakibatkan penurunan kemampuan berbicara, disorientasi kognitif, dan episode rasa sakit. Pemicu spesifik untuk penurunan kondisi saat ini tetap tidak dapat ditentukan.
 
 Pemeriksaan fisik secara teratur wajib dilakukan, dan intervensi wajib dijadwalkan mengingat efektivitas konseling psikologis yang minimal.
 
