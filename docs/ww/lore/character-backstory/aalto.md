@@ -16,7 +16,7 @@ layout:
 
 
 
-<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1403.png" alt="" width="375"><figcaption><p><strong>Aalto</strong> adalah seorang Broker Informasi yang misterius, dikenal karena sifatnya yang suka menghindar dan senyumnya yang ramah. Rumor mengatakan bahwa dia akan memberikan informasi apa pun dengan harga yang tepat.</p></figcaption></figure></div>
+<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1403.png" alt="" width="375"><figcaption><p><strong>Aalto</strong> adalah seorang Broker Informasi yang misterius. Ia dikenal karena sifatnya yang suka menghindar dan senyumnya yang ramah. Rumor mengatakan bahwa dia akan memberikan informasi apa pun dengan harga yang tepat.</p></figcaption></figure></div>
 
 ## :mag: Informasi
 
@@ -38,17 +38,17 @@ layout:
 
 Dasar Evaluasi: \[**Resonance Assessment 1617-G**]
 
-Berdasarkan laporan **Resonator** Aalto, pada hari kelahirannya terjadi kabut tebal yang langka. **Tacet Mark** miliknya terletak di sisi kiri leher. Selain memperoleh kemampuan untuk berubah menjadi bentuk kabut dalam waktu singkat, tidak ada perubahan fisik signifikan yang terjadi pada tubuhnya setelah **Awakening**.
+Menurut laporan **Resonator** Aalto, pada hari kelahirannya terjadi kabut tebal yang langka. **Tacet Mark** miliknya berada di sisi kiri leher. Selain mendapatkan kemampuan untuk berubah menjadi bentuk kabut dalam waktu singkat, tidak ada perubahan fisik signifikan pada tubuhnya setelah **Awakening**.
 
-Aalto sangat ahli dalam seni kamuflase dan transformasi, sering kali berada dalam keadaan fisik yang sulit ditangkap, menyerupai kabut. Tes lebih lanjut untuk memahami sifat kabut yang ia ciptakan tidak memberikan hasil yang konklusif.
+Aalto sangat ahli dalam seni kamuflase dan transformasi, sering kali berada dalam keadaan fisik yang sulit ditangkap, menyerupai kabut. Tes lebih lanjut untuk memahami sifat kabut yang diciptakannya tidak memberikan hasil yang konklusif.
 
-**Resonance Spectrum Pattern** Aalto sesuai dengan pola spektrum kabut yang telah diketahui. \
+**Resonance Spectrum Pattern** Aalto sesuai dengan pola spektrum kabut yang sudah diketahui. \
 Tes menunjukkan reaksi **Syntony** yang kuat, mengonfirmasi keterkaitan antara kabut dan **Awakening** Aalto. Selain itu, analisis sampel uji mengungkap adanya **Rabelle’s Curve** yang tidak konvergen dengan gelombang periodik yang mencolok, yang mengklasifikasikan Aalto sebagai **Congenital Resonator**.
 
-> _**Catatan Peneliti:**_\
+Catatan Peneliti
 > _Seperti yang dinyatakan dalam laporan, **Resonator** ini licik dan ahli dalam menyamarkan diri, sehingga kredibilitas kesaksiannya dipertanyakan._
 
-> _**Catatan untuk catatan peneliti:**_\
+Catatan untuk catatan peneliti
 > _Sebagai seorang broker yang menjunjung tinggi integritas, saya, Aalto, bersumpah bahwa kesaksian yang saya berikan adalah **100% benar**. Tidak lebih, tidak kurang._
 
 ### <mark style="color:blue;">Overclock Diagnostic Report</mark>
@@ -75,8 +75,7 @@ Suatu hari, **Aalto** dikenal sebagai sumber intelijen tentang harta karun kuno.
 > "Hei, bocah kecil. Jangan habiskan uang sakumu untuk ini. Ayo, aku antar pulang."\
 > "Maaf, kakek. Aku tidak menerima dana pensiun."
 
-Banyak yang mengira tawaran mereka terlalu rendah untuk menarik perhatian **Aalto**, \
-padahal sebenarnya, ia hanya menunggu pembeli yang tepat.
+Banyak yang mengira tawaran mereka terlalu rendah untuk menarik perhatian **Aalto**, padahal sebenarnya, ia hanya menunggu pembeli yang tepat.
 
 Kemudian, pada suatu hari, pembeli yang dinantinya akhirnya muncul, mengenakan jubah berlapis-lapis. Dengan harga yang mengejutkan rendah, transaksi pun terjadi.
 
@@ -84,18 +83,15 @@ Beberapa hari kemudian, layar elektronik di kantor polisi **New Federation** men
 
 > "Cukup menonton TV. Saatnya kita menyelesaikan urusan kita."
 
-Sang kepala polisi menggebrak meja dengan sebuah map dokumen, di sampingnya sebuah koper berisi **Credits**.
+Sang kepala polisi menggebrak meja dengan sebuah map dokumen, di sampingnya terdapat koper berisi **Credits**.
 
-> "Trik yang cukup lihai tadi. \
-> Katakan padaku, Tuan **Aalto**, bagaimana kau begitu yakin mereka akan terjebak? Menawarkan intel berharga tentang harta legendaris di tempat terbuka, apa kau tidak takut dicurigai?"
+> "Trik yang cukup lihai tadi. Katakan padaku, Tuan **Aalto**, bagaimana kau begitu yakin mereka akan terjebak? Menawarkan intel berharga tentang harta legendaris di tempat terbuka, apa kau tidak takut dicurigai?"
 
-> "Jangan remehkan para penjudi yang mengincar uang cepat. \
-> Mereka akan mempertaruhkan segalanya, bahkan nyawa mereka sendiri. Keuntungan lebih berharga daripada bahaya."
+> "Jangan remehkan para penjudi yang mengincar uang cepat. Mereka akan mempertaruhkan segalanya, bahkan nyawa mereka sendiri. Keuntungan lebih berharga daripada bahaya."
 
 Sang kepala polisi mendorong koper dan map berisi daftar nama yang diminta **Aalto**.
 
-> "Ini pembayaranmu, serta daftar yang kau inginkan. \
-> Senang berbisnis denganmu."
+> "Ini pembayaranmu, serta daftar yang kau inginkan. Senang berbisnis denganmu."
 
 > "Sama-sama."
 
@@ -103,31 +99,25 @@ Sang kepala polisi mendorong koper dan map berisi daftar nama yang diminta **Aal
 
 ### <mark style="color:blue;">A Fair Exchange</mark>
 
-Di bawah aturan **Aalto**. Baginya, setiap pelanggan adalah setara.  Baik pejabat tinggi, bangsawan, rakyat jelata, atau **Exile** yang dikucilkan masyarakat, semuanya sama. Ia tidak pernah menggolongkan kliennya berdasarkan status atau kekayaan. Prinsipnya selalu teguh: semua pelanggan diperlakukan setara. Namun, selalu ada orang yang mencoba menguji batasnya.
+Di bawah aturan **Aalto**, setiap pelanggan baginya adalah setara. Baik pejabat tinggi, bangsawan, rakyat jelata, atau **Exile** yang dikucilkan masyarakat, semuanya sama. Ia tidak pernah menggolongkan kliennya berdasarkan status atau kekayaan. Prinsipnya selalu teguh: semua pelanggan diperlakukan setara. Namun, selalu ada orang yang mencoba menguji batasnya.
 
 > "**Aalto**, kan? Kau ikut dengan kami."
 
-**Aalto** menangkap niat buruk dari pendekatan mereka, \
-tetapi tetap memasang senyum ramah seperti biasa.
+**Aalto** menangkap niat buruk dari pendekatan mereka, tetapi tetap memasang senyum ramah seperti biasa.
 
 > "Aduh... Maaf, teman. Tapi itu tidak mungkin. Pelanggan ini duluan."
 
-Seorang pria yang tengah berbisnis dengannya tiba-tiba didorong kasar oleh para preman yang menyerbu masuk. Kepanikan pun terjadi di ruangan yang penuh sesak.\
-Dengan tenang, **Aalto** menolong korbannya keluar, lalu merapikan kursi yang terbalik \
-sebelum dengan santai meletakkan lengannya di bahu salah satu preman.
+Seorang pria yang tengah berbisnis dengannya tiba-tiba didorong kasar oleh para preman yang menyerbu masuk. Kepanikan pun terjadi di ruangan yang penuh sesak. Dengan tenang, **Aalto** menolong korbannya keluar, lalu merapikan kursi yang terbalik sebelum dengan santai meletakkan lengannya di bahu salah satu preman.
 
-> "Dengar, kawanku, setiap hal ada aturannya. \
-> Lihat ini, aturan yang sudah kutetapkan: ‘Siapa cepat, dia dapat. Tidak boleh dorong-dorongan.’ Jadi, bagaimana denganmu yang melanggar dua aturan sekaligus?"
+> "Dengar, kawanku, setiap hal ada aturannya. Lihat ini, aturan yang sudah kutetapkan: ‘Siapa cepat, dia dapat. Tidak boleh dorong-dorongan.’ Jadi, bagaimana denganmu yang melanggar dua aturan sekaligus?"
 
 Preman itu menepis tangannya.
 
 > "Kalau bos kami ingin menemui seseorang, dia akan menemui orang itu. Itu aturan kami."
 
-Saat kata-kata preman itu berakhir, kabut pekat menyelimuti ruangan, \
-menciptakan kekacauan hingga mereka saling serang dalam kepanikan.
+Saat kata-kata preman itu berakhir, kabut pekat menyelimuti ruangan, menciptakan kekacauan hingga mereka saling serang dalam kepanikan.
 
-> "Ups, maaf. Aku lupa menyebutkan satu aturan lagi: ‘Tidak boleh mengganggu transaksi.’ \
-> Beri tahu bosmu agar tidak melanggar aturan lagi. Bisnis tak bisa berjalan tanpanya."
+> "Ups, maaf. Aku lupa menyebutkan satu aturan lagi: ‘Tidak boleh mengganggu transaksi.’ Beri tahu bosmu agar tidak melanggar aturan lagi. Bisnis tak bisa berjalan tanpanya."
 
 Para preman melarikan diri, sementara **Aalto** kembali memasang senyuman ramah.
 
@@ -193,7 +183,7 @@ Pernah suatu kali, seorang anak laki-laki lusuh mondar-mandir di depan pintu **A
 > "Wow! Kamu memang tahu segalanya! Jadi, kamu tahu ke mana **Pebbles** pergi?"\
 > "Dengar, tidak ada yang namanya makan siang gratis. Kalau kamu mau bantuanku, kamu harus membayarnya."
 
-Bocah itu menggeleng, kecewa.&#x20;
+Bocah itu menggeleng, kecewa.
 
 > "Tapi aku tidak punya apa-apa."\
 > "Yah, itu sayang sekali… Hmm, bagaimana kalau kamu membayarku setelah aku menemukan **Pebbles** untukmu?"
@@ -202,7 +192,7 @@ Kabut **Aalto** menyebar ke setiap sudut. Akhirnya, dia menemukan anak anjing it
 
 Di bawah bintang-bintang yang berkelip, anak anjing itu berlari ke arah bocah itu, mengibas-ngibaskan ekornya dengan gembira.
 
-Saat cerita hari itu berakhir, E**ncore** tak bisa menahan diri untuk bertanya,&#x20;
+Saat cerita hari itu berakhir, **Encore** tak bisa menahan diri untuk bertanya,
 
 > "Aku tidak tahu kalau kamu mau membantu orang tanpa bayaran!"
 
@@ -213,8 +203,7 @@ Saat cerita hari itu berakhir, E**ncore** tak bisa menahan diri untuk bertanya,&
 > "Selamat datang di **Black Shores**!\
 > Mau mulai dengan menyirami bunga, atau menyelamatkan umat manusia?"
 
-**Black Shores** terletak di sebuah pulau terpencil. Selain musim hujan, arus laut, dan kupu-kupu, \
-satu-satunya yang mengunjungi pulau ini hanyalah pasang dan surutnya air laut. Wilayah tak berpenghuni ini bahkan tak tercantum di peta mana pun.
+**Black Shores** terletak di sebuah pulau terpencil. Selain musim hujan, arus laut, dan kupu-kupu, satu-satunya yang mengunjungi pulau ini hanyalah pasang dan surutnya air laut. Wilayah tak berpenghuni ini bahkan tak tercantum di peta mana pun.
 
 Organisasi rahasia ini berdedikasi pada tujuan mulia: menyelamatkan dunia—sesuatu yang biasanya hanya ditemukan dalam kisah dongeng.
 
