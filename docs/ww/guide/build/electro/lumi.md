@@ -182,5 +182,5 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/C1tQ33pR/Lumi.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/wMHNBhmT/Lumi-Revisi.png" alt=""><figcaption></figcaption></figure>
 

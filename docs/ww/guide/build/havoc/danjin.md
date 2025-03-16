@@ -166,5 +166,5 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/P54FXpks/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/QCLbJ9KR/Danjin-Revisi.png" alt=""><figcaption></figcaption></figure>
 

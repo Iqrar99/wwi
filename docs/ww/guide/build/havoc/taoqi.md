@@ -157,5 +157,5 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/zf2thsBx/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/9Fhb49h9/Taoqi-Revisi.png" alt=""><figcaption></figcaption></figure>
 

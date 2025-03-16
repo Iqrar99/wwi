@@ -139,8 +139,4 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/3J2cqfSw/1.png" alt=""><figcaption></figcaption></figure>
-
-
-
-<figure><img src="https://i.postimg.cc/3J2cqfSw/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/QMySVn8N/Camelya-Revisi.png" alt=""><figcaption></figcaption></figure>

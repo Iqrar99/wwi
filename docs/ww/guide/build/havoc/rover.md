@@ -157,7 +157,7 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/4xZSRvqQ/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/1tVBFcXG/Havoc-Rover-Revisi.png" alt=""><figcaption></figcaption></figure>
 
 
 
