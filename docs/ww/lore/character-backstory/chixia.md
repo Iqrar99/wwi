@@ -14,9 +14,7 @@ layout:
 
 # Chixia
 
-
-
-<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1202.png" alt="" width="375"><figcaption><p><strong>Chixia</strong> adalah <strong>Patroller</strong> muda penuh semangat</strong> yang menerangi jalanan <strong>Jinzhou</strong>. Selalu siap, selalu sigap—ia adalah pahlawan yang selalu hadir saat dibutuhkan.</p></figcaption></figure></div>
+<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1202.png" alt="" width="375"><figcaption><p><strong>Chixia</strong> adalah <strong>Patroller</strong> muda penuh semangat yang menerangi jalanan <strong>Jinzhou</strong>. Selalu siap, selalu sigap—ia adalah pahlawan yang selalu hadir saat dibutuhkan.</p></figcaption></figure></div>
 
 ## :mag: Informasi
 
@@ -64,15 +62,13 @@ Disarankan untuk melakukan pemeriksaan rutin, sementara konseling psikologis saa
 
 ## :package: Cherished Items
 
-<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Headline Screenshots</td><td><img src="https://wuthering.wiki/img/T_Treasure16_UI.png" alt=""></td><td><p>Aksi heroik <strong>Chixia</strong> telah menjadikannya <strong>figur yang dihormati di Jinzhou</strong>.</p><p>Meskipun ia tidak mencari ketenaran, <strong>pujian tulus dari orang-orang</strong> menjadi <strong>motivasi baginya untuk terus mengejar impiannya</strong>.</p></td></tr><tr><td align="center">Victor Savor</td><td><img src="https://wuthering.wiki/img/T_Treasure15_UI.png" alt=""></td><td><p></p><p>Sebuah <strong>stoples saus pedas spesial</strong>, dibuat berdasarkan <strong>resep rahasia keluarga Chixia</strong>, disajikan dalam <strong>piala yang pernah ia menangkan</strong>.</p><p>Meskipun <strong>Chixia sangat menyayangi trofi ini</strong>, menurutnya, <strong>saus luar biasa ini lebih pantas untuk mengisinya</strong>.</p><p>Rasanya <strong>segar, asin, asam, dan membuat lidah mati rasa</strong>.</p><p>Dalam kata-kata <strong>Chixia</strong> sendiri:</p><p></p><p>
-
-> "Saus ini enak banget, bahkan kalau dicocol pakai sepatu tua pun masih bakal lahap!"</p></td></tr><tr><td align="center">Badge of Hero</td><td><img src="https://wuthering.wiki/img/T_Treasure17_UI.png" alt=""></td><td><p>Sebuah <strong>lencana Patroller</strong> dan <strong>merchandise Fiamma</strong>.</p><p><strong>Lencana</strong> ini telah <strong>dihiasi dengan sangat teliti</strong>, sementara <strong>merchandise</strong>-nya menunjukkan <strong>banyak tanda pemakaian</strong>.</p><p>Namun, <strong>keduanya telah dipoles hingga berkilau sempurna</strong>.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Headline Screenshots</td><td><img src="https://wuthering.wiki/img/T_Treasure16_UI.png" alt=""></td><td><p>Aksi heroik <strong>Chixia</strong> telah menjadikannya <strong>figur yang dihormati di Jinzhou</strong>.</p><p>Meskipun ia tidak mencari ketenaran, <strong>pujian tulus dari orang-orang</strong> menjadi <strong>motivasi baginya untuk terus mengejar impiannya</strong>.</p></td></tr><tr><td align="center">Victor Savor</td><td><img src="https://wuthering.wiki/img/T_Treasure15_UI.png" alt=""></td><td><p>Sebuah <strong>stoples saus pedas spesial</strong>, dibuat berdasarkan <strong>resep rahasia keluarga Chixia</strong>, disajikan dalam <strong>piala yang pernah ia menangkan</strong>.</p><p>Meskipun <strong>Chixia sangat menyayangi trofi ini</strong>, menurutnya, <strong>saus luar biasa ini lebih pantas untuk mengisinya</strong>.</p><p>Rasanya <strong>segar, asin, asam, dan membuat lidah mati rasa</strong>.</p><p>Dalam kata-kata <strong>Chixia</strong> sendiri:</p><p>"Saus ini enak banget, bahkan kalau dicocol pakai sepatu tua pun masih bakal lahap!"</p></td></tr><tr><td align="center">Badge of Hero</td><td><img src="https://wuthering.wiki/img/T_Treasure17_UI.png" alt=""></td><td><p>Sebuah <strong>lencana Patroller</strong> dan <strong>merchandise Fiamma</strong>.</p><p><strong>Lencana</strong> ini telah <strong>dihiasi dengan sangat teliti</strong>, sementara <strong>merchandise</strong>-nya menunjukkan <strong>banyak tanda pemakaian</strong>.</p><p>Namun, <strong>keduanya telah dipoles hingga berkilau sempurna</strong>.</p></td></tr></tbody></table>
 
 ## :scroll: Story
 
 ### <mark style="color:blue;">Morning Routine</mark>
 
-Leluhur **Chixia** adalah para perantau dari **Central Plains** yang menetap di **Jinzhou** sejak beberapa generasi lalu. \
+Leluhur **Chixia** adalah para perantau dari **Central Plains** yang menetap di **Jinzhou** sejak beberapa generasi lalu.\
 Keluarganya dikenal karena kecintaan dan keahlian mereka dalam dunia rempah-rempah.
 
 Saat matahari mulai menyinari langit **Jinzhou**, tanda pertama kehidupan di kota ini selalu berasal dari Dapur **Panhua**, di mana asap mengepul dari cerobongnya.
@@ -81,15 +77,15 @@ Saat matahari mulai menyinari langit **Jinzhou**, tanda pertama kehidupan di kot
 
 Suara **Chixia** yang lantang langsung menggema, mengalahkan hiruk-pikuk kota yang mulai ramai. Sekelompok anak kecil yang berada di dekatnya langsung menatapnya penuh kekaguman.
 
-> "Kak **Chixia**, kapan kita mulai latihan **Overdash** hari ini?"&#x20;
+> "Kak **Chixia**, kapan kita mulai latihan **Overdash** hari ini?"
 
 seru salah satu anak dengan penuh semangat.
 
-> "Kayaknya murid-muridmu lebih bersemangat daripada kamu sendiri,"&#x20;
+> "Kayaknya murid-muridmu lebih bersemangat daripada kamu sendiri,"
 
 canda **Panhua** sambil menyajikan sarapan untuk **Chixia** dan anak-anak.
 
-> "Kenapa buru-buru? Aku aja belum pemanasan! Lagian, kerja keras itu gak bisa dilakukan kalau perut kosong, kan?"&#x20;
+> "Kenapa buru-buru? Aku aja belum pemanasan! Lagian, kerja keras itu gak bisa dilakukan kalau perut kosong, kan?"
 
 jawab **Chixia**, mulutnya masih penuh dengan mi pedas. Baginya, hari yang penuh energi harus dimulai dengan sensasi pedas yang membangunkan lidah.
 
@@ -114,7 +110,7 @@ Setiap kali **Chixia** membantu seseorang, ia selalu meninggalkan jejaknya—bah
 
 Sekarang, nama "**Chixia**" telah menjadi bagian dari keseharian kota. Orang-orang memanggilnya setiap kali ada masalah. Bahkan pedagang asing yang tidak bisa berbahasa lokal mulai menggunakan kata "**Chixia**" sebagai sapaan, mengira itu adalah salam khas **Jinzhou**!
 
-Meski tekun dan penuh semangat, **Chixia** tetap memiliki kekhawatiran. Ia terus bertarung melawan bandit, **Tacet Discords**, serta kelompok misterius berjubah merah di pinggiran **Jinzhou***. Tapi bahaya selalu datang tanpa diduga, meski ia telah berusaha melindungi kota sebaik mungkin.
+Meski tekun dan penuh semangat, **Chixia** tetap memiliki kekhawatiran. Ia terus bertarung melawan bandit, **Tacet Discords**, serta kelompok misterius berjubah merah di pinggiran **Jinzhou**\*. Tapi bahaya selalu datang tanpa diduga, meski ia telah berusaha melindungi kota sebaik mungkin.
 
 > Apakah ia benar-benar sudah memenuhi standar seorang pahlawan?
 
@@ -140,18 +136,18 @@ Saat itu, sebuah nyala api kecil muncul di pikirannya. Matanya menatap dinding t
 
 > "Lihat! Itu **Fiamma**!"
 
-Suara **Jiu** yang duduk di sebelahnya membuyarkan lamunannya, menarik sudut bajunya dengan penuh semangat.&#x20;
+Suara **Jiu** yang duduk di sebelahnya membuyarkan lamunannya, menarik sudut bajunya dengan penuh semangat.
 
 Di panggung, **Fiamma** yang megah turun dari langit, mengayunkan obornya dengan gagah. Seketika, **Fluffernox** jahat melarikan diri ketakutan. Seluruh penonton bersorak riuh, dan **Chixia** bertepuk tangan paling keras di antara mereka.
 
 Setelah kembali ke rumah dari teater, **Chixia** bersiap untuk patroli.\
 Ia mengambil obor polosnya sebelum berangkat.
 
-> "Kamu masih pake barang itu? Aku udah gak ngitung berapa tahun obor itu bersamamu. Bukannya departemen sudah kasih kamu peralatan baru?"&#x20;
+> "Kamu masih pake barang itu? Aku udah gak ngitung berapa tahun obor itu bersamamu. Bukannya departemen sudah kasih kamu peralatan baru?"
 
 tanya ibunya sambil menambahkan saus pedas ke tumisannya.
 
-> "Gak masalah! Obor ini cukup terang buat bertahan seratus tahun lagi!"&#x20;
+> "Gak masalah! Obor ini cukup terang buat bertahan seratus tahun lagi!"
 
 jawab **Chixia** dengan penuh percaya diri.
 
@@ -163,11 +159,11 @@ Ia tengah menyelidiki sebuah kasus aneh—warga melaporkan adanya suara misteriu
 Bersenjatakan sebuah obor, **Chixia** memanjat ke atap, menyusuri tiap sudut dalam kegelapan. Saat matanya menyapu area sekitar, sebuah potongan gambar **Fiamma** yang sudah kusut menarik perhatiannya, tersembunyi di antara genting.
 
 > "...?"\
-> &#xNAN;"...Dapet!"
+> \&#xNAN;"...Dapet!"
 
 Saat **Chixia** berjongkok untuk mengambilnya, tiba-tiba sebuah bayangan melompat dari kegelapan, mengejutkannya. Dengan refleks cepat, ia mengarahkan obornya ke sosok itu—hanya untuk melihat wajah seorang anak kecil.
 
-Memanfaatkan kebingungan **Chixia**, anak itu dengan cepat meraih gambar **Fiamma** dari tangannya, lalu kabur ke dalam malam yang gelap. **Chixia*** segera berlari mengejarnya, tapi anak itu sudah lenyap tanpa jejak.
+Memanfaatkan kebingungan **Chixia**, anak itu dengan cepat meraih gambar **Fiamma** dari tangannya, lalu kabur ke dalam malam yang gelap. **Chixia**\* segera berlari mengejarnya, tapi anak itu sudah lenyap tanpa jejak.
 
 Sepanjang malam, **Chixia** terus mencari, hingga akhirnya fajar mulai menyingsing. Saat ia tiba di depan sebuah jendela yang setengah terbuka, terdengar suara seorang anak bernyanyi:
 
@@ -185,13 +181,13 @@ Sebuah kepala kecil menyembul dari balik jendela, matanya berbinar penuh semanga
 
 Jadi, untuk melindungi adiknya, **Jiu** mulai berpatroli di atap setiap malam.
 
-> "Sayangnya, aku gak pernah bisa nonton **Fiamma** secara langsung..." \
-> &#xNAN;"Aku cuma bisa dengar dialognya dari luar teater. Aku ngucapin dialognya dengan benar, kan?"
+> "Sayangnya, aku gak pernah bisa nonton **Fiamma** secara langsung..."\
+> \&#xNAN;"Aku cuma bisa dengar dialognya dari luar teater. Aku ngucapin dialognya dengan benar, kan?"
 
 kata **Jiu** dengan sedikit malu.
 
-> "Tentu saja! Kamu luar biasa!" kata **Chixia**, \
-> &#xNAN;"Kamu harus bawa adikmu ke teater dan lihat sendiri gimana Fiamma ngalahin **Fluffernox**. Aku jamin dia gak bakal takut lagi setelah itu!"
+> "Tentu saja! Kamu luar biasa!" kata **Chixia**,\
+> \&#xNAN;"Kamu harus bawa adikmu ke teater dan lihat sendiri gimana Fiamma ngalahin **Fluffernox**. Aku jamin dia gak bakal takut lagi setelah itu!"
 
 meyakinkannya.
 
@@ -202,7 +198,7 @@ meyakinkannya.
 **Chixia** berpikir sejenak, lalu tersenyum.
 
 > "Baiklah. Sekarang janji sama aku—jangan naik ke atap lagi, oke?"\
-> &#xNAN;"Itu bakal bikin tugasku jauh lebih gampang. Sebagai gantinya, aku bakal kasih kamu tiket pertunjukan. Setuju?"
+> \&#xNAN;"Itu bakal bikin tugasku jauh lebih gampang. Sebagai gantinya, aku bakal kasih kamu tiket pertunjukan. Setuju?"
 
 Mata **Jiu** membulat, lalu dengan penuh semangat, ia mengangguk keras.
 
@@ -237,6 +233,3 @@ Namun, sang penyelamat sudah lama menghilang.
 
 Maka, ia menandai pilihan "**Community Patroller**" dengan tegas.\
 Meskipun ia bukan petir yang menyambar, ia akan tetap menjadi api yang menjaga kehidupan sederhana di **Jinzhou** tetap hangat.
-
-
-

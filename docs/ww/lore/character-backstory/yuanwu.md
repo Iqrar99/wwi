@@ -14,8 +14,6 @@ layout:
 
 # Yuanwu
 
-
-
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1303.png" alt="" width="375">
 <figcaption><p><strong>Yuanwu</strong> memiliki gym tinju tempat ia mengajarkan seni bela diri serta manajemen kesehatan. Ia sangat dihormati di komunitasnya karena sikapnya yang ramah dan kepribadiannya yang menyenangkan.</p></figcaption></figure></div>
 

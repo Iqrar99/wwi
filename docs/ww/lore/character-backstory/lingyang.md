@@ -14,8 +14,6 @@ layout:
 
 # Lingyang
 
-
-
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1104.png" alt="" width="375"><figcaption><p><strong>Lingyang</strong> adalah anggota <strong>Liondance Troupe</strong> di <strong>Jinzhou</strong> yang berbakat dan ramah. Semangat dan keberaniannya terlihat jelas saat ia berinteraksi dengan manusia, menunjukkan kemampuan fisiknya yang luar biasa. Dengan gayanya yang khas, ia benar-benar mewujudkan semangat <strong>Liondancing</strong>.</p></figcaption></figure></div>
 
 ## :mag: Informasi

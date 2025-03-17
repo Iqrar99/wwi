@@ -14,8 +14,6 @@ layout:
 
 # Verina
 
-
-
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1503.png" alt="" width="375"><figcaption><p>Dengan pengetahuan botani yang luas, <strong>Verina</strong> selalu perhatian, selalu tersenyum, dan selalu berharap setiap bunga diberkati dengan keajaiban kehidupan.</p></figcaption></figure></div>
 
 ## :mag: Informasi

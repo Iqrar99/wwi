@@ -14,15 +14,11 @@ layout:
 
 # Carlotta
 
-<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1107.png" alt="" width="375"><figcaption><p>
-
-Putri kedua keluarga **Montelli** dan seorang investor seni yang tak terikat oleh norma, **Carlotta** bergerak dengan anggun di antara lingkaran sosial dan transaksi bisnis, sembari diam-diam menangani masalah keluarga yang tak bisa diungkapkan.
-
-</p></figcaption></figure></div>
+<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1107.png" alt="" width="375"><figcaption><p>Putri kedua keluarga <strong>Montelli</strong> dan seorang investor seni yang tak terikat oleh norma, <strong>Carlotta</strong> bergerak dengan anggun di antara lingkaran sosial dan transaksi bisnis, sembari diam-diam menangani masalah keluarga yang tak bisa diungkapkan.</p></figcaption></figure></div>
 
 ## :mag: Informasi
 
-| Tanggal Lahir | TBA                 |
+| Tanggal Lahir |                     |
 | ------------- | ------------------- |
 | Jenis Kelamin | Perempuan           |
 | Tempat Lahir  | Ragunna             |
@@ -36,7 +32,7 @@ Putri kedua keluarga **Montelli** dan seorang investor seni yang tak terikat ole
 
 ### <mark style="color:blue;">Resonance Evaluation Report</mark>
 
-[ Dikutip dari **Catatan Internal Keluarga Montelli - Access Shared** ]
+\[ Dikutip dari **Catatan Internal Keluarga Montelli - Access Shared** ]
 
 **Codename: Opal**
 
@@ -52,7 +48,7 @@ Analisis sampel uji menunjukkan **non-convergent Rabelle’s Curve**, sehingga a
 
 ### <mark style="color:blue;">Overclock Diagnostic Report</mark>
 
-[ Dikutip dari **Catatan Internal Keluarga Montelli - Access Shared** ]
+\[ Dikutip dari **Catatan Internal Keluarga Montelli - Access Shared** ]
 
 **Codename: Opal**
 
@@ -82,7 +78,8 @@ Ini bukan lelang pertamanya. Di atas panggung dengan sorotan lampu lembut, karya
 
 Meski begitu, **Carlotta** tetap mengangkat plakatnya untuk karya-karya yang kurang diminati pasar. Baginya, ini bagian dari strategi besar. Apakah itu hanya campuran bentuk tak berarti atau ekspresi seni sejati... Waktu yang akan menjelaskan. Dan ketika saatnya tiba, keuntungannya akan jauh melampaui harapan.
 
-Pada awalnya, tindakannya disambut dengan skeptisisme. Namun seiring waktu, keyakinan **Carlotta** mulai memengaruhi para penawar lain, mengarahkan pilihan mereka. Seakan-akan dia memiliki strategi unik yang mengombinasikan kepekaan estetika dan wawasan pasar. Namun, kali ini, ia berniat melangkah lebih jauh—mencapai puncak yang lebih tinggi.
+Pada awalnya, tindakannya disambut dengan skeptisisme. Tapi seiring waktu, keyakinan **Carlotta** mulai memengaruhi para penawar lain, membentuk pilihan mereka. Seakan-akan dia memiliki strategi yang didasarkan pada teori seni, kepekaan estetika, dan wawasan pasar yang unik.\
+Namun, kali ini, ia akan melangkah lebih jauh—mencapai puncak yang lebih tinggi.
 
 Dan momen itu pun tiba.
 
@@ -96,11 +93,13 @@ Tepat saat palu pelelang hendak diketukkan, **Carlotta** menoleh ke rivalnya den
 
 Acara pun berakhir, tapi masih ada beberapa urusan yang harus diselesaikan **Carlotta**.
 
-Dari kejauhan, dia memperhatikan pria itu pergi dengan lukisan yang telah dimenangkan. Kemudian, **Carlotta** menarik diri ke sudut ruangan yang lebih sepi. Tak lama kemudian, pemuda yang sempat bertukar pandang dengannya tadi mendekat.
+Dari kejauhan, dia memperhatikan pria itu pergi dengan lukisan yang telah ia menangkan.\
+Kemudian, **Carlotta** menarik diri ke sudut ruangan yang lebih sepi. Tak lama kemudian, pemuda yang sempat bertukar pandang dengannya tadi mendekat.
 
 > "Aku menyebarkan kabar kalau **Carlotta Montelli** mengincar sebuah mahakarya. Sesuai perintahmu, Nona."
 
-**Carlotta** tersenyum dan memberikan upahnya. Jika anak itu tetap berguna, mungkin ia akan memanfaatkan jasanya lagi di lain waktu untuk tugas-tugas kecil. Sementara itu, wanita yang masih berdiri tak jauh darinya akhirnya angkat bicara.
+**Carlotta** tersenyum dan memberikan upahnya. Jika anak itu tetap berguna, mungkin ia akan memanfaatkan jasanya lagi di lain waktu untuk tugas-tugas kecil.\
+Sementara itu, wanita yang masih berdiri tak jauh darinya akhirnya angkat bicara.
 
 > "Nona **Carlotta**, aku sangat berterima kasih atas semua yang telah kau lakukan untukku dan ayahku. Hanya saja... hanya saja..."
 
@@ -108,9 +107,9 @@ Wanita itu ragu, mencari kata yang tepat. Tapi **Carlotta** sudah lebih dulu men
 
 > "Tidak, lukisan itu terjual dengan harga yang pantas. Aku memang menggunakan caraku sendiri, tapi karya ayahmu memang bernilai setinggi itu."
 
-Meskipun begitu, **Carlotta** tahu bahwa setiap orang di ruangan itu memiliki motivasi mereka sendiri. Namun, dia sudah merencanakan semuanya dengan matang.
-
-Dengan pemikiran itu, **Carlotta** meninggalkan aula lelang, menghilang ke dalam kegelapan dan hujan malam.
+Semua orang mendapatkan apa yang mereka inginkan. Begitu pula dengan dirinya.\
+Dengan pemikiran itu, **Carlotta** meninggalkan aula lelang,\
+menghilang ke dalam kegelapan dan hujan malam.
 
 ### <mark style="color:blue;">Past Overdue</mark>
 
@@ -120,7 +119,10 @@ Hujan tak akan menghentikannya mencari orang yang ia tuju.
 
 Klik... Klik... Klik.
 
-Suara langkah sepatu haknya mendekat. Sebuah pintu berderit terbuka, dan **Carlotta** melangkah masuk. Ia telah menempuh perjalanan melintasi **Ragunna** demi menemukan pria yang berdiri di hadapannya—seseorang yang hampir dilupakan oleh waktu. Dengan nada dingin, ia berbicara,
+Klik... Klik... Klik.
+
+Suara langkah sepatu haknya mendekat. Sebuah pintu berderit terbuka, dan **Carlotta** melangkah masuk. Ia telah menempuh perjalanan melintasi **Ragunna** demi menemukan pria yang berdiri di hadapannya—seseorang yang hampir dilupakan oleh waktu.\
+Dengan nada dingin, ia berbicara,
 
 > "Terus terang saja, aku datang atas nama **Montelli** untuk membacakan obituarimu."
 
@@ -130,7 +132,9 @@ Rambut pria itu telah beruban, wajahnya tertoreh waktu dan penyesalan. Tatapanny
 
 > "**Montelli** tidak pernah melupakan hutang darah. Cepat atau lambat, aku tahu kalian akan menemukanku."
 
-Jendela di ruangan itu sedikit terbuka, angin malam berembus masuk membawa hawa dingin. Pria tua itu menggigil, tapi kelemahannya justru membuat **Carlotta** muak. Dia berbicara seakan dirinya tak pernah mengkhianati **Montelli**, seakan dia tak pernah menjilat **Fisalia**, atau merancang serangan ke markas besar **Montelli** yang merenggut begitu banyak nyawa—bahkan setelah keluarganya sepakat dengan perjanjian di **West End**.
+Jendela di ruangan itu sedikit terbuka, angin malam berembus masuk membawa hawa dingin.\
+Pria tua itu menggigil, tapi kelemahannya justru membuat **Carlotta** muak.\
+Dia berbicara seakan dirinya tak pernah mengkhianati **Montelli**, seakan dia tak pernah menjilat **Fisalia**, atau merancang serangan ke markas besar **Montelli** yang merenggut begitu banyak nyawa—bahkan setelah keluarganya sepakat dengan perjanjian di **West End**.
 
 Balasan **Carlotta** tajam.
 
@@ -138,7 +142,8 @@ Balasan **Carlotta** tajam.
 
 > "Hah! Kalian **Montelli** memang tak pernah berubah. Sepuluh tahun sudah berlalu. Semuanya sudah selesai. Kalian sudah merebut kembali **West End**, sementara aku hidup seperti tikus, bersembunyi di lubang. Setiap kali hujan turun di malam hari, aku selalu ketakutan, berpikir bahwa seseorang sepertimu akan datang untuk menghabisiku."
 
-Pria tua itu menghela napas, ekspresinya mengeras. Tangannya bergerak cepat ke arah senjata tersembunyi.
+Pria tua itu menghela napas, ekspresinya mengeras.\
+Tangannya bergerak cepat ke arah senjata tersembunyi.
 
 **Carlotta** tidak mengatakan apa-apa. Kristalnya langsung berubah menjadi pistol—ancaman diam yang mematikan.
 
@@ -174,7 +179,11 @@ Di lantai dansa, **Carlotta** menukar senyum sopan dengan perwakilan **Fisalia**
 
 > "Malam ini kau terlihat begitu memikat, **Miss Carlotta**. Ada rencana setelah ini?"
 
-> "Tidak, hanya menikmati malam," jawab **Carlotta**, jemarinya bertumpu ringan di pinggang wanita itu. Tangan lawannya pun merayap naik di sepanjang lengan **Carlotta**, sebelum akhirnya telapak tangan mereka bertemu dan tubuh mereka mulai bergerak selaras—rok mereka berputar layaknya kelopak bunga yang mekar di bawah lampu kristal.
+> "Tidak, hanya menikmati malam,"
+
+jawab **Carlotta**,
+
+jemarinya bertumpu ringan di pinggang wanita itu. Tangan lawannya pun merayap naik di sepanjang lengan **Carlotta**, sebelum akhirnya telapak tangan mereka bertemu dan tubuh mereka mulai bergerak selaras—rok mereka berputar layaknya kelopak bunga yang mekar di bawah lampu kristal.
 
 > "Ayolah, kau pasti tak datang hanya untuk menari. Klan **Montelli** pasti juga ada di sini, bukan?"
 
@@ -186,11 +195,14 @@ Wanita itu mengubah ritme dansanya, genggamannya menguat saat ia mencoba mengamb
 
 > "Kau menyebut kami radikal, sementara kalianlah yang haus akan kekuasaan. Kalian berusaha mengendalikan ombak, seolah arus bisa dihentikan begitu saja."
 
-Gerakan mereka semakin intens, masing-masing berusaha merebut kendali dalam ritme yang semakin kacau. Ini bukan lagi sekadar dansa—ini adalah tarian penghindaran yang halus, sebuah permainan antara sentuhan singkat dan perpisahan yang tiba-tiba, hingga akhirnya melodi mencapai puncaknya.
+Gerakan mereka semakin intens, masing-masing berusaha merebut kendali dalam ritme yang semakin kacau. Ini bukan lagi sekadar dansa—ini adalah tarian penghindaran yang begitu halus, sebuah permainan antara sentuhan singkat dan perpisahan yang tiba-tiba,\
+hingga akhirnya melodi mencapai puncaknya.
 
-Wanita itu menarik diri, pandangannya menyapu ballroom, mencari sosok-sosok tersembunyi dari **Montelli**.
+Wanita itu menarik diri, pandangannya menyapu ballroom,\
+mencari sosok-sosok tersembunyi dari **Montelli**.
 
-Namun, **Carlotta** menggenggam tangannya lebih erat, mengarahkan tubuhnya kembali ke dalam irama dansa mereka. Musik tetap mengikat mereka bersama. Wanita itu tak punya jalan keluar dan tak bisa membuat keributan. Yang bisa ia lakukan hanyalah menatap **Carlotta** dengan kebencian membara.
+Namun, **Carlotta** menggenggam tangannya lebih erat, mengarahkan tubuhnya kembali ke dalam irama dansa mereka. Musik tetap mengikat mereka bersama. Wanita itu tak punya jalan keluar dan tak bisa membuat keributan.\
+Yang bisa ia lakukan hanyalah menatap **Carlotta** dengan kebencian membara.
 
 > "**Montelli** punya telinga di mana-mana. Sejak awal, kau mengincar 'anak-anakku'. Aku harap kau siap menari... sampai maut memisahkan kita."
 
@@ -198,7 +210,8 @@ Dansa mereka kini memiliki arti baru.
 
 **Carlotta** berhenti, berputar, menyerang—dan target-targetnya jatuh satu per satu...
 
-Tangonya berubah menjadi waltz mematikan bersama para pengawal dan "anak-anak" wanita itu, membawa mereka hingga ke titik ini. Perjuangan mereka terus berlangsung di bawah hujan yang tak henti-hentinya mengguyur malam.
+Tangonya berubah menjadi waltz mematikan bersama para pengawal dan "anak-anak" wanita itu, membawa mereka hingga ke titik ini.\
+Perjuangan mereka terus berlangsung di bawah hujan yang tak henti-hentinya mengguyur malam.
 
 Dari luka **Carlotta**, racun meresap masuk, menyusuri nadinya seperti api yang menghanguskan kesadaran. Rasa logam mengalir di sudut bibirnya. Ia menyeringai, terkekeh pelan dengan getir.
 
@@ -212,7 +225,8 @@ Jika kematian sudah pasti… kenapa tidak menikmati tarian terbaik dalam hidupny
 
 Malam itu, **Carlotta** tahu bahwa hujan turun. Ia tak dapat melihat butiran airnya, tapi bekas alirannya tampak jelas di kaca jendela.
 
-**Carlotta** merapikan roknya dan menatap ke cermin. Lukanya telah sembuh dengan baik, bahkan bekasnya pun tak lagi terlihat. Racun itu juga telah sepenuhnya keluar dari tubuhnya. Namun, ia tak merasa ingin beristirahat. Diam terlalu lama membuatnya gelisah, seolah ada sesuatu yang perlahan lepas dari genggamannya.
+**Carlotta** merapikan roknya dan menatap ke cermin. Lukanya telah sembuh dengan baik, bahkan bekasnya pun tak lagi terlihat. Racun itu juga telah sepenuhnya keluar dari tubuhnya. Namun, ia tak merasa ingin beristirahat. Diam terlalu lama membuatnya gelisah,\
+seolah ada sesuatu yang perlahan lepas dari genggamannya.
 
 Akhirnya, ia memutuskan untuk menemui **Kakek**—mencari pendapatnya tentang “masalah” yang baru-baru ini terjadi.
 
@@ -220,7 +234,11 @@ Ia menemukannya di koridor dekat ruang tamu. **Kakek**, seperti dirinya, memang 
 
 > “**Kakek, apakah Anda sedang menunggu saya?**”
 
-> “Tidak juga,” jawabnya dengan tenang. “Aku hanya sedang memikirkan saat pertama kali kau bergabung dengan keluarga ini.”
+> “Tidak juga,”
+
+jawabnya dengan tenang.
+
+> “Aku hanya sedang memikirkan saat pertama kali kau bergabung dengan keluarga ini.”
 
 Jawaban itu membuat **Carlotta** tertegun.
 
@@ -234,7 +252,11 @@ Menurut **Carlotta**, posisinya saat ini di dalam keluarga adalah yang terbaik. 
 
 Jadi, mengapa **Kakek** mengungkit masa lalu?
 
-> "Masih ingat?" suara **Kakek** kembali terdengar, lembut namun penuh makna. "Saat kau memintaku menjadikanmu **Executor**, aku memberikanmu sarung tangan **opal** tepat di tempat ini."
+> “Masih ingat?”
+
+suara **Kakek** kembali terdengar, lembut namun penuh makna.
+
+> “Saat kau memintaku menjadikanmu **Executor**, aku memberikanmu sarung tangan **opal** tepat di tempat ini.”
 
 Ia menepuk bahu **Carlotta** dengan ringan.
 
@@ -244,11 +266,12 @@ Apa yang benar-benar ia inginkan… dan apa yang ia lakukan sekarang… **Carlot
 
 Hidup terus berjalan, dan setiap orang membutuhkan sesuatu untuk dijadikan jangkar—keyakinan, prinsip, atau seseorang yang mereka cintai.
 
-Bagi **Carlotta**, menjadi seorang **Montelli** adalah jangkarnya. Keluarga **Montelli** adalah segalanya baginya.
+Bagi **Carlotta**, menjadi seorang **Montelli** adalah jangkarnya.\
+Keluarga **Montelli** adalah segalanya baginya.
 
-> "Tidak," 
+> “Tidak,”
 
-jawab **Kakek** dengan tenang. 
+ujar **Kakek** pelan, seolah membaca isi pikirannya.
 
 > "Seorang **Montelli** sejati tidak hidup hanya untuk keluarga. Ia tidak ada hanya untuk mengikuti aturan, entah itu aturanku ataupun aturan keluarga."
 
@@ -274,7 +297,7 @@ Tanpa tujuan tertentu, ia berjalan, berhenti di tempat-tempat yang menarik perha
 
 Setelah merayakan **Carnevale** bersama tamu kehormatan, serta membongkar pengkhianatan **Capollo** dengan bantuannya, **Carlotta** akhirnya memahami apa yang dulu tidak sepenuhnya bisa diungkapkan oleh **Kakek** pada malam hujan itu.
 
-Ia khawatir bahwa **Carlotta** akan melakukan sesuatu demi keluarga, meskipun bertentangan dengan prinsipnya sendiri. **Kakek** tak pernah mengarahkan jalannya berdasarkan masa lalunya sendiri. \
+Ia khawatir bahwa **Carlotta** akan melakukan sesuatu demi keluarga, meskipun bertentangan dengan prinsipnya sendiri. **Kakek** tak pernah mengarahkan jalannya berdasarkan masa lalunya sendiri.\
 Ia hanya berharap agar **Carlotta** tidak terjebak dalam pola yang sudah ditentukan.
 
 Tapi kenyataannya lebih rumit dari itu.

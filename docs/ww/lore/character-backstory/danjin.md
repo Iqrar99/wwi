@@ -14,8 +14,6 @@ layout:
 
 # Danjin
 
-
-
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1602.png" alt="" width="375"><figcaption><p>Dengan sebilah pedang <strong>pembalasan</strong> yang terbuat dari darah pekat di tangannya, <strong>Ranger Danjin</strong> memburu pencuri dan bandit untuk membalas dendam. Ia melakukan perjalanan ke negeri-negeri jauh demi keadilan.</p></figcaption></figure></div>
 
 ## :mag: Informasi

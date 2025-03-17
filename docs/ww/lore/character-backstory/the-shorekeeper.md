@@ -14,8 +14,6 @@ layout:
 
 # The Shorekeeper
 
-
-
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1505.png" alt="" width="375"><figcaption><p><strong>The Shorekeeper</strong>, penjaga <strong>Black Shores</strong>—gelar ini saja dulu telah mendefinisikannya. Namun, keinginan, ikatan, dan emosi… Dia baru mulai memahami semua ini setelah bertemu denganmu.</p></figcaption></figure></div>
 
 ## :mag: Informasi

@@ -26,8 +26,6 @@ layout:
 | Tempat Lahir  | New Federation   |
 | Afiliasi      | The Black Shores |
 
-
-
 ## :clipboard: Forte Examination Report
 
 ### <mark style="color:blue;">**Resonance Power**</mark>
@@ -55,9 +53,9 @@ Catatan untuk catatan peneliti
 
 Grafik gelombang **Resonator** **Aalto** menunjukkan fluktuasi elips yang stabil dalam **Time Domain**, tanpa pola abnormal. Hasil pemeriksaan menunjukkan bahwa semua parameter berada dalam batas normal.
 
-* **Resonant Criticality:** \
+* **Resonant Criticality:**\
   Tingkat **moderate**, dengan stabilitas tinggi, sehingga risiko **Overclocking** rendah.
-* Aalto menghilang di tengah pemeriksaan **Overclock**, \
+* Aalto menghilang di tengah pemeriksaan **Overclock**,\
   sehingga tidak ada catatan riwayat **Overclocking** yang diperoleh.
 
 ## :package: Cherished Items
@@ -142,7 +140,7 @@ Begitu **Aalto** sampai di sana, penjaga itu langsung memberinya jalan dan menep
 
 > "Bro, pasti berat ya ngebesarin anak sendirian selama ini."
 
-Tanpa sepatah kata, **Aalto** hanya mengangguk setuju, menikmati momen solidaritas itu. \
+Tanpa sepatah kata, **Aalto** hanya mengangguk setuju, menikmati momen solidaritas itu.\
 Ia membawa **Encore** masuk ke dalam tanpa ada kendala.
 
 > "Kenapa orang-orang selalu percaya cerita kamu, **Aalto**? Padahal jelas-jelas bohong!"
@@ -183,6 +181,7 @@ Pernah suatu kali, seorang anak laki-laki lusuh mondar-mandir di depan pintu **A
 > "Wow! Kamu memang tahu segalanya! Jadi, kamu tahu ke mana **Pebbles** pergi?"\
 > "Dengar, tidak ada yang namanya makan siang gratis. Kalau kamu mau bantuanku, kamu harus membayarnya."
 
+Bocah itu menggeleng, kecewa.
 Bocah itu menggeleng, kecewa.
 
 > "Tapi aku tidak punya apa-apa."\

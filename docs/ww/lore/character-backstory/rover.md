@@ -14,8 +14,6 @@ layout:
 
 # Rover
 
-
-
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1501.png" alt="" width="375"><figcaption><p><strong>Resonator</strong> misterius yang memiliki kekuatan untuk menyerap semua suara. Saat ini sedang dalam perjalanan untuk menemukan ingatan yang hilang.</p></figcaption></figure></div>
 
 ## :mag: Informasi

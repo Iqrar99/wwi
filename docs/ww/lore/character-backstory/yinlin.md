@@ -14,8 +14,6 @@ layout:
 
 # Yinlin
 
-
-
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1302.png" alt="" width="375"><figcaption><p><strong>Yinlin</strong> adalah seorang Patroli yang terampil dan <strong>Natural Resonator</strong> yang kuat. Setelah diskors dari tugasnya di Biro Keamanan Publik, dia sekarang harus mengejar kejahatan tersembunyi secara diam-diam.</p></figcaption></figure></div>
 
 ## :mag: Informasi

@@ -14,9 +14,7 @@ layout:
 
 # Camellya
 
-
-
-<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1603.png" alt="" width="375"><figcaption><p><strong>Camellya</strong>, seorang <strong>Bloom Bearer of the Black Shores</strong>, adalah sosok bebas dan mempesona dengan cara yang berbahaya. Dia menjelajahi <strong>Solaris</strong> untuk mencari talenta, menikmati setiap momen yang ada, dan merasakan kenikmatan hidup, sambil tetap setia pada dirinya sendiri, tanpa terbebani oleh pikiran tentang masa lalu atau masa depan.</p></figcaption></figure></div>
+<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1603.png" alt="" width="375"><figcaption><p><strong>Camellya</strong>, seorang <strong>Bloom Bearer of the Black Shores</strong>, adalah sosok yang bebas dan mempesona dengan cara yang berbahaya. Dia berkeliling <strong>Solaris</strong> mencari talenta, tenggelam dalam setiap momen yang ada dan menikmati kenikmatannya, sambil tetap setia pada dirinya sendiri, tanpa terbebani oleh pikiran tentang masa lalu atau masa depan.</p></figcaption></figure></div>
 
 ## :mag: Informasi
 

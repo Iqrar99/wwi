@@ -14,8 +14,6 @@ layout:
 
 # Jianxin
 
-
-
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1405.png" alt="" width="375"><figcaption><p><strong>Jianxin</strong>, seorang biksu <strong>Tao</strong> sekaligus penerus <strong>Fengyiquan</strong>, telah mengabdikan hidupnya untuk menguasai seni bela diri tertinggi. Dengan kekuatannya dalam mengendalikan dan mengubah <strong>Chi</strong> dari lingkungan sekitar, ia bisa menciptakan penghalang pelindung yang mampu menyucikan tubuh dan pikiran.</p></figcaption></figure></div>
 
 ## :mag: Informasi

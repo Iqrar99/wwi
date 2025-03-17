@@ -14,8 +14,6 @@ layout:
 
 # Jinhsi
 
-
-
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1304.png" alt="" width="375"><figcaption><p>Sebagai <strong>Magistrate</strong> <strong>Jinzhou</strong>, <strong>Jinhsi</strong> adalah sinar matahari di musim dingin—hangat, lembut, namun penuh keteguhan. Sebagai <strong>Resonator yang Dipilih oleh Sentinel</strong>, ia menunjukkan kerendahan hati dan sepenuh hati mengabdikan dirinya untuk membimbing rakyatnya menuju masa depan yang gemilang.</p></figcaption></figure></div>
 
 ## :mag: Informasi
