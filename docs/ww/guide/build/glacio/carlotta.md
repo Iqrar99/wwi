@@ -210,4 +210,4 @@ Terminology
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/bNYyYn7p/Carlotta.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/nLFdTnq3/Carlotta-Revisi.png" alt=""><figcaption></figcaption></figure>
