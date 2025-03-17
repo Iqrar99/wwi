@@ -165,5 +165,5 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/QMdYH8XB/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/SNfrcKSv/Roccia-Revisi.png" alt=""><figcaption></figcaption></figure>
 

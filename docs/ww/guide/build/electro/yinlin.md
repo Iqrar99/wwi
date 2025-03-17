@@ -165,4 +165,4 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/TwhsHRF8/Yinlin.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/qR2n0mg5/Yinlin-Revsi.png" alt=""><figcaption></figcaption></figure>

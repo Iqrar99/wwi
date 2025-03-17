@@ -206,4 +206,4 @@ Teminologi
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/N0sSm8xj/Calcharo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/DzJLpfhF/Calcharo-Revisi.png" alt=""><figcaption></figcaption></figure>

@@ -68,25 +68,24 @@ Grafik gelombang anggota ini menunjukkan fluktuasi elips. Pola **Time Domain** t
 
 ### <mark style="color:blue;">Stakes and Art</mark>
 
-Hujan malam menabuh jendela, membawa serta aroma tajam dari minuman keras. **Carlotta** tidak menyukai bau itu, tapi ia merasa tenang mengetahui bahwa hanya mereka yang digerakkan oleh hasrat terkuat yang akan keluar di cuaca seperti ini—dan orang-orang seperti itu jarang bertindak dengan halus.
+Hujan mengguyur jendela, membawa aroma tajam minuman keras. **Carlotta** tidak menyukai bau itu, tetapi merasa tenang mengetahui hanya mereka yang digerakkan oleh hasrat terkuat yang akan keluar di cuaca seperti ini—dan orang-orang itu jarang bertindak sembarangan.
 
-Seorang wanita dengan pakaian lusuh namun terawat berusaha terlihat santai, tetapi matanya tak pernah lepas dari setiap gerakan sang pelelang—seperti penjudi yang putus asa.\
-Seorang pria flamboyan di aula utama berbicara keras tentang berbagai gaya seni, tak ingin kehilangan perhatian yang telah ia kumpulkan—meski tanpa sadar ia telah mencampuradukkan beberapa aliran seni yang berbeda. Dan di dekat jendela, seorang pemuda mengintai, sekilas melirik **Carlotta** sebelum buru-buru berpaling—kurang halus, tapi bukan masalah besar.
+Di dalam ruangan, seorang wanita dengan pakaian lusuh namun terawat berusaha terlihat santai, tetapi matanya terus mengawasi setiap gerakan sang pelelang—seperti penjudi yang terdesak. Seorang pria flamboyan di aula utama berbicara dengan semangat, berusaha menarik perhatian, meskipun tanpa sengaja mencampuradukkan beberapa aliran seni yang berbeda. Sementara itu, di dekat jendela, seorang pemuda sekilas melirik **Carlotta** sebelum buru-buru berpaling.
 
-Bagi **Carlotta**, ini adalah permainan. Dan hasil akhirnya sudah ada dalam genggamannya.
+Bagi **Carlotta**, ini adalah permainan, dan hasil akhirnya sudah ada dalam genggamannya.
 
-Ini bukan lelang pertamanya. Di atas panggung dengan sorotan lampu lembut, karya-karya seni datang dan pergi. Para calon pembeli berbisik satu sama lain, mengabaikan diskusi tentang nilai artistik demi membahas riwayat harga setiap karya. Menciptakan seni mungkin pekerjaan yang mulia, tapi bisnis seni? Jauh dari itu. Di sini, setiap transaksi bukan sekadar jual beli—melainkan taruhan atas keuntungan di masa depan.
+Ini bukan lelang pertamanya. Di atas panggung dengan sorotan lampu lembut, karya-karya seni datang dan pergi. Para calon pembeli lebih tertarik membicarakan riwayat harga setiap karya daripada nilai artistiknya. Menciptakan seni mungkin pekerjaan yang mulia, tapi bisnis seni? Jauh dari itu. Setiap transaksi di sini adalah taruhan atas keuntungan di masa depan.
 
-Meski begitu, **Carlotta** tetap mengangkat plakatnya untuk karya-karya yang kurang diminati pasar. Baginya, ini semua bagian dari strategi besar. Apakah itu sekadar campuran bentuk tak berarti atau ekspresi dekonstruktif dari seni sejati... Waktu yang akan menjawabnya. Dan ketika saatnya tiba, keuntungannya akan jauh melampaui harapan.
+Meski begitu, **Carlotta** tetap mengangkat plakatnya untuk karya-karya yang kurang diminati pasar. Baginya, ini bagian dari strategi besar. Apakah itu hanya campuran bentuk tak berarti atau ekspresi seni sejati... Waktu yang akan menjelaskan. Dan ketika saatnya tiba, keuntungannya akan jauh melampaui harapan.
 
 Pada awalnya, tindakannya disambut dengan skeptisisme. Tapi seiring waktu, keyakinan **Carlotta** mulai memengaruhi para penawar lain, membentuk pilihan mereka. Seakan-akan dia memiliki strategi yang didasarkan pada teori seni, kepekaan estetika, dan wawasan pasar yang unik.\
 Namun, kali ini, ia akan melangkah lebih jauh—mencapai puncak yang lebih tinggi.
 
-Dan kemudian, momen itu tiba.
+Dan momen itu pun tiba.
 
-Di detik-detik terakhir penawaran, **Carlotta** kembali mengangkat plakatnya—mengejutkan semua orang. Melihat ini, pria flamboyan itu langsung menaikkan tawaran.
+Di detik-detik terakhir penawaran, **Carlotta** dengan tenang mengangkat plakatnya, membuat semua orang terkejut. Melihat ini, pria flamboyan itu segera menaikkan tawaran.
 
-Hitungan mundur. Penawaran. Hitungan mundur. Penawaran lagi... Lelang berlanjut, dengan angka yang semakin besar, semakin cepat, hingga suasana terasa mencekam. Wanita dengan pakaian lusuh membelalakkan mata, tak percaya dengan jumlah yang terus meningkat. Sementara si pemuda nyaris kehabisan napas, kepalanya bergerak cepat mengikuti hiruk-pikuk yang terjadi.
+Hitungan mundur dimulai. Penawaran. Hitungan mundur. Penawaran lagi... Lelang berlanjut, dengan angka yang terus naik semakin cepat. Wanita dengan pakaian lusuh membelalakkan mata, tak percaya dengan jumlah yang terus meningkat. Sementara si pemuda nyaris kehabisan napas, kepalanya bergerak cepat mengikuti hiruk-pikuk yang terjadi.
 
 Tepat saat palu pelelang hendak diketukkan, **Carlotta** menoleh ke rivalnya dengan senyum masam.
 
@@ -106,7 +105,7 @@ Sementara itu, wanita yang masih berdiri tak jauh darinya akhirnya angkat bicara
 
 Wanita itu ragu, mencari kata yang tepat. Tapi **Carlotta** sudah lebih dulu menangkap maksudnya.
 
-> "Tidak, lukisan itu terjual dengan harga yang pantas. Aku memang menggunakan caraku sendiri, tapi karya ayahmu memang bernilai setinggi itu. Hanya saja, terkadang orang-orang kurang sabar untuk melihatnya."
+> "Tidak, lukisan itu terjual dengan harga yang pantas. Aku memang menggunakan caraku sendiri, tapi karya ayahmu memang bernilai setinggi itu."
 
 Semua orang mendapatkan apa yang mereka inginkan. Begitu pula dengan dirinya.\
 Dengan pemikiran itu, **Carlotta** meninggalkan aula lelang,\
@@ -114,12 +113,11 @@ menghilang ke dalam kegelapan dan hujan malam.
 
 ### <mark style="color:blue;">Past Overdue</mark>
 
-Malam itu, hujan turun tiba-tiba.
+Malam itu, hujan turun dengan tiba-tiba. Air membanjiri jalanan, membawa kesuraman yang semakin pekat menjelang tengah malam. **Carlotta** mendongak, menatap bayangan buram yang samar-samar terlihat di balik tirai hujan. Bukankah dia juga hanya bayangan lain di tengah badai? Ya, bayangan yang datang untuk merenggut nyawa demi menebus kesalahan masa lalu.
 
-Air membanjiri jalanan, membawa kesuraman yang semakin pekat menjelang tengah malam. **Carlotta** mendongak, menatap bayangan buram yang samar-samar terlihat di balik tirai hujan. Bukankah dia juga hanya bayangan lain di tengah badai?\
-Ya... bayangan yang datang untuk merenggut nyawa demi menebus kesalahan masa lalu.
+Hujan tak akan menghentikannya mencari orang yang ia tuju.
 
-Hujan tak akan menghentikannya menemukan orang yang ia cari.
+Klik... Klik... Klik.
 
 Klik... Klik... Klik.
 
@@ -155,13 +153,11 @@ Ini bukan soal uang. Bukan soal penutupan. Tapi soal kesetiaan dan pengabdian.
 
 Bang!
 
-Satu lagi "**permata**" pecah menjadi serpihan.\
-Pria tua itu tersungkur ke lantai. Dengan napas tersengal, dia menatap **Carlotta**, berusaha tetap fokus, tapi tubuhnya sudah tak bisa bergerak.
+Satu lagi "**permata**" pecah menjadi serpihan. Pria tua itu tersungkur ke lantai. Dengan napas tersengal, dia menatap **Carlotta**, berusaha tetap fokus, tapi tubuhnya sudah tak bisa bergerak.
 
 > "Uhuk... uhuk... Kau belum menang... permainan ini... tidak berakhir... dengan kematian..."
 
-Ya. Ini permainan yang hanya berakhir ketika semuanya telah habis.\
-**Carlotta** mengulang pikiran itu saat ia melangkah keluar. Angin malam menyentuh pipinya, membawa pergi kesunyian yang menggema di dalam ruangan.
+Ya. Ini permainan yang hanya berakhir ketika semuanya telah habis. **Carlotta** mengulang pikiran itu saat ia melangkah keluar. Angin malam menyentuh pipinya, membawa pergi kesunyian yang menggema di dalam ruangan.
 
 Sebelum menutup pintu, secarik kertas jatuh perlahan di kaki pria itu.
 
@@ -173,7 +169,7 @@ Dan di dalam, ada kematian. Sementara di luar, **Ragunna** akan selalu ada.
 
 Malam itu, hujan terus mengalir di rambut **Carlotta**, menetes ke wajahnya. Ia terhuyung ke depan, merasa seperti tenggelam dalam gerimis halus yang menusuk tubuhnya.
 
-**Carlotta** menyesali kebiasaannya yang tak pernah membawa payung. Ia ingin sekali berteduh di bawahnya, namun suara langkah yang mendekat memberitahunya bahwa takkan ada waktu untuk beristirahat. Tak masalah. **Carlotta** menggigit sarung tangannya dan merobeknya. Ia harus terus menari dalam tarian mematikan ini—dengan nyawanya sebagai taruhannya.
+**Carlotta** menyesali kebiasaannya yang tak pernah membawa payung. Ia ingin sekali berteduh, namun suara langkah yang mendekat memberitahunya bahwa tak ada waktu untuk beristirahat. Tak masalah. **Carlotta** menggigit sarung tangannya dan merobeknya. Ia harus terus menari dalam tarian mematikan ini—dengan nyawanya sebagai taruhannya.
 
 Sebelumnya, di malam yang sama…
 
@@ -219,8 +215,7 @@ Perjuangan mereka terus berlangsung di bawah hujan yang tak henti-hentinya mengg
 
 Dari luka **Carlotta**, racun meresap masuk, menyusuri nadinya seperti api yang menghanguskan kesadaran. Rasa logam mengalir di sudut bibirnya. Ia menyeringai, terkekeh pelan dengan getir.
 
-Apakah ini juga nasib dari pasangan dansa terakhir wanita itu?\
-Tak masalah. Cepat atau lambat, semua yang menari dengan kematian pada akhirnya akan jatuh dalam pelukannya.
+Apakah ini juga nasib dari pasangan dansa terakhir wanita itu? Tak masalah. Cepat atau lambat, semua yang menari dengan kematian pada akhirnya akan jatuh dalam pelukannya.
 
 Saat racun menggerogoti indranya, merampas kewarasannya, **Carlotta** membungkuk, lalu tersenyum. Dengan kilauan yang mampu mengubah malam menjadi siang, ia berpendar dalam cahaya terakhirnya.
 
@@ -249,7 +244,7 @@ Jawaban itu membuat **Carlotta** tertegun.
 
 Sejujurnya, ia tak menyukai dirinya yang dulu—naif, lemah, terbuang—jauh dari sosok seorang **Montelli**. Ada begitu banyak yang harus ia pelajari—tentang **Ragunna**, tentang **Montelli**, dan tentang bagaimana menyelesaikan masalah dengan cara yang elegan. Hampir tak ada yang mempercayainya, kecuali **Kakek**.
 
-Saat itu, satu-satunya yang membuatnya bangga adalah **Forte** miliknya, yang ia gunakan sebagai alat untuk mencapai tujuan. Seiring waktu, ia beradaptasi dengan **Kode Montelli**, menggunakan kemampuannya untuk menangani urusan-urusan keluarga yang lebih… rumit.
+Saat itu, satu-satunya yang membuatnya bangga adalah **Forte** miliknya, yang ia gunakan sebagai alat untuk mencapai tujuan. Seiring waktu, ia beradaptasi dengan **Kode Montelli**, menggunakan kemampuannya untuk menangani urusan-urusan keluarga yang lebih rumit.
 
 Tapi, apakah ada yang keliru dalam proses itu?
 
@@ -265,7 +260,7 @@ suara **Kakek** kembali terdengar, lembut namun penuh makna.
 
 Ia menepuk bahu **Carlotta** dengan ringan.
 
-> “Aku tak pernah meragukan kemampuanmu, tapi… aku mulai bertanya-tanya, apakah ini benar-benar yang kau inginkan?”
+> "Aku tak pernah meragukan kemampuanmu, tapi… aku mulai bertanya-tanya, apakah ini benar-benar yang kau inginkan?"
 
 Apa yang benar-benar ia inginkan… dan apa yang ia lakukan sekarang… **Carlotta** tak melihat perbedaan di antara keduanya.
 
@@ -278,29 +273,19 @@ Keluarga **Montelli** adalah segalanya baginya.
 
 ujar **Kakek** pelan, seolah membaca isi pikirannya.
 
-> “Seorang **Montelli** sejati tidak hidup hanya untuk keluarga. Ia tidak ada hanya untuk mengikuti aturan, entah itu aturanku ataupun aturan keluarga.”
+> "Seorang **Montelli** sejati tidak hidup hanya untuk keluarga. Ia tidak ada hanya untuk mengikuti aturan, entah itu aturanku ataupun aturan keluarga."
 
-> “Ia harus merasakan dunia… dan menciptakan aturannya sendiri.”
+> "Ia harus merasakan cahaya di dalam dirinya," 
 
-**Carlotta** terdiam.
+lanjutnya, 
 
-> “Aku ingin melihatmu bersinar,”
+> "karena aku percaya kau memiliki cahaya itu. Sebelum kau membatasi dirimu dengan definisi yang sempit."
 
-lanjutnya,
+Akhirnya, **Kakek** menolak permintaan **Carlotta** untuk tetap menjadi **Executor**. Sebagai gantinya, ia memintanya untuk menulis surat, merenungkan langkah selanjutnya.
 
-> “karena aku percaya kau memiliki cahaya itu di dalam dirimu. Sebelum kau membatasi dirimu dengan definisi **Montelli**, kau sebenarnya baru saja mulai merumuskan aturanmu sendiri.”
+Setelah hujan, **Ragunna** diselimuti kabut abu-abu tipis. Kota itu seperti binatang yang tengah tertidur, menanti **Carnevale**.
 
-Langit di luar mulai terang perlahan...
-
-Pada akhirnya, **Kakek** menolak permintaan **Carlotta** untuk tetap menjadi **Executor**. Sebagai gantinya, ia memintanya untuk menulis surat, mengundang perwakilan dari **Black Shores** ke **Ragunna**.
-
-**Carlotta** menatap ke luar jendela. Setelah hujan, **Ragunna** diselimuti kabut abu-abu tipis. Kota itu seperti binatang yang tengah tertidur, menanti **Carnevale** untuk membangunkannya dari lelapnya.
-
-Saat itu, **Carlotta** tidak menyadari bahwa di malam yang sama, **Francesco Montelli** telah mengambil keputusan yang akan mengubah masa depan keluarga **Montelli**.
-
-Ia akan menggunakan cara khusus untuk mengembalikan kekuatan pilihan ke tangan **Carlotta**.
-
-Dan ia—seperti dirinya yang dulu—akan membuka jalan bagi apa yang akan datang.
+Sementara itu, tanpa sepengetahuan **Carlotta**, **Francesco Montelli** telah membuat keputusan yang akan mengubah masa depan keluarga **Montelli**. Ia berencana menggunakan cara khusus untuk mengembalikan kekuatan keluarga.
 
 ### <mark style="color:blue;">In the Name of Carlotta</mark>
 
@@ -333,7 +318,7 @@ Tapi untuk saat ini, ia ingin membiarkan dirinya merasa bangga, meski hanya sedi
 
 **Carlotta** belum siap memperlihatkan bagian dirinya yang hanya ada di ruang-ruang sunyi dalam pikirannya... Namun, mungkin **Rover** adalah pengecualian.
 
-Ia masih lebih suka menyebutnya sebagai **Cat’s Eye**. Mereka pernah berjalan beriringan untuk sementara waktu, tetapi pada akhirnya, tak ada dari mereka yang bisa berhenti hanya demi satu sama lain. Dia pernah berkata terus terang bahwa dirinya terlalu “sempurna.” Jadi, untuk menepati janjinya untuk “tidak terlalu tertutup,” **Carlotta** akan menenun **Cat’s Eye** ke dalam kisahnya.
+Ia masih lebih suka menyebutnya sebagai **Cat’s Eye**. Mereka pernah berjalan beriringan untuk sementara waktu, tetapi pada akhirnya, tak ada dari mereka yang bisa berhenti hanya demi satu sama lain. Dia pernah berkata terus terang bahwa dirinya terlalu “**sempurna.**” Jadi, untuk menepati janjinya untuk “**tidak terlalu tertutup**,” **Carlotta** akan menenun **Cat’s Eye** ke dalam kisahnya.
 
 Ia merasa bahwa takdir belum selesai dengan mereka. Kapan, bagaimana, dan petualangan seperti apa yang menanti mereka di masa depan… ia hampir tak sabar untuk mengetahuinya.
 

@@ -207,4 +207,4 @@ Teminologi
 
 ## Infografis
 
-<figure><img src="https://cdn.discordapp.com/attachments/1200750972788555836/1337395534264270920/2.png?ex=67a74a26&#x26;is=67a5f8a6&#x26;hm=f5de76e96d33a0dcc98b8bf06a06114991b34f6664e0b25a5c0c96a9031909a5&#x26;" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/XvRFRMN5/Xiangli-Yao-Revisi.png" alt=""><figcaption></figcaption></figure>

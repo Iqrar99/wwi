@@ -186,7 +186,6 @@ Cahaya yang bergejolak merespons tindakannya, mengembun menjadi bola cahaya puti
 
 *Gelombang Remnant itu pun berhasil ditangkap dan diwujudkan—utuh, namun kosong bagai cangkang, murni dan bebas dari segala kotoran.
 
-***
 
 Saat itu, **Baizhi** tidak tahu bahwa penemuannya akan terus bersamanya seumur hidup, membentuk dasar dari seluruh penelitian yang akan ia lakukan di masa depan.
 
@@ -210,8 +209,6 @@ Meski tak paham, **Baizhi** tetap mencoba memahami mereka dan tetap ada untuk me
 
 > "Aah, benar juga... tapi tetap saja menyedihkan! Jangan dipikirkan terlalu dalam, membuat permohonan dan kenyataan itu dua hal berbeda... Pokoknya, nanti kamu akan mengerti saat punya satu!"
 
-***
-
 Di keheningan sunyi di padang es, hari itu pun tiba.\
 Dunia runtuh tanpa peringatan, seperti yang sering terjadi.
 
@@ -233,7 +230,6 @@ Dalam pusaran emosi yang kacau, **Baizhi** tak mampu mengendalikan keinginannya�
 
 Lalu, sesosok **Makhluk Remnant** muncul di hadapannya, berbentuk seperti **Epiphyllum** yang bermekaran. Seolah-olah, itu adalah jawaban atas permohonannya.
 
-***
 
 Hingga hari ini, **Baizhi** masih tidak membuat permohonan.\
 Permohonan bukanlah fakta.\
@@ -257,7 +253,6 @@ Merenungkan masa lalu tidak ada gunanya.
 
 **Baizhi** memusatkan waktunya pada tugas-tugas penting, yang hanya bisa ia lakukan sebagai satu-satunya yang tersisa.
 
-***
 
 Tak lama setelah bergabung dengan Akademi, **Baizhi** mulai berlari dari satu laboratorium ke laboratorium lain di Cabang **Remnant Ecoacoustics**.
 
@@ -267,7 +262,6 @@ Ia mengajukan hipotesis bahwa **Makhluk Remnant** adalah tubuh energi yang beras
 
 Jika prinsip ini bisa dikuasai, manusia mungkin bisa mengembangkan **Sonoro Sphere** buatan serta lebih banyak **Makhluk Remnant**. Hipotesis ini menggemparkan komunitas akademik, namun makhluk Remnant yang kembali bersamanya dari Sonoro Sphere menjadi bukti sempurna.
 
-***
 
 **Baizhi** menamainya—**You’tan**.\
 Nama yang diambil dari **udumbara**, bunga mistis yang kadang dikaitkan dengan **Epiphyllum**.\
@@ -278,7 +272,6 @@ Meski bertahun-tahun mencari, para peneliti hanya bisa menangkap jejak sekilas d
 Begitu banyak jawaban yang masih menunggu.\
 Dan **Baizhi** harus menemukannya semua.
 
-***
 
 Tapi ia tidak terburu-buru. Karena tujuan itu ada di depan. Ia melangkah dengan sabar, melanjutkan perjalanan sebelum waktu benar-benar habis. Dan ini bukanlah perjalanan yang sepi. Karena **Baizhi** kini memiliki seorang pendamping—seseorang yang berbagi jalan dan tujuannya.
 

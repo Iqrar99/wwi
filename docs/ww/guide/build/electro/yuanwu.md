@@ -216,4 +216,4 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/mrmqwcdN/Yuanwu.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/gjDZLnVy/Yuanwu-Revisi.png" alt=""><figcaption></figcaption></figure>
