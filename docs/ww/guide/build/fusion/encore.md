@@ -179,5 +179,5 @@ Teminologi
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/jdfX5WP3/Encore.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/k5Yns8nj/Encore-Revisi.png" alt=""><figcaption></figcaption></figure>
 

@@ -162,5 +162,5 @@ Libe > Forte > Reso skill = BA = Intro
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/K8y5gZ5G/Mortefi.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/wvS98pRL/Mortefi-Revisi.png" alt=""><figcaption></figcaption></figure>
 

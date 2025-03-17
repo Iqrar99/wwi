@@ -141,5 +141,5 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/Y2ZRMNGm/Chixia.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/rpwV5gL0/Chixia-Revisi.png" alt=""><figcaption></figcaption></figure>
 
