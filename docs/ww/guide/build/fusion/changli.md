@@ -194,5 +194,5 @@ Teminologi
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/B68JV6bJ/Changli-Revisi.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/tgSGQ53H/Changli-Revisi.png" alt=""><figcaption></figcaption></figure>
 
