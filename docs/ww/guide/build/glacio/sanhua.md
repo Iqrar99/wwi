@@ -137,4 +137,4 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/65H983KR/Sanhua.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/PqSSR04T/Sanhua-Revisi.png" alt=""><figcaption></figcaption></figure>

@@ -147,4 +147,4 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/qvzpyTBF/Youhu.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/0QrVRZWm/Youhu-Revisi.png" alt=""><figcaption></figcaption></figure>

@@ -196,4 +196,4 @@ Teminologi
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/C5SFqndC/Zhezhi.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/bJM3zbW5/Zhezhi-Revisi.png" alt=""><figcaption></figcaption></figure>

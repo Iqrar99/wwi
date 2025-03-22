@@ -17,15 +17,7 @@ layout:
     visible: true
 ---
 
-# ⚠️ Brant
-
-{% hint style="danger" %}
-**KONTEN LEAKS**
-
-Harap menunggu perilisan untuk informasi yang lebih akurat.
-{% endhint %}
-
-***
+# Brant
 
 {% hint style="info" %}
 **BRANT COMBAT ROLES**
