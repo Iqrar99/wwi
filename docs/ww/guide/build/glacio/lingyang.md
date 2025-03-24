@@ -173,4 +173,4 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/WpwpP8f5/Lingyang.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/YCfn1vL4/Lingyang-Revisi.png" alt=""><figcaption></figcaption></figure>

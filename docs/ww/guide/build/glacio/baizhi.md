@@ -158,7 +158,7 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/Jns6qC6B/Bazhi-Revisi.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/FHQCdyz5/Baizhi-Revisi.png" alt=""><figcaption></figcaption></figure>
 
 
 
