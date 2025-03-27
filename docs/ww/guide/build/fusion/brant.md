@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# ⚠️ Brant
+# Brant
 
 {% hint style="info" %}
 **BRANT COMBAT ROLES**
