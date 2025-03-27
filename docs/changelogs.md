@@ -21,6 +21,11 @@ layout:
 
 # Changelogs
 
+## 27/03/2025
+
+* Add echo, weapon, dan sonata from 2.2 data
+* Add new bot command documentation
+
 ## 08/03/2025
 
 * Add more backstories

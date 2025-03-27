@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Brant
+# ⚠️ Brant
 
 {% hint style="info" %}
 **BRANT COMBAT ROLES**
@@ -150,4 +150,3 @@ TBA
 ## Infografis
 
 <figure><img src="https://i.postimg.cc/bNcCQMQs/Brant-Revisi.png" alt=""><figcaption></figcaption></figure>
-

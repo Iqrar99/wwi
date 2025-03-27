@@ -28,6 +28,7 @@
       * [Yuanwu](ww/guide/resonator/electro/yuanwu.md)
     * [🌪️ Aero](ww/guide/resonator/aero/README.md)
       * [Aalto](ww/guide/resonator/aero/aalto.md)
+      * [Aero Rover](ww/guide/resonator/aero/aero-rover.md)
       * [Jianxin](ww/guide/resonator/aero/jianxin.md)
       * [Jiyan](ww/guide/resonator/aero/jiyan.md)
       * [Yangyang](ww/guide/resonator/aero/yangyang.md)
@@ -39,6 +40,7 @@
       * [Verina](ww/guide/resonator/spectro/verina.md)
     * [🌑 Havoc](ww/guide/resonator/havoc/README.md)
       * [Camellya](ww/guide/resonator/havoc/camellya.md)
+      * [Cantarella](ww/guide/resonator/havoc/cantarella.md)
       * [Danjin](ww/guide/resonator/havoc/danjin.md)
       * [Havoc Rover](ww/guide/resonator/havoc/havoc-rover.md)
       * [Roccia](ww/guide/resonator/havoc/roccia.md)
@@ -65,6 +67,7 @@
       * [Yuanwu](ww/guide/build/electro/yuanwu.md)
     * [🌪️ Aero](ww/guide/build/aero/README.md)
       * [Aalto](ww/guide/build/aero/aalto.md)
+      * [Aero Rover](ww/guide/build/aero/aero-rover.md)
       * [Jianxin](ww/guide/build/aero/jianxin.md)
       * [Jiyan](ww/guide/build/aero/jiyan.md)
       * [Yangyang](ww/guide/build/aero/yangyang.md)
@@ -76,6 +79,7 @@
       * [Verina](ww/guide/build/spectro/verina.md)
     * [🌑 Havoc](ww/guide/build/havoc/README.md)
       * [Camellya](ww/guide/build/havoc/camellya.md)
+      * [Cantarella](ww/guide/build/havoc/cantarella.md)
       * [Danjin](ww/guide/build/havoc/danjin.md)
       * [Havoc Rover](ww/guide/build/havoc/rover.md)
       * [Roccia](ww/guide/build/havoc/roccia.md)
@@ -144,6 +148,7 @@
   * [Ascension Information](solaris-3/commands/ascension.md)
   * [Waveplate Reminder](solaris-3/commands/waveplate.md)
   * [Patch Calendar](solaris-3/commands/calendar.md)
+  * [Tide Calculator](solaris-3/commands/calendar-1.md)
 
 ***
 
