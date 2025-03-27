@@ -32,6 +32,13 @@ Semua data angka Echo Skill berdasarkan status Echo Rank 5 (Gold)
   </thead>
   <tbody>
     <tr>
+      <td align="center">Aero Drake</td>
+      <td align="center"><img src="https://api.hakush.in/ww/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31055_UI.webp" alt=""></td>
+      <td align="center"><img src="https://wuthering.wiki/img/fettericon_14.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_16.png" alt="" data-size="line"></td>
+      <td align="center">8</td>
+      <td>Memanggil <strong>Aero Drake</strong> untuk menyerang musuh dan memberikan <mark style="color:blue;"><strong>129.6%</strong></mark> <img src="https://wuthering.wiki/img/element_4.png" alt="" data-size="line"> <strong>Aero DMG</strong>.</td>
+    </tr>
+    <tr>
       <td align="center">Aero Predator</td>
       <td align="center"><img src="https://wuthering.wiki/img/monster_310000050.png" alt=""></td>
       <td align="center"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_4.png" alt="" data-size="line"></td>
@@ -65,7 +72,7 @@ Semua data angka Echo Skill berdasarkan status Echo Rank 5 (Gold)
       <td align="center"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"></td>
       <td align="center">15</td>
       <td>
-        <p>Memanggil <strong>Chest Mimic</strong> untuk menyerang musuh dengan <mark style="color:blue;"><strong>3</strong></mark> <strong>serangan berturut-turut</strong>, masing-masing memberikan <mark style="color:blue;"><strong>64.19%</strong></mark> </p>
+        <p>Memanggil <strong>Chest Mimic</strong> untuk menyerang musuh dengan <mark style="color:blue;"><strong>3</strong></mark> <strong>serangan berturut-turut</strong>, masing-masing memberikan <mark style="color:blue;"><strong>64.19%</strong></mark></p>
         <p><img src="https://wuthering.wiki/img/element_5.png" alt="" data-size="line"> <strong>Spectro DMG</strong>.</p>
       </td>
     </tr>
@@ -133,6 +140,13 @@ Semua data angka Echo Skill berdasarkan status Echo Rank 5 (Gold)
       <td>Memanggil <strong>Dwarf Cassowary</strong> yang mengikuti dan menyerang musuh, memberikan <mark style="color:blue;"><strong>38.4%</strong></mark> <img src="https://wuthering.wiki/img/element_0.png" alt="" data-size="line"> <strong>Physical DMG</strong> sebanyak <mark style="color:blue;"><strong>3</strong></mark> kali.</td>
     </tr>
     <tr>
+      <td align="center">Electro Drake</td>
+      <td align="center"><img src="https://api.hakush.in/ww/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31056_UI.webp" alt=""></td>
+      <td align="center"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_16.png" alt="" data-size="line"></td>
+      <td align="center">8</td>
+      <td>Memanggil <strong>Electro Drake</strong> untuk menyerang musuh dan memberikan <mark style="color:blue;"><strong>43.2%</strong></mark> <img src="https://wuthering.wiki/img/element_3.png" alt="" data-size="line"> <strong>Electro DMG </strong><mark style="color:blue;"><strong>3</strong></mark> kali.</td>
+    </tr>
+    <tr>
       <td align="center">Electro Predator</td>
       <td align="center"><img src="https://wuthering.wiki/img/monster_310000030.png" alt=""></td>
       <td align="center"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"></td>
@@ -172,7 +186,7 @@ Semua data angka Echo Skill berdasarkan status Echo Rank 5 (Gold)
       <td align="center"><img src="https://wuthering.wiki/img/monster_310000280.png" alt=""></td>
       <td align="center"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"></td>
       <td align="center">8</td>
-      <td>Memanggil <strong>Fusion Dreadmane</strong> yang <strong>menyerang musuh</strong>, memberikan <mark style="color:blue;"><strong>32% + 64</strong></mark>  <img src="https://wuthering.wiki/img/element_2.png" alt="" data-size="line"> <strong>Fusion DMG</strong>.</td>
+      <td>Memanggil <strong>Fusion Dreadmane</strong> yang <strong>menyerang musuh</strong>, memberikan <mark style="color:blue;"><strong>32% + 64</strong></mark> <img src="https://wuthering.wiki/img/element_2.png" alt="" data-size="line"> <strong>Fusion DMG</strong>.</td>
     </tr>
     <tr>
       <td align="center">Fusion Prism</td>
@@ -194,6 +208,13 @@ Semua data angka Echo Skill berdasarkan status Echo Rank 5 (Gold)
       <td align="center"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"></td>
       <td align="center">8</td>
       <td>Memanggil <strong>Galescourge Stalker</strong> yang memulihkan <strong>HP</strong> anggota tim terdekat sebesar <mark style="color:blue;"><strong>2.7%</strong></mark> dari <strong>Max HP</strong> mereka, hingga <mark style="color:blue;"><strong>3</strong></mark> kali.</td>
+    </tr>
+    <tr>
+      <td align="center">Glacio Drake</td>
+      <td align="center"><img src="https://api.hakush.in/ww/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31057_UI.webp" alt=""></td>
+      <td align="center"><img src="https://wuthering.wiki/img/fettericon_16.png" alt="" data-size="line"></td>
+      <td align="center">8</td>
+      <td>Memanggil <strong>Glacio Drake</strong> untuk menyerang musuh dan memberikan <mark style="color:blue;"><strong>25.92%</strong></mark> <img src="https://wuthering.wiki/img/element_1.png" alt="" data-size="line"> <strong>Glacio DMG </strong><mark style="color:blue;"><strong>5</strong></mark> kali.</td>
     </tr>
     <tr>
       <td align="center">Glacio Predator</td>
@@ -253,7 +274,7 @@ Semua data angka Echo Skill berdasarkan status Echo Rank 5 (Gold)
       <td align="center"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"></td>
       <td align="center">8</td>
       <td>
-        <p>Memanggil <strong>Hocus Pocus</strong> untuk menyerang musuh dengan <mark style="color:blue;"><strong>3</strong></mark> serangan berturut-turut, masing-masing memberikan <mark style="color:blue;"><strong>43.2%</strong></mark> </p>
+        <p>Memanggil <strong>Hocus Pocus</strong> untuk menyerang musuh dengan <mark style="color:blue;"><strong>3</strong></mark> serangan berturut-turut, masing-masing memberikan <mark style="color:blue;"><strong>43.2%</strong></mark></p>
         <p><img src="https://wuthering.wiki/img/element_6.png" alt="" data-size="line"> <strong>Havoc DMG</strong>.</p>
       </td>
     </tr>
@@ -263,6 +284,19 @@ Semua data angka Echo Skill berdasarkan status Echo Rank 5 (Gold)
       <td align="center"><img src="https://wuthering.wiki/img/fettericon_4.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"></td>
       <td align="center">8</td>
       <td>Berubah menjadi <strong>Hooscamp Flinger</strong> dan melompat ke musuh, memberikan <mark style="color:blue;"><strong>48% + 96</strong></mark> <img src="https://wuthering.wiki/img/element_4.png" alt="" data-size="line"> <strong>Aero DMG</strong>.</td>
+    </tr>
+    <tr>
+      <td align="center">La Guardia</td>
+      <td align="center"><img src="https://api.hakush.in/ww/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31052_UI.webp" alt=""></td>
+      <td align="center"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_16.png" alt="" data-size="line"></td>
+      <td align="center">15</td>
+      <td>
+        <p>Bertransformasi menjadi <strong>La Guardia</strong> dan menyerang target di sekitar, memberikan <mark style="color:blue;"><strong>268.2%</strong></mark> <img src="https://wuthering.wiki/img/element_0.png" alt="" data-size="line"> <strong>Physical DMG</strong>.<br>Tahan <strong>Echo Skill</strong> untuk mempertahankan <strong>Echo form</strong> sementara waktu, melakukan tebasan dan serangan jarak jauh ke depan.</p>
+        <ul>
+          <li><strong>Tebasan</strong> memberikan <mark style="color:blue;"><strong>268.2%</strong></mark> <img src="https://wuthering.wiki/img/element_0.png" alt="" data-size="line"> <strong>Physical DMG</strong>.</li>
+          <li><strong>Serangan jarak jauh</strong> memberikan <mark style="color:blue;"><strong>17.87%</strong></mark> <img src="https://wuthering.wiki/img/element_0.png" alt="" data-size="line"> <strong>Physical DMG</strong> hingga <mark style="color:blue;"><strong>15</strong></mark><strong> kali</strong>.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td align="center">Lava Larva</td>
@@ -291,6 +325,20 @@ Semua data angka Echo Skill berdasarkan status Echo Rank 5 (Gold)
       <td align="center"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_4.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"></td>
       <td align="center">8</td>
       <td>Memanggil <strong>Sabyr Boar</strong> untuk menanduk musuh ke udara, memberikan <mark style="color:blue;"><strong>32% + 64</strong></mark> <img src="https://wuthering.wiki/img/element_0.png" alt="" data-size="line"> <strong>Physical DMG</strong>.</td>
+    </tr>
+    <tr>
+      <td align="center">Sacerdos</td>
+      <td align="center"><img src="https://api.hakush.in/ww/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31054_UI.webp" alt=""></td>
+      <td align="center"><img src="https://wuthering.wiki/img/fettericon_16.png" alt="" data-size="line"></td>
+      <td align="center">8</td>
+      <td>Panggil <strong>Sacerdos</strong> untuk menyerang musuh dan memberikan <mark style="color:blue;"><strong>64.8%</strong></mark> <strong>Aero DMG</strong> <mark style="color:blue;"><strong>2</strong></mark> kali.</td>
+    </tr>
+    <tr>
+      <td align="center">Sagittario</td>
+      <td align="center"><img src="https://api.hakush.in/ww/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_31053_UI.webp" alt=""></td>
+      <td align="center"><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_16.png" alt="" data-size="line"></td>
+      <td align="center">15</td>
+      <td>Bertransformasi menjadi <strong>Sagittario</strong>, bergerak sejauh tertentu, lalu melakukan serangan jarak jauh, memberikan <mark style="color:blue;"><strong>268.2%</strong></mark> <img src="https://wuthering.wiki/img/element_5.png" alt="" data-size="line">  <strong>Spectro DMG</strong>.<br>Jika diserang saat bergerak dalam <strong>Sagittario form</strong>, akan memicu <strong>enhanced Dodge Counter</strong> yang menghindari damage, memberikan <mark style="color:blue;"><strong>268.2%</strong></mark> <img src="https://wuthering.wiki/img/element_5.png" alt="" data-size="line"> <strong>Spectro DMG</strong> sekali dan <mark style="color:blue;"><strong>53.64%</strong></mark> <img src="https://wuthering.wiki/img/element_5.png" alt="" data-size="line"> <strong>Spectro DMG</strong> sebanyak <mark style="color:blue;"><strong>5</strong></mark><strong> kali</strong>.</td>
     </tr>
     <tr>
       <td align="center">Snip Snap</td>

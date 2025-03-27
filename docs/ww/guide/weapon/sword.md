@@ -44,6 +44,16 @@ Data BASE ATK dan Sub Stat semuanya di dalam kondisi Level 90
       </td>
     </tr>
     <tr>
+      <td>Bloodpact's Pledge</td>
+      <td><img src="https://api.hakush.in/ww/UI/UIResources/Common/Image/IconWeapon/T_IconWeapon21020026_UI.webp" alt=""></td>
+      <td>587</td>
+      <td>Energy Regen: 38.8<strong>%</strong></td>
+      <td>
+        <p>Memberikan <strong>Healing</strong> meningkatkan <strong>Resonance Skill DMG</strong> sebesar <mark style="color:blue;"><strong>10%/14%/18%/22%/26%</strong></mark> selama <mark style="color:blue;"><strong>6</strong></mark><strong> detik</strong>.</p>
+        <p>Ketika <strong>Rover: Aero</strong> menggunakan <strong>Resonance Skill Unbound Flow</strong>, <strong>Aero DMG</strong> yang dihasilkan oleh <strong>Resonator di sekitar</strong> di medan pertempuran akan <strong>diperkuat</strong> sebesar <mark style="color:blue;"><strong>10%/14%/18%/22%/26%</strong></mark> selama <mark style="color:blue;"><strong>30</strong></mark><strong> detik</strong>.</p>
+      </td>
+    </tr>
+    <tr>
       <td>Emerald of Genesis</td>
       <td><img src="https://wuthering.wiki/img/weapon_21020015.png" alt=""></td>
       <td>587</td>

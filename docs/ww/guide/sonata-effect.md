@@ -18,7 +18,6 @@ layout:
 **Sonata** adalah atribut spesial yang terdapat di Echo. **Sonata effect** adalah efek spesial yang diberikan oleh **Sonata** tertentu apabila bisa melengkapinya sebanyak 2 atau 5 slot penuh.
 
 Berikut beberapa Sonata beserta efeknya yang ada di game:
-
 <table data-full-width="true">
   <thead>
     <tr>
@@ -87,7 +86,7 @@ Berikut beberapa Sonata beserta efeknya yang ada di game:
       <td><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"> Midnight Veil</td>
       <td><img src="https://wuthering.wiki/img/element_6.png" alt="" data-size="line"> <strong>Havoc DMG</strong> +10%.</td>
       <td>
-        <p>Memicu <strong>Outro Skil</strong>l memberikan tambahan 480% <img src="https://wuthering.wiki/img/element_6.png" alt="" data-size="line"> <strong>Havoc DMG</strong> ke musuh di sekitar, dianggap sebagai <strong>Outro Skill DMG</strong> dan memberi Resonator selanjutnya 15% Bonus </p>
+        <p>Memicu <strong>Outro Skil</strong>l memberikan tambahan 480% <img src="https://wuthering.wiki/img/element_6.png" alt="" data-size="line"> <strong>Havoc DMG</strong> ke musuh di sekitar, dianggap sebagai <strong>Outro Skill DMG</strong> dan memberi Resonator selanjutnya 15% Bonus</p>
         <p><img src="https://wuthering.wiki/img/element_6.png" alt="" data-size="line"> <strong>Havoc DMG</strong> selama 15 detik.</p>
       </td>
     </tr>
@@ -100,6 +99,11 @@ Berikut beberapa Sonata beserta efeknya yang ada di game:
       <td><img src="https://wuthering.wiki/img/fettericon_14.png" alt="" data-size="line"> Tidebreaking Courage</td>
       <td><strong>Energy Regen</strong> +10%.</td>
       <td>Meningkatkan <strong>ATK</strong> Resonator sebesar 15%. Saat mencapai 250% <strong>Energy Regen</strong> akan meningkatkan semua DMG Atribut sebesar 30% untuk Resonator.</td>
+    </tr>
+    <tr>
+      <td><img src="https://wuthering.wiki/img/fettericon_16.png" alt="" data-size="line"> Gusts of Welkin</td>
+      <td><img src="https://wuthering.wiki/img/element_4.png" alt="" data-size="line"> <strong>Aero DMG</strong> + 10%</td>
+      <td>Menginfeksi musuh dengan <strong>Aero Erosion</strong> meningkatkan <img src="https://wuthering.wiki/img/element_4.png" alt="" data-size="line"> <strong>Aero DMG</strong> untuk semua Resonator dalam tim sebesar <strong>15%</strong>, dan untuk Resonator yang memicu efek ini akan mendapatkan tambahan <strong>15%</strong>, berlangsung selama <strong>20</strong> detik.</td>
     </tr>
   </tbody>
 </table>

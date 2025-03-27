@@ -1,6 +1,6 @@
 ---
-icon: user-group
 description: People behind WWI community that help and run the FB group and Discord.
+icon: user-group
 layout:
   title:
     visible: true
@@ -140,7 +140,13 @@ layout:
 * <img src=".gitbook/assets/Facebook_Logo.png" alt="" data-size="line"> Alrasyid
 * <img src=".gitbook/assets/Facebook_Logo.png" alt="" data-size="line"> Iqrar
 * <img src=".gitbook/assets/Facebook_Logo.png" alt="" data-size="line"> Reza Adrian
+* <img src=".gitbook/assets/Discord_Logo.png" alt="" data-size="line"> violet\_evergarden9
 
 ### GitHub Contributors
 
-<div align="left"><figure><img src="https://contrib.rocks/image?repo=iqrar99/wwi" alt=""><figcaption></figcaption></figure></div>
+<div align="left">
+  <figure>
+    <img src="https://contrib.rocks/image?repo=iqrar99/wwi" alt="">
+    <figcaption></figcaption>
+  </figure>
+</div>

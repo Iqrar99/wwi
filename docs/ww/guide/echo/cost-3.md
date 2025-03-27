@@ -38,7 +38,6 @@ Semua data angka Echo Skill berdasarkan status Echo Rank 5 (Gold)
       <td align="center">15</td>
       <td>
         <p>Bertransformasi menjadi <strong>Abyssal Gladius</strong> dan menyerang musuh di depan dengan pedang, memberikan <mark style="color:blue;"><strong>268.2%</strong></mark> <img src="https://wuthering.wiki/img/element_1.png" alt="" data-size="line"> <strong>Glacio DMG</strong>.</p>
-        <p></p>
         <p>Tahan <strong>Echo Skill</strong> untuk mempertahankan <strong>Echo form</strong> sementara waktu guna menebas musuh dan melancarkan serangan jarak jauh ke depan, memberikan <mark style="color:blue;"><strong>268.2%</strong></mark> dan <mark style="color:blue;"><strong>670.5%</strong></mark> <img src="https://wuthering.wiki/img/element_1.png" alt="" data-size="line"> <strong>Glacio DMG</strong> secara berurutan.</p>
       </td>
     </tr>
@@ -48,7 +47,7 @@ Semua data angka Echo Skill berdasarkan status Echo Rank 5 (Gold)
       <td align="center"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"></td>
       <td align="center">15</td>
       <td>
-        <p>Bertransformasi menjadi <strong>Abyssal Mercator</strong> dan memanggil </p>
+        <p>Bertransformasi menjadi <strong>Abyssal Mercator</strong> dan memanggil</p>
         <p><mark style="color:blue;"><strong>3</strong></mark> <em><strong>Ice Spikes</strong></em> untuk menyerang musuh, masing-masing memberikan <mark style="color:blue;"><strong>89.39%</strong></mark> <img src="https://wuthering.wiki/img/element_1.png" alt="" data-size="line"> <strong>Glacio DMG</strong>.</p>
       </td>
     </tr>
@@ -68,6 +67,13 @@ Semua data angka Echo Skill berdasarkan status Echo Rank 5 (Gold)
       <td align="center"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"></td>
       <td align="center">15</td>
       <td>Bertransformasi menjadi <strong>Autopuppet Scout</strong>, memberikan <mark style="color:blue;"><strong>272%</strong></mark> <img src="https://wuthering.wiki/img/element_1.png" alt="" data-size="line"> <strong>Glacio DMG</strong> ke area sekitar, dan menciptakan hingga <mark style="color:blue;"><strong>3</strong></mark> <em><strong>Ice Wall</strong></em> untuk menghalangi musuh.</td>
+    </tr>
+    <tr>
+      <td align="center">Capitaneus</td>
+      <td align="center"><img src="https://api.hakush.in/ww/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32033_UI.webp" alt=""></td>
+      <td align="center"><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_16.png" alt="" data-size="line"></td>
+      <td align="center">20</td>
+      <td>Memanggil <strong>Capitaneus</strong> untuk melompat dan menghantam musuh, memberikan <mark style="color:blue;"><strong>118.8%</strong></mark> <img src="https://wuthering.wiki/img/element_5.png" alt="" data-size="line"> <strong>Spectro DMG</strong>. Serangan ini menghasilkan <mark style="color:blue;"><strong>4</strong></mark><strong> Merciless Judgements tambahan</strong>, masing-masing memberikan <mark style="color:blue;"><strong>59.4%</strong></mark> <img src="https://wuthering.wiki/img/element_5.png" alt="" data-size="line"> <strong>Spectro DMG</strong>.<br>Resonator yang menggunakan <strong>Echo</strong> ini di slot utama mendapatkan <mark style="color:blue;"><strong>12%</strong></mark> <img src="https://wuthering.wiki/img/element_5.png" alt="" data-size="line"> <strong>Spectro DMG Bonus</strong> dan <mark style="color:blue;"><strong>12%</strong></mark><strong> Heavy Attack DMG Bonus</strong>.</td>
     </tr>
     <tr>
       <td align="center">Carapace</td>
@@ -95,7 +101,7 @@ Semua data angka Echo Skill berdasarkan status Echo Rank 5 (Gold)
       <td align="center"><img src="https://wuthering.wiki/img/monster_320000300.png" alt=""></td>
       <td align="center"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_3.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"></td>
       <td align="center">20</td>
-      <td>Bertransformasi menjadi <strong>Cuddle Wuddle</strong> dan menyerang musuh dengan <mark style="color:blue;"><strong>4</strong></mark><strong> serangan</strong> yang masing-masing memberikan <mark style="color:blue;"><strong>46.98%</strong></mark>  <img src="https://wuthering.wiki/img/element_0.png" alt="" data-size="line"> <strong>Physical DMG</strong>, diikuti <mark style="color:blue;"><strong>1</strong></mark><strong> serangan</strong> yang memberikan <mark style="color:blue;"><strong>125.28%</strong></mark>  <img src="https://wuthering.wiki/img/element_0.png" alt="" data-size="line"> <strong>Physical DMG</strong>.</td>
+      <td>Bertransformasi menjadi <strong>Cuddle Wuddle</strong> dan menyerang musuh dengan <mark style="color:blue;"><strong>4</strong></mark><strong> serangan</strong> yang masing-masing memberikan <mark style="color:blue;"><strong>46.98%</strong></mark> <img src="https://wuthering.wiki/img/element_0.png" alt="" data-size="line"> <strong>Physical DMG</strong>, diikuti <mark style="color:blue;"><strong>1</strong></mark><strong> serangan</strong> yang memberikan <mark style="color:blue;"><strong>125.28%</strong></mark> <img src="https://wuthering.wiki/img/element_0.png" alt="" data-size="line"> <strong>Physical DMG</strong>.</td>
     </tr>
     <tr>
       <td align="center">Cyan-Feathered Heron</td>
@@ -109,7 +115,7 @@ Semua data angka Echo Skill berdasarkan status Echo Rank 5 (Gold)
       <td align="center"><img src="https://wuthering.wiki/img/monster_320000230.png" alt=""></td>
       <td align="center"><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_14.png" alt="" data-size="line"></td>
       <td align="center">15</td>
-      <td>Bertransformasi menjadi <strong>Diurnus Knight</strong> dan menerjang ke depan untuk menyerang musuh dengan pedang, memberikan <mark style="color:blue;"><strong>268.2%</strong></mark>  <img src="https://wuthering.wiki/img/element_5.png" alt="" data-size="line"> <strong>Spectro DMG</strong>. Damage yang diberikan kepada musuh yang terkena <strong>Spectro Frazzle</strong> meningkat sebesar <mark style="color:blue;"><strong>100%</strong></mark>.</td>
+      <td>Bertransformasi menjadi <strong>Diurnus Knight</strong> dan menerjang ke depan untuk menyerang musuh dengan pedang, memberikan <mark style="color:blue;"><strong>268.2%</strong></mark> <img src="https://wuthering.wiki/img/element_5.png" alt="" data-size="line"> <strong>Spectro DMG</strong>. Damage yang diberikan kepada musuh yang terkena <strong>Spectro Frazzle</strong> meningkat sebesar <mark style="color:blue;"><strong>100%</strong></mark>.</td>
     </tr>
     <tr>
       <td align="center">Flautist</td>
@@ -142,7 +148,7 @@ Semua data angka Echo Skill berdasarkan status Echo Rank 5 (Gold)
     <tr>
       <td align="center">Hurriclaw</td>
       <td align="center"><img src="https://wuthering.wiki/img/monster_320000320.png" alt=""></td>
-      <td align="center"><img src="https://wuthering.wiki/img/fettericon_14.png" alt="" data-size="line"></td>
+      <td align="center"><img src="https://wuthering.wiki/img/fettericon_14.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_16.png" alt="" data-size="line"></td>
       <td align="center">20</td>
       <td>Berubah menjadi Hurriclaw dan menyerang ke depan, memberikan <mark style="color:blue;"><strong>156.6%</strong></mark> <img src="https://wuthering.wiki/img/element_4.png" alt="" data-size="line"> <strong>Aero DMG</strong> saat terkena serangan ditambah <mark style="color:blue;"><strong>156.6%</strong></mark> <img src="https://wuthering.wiki/img/element_4.png" alt="" data-size="line"> <strong>Aero DMG</strong> dengan serangan sapuan. Tahan Skill Echo untuk terus menyerang ke depan. Gunakan Skill Echo lagi saat menyerang untuk melakukan serangan sapuan.</td>
     </tr>
@@ -152,7 +158,7 @@ Semua data angka Echo Skill berdasarkan status Echo Rank 5 (Gold)
       <td align="center"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"></td>
       <td align="center">15</td>
       <td>
-        <p><strong>Maju ke depan sebagai Lightcrusher</strong>, memberikan <mark style="color:blue;"><strong>135.36%</strong></mark> </p>
+        <p><strong>Maju ke depan sebagai Lightcrusher</strong>, memberikan <mark style="color:blue;"><strong>135.36%</strong></mark></p>
         <p><img src="https://wuthering.wiki/img/element_5.png" alt="" data-size="line"> <strong>Spectro DMG</strong>. Menghasilkan <mark style="color:blue;"><strong>6</strong></mark> <em><strong>Ablucence</strong></em> saat mengenai musuh. Setiap ledakan <em><strong>Ablucence</strong></em> memberikan <mark style="color:blue;"><strong>15.04%</strong></mark> <img src="https://wuthering.wiki/img/element_5.png" alt="" data-size="line"> <strong>Spectro DMG</strong>.</p>
         <p><br>Tahan kemampuan Echo untuk tetap dalam bentuk <strong>Lightcrusher</strong>, yang memungkinkanmu melompat dan menyerang maju di udara dalam jarak pendek.</p>
       </td>
@@ -181,7 +187,7 @@ Semua data angka Echo Skill berdasarkan status Echo Rank 5 (Gold)
     <tr>
       <td align="center">Rage Against the Statue</td>
       <td align="center"><img src="https://wuthering.wiki/img/monster_320000310.png" alt=""></td>
-      <td align="center"><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"></td>
+      <td align="center"><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_16.png" alt="" data-size="line"></td>
       <td align="center">20</td>
       <td>Berubah menjadi <strong>Rage Against the Statue</strong> untuk menyerang musuh, memberikan <mark style="color:blue;"><strong>313.2%</strong></mark> <img src="https://wuthering.wiki/img/element_5.png" alt="" data-size="line"> <strong>Spectro DMG</strong>. Tahan Skill Echo untuk mempertahankan bentuk Echo dan serang ke arah musuh, memberikan <mark style="color:blue;"><strong>469.8%</strong></mark> <img src="https://wuthering.wiki/img/element_5.png" alt="" data-size="line"> <strong>Spectro DMG</strong>.</td>
     </tr>
@@ -192,7 +198,6 @@ Semua data angka Echo Skill berdasarkan status Echo Rank 5 (Gold)
       <td align="center">15</td>
       <td>
         <p>Berganti menjadi <strong>Rocksteady Guardian</strong> dan masuki <em><strong>Parry State</strong></em>. Saat diserang, berikan <img src="https://wuthering.wiki/img/element_5.png" alt="" data-size="line"> <strong>Spectro DMG</strong> yang setara dengan <mark style="color:blue;"><strong>8.29%</strong></mark><strong> dari Max HP Resonator</strong>, dan lakukan serangan lanjutan yang memberikan <img src="https://wuthering.wiki/img/element_5.png" alt="" data-size="line"> <strong>Spectro DMG</strong> sebesar <mark style="color:blue;"><strong>8.29%</strong></mark><strong> dari Max HP Resonator</strong>. Gunakan lagi <strong>Echo Skill</strong> untuk keluar dari transformasi.</p>
-        <p></p>
         <p>Jika serangan yang diterima adalah serangan <strong>Special Skill</strong>, interupsi serangan musuh, dapatkan <strong>Shield</strong> yang setara dengan <mark style="color:blue;"><strong>30%</strong></mark><strong> dari Max HP</strong>, dan lakukan serangan lanjutan dua tahap, masing-masing memberikan <img src="https://wuthering.wiki/img/element_5.png" alt="" data-size="line"> <strong>Spectro DMG</strong> yang setara dengan <mark style="color:blue;"><strong>5.52%</strong></mark><strong> dari Max HP Resonator</strong>. Serangan lanjutan ini juga meluncurkan tiga gelombang pemecah tanah, masing-masing memberikan <img src="https://wuthering.wiki/img/element_5.png" alt="" data-size="line"> <strong>Spectro DMG</strong> sebesar <mark style="color:blue;"><strong>4.59%</strong></mark><strong> dari Max HP Resonator</strong>.</p>
       </td>
     </tr>
@@ -202,7 +207,7 @@ Semua data angka Echo Skill berdasarkan status Echo Rank 5 (Gold)
       <td align="center"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"></td>
       <td align="center">15</td>
       <td>
-        <p>Memanggil <strong>Roseshroom</strong> yang menembakkan laser, memberikan </p>
+        <p>Memanggil <strong>Roseshroom</strong> yang menembakkan laser, memberikan</p>
         <p><img src="https://wuthering.wiki/img/element_6.png" alt="" data-size="line"> <strong>Havoc DMG</strong> sebesar <mark style="color:blue;"><strong>57.07%</strong></mark> hingga <mark style="color:blue;"><strong>3</strong></mark> kali.</p>
       </td>
     </tr>
@@ -212,7 +217,7 @@ Semua data angka Echo Skill berdasarkan status Echo Rank 5 (Gold)
       <td align="center"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"></td>
       <td align="center">15</td>
       <td>
-        <p>Memanggil <strong>Spearback</strong> untuk melakukan <mark style="color:blue;"><strong>5</strong></mark> serangan berturut-turut. Empat serangan pertama memberikan <img src="https://wuthering.wiki/img/element_0.png" alt="" data-size="line"> <strong>Physical DMG</strong> sebesar <mark style="color:blue;"><strong>29.96%</strong></mark>, dan serangan terakhir memberikan </p>
+        <p>Memanggil <strong>Spearback</strong> untuk melakukan <mark style="color:blue;"><strong>5</strong></mark> serangan berturut-turut. Empat serangan pertama memberikan <img src="https://wuthering.wiki/img/element_0.png" alt="" data-size="line"> <strong>Physical DMG</strong> sebesar <mark style="color:blue;"><strong>29.96%</strong></mark>, dan serangan terakhir memberikan</p>
         <p><img src="https://wuthering.wiki/img/element_0.png" alt="" data-size="line"> <strong>Physical DMG</strong> sebesar <mark style="color:blue;"><strong>51.36%</strong></mark>.</p>
       </td>
     </tr>
