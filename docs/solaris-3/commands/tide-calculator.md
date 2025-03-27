@@ -23,4 +23,4 @@ description: Calculate how many pulls you have based on Astrite amount
 
 ## Example
 
-<figure><img src="../../.gitbook/assets/bot_command_tide_calculator_1.png" alt=""><figcaption><p>Make sure to input valid non-negative integer number that does not exceed 2^64, otherwise it returns error message.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bot/bot_command_tide_calculator_1.png" alt=""><figcaption><p>Make sure to input valid non-negative integer number that does not exceed 2^64, otherwise it returns error message.</p></figcaption></figure>

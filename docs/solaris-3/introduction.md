@@ -28,7 +28,20 @@ This documentation provides information on each module and command found within 
 
 If you need any additional help with Solaris-3 Bot, consider joining our <mark style="color:purple;">**Discord server**</mark>!
 
-<table data-header-hidden data-full-width="false"><thead><tr><th>Page</th><th>Description</th></tr></thead><tbody><tr><td><a href="https://discord.gg/wwi"><strong>Official Discord Server</strong></a></td><td>Solaris-3's official support server.</td></tr></tbody></table>
+<table data-header-hidden data-full-width="false">
+  <thead>
+    <tr>
+      <th>Page</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://discord.gg/wwi"><strong>Official Discord Server</strong></a></td>
+      <td>Solaris-3's official support server.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## How to interact with the bot?
 
