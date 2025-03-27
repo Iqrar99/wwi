@@ -148,7 +148,7 @@
   * [Ascension Information](solaris-3/commands/ascension.md)
   * [Waveplate Reminder](solaris-3/commands/waveplate.md)
   * [Patch Calendar](solaris-3/commands/calendar.md)
-  * [Tide Calculator](solaris-3/commands/calendar-1.md)
+  * [Tide Calculator](solaris-3/commands/tide-calculator.md)
 
 ***
 
