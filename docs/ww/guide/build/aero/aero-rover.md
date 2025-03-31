@@ -1,5 +1,5 @@
 ---
-cover: https://i.postimg.cc/XNsM8zP6/Yangyang.png
+cover: https://i.postimg.cc/wTBzYpNB/Rover-Male.png
 coverY: 0
 layout:
   cover:
