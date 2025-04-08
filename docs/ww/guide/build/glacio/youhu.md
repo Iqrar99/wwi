@@ -94,8 +94,6 @@ Release Hold echo Skill, memberikan <mark style="color:yellow;">Spectro DMG</mar
 
 InherentReso skill > Forte > Libe > Intro = BA
 
-\\
-
 </details>
 
 <details>

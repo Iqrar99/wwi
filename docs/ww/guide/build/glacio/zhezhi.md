@@ -33,7 +33,7 @@ layout:
 ## :crossed\_swords: Pilihan Senjata
 
 {% tabs %}
-{% tab title="Rime - Draped Sprouts" %}
+{% tab title="Rime - Draped Sprouts 119%" %}
 {% hint style="success" %}
 Best In Slot
 {% endhint %}
@@ -49,7 +49,7 @@ Best In Slot
 <figure><img src="https://wuthering.wiki/img/weapon_21050026.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Stringmaster" %}
+{% tab title="Stringmaster 115%" %}
 {% hint style="success" %}
 Direkomendasikan
 {% endhint %}
@@ -61,7 +61,7 @@ Direkomendasikan
 <figure><img src="https://wuthering.wiki/img/weapon_21050016.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Cosmic Riffles" %}
+{% tab title="Cosmic Riffles 100%" %}
 {% hint style="info" %}
 Alternatif
 {% endhint %}
@@ -160,7 +160,7 @@ Reso Lib > Forte > Reso Skill = NA = Intro
 
 ## :busts\_in\_silhouette: Rekomendasi Tim
 
-<table><thead><tr><th>Main DPS</th><th width="172.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/pXnHLB0N/Carlotta-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line">Carlotta</td><td><img src="https://i.postimg.cc/Jn6LGYV8/Zhezhi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Zezhi</td><td>Buff Reso SKill 25% dan buff Glacio DMG 20%</td></tr><tr><td><img src="https://i.postimg.cc/3xmYnZpj/Jinhsi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"> Jinhsi</td><td><img src="https://i.postimg.cc/Jn6LGYV8/Zhezhi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Zezhi</td><td>Buff Reso SKill 25%</td></tr><tr><td><img src="https://i.postimg.cc/WzyTfWX8/Lingyang-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line">Lingyang</td><td><img src="https://i.postimg.cc/Jn6LGYV8/Zhezhi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Zezhi</td><td>Buff Reso SKill 25%</td></tr><tr><td><img src="https://i.postimg.cc/hjgj9557/Chixia-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Chixia</td><td><img src="https://i.postimg.cc/Jn6LGYV8/Zhezhi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Zezhi</td><td>Buff Reso SKill 25%</td></tr></tbody></table>
+<table><thead><tr><th>Main DPS</th><th width="172.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/pXnHLB0N/Carlotta-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line"> Carlotta</td><td><img src="https://i.postimg.cc/Jn6LGYV8/Zhezhi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Zezhi</td><td>Buff Reso SKill 25% dan buff Glacio DMG 20%</td></tr><tr><td><img src="https://i.postimg.cc/3xmYnZpj/Jinhsi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"> Jinhsi</td><td><img src="https://i.postimg.cc/Jn6LGYV8/Zhezhi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Zezhi</td><td>Buff Reso SKill 25%</td></tr><tr><td><img src="https://i.postimg.cc/WzyTfWX8/Lingyang-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_9.png" alt="" data-size="line"> Lingyang</td><td><img src="https://i.postimg.cc/Jn6LGYV8/Zhezhi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Zezhi</td><td>Buff Reso SKill 25%</td></tr><tr><td><img src="https://i.postimg.cc/hjgj9557/Chixia-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Chixia</td><td><img src="https://i.postimg.cc/Jn6LGYV8/Zhezhi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Zezhi</td><td>Buff Reso SKill 25%</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 

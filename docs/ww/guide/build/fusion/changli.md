@@ -31,7 +31,7 @@ layout:
 ## :crossed\_swords: Pilihan Senjata
 
 {% tabs %}
-{% tab title="Blazing Brilliance" %}
+{% tab title="Blazing Brilliance 111%" %}
 {% hint style="success" %}
 Best In Slot
 {% endhint %}
@@ -45,21 +45,7 @@ Best In Slot
 <figure><img src="https://wuthering.wiki/img/weapon_21020016.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Emerald Of Genesis" %}
-{% hint style="success" %}
-Direkomendasikan
-{% endhint %}
-
-:mag: **Review Senjata**
-
-> Pilihan **Sword** yang luar biasa, menawarkan **base damage** yang jauh lebih tinggi berkat :star:**5 rarity**, serta **ATK% buff** yang dapat ditumpuk yang hampir bisa didapatkan oleh semua karakter dengan mudah (dan **2 stacks** juga mudah dicapai oleh sebagian besar karakter jika dimainkan dengan benar).
->
-> Selain itu, senjata ini memiliki **Energy Regen** yang cukup baik, yang pada sebagian besar karakter memungkinkan satu **sub-stat Energy Regen** dialokasikan ke tempat lain untuk meningkatkan **damage** lebih lanjut. Pilihan **Sword** terbaik secara keseluruhan, dengan hanya **S5** :star:**4 Swords** yang dapat bersaing dengannya.
-
-<figure><img src="https://wuthering.wiki/img/weapon_21020015.png" alt="" width="188"><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Red Spring" %}
+{% tab title="Red Spring 101%" %}
 {% hint style="success" %}
 Direkomendasikan
 {% endhint %}
@@ -73,6 +59,32 @@ Direkomendasikan
 <figure><img src="https://wuthering.wiki/img/weapon_21020026.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
+{% tab title="Emerald Of Genesis 100%" %}
+{% hint style="success" %}
+Direkomendasikan
+{% endhint %}
+
+:mag: **Review Senjata**
+
+> Pilihan **Sword** yang luar biasa, menawarkan **base damage** yang jauh lebih tinggi berkat :star:**5 rarity**, serta **ATK% buff** yang dapat ditumpuk yang hampir bisa didapatkan oleh semua karakter dengan mudah (dan **2 stacks** juga mudah dicapai oleh sebagian besar karakter jika dimainkan dengan benar).
+>
+> Selain itu, senjata ini memiliki **Energy Regen** yang cukup baik, yang pada sebagian besar karakter memungkinkan satu **sub-stat Energy Regen** dialokasikan ke tempat lain untuk meningkatkan **damage** lebih lanjut. Pilihan **Sword** terbaik secara keseluruhan, dengan hanya **S5** :star:**4 Swords** yang dapat bersaing dengannya.
+
+<figure><img src="https://wuthering.wiki/img/weapon_21020015.png" alt="" width="188"><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Endless Collapse 83%" %}
+{% hint style="info" %}
+Alternatif
+{% endhint %}
+
+:mag: **Review Senjata**
+
+> Sering kali lebih rendah dibandingkan **Commando of Conviction** untuk **DPS**, namun senjata ini tetap menjadi pilihan **F2P** :star:**4** yang bagus untuk karakter yang membutuhkan **energy boost**. Secara realistis, hanya pertimbangkan senjata ini sebagai pilihan jika karakter kamu mengalami masalah dengan **energy**.
+
+<figure><img src="https://wuthering.wiki/img/weapon_21020084.png" alt="" width="188"><figcaption></figcaption></figure>
+{% endtab %}
+
 {% tab title="Commando Of Conviction" %}
 {% hint style="info" %}
 Alternatif
@@ -83,18 +95,6 @@ Alternatif
 > **Sword** serbaguna yang luar biasa, mendapatkan bonusnya hampir tanpa syarat karena sebagian besar **Resonators** hampir selalu berusaha memanfaatkan **Intro skill** mereka, dan hanya sedikit karakter yang menghabiskan lebih dari 15 detik di lapangan selama durasinya.
 
 <figure><img src="https://wuthering.wiki/img/weapon_21020044.png" alt="" width="188"><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Endless Collapse" %}
-{% hint style="info" %}
-Alternatif
-{% endhint %}
-
-:mag: **Review Senjata**
-
-> Sering kali lebih rendah dibandingkan **Commando of Conviction** untuk **DPS**, namun senjata ini tetap menjadi pilihan **F2P** :star:**4** yang bagus untuk karakter yang membutuhkan **energy boost**. Secara realistis, hanya pertimbangkan senjata ini sebagai pilihan jika karakter kamu mengalami masalah dengan **energy**.
-
-<figure><img src="https://wuthering.wiki/img/weapon_21020084.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -143,7 +143,7 @@ Quickswap
 
 #### Hypercarry
 
-<table><thead><tr><th width="160">Main DPS</th><th width="203.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://i.postimg.cc/wjXYhj80/Brant-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_14.png" alt="" data-size="line">Brant</td><td>Buff Reso SKill 25% dan buff Fusion DMG 20%</td></tr><tr><td><img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://i.postimg.cc/Jn6LGYV8/Zhezhi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Zezhi</td><td>Buff Reso SKill 25%</td></tr><tr><td><img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://i.postimg.cc/Prc56x7H/Sanhua-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua</td><td>Concerto generator nya cepet</td></tr><tr><td><img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://i.postimg.cc/qv3MWrf3/Taoqi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Taoqi</td><td>Buff Reso skill 38% selama 14s</td></tr><tr><td><img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://i.postimg.cc/Rh2xT3Zb/Lumi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Lumi</td><td>Buff Reso skill 38% selama 10s</td></tr></tbody></table>
+<table><thead><tr><th width="160">Main DPS</th><th width="203.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://i.postimg.cc/wjXYhj80/Brant-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_14.png" alt="" data-size="line">Brant</td><td>Buff Reso SKill 25% dan buff Fusion DMG 20%</td></tr><tr><td><img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://i.postimg.cc/Jn6LGYV8/Zhezhi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Zezhi</td><td>Buff Reso SKill 25%</td></tr><tr><td><img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://i.postimg.cc/85PPbg3G/Cantarella-icon-role-made-by-Win.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Cantarella</td><td>Buff Reso SKill 25%</td></tr><tr><td><img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://i.postimg.cc/Prc56x7H/Sanhua-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Sanhua</td><td>Concerto generator nya cepet</td></tr><tr><td><img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://i.postimg.cc/qv3MWrf3/Taoqi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Taoqi</td><td>Buff Reso skill 38% selama 14s</td></tr><tr><td><img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://i.postimg.cc/Rh2xT3Zb/Lumi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Lumi</td><td>Buff Reso skill 38% selama 10s</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 
@@ -195,4 +195,3 @@ Teminologi
 ## Infografis
 
 <figure><img src="https://i.postimg.cc/tgSGQ53H/Changli-Revisi.png" alt=""><figcaption></figcaption></figure>
-

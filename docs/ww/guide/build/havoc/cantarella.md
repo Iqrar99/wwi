@@ -42,12 +42,13 @@ Best In Slot
 
 > Meningkatkan **ATK** sebesar **12%**. Menggunakan **Echo Skill** dalam waktu **10 detik** setelah menggunakan **Intro Skill** atau **Basic Attacks** memberikan **1 stack(s) Gentle Dream**. **Echoes** dengan nama yang sama hanya dapat memicu efek ini sekali, menumpuk hingga **2 kali**, dan berlangsung selama **10 detik**. Saat mencapai **2 stack(s)**, menggunakan **Echo Skill** tidak lagi mengatur ulang durasi efek ini. Efek ini aktif hingga sekali setiap **10 detik**. Beralih ke **Resonator** lain akan mengakhiri efek ini lebih awal.
 
-> - Dengan **1 stack(s)**: Memberikan **40% Basic Attack DMG Bonus**.
-> - Dengan **2 stack(s)**: Mengabaikan **40% Havoc RES** dari target.
+> * Dengan **1 stack(s)**: Memberikan **40% Basic Attack DMG Bonus**.
+> * Dengan **2 stack(s)**: Mengabaikan **40% Havoc RES** dari target.
 
-> Statistik pada Level 90: 
-> - **ATK**: 500
-> - **CRIT DMG**: 72%
+> Statistik pada Level 90:
+>
+> * **ATK**: 500
+> * **CRIT DMG**: 72%
 
 <figure><img src="https://wuthering.wiki/img/weapon_21050056.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
@@ -64,8 +65,9 @@ Direkomendasikan
 > Meningkatkan **ATK** sebesar **12%**. Menggunakan **Resonance Skill** memberikan **12% Basic Attack DMG Bonus** kepada **Resonator** yang diperlengkapi selama **6 detik**, dan dapat menumpuk hingga **3 kali**. Saat menggunakan **Outro Skill** dengan **3 stack(s)**, semua stack(s) akan dikonsumsi untuk memberikan **52% DMG Bonus** kepada **Basic Attacks di luar field** yang dilakukan oleh **Resonator** yang diperlengkapi, yang berlangsung selama **27 detik**.
 
 > Statistik pada Level 90:
-> - **ATK**: 500
-> - **CRIT DMG**: 72%
+>
+> * **ATK**: 500
+> * **CRIT DMG**: 72%
 
 <figure><img src="https://wuthering.wiki/img/weapon_21050026.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
@@ -166,6 +168,7 @@ Impermenance Heron - CR% / CDM%
 Reso Lib > Forte > Reso Skill > NA > Intro
 
 </details>
+
 <details>
 
 <summary><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"> Empyrean Anthem</summary>
@@ -197,18 +200,15 @@ Reso Lib > Forte > Reso Skill > NA > Intro
 
 ## :busts\_in\_silhouette: Rekomendasi Tim
 
-<table><thead><tr><th>Main DPS</th><th width="172.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/pXnHLB0N/Carlotta-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line">Carlotta</td><td><img src="https://i.postimg.cc/85PPbg3G/Cantarella-icon-role-made-by-Win.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Cantarella</td><td>Buff Reso SKill 25%</td></tr><tr><td><img src="https://i.postimg.cc/3xmYnZpj/Jinhsi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"> Jinhsi</td><td><img src="https://i.postimg.cc/85PPbg3G/Cantarella-icon-role-made-by-Win.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Cantarella</td><td>Buff Reso SKill 25% dan Coordinated Attack bantu stack(s) Jinhsi</td></tr><tr><td><img src="https://i.postimg.cc/6qppPGwW/Rover-Male-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" data-size="line">Havoc Rover</td><td><img src="https://i.postimg.cc/85PPbg3G/Cantarella-icon-role-made-by-Win.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Cantarella</td><td>buff Havoc DMG 20%</td></tr><tr><td><img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://i.postimg.cc/85PPbg3G/Cantarella-icon-role-made-by-Win.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Cantarella</td><td>Buff Reso SKill 25%</td></tr></tbody></table>
+<table><thead><tr><th>Main DPS</th><th width="248.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/pXnHLB0N/Carlotta-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line">Carlotta</td><td><img src="https://i.postimg.cc/85PPbg3G/Cantarella-icon-role-made-by-Win.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Cantarella</td><td>Buff Reso SKill 25%</td></tr><tr><td><img src="https://i.postimg.cc/3xmYnZpj/Jinhsi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"> Jinhsi</td><td><img src="https://i.postimg.cc/85PPbg3G/Cantarella-icon-role-made-by-Win.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Cantarella</td><td>Buff Reso SKill 25% dan Coordinated Attack bantu stack(s) Jinhsi</td></tr><tr><td><img src="https://i.postimg.cc/6qppPGwW/Rover-Male-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line">Havoc Rover</td><td><img src="https://i.postimg.cc/85PPbg3G/Cantarella-icon-role-made-by-Win.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Cantarella</td><td>buff Havoc DMG 20%</td></tr><tr><td><img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://i.postimg.cc/85PPbg3G/Cantarella-icon-role-made-by-Win.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Cantarella</td><td>Buff Reso SKill 25%</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 
-{% tabs %}
-{% tab title="Sub-DPS, Empyrean Anthem" %}
 {% code title="Credit : Fractured Shores" overflow="wrap" %}
 ```
 Skill  > Intro > BA3 > Hecate(Echo) > Skill > Enhanced Heavy Attack [EHA] (Cancel) > Enhanced Skill [ESkill] > Forte Basic Attack (FBA) 123 > Forte-Skill (FSkill) > Liberation  > FBA 123
 ```
 {% endcode %}
-{% endtab %}
 
 {% hint style="info" %}
 Teminologi

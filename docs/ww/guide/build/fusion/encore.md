@@ -29,7 +29,7 @@ layout:
 ## :crossed\_swords: Pilihan Senjata
 
 {% tabs %}
-{% tab title="Stringmaster" %}
+{% tab title="Stringmaster 119%" %}
 {% hint style="success" %}
 Best In Slot
 {% endhint %}
@@ -41,7 +41,7 @@ Best In Slot
 <figure><img src="https://wuthering.wiki/img/weapon_21050016.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Rime - Draped Sprouts" %}
+{% tab title="Rime - Draped Sprouts 113%" %}
 {% hint style="success" %}
 Direkomendasikan
 {% endhint %}
@@ -53,7 +53,19 @@ Direkomendasikan
 <figure><img src="https://wuthering.wiki/img/weapon_21050026.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Cosmic Riffles" %}
+{% tab title="Luminous Hymn 108%" %}
+{% hint style="info" %}
+Alternatif
+{% endhint %}
+
+:mag: **Review Senjata**
+
+> **Signature weapon-nya Phoebe** ngasih banyak banget **CRIT Rate**, **ATK%**, serta bonus **Heavy** dan **Basic ATK DMG**
+
+<figure><img src="https://wuthering.wiki/img/weapon_21050046.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Cosmic Riffles 100%" %}
 {% hint style="info" %}
 Alternatif
 {% endhint %}
@@ -75,18 +87,6 @@ Alternatif
 > Opsi **Rectifier** generik yang luar biasa, menawarkan **base Crit Rate** untuk skala yang sangat baik, tetapi juga kemampuan **bonus** yang mudah diaktifkan dan dipertahankan, yang memberikan **ATK%** setelah **Resonance Liberation** pemakai diaktifkan. Hampir semua karakter yang bisa menggunakan **Crit Rate** dan **ATK** akan sangat senang memiliki senjata ini, hanya kalah dari opsi :star:**5**.
 
 <figure><img src="https://wuthering.wiki/img/weapon_21050074.png" alt="" width="188"><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Jinzhou Keeper" %}
-{% hint style="info" %}
-Alternatif
-{% endhint %}
-
-:mag: **Review Senjata**
-
-> Alternatif :star:**4 Rectifier** yang bagus selain **Augment**, menawarkan kemampuan **bonus** yang mudah dipertahankan yang memberikan **ATK%** setelah menggunakan **Intro skill** dan sejumlah **ATK%** yang baik sebagai **main stat**.
-
-<figure><img src="https://wuthering.wiki/img/weapon_21050044.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -180,4 +180,3 @@ Teminologi
 ## Infografis
 
 <figure><img src="https://i.postimg.cc/Vvg55vbQ/Encore-Revisi.png" alt=""><figcaption></figcaption></figure>
-

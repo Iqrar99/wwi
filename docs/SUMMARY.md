@@ -54,7 +54,7 @@
       * [Youhu](ww/guide/build/glacio/youhu.md)
       * [Zhezhi](ww/guide/build/glacio/zhezhi.md)
     * [🔥 Fusion](ww/guide/build/fusion/README.md)
-      * [⚠️ Brant](ww/guide/build/fusion/brant.md)
+      * [Brant](ww/guide/build/fusion/brant.md)
       * [Changli](ww/guide/build/fusion/changli.md)
       * [Chixia](ww/guide/build/fusion/chixia.md)
       * [Encore](ww/guide/build/fusion/encore.md)
