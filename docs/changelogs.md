@@ -21,6 +21,16 @@ layout:
 
 # Changelogs
 
+## 08/04/2025
+
+* remove leaks warning character build Brant
+* update overal Brant character build
+* update new formatting weapon (example: red spring 100%) Glacio and Fusion character build
+* update rotation Glacio and Fusion character build
+* update team related cantarella in Glacio and Fusion character build
+* fix cantarella Icon
+* fix some typos
+
 ## 27/03/2025
 
 * Add echo, weapon, dan sonata from 2.2 data
