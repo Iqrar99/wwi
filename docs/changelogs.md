@@ -21,15 +21,20 @@ layout:
 
 # Changelogs
 
+## 16/04/2025
+
+* Add more main story summaries
+* Add cover page for each act of main stories
+
 ## 08/04/2025
 
-* remove leaks warning character build Brant
-* update overal Brant character build
-* update new formatting weapon (example: red spring 100%) Glacio and Fusion character build
-* update rotation Glacio and Fusion character build
-* update team related cantarella in Glacio and Fusion character build
-* fix cantarella Icon
-* fix some typos
+* Remove leaks warning character build Brant
+* Update overal Brant character build
+* Update new formatting weapon (example: red spring 100%) Glacio and Fusion character build
+* Update rotation Glacio and Fusion character build
+* Update team related cantarella in Glacio and Fusion character build
+* Fix cantarella Icon
+* Fix some typos
 
 ## 27/03/2025
 

@@ -36,8 +36,7 @@ Selesai dengan semua percakapannya, mereka pun berpisah...
 
 <div data-full-width="true"><figure><img src="../../../../.gitbook/assets/lore/main-story/prologue/Prologue_Part 2_Picture4.jpg" alt=""><figcaption></figcaption></figure></div>
 
-| \*\*\* |
-| :----: |
+***
 
 {% hint style="info" %}
 :notebook: **GLOSARIUM**

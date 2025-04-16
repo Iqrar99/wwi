@@ -42,9 +42,9 @@ Daftar rangkuman main story yang tersedia:
 
 <summary>Chapter: I</summary>
 
-* [act-1-first-resonance.md](chapter-i/act-1-first-resonance.md "mention")
-* Act II: Echoing Marche
-* Act III: Ominous Star
+* [act-1.md](chapter-1/act-1.md "mention")
+* [act-2.md](chapter-1/act-2.md "mention")
+* [act-3.md](chapter-1/act-3.md "mention")
 * Act IV: Clashing Blades
 * Act V: Rewinding Raindrops
 * Act VI: Grand Warstorm
@@ -62,5 +62,7 @@ Daftar rangkuman main story yang tersedia:
 * Act I: The Sacred Breeze So Often Breathes
 * Act II: Veils Off in Sun or Shadow
 * Act III: What Yesterday Wept, Today Doth Sing
+
+- [act-4.md](chapter-2/act-4.md "mention")
 
 </details>

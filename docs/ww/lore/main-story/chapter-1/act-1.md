@@ -1,5 +1,10 @@
 ---
+cover: https://i.postimg.cc/yYyYdcx6/Patch-1-0.jpg
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: hero
   title:
     visible: true
   description:
@@ -88,6 +93,8 @@ Rover kemudian memutuskan untuk lanjut membicarakan tokennya. intinya 1 token bi
 <figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act1_Picture7.png" alt=""><figcaption></figcaption></figure>
 
 Mereka pun akhirnya pergi dari **Huaxu Academy** dan bertemu dengan Chixia lagi yang sayangnya belum menemukan petunjuk apapun. Karena hari sudah larut maka mereka memutuskan untuk bertemu lagi di restoran milik Panhua untuk sarapan besok kemudian. Yangyang bertanya apakah Rover punya tempat untuk istirahat dan menawarkan ruang tamu kosong dirumahnya. Namu ide ini ditepis Chixia dengan mengingatkan Yangyang bahwa Rover sudah diberi akomodasi oleh Jinhsi. Kemudian mereka berpisah dan Rover beristirahat untuk hari ini.
+
+***
 
 {% hint style="info" %}
 :notebook: **GLOSARIUM**

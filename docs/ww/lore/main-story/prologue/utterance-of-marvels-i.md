@@ -88,8 +88,6 @@ Rover mendengar suara bisikan aneh dalam kepalanya, mengikuti nalurinya, Rover m
 
 <figure><img src="../../../../.gitbook/assets/lore/main-story/prologue/Prologue_Part 1_Picture14.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 ***
 
 Mengkhawatirkan kondisinya, Yangyang menganjurkan agar mereka bergegas kembali ke kota Jinzhou—
@@ -122,8 +120,7 @@ Tentunya orang yang dimaksud oleh sang Magistrate adalah Rover sendiri, Rover be
 
 Mengetahui beberapa informasi tambahan, akhirnya Rover memutuskan untuk mengikuti Yangyang dan kawan-kawan menuju kota **Jinzhou** dikarenakan mereka mungkin memiliki informasi penting terkait masa lalunya....
 
-| \*\*\* |
-| :----: |
+***
 
 {% hint style="info" %}
 :notebook: **GLOSARIUM**
@@ -177,10 +174,6 @@ Mengetahui beberapa informasi tambahan, akhirnya Rover memutuskan untuk mengikut
 * Unknown Goddess
 
 > Tokoh penting Wuthering Waves, yang pertama kali muncul selama cutscene pembuka game. Dia adalah entitas misterius yang menciptakan dan menyegel Echo asing unik bernama Abby di dalam tubuh Rover dan membangkitkan Tacet Mark yang pernah tidak aktif untuk membuka kekuatan sejatinya.
-
-
 {% endhint %}
-
-
 
 [^1]: Oracle Engine
