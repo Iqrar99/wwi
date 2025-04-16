@@ -49,9 +49,10 @@ Halaman yang tersedia saat ini:
 * [brant.md](brant.md "mention")
 * [calcharo.md](calcharo.md "mention")
 * [camellya.md](camellya.md "mention")
-* [cantarella.md](cantarella.md "mention") (TBA)
+* [cantarella.md](cantarella.md "mention")
 * [carlotta.md](carlotta.md "mention")
 * [changli.md](changli.md "mention")
+* Ciaccona (TBA)
 * [encore.md](encore.md "mention")
 * [jianxin.md](jianxin.md "mention")
 * [jinhsi.md](jinhsi.md "mention")
@@ -63,6 +64,7 @@ Halaman yang tersedia saat ini:
 * [the-shorekeeper.md](the-shorekeeper.md "mention")
 * [verina.md](verina.md "mention")
 * [yinlin.md](yinlin.md "mention")
+* Zani (TBA)
 * [zezhi.md](zezhi.md "mention")
 
 </details>
