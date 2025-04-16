@@ -19,7 +19,7 @@ layout:
 
 # Act 4: The Maiden, The Defier, The Death Crier
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act4_Picture1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act4_Picture1.png" alt=""><figcaption></figcaption></figure>
 
 Cerita diawali dengan Abby yang makin lama makin lambat merespons panggilan Rover. Ia malah ngide bikin trampolin raksasa agar bisa langsung meluncur ke atas, karena sedang kesulitan terbang. Namun sebelum sempat menjalankan rencananya, Rover dan Abby bertemu dengan **Ciaccona**, seorang _bard_ yang dikirim oleh **Carllota** setelah Rover memberitahunya tentang **Blessed Maiden**—yang hingga kini masih belum ditemukan. Ciaccona lalu menunjukkan _forte_-nya, sebuah kemampuan untuk merekonstruksi **Frequency** lewat emosi dan memori. Ia menjelaskan bahwa cara kerjanya seperti gambar 360 derajat, namun kalian bisa bebas bergerak di dalamnya.
 
@@ -29,7 +29,7 @@ Cartethyia mulai berbagi cerita. Ia bingung tentang siapa dirinya sebenarnya. Ap
 
 Abby yang tersadar kemudian menjelaskan bahwa **frequency** mereka sedang “terpisah”. Setelah melihat **frequency** Abby yang mulai melemah, Cartethyia pun mulai memahami tujuan Rover.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act4_Picture2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act4_Picture2.png" alt=""><figcaption></figcaption></figure>
 
 Saat ini, Cartethyia hanyalah sebuah **frequency**. Wujud aslinya berada di dalam **Inverted Tower**, dan pintu masuknya dikunci oleh tiga segel. Di balik segel itu, Cartethyia merasa ada sesuatu—atau seseorang—yang memanggilnya. Saat mendengar percakapan mereka, Abby mencium aroma **Threnodian** dari Cartethyia, yang membuatnya cukup terkejut. Namun Rover menenangkannya karena hal itu belum pasti. Cartethyia memilih untuk percaya. Terjebak lama di **Sonoro** (_Inverted Tower_) membuatnya sadar akan banyaknya kemungkinan, dan ia telah memantapkan hati untuk menerima apa pun jawaban yang akan ia temukan. Ia pun berjanji akan bertemu kembali dengan Rover di Sonoro, dengan catatan Rover harus menemukan “pelindungnya” dan seseorang dengan **frequency** mirip ubur-ubur—yang mungkin tahu sesuatu soal Sonoro.
 
@@ -37,7 +37,7 @@ Setelah itu, Rover kembali sadar dan mendengar Ciaccona yang sedang heboh membic
 
 Dalam perjalanan menuju kediaman keluarga Fisalia, Carllota menelepon dengan nada cemas. Ia berkata, kalau terjadi apa-apa, ia siap mendobrak pintu depan mansion Fisalia demi membantu Rover.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act4_Picture3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act4_Picture3.png" alt=""><figcaption></figcaption></figure>
 
 Sesampainya di dalam, Rover bertemu dengan kepala keluarga ke-36 dari **Fisalia**, **Cantarella**. Awalnya, Cantarella hanya berniat menjadikan Rover sebagai _Mediator_ antara keluarga Fisalia dan Montelli. Namun arah pembicaraan berubah ketika Rover mulai menanyakan sesuatu. Cantarella sudah tahu apa yang ingin ditanyakan: invasi **Threnodian** ke **Rinascita** sebenarnya telah lama berakhir. Karena itulah Threnodian dan **Sentinel** tidak pernah lagi menampakkan diri.
 
@@ -49,7 +49,7 @@ Cantarella meminta bantuan Rover untuk memanggil **Jue**, namun Rover menolak. J
 
 Meski Rover skeptis karena **Jinhsi** tidak dipilih oleh Jue melalui artefak apa pun, Cantarella menjelaskan lebih lanjut: Sentinel (Imperator) memiliki kemampuan untuk _membelah_ dan _memanipulasi ruang_, sehingga keberadaan Tyrvine sebagai manifestasi kekuatan mereka adalah hal yang memungkinkan.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act4_Picture4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act4_Picture4.png" alt=""><figcaption></figcaption></figure>
 
 Setiap tahun, keluarga Fisalia melaksanakan ritual untuk beresonansi dengan Tyrvine—yang berarti juga dengan Sentinel. Ritual ini dilakukan dalam keadaan **Overclock**. Walaupun tidak pernah ada yang berhasil sepenuhnya, sebagian dari mereka sempat melihat petunjuk—kebenaran yang tersembunyi dalam pedang itu. Cantarella adalah salah satunya. Ia melihat wujud Sentinel yang terkorupsi, **Inverted Tower**, dan menyadari bahwa Tyrvine adalah kunci untuk masuk ke sana. Ia juga mendapat pesan bahwa **“Blessed Maiden telah tewas.”**
 
@@ -61,7 +61,7 @@ Sepanjang perjalanan, mereka membahas rumor tentang Cantarella yang meracuni pen
 
 **Avinoleum** adalah titik nol dari gelombang **Dark Tide** kedua—yang muncul saat penobatan **Blessed Maiden**. Menurut Cantarella, entah Sentinel atau Cartethyia yang telah mencegah Dark Tide menyebar ke **Ragunna**, dengan membuat Avinoleum terbang ke angkasa. Ia juga berpesan agar Rover tidak mudah percaya pada siapa pun hingga semua menjadi jelas. Karena Threnodian akan tahu—dan menyerang—ketika hati mulai melemah.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act4_Picture5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act4_Picture5.png" alt=""><figcaption></figcaption></figure>
 
 Begitu berhasil masuk, mereka langsung disambut oleh **Cartethyia**. Cantarella segera menyadari bahwa Cartethyia tidak menua sama sekali, padahal semestinya mereka berdua seumuran. Namun Cartethyia sendiri mengaku tidak tahu apa yang sebenarnya terjadi pada dirinya. Saat itu juga, ia mendapatkan tambahan ingatan—seolah dipicu oleh kehadiran Cantarella dan Rover.
 
@@ -79,7 +79,7 @@ Setelah itu, mereka sampai di tumpuan pertama di **Tower of Salvation**. Di sana
 
 “Jangan khawatir. Aku bisa jaga diri,” jawab Rover dengan tegas. “Kalau akhirnya memang begitu, akan kuingat wanita yang masih cukup peduli padaku.”
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act4_Picture6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act4_Picture6.png" alt=""><figcaption></figcaption></figure>
 
 Setelah sampai, Cartethyia kembali menjemput Cantarella. Ketika mereka bertiga sudah berkumpul, Tyrvine diletakkan pada tumpuan pertama. Seketika itu muncul sebuah _flashback_, namun masing-masing dari mereka melihat hal yang berbeda:
 
@@ -91,7 +91,7 @@ Tak lama setelah itu, **Abby** terbangun secara tiba-tiba dengan komplain: sebua
 
 Namun semua ini juga mengindikasikan bahwa **rencana awal Imperator telah gagal**. Dan kini, hanya Cartethyia yang bisa menjadi pemandu mereka menuju kebenaran.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act4_Picture7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act4_Picture7.png" alt=""><figcaption></figcaption></figure>
 
 Setelah selesai di tumpuan pertama, mereka memutuskan untuk beristirahat demi memastikan bahwa _Frequency_ yang tersimpan tetap aman. Saat malam mulai tenang, Rover berbincang dengan **Cantarella**.
 
@@ -133,7 +133,7 @@ Selama eksplorasi reruntuhan menuju Hognis, Rover sempat bercanda tentang _naska
 
 Ucapannya seperti menenangkan badai kecil di dalam hati Cartethyia.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act4_Picture8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act4_Picture8.png" alt=""><figcaption></figcaption></figure>
 
 Begitu Hognis ditancapkan di tumpuannya, sebuah _flashback_ mengguncang kesadaran Cartethyia.
 
@@ -145,7 +145,7 @@ Ia berdiri sendirian menghadapi **Levi-Rator**, Leviathan dalam wujud Imperator.
 
 > _“Jika sang dewa menindas yang tak bersalah, maka kuhunuskan pedangku pada dewa itu! Dengan harapan dan bantuan dari jiwa-jiwa yang telah jatuh, aku berdiri di hadapanmu sekarang. Mereka gugur agar aku bisa bangkit!”_
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act4_Picture9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act4_Picture9.png" alt=""><figcaption></figcaption></figure>
 
 Tangis pun jatuh dari pipi Cartethyia. Namun kali ini bukan karena kehilangan—melainkan karena keyakinan. Ia akhirnya memahami, ia berdiri bukan demi para dewa, melainkan **untuk manusia**. Ia tahu sekarang siapa yang harus ia lindungi… dan siapa yang harus ia tebas.
 
@@ -159,7 +159,7 @@ Tak ada jawaban pasti. Tapi satu hal yang mulai jelas: semua itu berkaitan denga
 
 Mereka pun bersiap melanjutkan perjalanan untuk mencari **pedang ketiga**, **Haultir**, _Sword of Virtue_.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act4_Picture10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act4_Picture10.png" alt=""><figcaption></figcaption></figure>
 
 Sebelum tidur, Rover dan Cartethyia berbincang tentang masa lalu Cartethyia. Ia menjelaskan bahwa **Gehinnom** adalah **TD** asli dari **Rinascita** yang berhasil dijinakkan menjadi **Echo** oleh **The Order**. Dijelaskan bahwa **Gehinnom** memiliki kecerdasan dan hierarki sosial tersendiri di antara para naga—dan **Gehinnom** adalah raja mereka. Para naga percaya bahwa **Gehinnom** mampu menghadapi gempuran **Dark Tide** dan membawa mereka pada kebenaran, namun ternyata ia gagal.
 
@@ -171,7 +171,7 @@ Akhirnya, Rover bersiap untuk tidur. Ia memanggil Abby untuk membahas dua energi
 
 ***
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act4_Picture11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act4_Picture11.png" alt=""><figcaption></figcaption></figure>
 
 Suara nyanyian lembut membangunkan Rover. Ia melihat Cartethyia sendirian, menyanyikan lagu perpisahan _Rinascita_. Cartethyia yang dulunya belum yakin apakah dirinya pantas bahkan hanya untuk mengucapkan selamat tinggal, kini memutuskan untuk memberi penghormatan dan berterima kasih kepada mereka yang telah gugur.
 
@@ -179,7 +179,7 @@ Suara nyanyian lembut membangunkan Rover. Ia melihat Cartethyia sendirian, menya
 
 Rover yang mendengar itu menjelaskan bahwa mereka yang telah mati dan yang masih hidup sebenarnya masih dapat berinteraksi. Ia menceritakan tentang temannya yang memiliki sahabat yang sudah meninggal dalam keadaan bermusuhan, namun akhirnya bisa berdamai setelah bertemu kembali di _Sonoro Sphere_ (Xiangli Yao). Karena pada dasarnya, _Frequency_ yang tersisa dan terkonsentrasi masih bisa mengandung kesadaran manusia. Dengan kata lain, kematian bukanlah akhir mutlak, karena ada kemungkinan mereka masih bisa mendengar dan berinteraksi dengan yang hidup.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act4_Picture12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act4_Picture12.png" alt=""><figcaption></figcaption></figure>
 
 Cartethyia yang mendengar itu memantapkan diri. Ia memutuskan untuk menahan kata selamat tinggal, dan membawa mereka menuju kemenangan. Melihat perubahan itu, Rover bertanya karena ia sudah tidak membawa rasa bersalah, ia ingin dipanggil siapa.\
 “Cartethyia,” jawabnya.
@@ -192,7 +192,7 @@ Rover pun menyerap Cadanto menjadi _Echo_, atas permintaan Cartethyia yang mengi
 
 Setelah itu, mereka akhirnya menaruh _Haultir_ pada tempatnya, dan sebuah _flashback_ kembali muncul.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act4_Picture13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act4_Picture13.png" alt=""><figcaption></figcaption></figure>
 
 > _“Fleurdelys, maukah engkau kembali padaku?” lirihnya._
 
@@ -208,7 +208,7 @@ Suaranya bergema dalam ruangan tersebut.
 
 > _“Diriku mengkonsumsi kepercayaan, pemujaan, dan kedambaan orang banyak... Resonasimu denganku adalah yang membawa Dark Tide kedua!” bentaknya._
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act4_Picture14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act4_Picture14.png" alt=""><figcaption></figcaption></figure>
 
 _Frequency_ yang sebelumnya bertabrakan pun akhirnya mereda, seiring Cartethyia mulai mengingat kembali sebagian besar memorinya. Inilah yang ia ingat:
 
@@ -222,7 +222,7 @@ Perjalanan bersama Cartethyia selama ini adalah bagian dari rencananya: menghanc
 
 Cartethyia pun sekali lagi memohon, agar Rover bersedia menemani perjuangannya—untuk terakhir kalinya.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act4_Picture15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act4_Picture15.png" alt=""><figcaption></figcaption></figure>
 
 Mereka pun bergerak menuju tempat di mana segalanya dimulai—tempat Blessed Maiden dimahkotai, sekaligus lokasi terjadinya _Dark Tide_ kedua. Cartethyia memohon bantuan kepada Rover, yang kini memiliki kemampuan “Pemisahan” dan “Penyatuan” melalui tiga pedang itu, untuk membawa kesadaran Fleurdelys yang tersiksa ke hadapannya agar mereka bisa bertemu.
 
@@ -239,7 +239,7 @@ Namun Rover, meski mendengar permintaan Cartethyia, memilih untuk melakukannya d
 
 Cartethyia menjelaskan bahwa baik dirinya maupun Fleurdelys seharusnya tidak hidup lagi, namun Rover tetap melangkah.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act4_Picture16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act4_Picture16.png" alt=""><figcaption></figcaption></figure>
 
 Tak lama setelah Rover pergi, Cantarella muncul bersama Tyrvine, yang telah diisi oleh energi para anggota Fisalia yang gagal dalam ujian keluarga. Energi itu memuat memori yang hilang serta bercak kekuatan Sentinel, yang kini diserap oleh Tyrvine. Menurut Cantarella, dirinya sudah lebih dari cukup untuk memegang “Pedang Blessed Maiden.”
 
@@ -249,7 +249,7 @@ Cantarella menggeleng, karena pengorbanan Cartethyia telah digunakan sejak lama�
 
 > “Blessed Maiden yang asli telah berpulang. Namun, tiada alasan yang palsu tak bisa menjadi yang asli, kan? Nasib orang tak seharusnya ditentukan oleh pedang. Kita berdua dikutuk untuk menjadi pion Threnodian, namun bukan berarti kita tak bisa membuat jalan kita sendiri…” serunya.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act4_Picture17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act4_Picture17.png" alt=""><figcaption></figcaption></figure>
 
 Akhirnya Cartethyia bangkit dan berlari mengejar Rover, sementara Cantarella, meski lemah, tetap bertarung untuk menahan TD agar tidak mengganggu mereka.
 
@@ -277,13 +277,13 @@ Sembari berjalan tertatih untuk menyelamatkan Rover, Cartethyia mengingat ucapan
 
 > “Kalau aku bisa menyelamatkan Rover… maka aku berguna.”
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act4_Picture18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act4_Picture18.png" alt=""><figcaption></figcaption></figure>
 
 Sayangnya, Cartethyia gagal menghalau serangan Fleurdelys. Ia kalah. Tapi sebelum tubuhnya benar-benar tumbang, ia memberikan sisa kekuatannya kepada Rover.
 
 Rover yang kini telah diperkuat langsung membalikkan keadaan. Dalam serangan terakhirnya, ia menusuk Fleurdelys dan membawa tubuhnya ke udara.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act4_Picture19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act4_Picture19.png" alt=""><figcaption></figcaption></figure>
 
 Fleurdelys mendekap Rover erat, lalu berbisik,
 
@@ -311,7 +311,7 @@ Hasil yang ia temukan adalah sebagai berikut:
 2. **Threnodian hanya bisa dikunci atau disegel melalui Resonator.**
 3. **Bagi Sentinel, Resonator adalah jangkar. Tapi bagi Threnodian, Resonator adalah belenggu.**
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act4_Picture20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act4_Picture20.png" alt=""><figcaption></figcaption></figure>
 
 Ketika mereka akhirnya menyatu, Leviathan membobol pikirannya dan menyerap sebagian pengetahuan soal _Resonator_. Namun, Imperator berhasil menyembunyikan satu hal kecil—makhluk seperti dirinya tidak bisa memiliki lebih dari satu Resonator.
 
@@ -323,7 +323,7 @@ Hasilnya?
 
 **Frequency Imperator, Leviathan, dan Fleurdelys akan dihapus secara permanen—tanpa sisa. Tak akan ada kebangkitan kembali.**
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act4_Picture21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act4_Picture21.png" alt=""><figcaption></figcaption></figure>
 
 Itulah rencana awalnya. Namun, Cantarella memilih jalan lain. Ia memberikan kekuatan dari _Second Awakening_-nya pada Imperator, agar sang Imperator dapat mengendalikan tubuhnya sejenak dan membuka celah bagi Fleurdelys untuk membunuh sosok dirinya yang telah terkorupsi.
 
@@ -343,7 +343,7 @@ Itulah kata terakhir Imperator sebelum ia menghilang dalam kabut.
 
 ***
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act4_Picture22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act4_Picture22.png" alt=""><figcaption></figcaption></figure>
 
 Cartethyia pun bertemu Imperator. Di sana, Imperator bertanya:
 
@@ -363,7 +363,7 @@ Imperator menunduk dan tersenyum. Dengan lembut, ia memberikan berkat terakhirny
 
 ***
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act4_Picture23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act4_Picture23.png" alt=""><figcaption></figcaption></figure>
 
 Ketika Cartethyia terbangun, Rover langsung menyadari sesuatu telah berubah—sifatnya, caranya bicara, sorot matanya. Ia tampak ceria dan riang, seperti legenda yang selama ini hanya jadi dongeng.
 

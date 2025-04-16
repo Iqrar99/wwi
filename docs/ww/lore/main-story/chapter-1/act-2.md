@@ -21,11 +21,11 @@ layout:
 
 Menyambut pagi yang cerah di kota Jinzhou, Rover, Yangyang, dan Chixia menikmati sarapan di restoran Panhua. Chixia memesan mi pedas untuk mereka bertiga. Sambil mengobrol santai dan menikmati makanan, mereka membahas kejadian yang terjadi kemarin.
 
-<figure><img src="../../../../.gitbook/assets/Chapter1_Act2_Picture1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act2_Picture1.jpg" alt=""><figcaption></figcaption></figure>
 
 Mereka telah berhasil memecahkan teka-teki tentang **Sundial** dan **Sugar Pearl**, sehingga kini hanya tersisa misteri _daun aneh_ dan _manggis_ yang perlu diungkap. Yangyang menyampaikan bahwa buah manggis bukan berasal dari Jinzhou, jadi mereka dapat melacaknya melalui pelabuhan terdekat tempat buah tersebut didistribusikan. Sementara untuk daunnya, Baizhi sempat mengatakan bahwa daun tersebut memiliki frekuensi **TD**. Dari situ, Yangyang menyimpulkan bahwa daun tersebut kemungkinan berasal dari pohon yang tumbuh di dekat sebuah **Tacet Field**.
 
-<figure><img src="../../../../.gitbook/assets/Chapter1_Act2_Picture2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act2_Picture2.jpg" alt=""><figcaption></figcaption></figure>
 
 Yangyang menyarankan untuk pergi keluar kota, namun Rover tidak ingin terburu-buru karena mereka masih memiliki waktu. Ia memutuskan untuk menceritakan “mimpi” yang dialaminya sebelum bertemu dengan Yangyang—dimulai dari sosok wanita berambut hitam, lautan bintang, **Etheric Sea**, dan kemampuan resonansi yang mengalir dari **Tacet Mark** di tangan kanannya.
 
@@ -35,11 +35,11 @@ Rover kemudian menyinggung kembali soal akses yang diberikan oleh **Magistrate**
 
 Sesampainya di sana, Yangyang menyadari bahwa pertahanan gerbang kota semakin diperketat dibanding saat terakhir kali ia datang. Tak jauh dari situ, terlihat seorang wanita sedang berselisih dengan seorang penjaga. Dari percakapan mereka, diketahui bahwa wanita tersebut telah berjanji kepada seseorang untuk mencari cucunya yang hilang di garis depan. Namun, penjaga tetap tidak mengizinkannya lewat karena situasi berbahaya yang sedang terjadi di **Norfall Barrens**. Ia meminta wanita itu untuk menunggu laporan dari orang yang dimaksud, apalagi wanita tersebut tidak memiliki akses keluar kota saat ini.
 
-<figure><img src="../../../../.gitbook/assets/Chapter1_Act2_Picture3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act2_Picture3.jpg" alt=""><figcaption></figcaption></figure>
 
 Tak lama kemudian, seorang petugas mengonfirmasi akses milik Rover. Wanita tadi pun mendekat dan memperkenalkan dirinya sebagai **Jianxin**. Ia meminta ikut bersama Rover karena tidak memiliki akses sendiri, dan menyebutkan beberapa keahlian yang mungkin bisa membantu perjalanan mereka. Rover menyetujui permintaannya, dan setelah mendapat izin dari petugas, mereka berangkat bersama. Jianxin pun mengucapkan terima kasih kepada mereka.
 
-<figure><img src="../../../../.gitbook/assets/Chapter1_Act2_Picture4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act2_Picture4.jpg" alt=""><figcaption></figcaption></figure>
 
 Dalam perjalanan, Jianxin menjelaskan bahwa tujuannya keluar kota adalah untuk mencari cucu seorang veteran yang hilang. Ia berkata bahwa ia tidak bisa membiarkan seseorang seperti cucu itu begitu saja terlupakan, meskipun ia belum mengenalnya, bahkan belum pernah bertemu dengannya.
 
@@ -53,21 +53,21 @@ Setelah keluar dari kota, mereka bertemu dengan seorang anggota **Midnight Range
 
 Mereka sampai di salah satu _suar pendeteksi_ yang rusak. Terlihat beberapa orang sedang membongkar dan merusak alat tersebut. Rover dan yang lainnya mengalahkan mereka. Ternyata, orang-orang tersebut adalah anggota _<mark style="color:blue;">**The Exiles**</mark>_ yang berusaha menjual peralatan militer di tengah kondisi perang, saat para prajurit sedang bertarung di garis depan.
 
-<figure><img src="../../../../.gitbook/assets/Chapter1_Act2_Picture5.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act2_Picture5.jpg" alt=""><figcaption></figcaption></figure>
 
 Setelah pertempuran, terjadi sedikit perdebatan mengenai tindakan **Exiles** yang dianggap dapat membahayakan banyak nyawa. Jianxin merasa iba dan memberikan mereka sedikit uang serta makanan, agar mereka bisa pergi ke kota Jinzhou. Meskipun awalnya tidak disambut dengan baik dan sempat terjadi pertengkaran kembali, pada akhirnya kelompok **Exiles** tersebut berhasil diusir.
 
-<figure><img src="../../../../.gitbook/assets/Chapter1_Act2_Picture6.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act2_Picture6.jpg" alt=""><figcaption></figcaption></figure>
 
 Setelah memperbaiki alat pendeteksi itu, mereka melanjutkan perjalanan ke sebuah markas garis belakang. Di sana, mereka berbicara dengan seorang staf yang terlihat sangat sibuk menghadapi kekacauan dan beban tugas yang tidak ada habisnya—mulai dari urusan suplai, keperluan medis, hingga penanganan banyaknya prajurit yang terluka.
 
 Yangyang mencoba memperkenalkan diri di sela kesibukan staf perempuan tersebut, namun wanita itu segera meminta bantuan mereka untuk menangani beberapa pasien, karena ia harus segera menangani seorang _Resonator_ yang mengalami **Overclock**.
 
-<figure><img src="../../../../.gitbook/assets/Chapter1_Act2_Picture7.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act2_Picture7.jpg" alt=""><figcaption></figcaption></figure>
 
 Mereka memutuskan untuk membantu, dan masing-masing membawa satu prajurit terluka ke personel medis yang tersedia. Setelah menyelesaikan tugas tersebut, Jianxin sempat mengobrol sejenak dengan petugas medis. Petugas itu kemudian menceritakan bagaimana kondisi yang terjadi di lapangan...
 
-<figure><img src="../../../../.gitbook/assets/Chapter1_Act2_Picture8.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act2_Picture8.jpg" alt=""><figcaption></figcaption></figure>
 
 > “Jangan khawatir. Mereka sudah menerima perawatan yang tepat sekarang. Mereka akan pulih seiring waktu. Berkat Jenderal Jiyan, jumlah korban telah menurun secara signifikan.”
 >
@@ -79,7 +79,7 @@ Mereka memutuskan untuk membantu, dan masing-masing membawa satu prajurit terluk
 
 Petugas medis tersebut mengucapkan terima kasih kepada Jianxin atas bantuannya. Setelah itu, mereka pergi menemui seorang intendan yang bertugas di tempat tersebut. Ia tampak sama sibuknya dengan wanita yang mereka temui sebelumnya, sibuk mengatur berbagai kebutuhan untuk mendukung garis depan.
 
-<figure><img src="../../../../.gitbook/assets/Chapter1_Act2_Picture9.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act2_Picture9.jpg" alt=""><figcaption></figcaption></figure>
 
 Mereka menanyakan tentang orang yang sedang dicari oleh Jianxin. Petugas tersebut ternyata mengenal orang yang dimaksud. Ia sedikit bercerita bahwa anak itu selalu mengikuti mereka, meskipun telah dipulangkan berkali-kali. Namun, dengan kondisi pertempuran yang semakin mengerikan, ia berniat memulangkannya kembali ke kota. Ia ingat bahwa anak tersebut berada di lantai atas.
 
@@ -89,31 +89,31 @@ Setelah itu, Rover kembali bertemu dengan Jianxin yang telah berhasil menemui pr
 
 Jianxin berpamitan kepada Rover dan Yangyang, lalu kembali ke kota Jinzhou bersama pria tersebut.
 
-<figure><img src="../../../../.gitbook/assets/Chapter1_Act2_Picture10.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act2_Picture10.jpg" alt=""><figcaption></figcaption></figure>
 
 Setelah kepergian Jianxin, Yangyang bertanya-tanya tentang maksud sang Magistrate mengarahkan mereka ke tempat ini, dan apa yang sebenarnya harus mereka lakukan. Rover lalu menceritakan informasi yang baru saja ia dapatkan dari petugas sebelumnya, mengenai rute transportasi manggis yang berasal dari wilayah selatan. Ia juga menyebutkan kemungkinan lain: bahwa mereka mungkin diarahkan untuk bertemu dengan Jenderal Jiyan dan terlibat langsung dalam peperangan melawan _Tacet Discord_ di garis depan.
 
-<figure><img src="../../../../.gitbook/assets/Chapter1_Act2_Picture11.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act2_Picture11.jpg" alt=""><figcaption></figcaption></figure>
 
 Fokus cerita tiba-tiba berpindah ke sebuah medan perang, kali ini melalui sudut pandang salah satu _Tacet Discord_ yang tengah mengejar seorang prajurit. Saat prajurit itu hampir terpojok, Jenderal Jiyan muncul dan langsung menghadangnya. Dengan kekuatan yang luar biasa, Jiyan menghabisi seluruh _Tacet Discord_ di sana, lalu menyelamatkan prajurit tersebut.
 
-<figure><img src="../../../../.gitbook/assets/Chapter1_Act2_Picture12.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act2_Picture12.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/Chapter1_Act2_Picture13.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act2_Picture13.jpg" alt=""><figcaption></figcaption></figure>
 
 Sementara itu, Yangyang menyadari Rover mendadak terdiam dan melamun, menatap ke arah kosong. Ia tampak kebingungan dengan reaksi Rover yang tiba-tiba.
 
-<figure><img src="../../../../.gitbook/assets/Chapter1_Act2_Picture14.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act2_Picture14.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/Chapter1_Act2_Picture15.jpg" alt=""><figcaption><p>Hal yang dilihat Rover di dalam pikirannya</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act2_Picture15.jpg" alt=""><figcaption><p>Hal yang dilihat Rover di dalam pikirannya</p></figcaption></figure>
 
 Rover kemudian menjelaskan bahwa ia baru saja "melihat" kejadian yang terjadi di Norfall Barrens. Ia menyaksikan seorang wanita yang tampaknya mampu mengendalikan _Tacet Discord_. Yangyang menduga bahwa penglihatan Rover bukan sekadar bayangan, melainkan sesuatu yang benar-benar sedang terjadi di medan perang saat ini.
 
-<figure><img src="../../../../.gitbook/assets/Chapter1_Act2_Picture16.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act2_Picture16.jpg" alt=""><figcaption></figcaption></figure>
 
 Yangyang melanjutkan bahwa sehelai daun yang mereka bawa—menurut Baizhi—menunjukkan jejak residu _Tacet Discord_ yang terdeteksi di sebuah desa bernama **Qichi Village**.
 
-<figure><img src="../../../../.gitbook/assets/Chapter1_Act2_Picture17.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act2_Picture17.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
