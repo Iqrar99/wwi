@@ -21,6 +21,11 @@ layout:
 
 # Changelogs
 
+## 18/04/2025
+
+* Fix and update some guides
+* Fix some typos
+
 ## 16/04/2025
 
 * Add more main story summaries

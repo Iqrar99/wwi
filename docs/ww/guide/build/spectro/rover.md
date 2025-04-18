@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Rover
+# Spectro Rover
 
 {% hint style="info" %}
 **SPECTRO ROVER COMBAT ROLES**
@@ -31,7 +31,7 @@ layout:
 {% tabs %}
 {% tab title="Blazing Brilliance" %}
 {% hint style="success" %}
-Best In Slot
+Direkomendasikan
 {% endhint %}
 
 :mag: **Review Senjata**
@@ -55,18 +55,6 @@ Direkomendasikan
 > Selain itu, senjata ini memiliki **Energy Regen** yang cukup baik, yang pada sebagian besar karakter memungkinkan satu **sub-stat Energy Regen** dialokasikan ke tempat lain untuk meningkatkan damage lebih lanjut. Pilihan **Sword** terbaik secara keseluruhan, dengan hanya :star:**4** **Swords** yang sudah S5 yang dapat bersaing dengannya.
 
 <figure><img src="https://wuthering.wiki/img/weapon_21020015.png" alt="" width="188"><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Red Spring" %}
-{% hint style="info" %}
-Alternatif
-{% endhint %}
-
-:mag: **Review Senjata**
-
-TBA
-
-<figure><img src="https://wuthering.wiki/img/weapon_21020026.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Commando Of Conviction" %}
@@ -158,7 +146,7 @@ Forte > Libe > Reso skill > BA > Intro
 
 ## :busts\_in\_silhouette: Rekomendasi Tim
 
-TBA
+<table><thead><tr><th>Main DPS</th><th width="211.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/mrTfVWTR/Phoebe-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"> Phoebe</td><td><img src="https://i.postimg.cc/6qppPGwW/Rover-Male-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"> Rover (Spectro)</td><td>Dual DPS dengan Spectro Rover</td></tr><tr><td><img src="https://i.postimg.cc/mrTfVWTR/Phoebe-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"> Phoebe</td><td><img src="https://i.postimg.cc/6qppPGwW/Rover-Male-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Rover (Spectro)</td><td>Phoebe hypercarry dengan buff moonlit dari Spectro Rover</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 

@@ -29,23 +29,9 @@ layout:
 ## :crossed\_swords: Pilihan Senjata
 
 {% tabs %}
-{% tab title="Blazing Brilliance" %}
-{% hint style="success" %}
-Best In Slot
-{% endhint %}
-
-:mag: **Review Senjata**
-
-> Senjata **signature** Changli yang tidak hanya luar biasa untuknya, tetapi juga dapat digunakan oleh semua pengguna **Sword** yang fokus pada **damage** dan sebagian besar kerusakannya berasal dari **Resonance Skill**.
->
-> Senjata ini menawarkan **main stat** yang besar berupa **Crit DMG%**, memberikan skalabilitas yang sangat baik, ditambah **12% ATK% permanen**, dan hingga **56% peningkatan Resonance Skill DMG%**. Efek ini akan berada di dekat kekuatan penuhnya selama sebagian besar rotasi, terutama ketika dimulai dengan satu atau dua **Resonance Skills**.
-
-<figure><img src="https://wuthering.wiki/img/weapon_21020016.png" alt="" width="188"><figcaption></figcaption></figure>
-{% endtab %}
-
 {% tab title="Emerald Of Genesis" %}
 {% hint style="success" %}
-Direkomendasikan
+Best In Slot
 {% endhint %}
 
 :mag: **Review Senjata**
@@ -55,6 +41,20 @@ Direkomendasikan
 > Selain itu, senjata ini memiliki **Energy Regen** yang cukup baik, yang pada sebagian besar karakter memungkinkan satu **sub-stat Energy Regen** dialokasikan ke tempat lain untuk meningkatkan damage lebih lanjut. Pilihan **Sword** terbaik secara keseluruhan, dengan hanya :star:**4** **Swords** yang sudah S5 yang dapat bersaing dengannya.
 
 <figure><img src="https://wuthering.wiki/img/weapon_21020015.png" alt="" width="188"><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Blazing Brilliance" %}
+{% hint style="success" %}
+Direkomendasikan
+{% endhint %}
+
+:mag: **Review Senjata**
+
+> Senjata **signature** Changli yang tidak hanya luar biasa untuknya, tetapi juga dapat digunakan oleh semua pengguna **Sword** yang fokus pada **damage** dan sebagian besar kerusakannya berasal dari **Resonance Skill**.
+>
+> Senjata ini menawarkan **main stat** yang besar berupa **Crit DMG%**, memberikan skalabilitas yang sangat baik, ditambah **12% ATK% permanen**, dan hingga **56% peningkatan Resonance Skill DMG%**. Efek ini akan berada di dekat kekuatan penuhnya selama sebagian besar rotasi, terutama ketika dimulai dengan satu atau dua **Resonance Skills**.
+
+<figure><img src="https://wuthering.wiki/img/weapon_21020016.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Red Spring" %}
@@ -104,7 +104,7 @@ Impermenance Heron - CR% / CDM%
 
 <img src="https://wuthering.wiki/img/monster_330000030.png" alt="" data-size="original">
 
-**Echo Sett**
+**Echo Set**
 
 * 3 - <mark style="color:blue;">**Glacio DMG**</mark> bonus%
 * 3 - <mark style="color:blue;">**Glacio DMG**</mark> bonus%

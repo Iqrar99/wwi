@@ -47,7 +47,7 @@ Best In Slot
 Direkomendasikan
 {% endhint %}
 
-:mag: **Info Senjata**
+:mag: **Review Senjata**
 
 > Opsi terbaik untuk Shorekeeper di luar senjata signaturenya – bahkan jika hanya pada R1, senjata ini tetap memberikan cukup Concerto untuk menjalankan rotasi optimal tanpa tindakan tambahan. Selain itu, senjata ini juga memberikan jumlah Energy Recharge yang besar, menjadikannya alternatif yang sangat baik. Rank/dupe lebih tinggi dari senjata ini akan memberikan manfaat tambahan dan memungkinkan rotasi yang lebih cepat untuk Shorekeeper jika breakpoint Concerto tertentu dapat dicapai.
 
@@ -59,7 +59,7 @@ Direkomendasikan
 Alternatif
 {% endhint %}
 
-:mag: **Info Senjata**
+:mag: **Review Senjata**
 
 > Opsi senjata rarity lebih rendah yang sebaiknya dimiliki semua orang pada rank maksimum dibandingkan dengan Rectifier#25, tetapi dengan downside memberikan lebih sedikit Energy Recharge serta tidak memiliki Concerto regeneration seperti senjata signaturenya atau Variation.
 
@@ -88,11 +88,13 @@ Release Hold echo Skill, memberikan <mark style="color:yellow;">Spectro DMG</mar
 
 **Echo Set**
 
-* ER% (Minimum 240%)
-* HP%
-* Flat HP
-* Cr% / CDM%
-* Reso Lib DMG%
+* 3 - Energy Regen%
+
+- 3 - Energy Regen%
+
+* 1 - HP%
+
+- 1 - HP%
 
 **Prioritas Echo Substat**
 
@@ -105,8 +107,6 @@ Release Hold echo Skill, memberikan <mark style="color:yellow;">Spectro DMG</mar
 **Prioritas Forte**
 
 * Inherent 2 > R Skill > Reso Lib > Intro
-
-\\
 
 </details>
 
@@ -123,7 +123,7 @@ Memberikan <mark style="color:blue;">**Glacio DMG**</mark> berdasarkan 104.88% d
 dan dapat Bell-Borne Shield yang bertahan selama 15 detik.\
 Bell-Borne Shield ngasih 50.00% DMG Reduction dan 10.00% DMG Boost, Shield akan menghilang setelah karakter terkena serangan sebanyak 3 kali.
 
-**Echo Sett**
+**Echo Set**
 
 * 3 - Energy Regen%
 * 3 - Energy Regen%
