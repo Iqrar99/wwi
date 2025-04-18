@@ -89,7 +89,7 @@ Impermenance Heron - CR% / CDM%
 
 <img src="https://wuthering.wiki/img/monster_330000030.png" alt="" data-size="original">
 
-**Echo Sett**
+**Echo Set**
 
 * 3 - <mark style="color:green;">**Aero DMG**</mark> bonus%
 * 3 - <mark style="color:green;">**Aero DMG**</mark> bonus%%

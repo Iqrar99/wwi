@@ -105,7 +105,7 @@ atau
 
 ![](https://wuthering.wiki/img/monster_340000070.png) Dreamless CR% / CDM%
 
-**Echo Sett**
+**Echo Set**
 
 * 3 - **Havoc DMG** bonus%
 * 3 - **Havoc DMG** bonus%

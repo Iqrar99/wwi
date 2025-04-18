@@ -100,7 +100,7 @@ Nightmare: Thundering Mephis - CR% / CDM%
 
 <img src="https://wuthering.wiki/img/monster_330000160.png" alt="" data-size="original">
 
-**Echo Sett**
+**Echo Set**
 
 * 3 - <mark style="color:purple;">**Electro DMG**</mark> bonus%
 * 3 - <mark style="color:purple;">**Electro DMG**</mark> bonus%
@@ -129,7 +129,7 @@ Mech Abomination - CR% / CDM%
 
 <img src="https://wuthering.wiki/img/monster_340000060.png" alt="" data-size="original">
 
-**Echo Sett**
+**Echo Set**
 
 * 3 - <mark style="color:purple;">**Electro DMG**</mark> bonus%
 * 3 - <mark style="color:purple;">**Electro DMG**</mark> bonus%

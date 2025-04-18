@@ -121,7 +121,7 @@ Impermenance Heron - CR% / CDM%
 
 <img src="https://wuthering.wiki/img/monster_330000030.png" alt="" data-size="original">
 
-**Echo Sett**
+**Echo Set**
 
 * 3 - **Havoc DMG** bonus%
 * 3 - **Havoc DMG** bonus%

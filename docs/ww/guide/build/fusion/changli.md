@@ -108,7 +108,7 @@ Nightmare: Inferno Rider - CR% / CDM%
 
 <img src="https://wuthering.wiki/img/monster_330000190.png" alt="" data-size="original">
 
-**Echo Sett**
+**Echo Set**
 
 * 3 - <mark style="color:red;">**Fusion DMG**</mark> bonus%
 * 3 - <mark style="color:red;">**Fusion DMG**</mark> bonus%

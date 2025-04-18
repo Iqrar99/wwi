@@ -102,7 +102,7 @@ Hecate - (CR% / CDM%)
 
 <img src="https://wuthering.wiki/img/monster_340000100.png" alt="" data-size="original">
 
-**Echo Sett**
+**Echo Set**
 
 * 3 - <mark style="color:red;">**Fusion DMG**</mark> bonus%
 * 3 - <mark style="color:red;">**Fusion DMG**</mark> bonus%
@@ -131,7 +131,7 @@ Impermenance Heron - CR% / CDM%
 
 <img src="https://wuthering.wiki/img/monster_330000030.png" alt="" data-size="original">
 
-**Echo Sett**
+**Echo Set**
 
 * 3 - <mark style="color:red;">**Fusion DMG**</mark> bonus%
 * 3 - <mark style="color:red;">**Fusion DMG**</mark> bonus%

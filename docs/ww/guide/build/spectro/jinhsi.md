@@ -100,7 +100,7 @@ Jué - CR% / CDM%
 
 <img src="https://wuthering.wiki/img/monster_340000090.png" alt="" data-size="original">
 
-**Echo Sett**
+**Echo Set**
 
 * 3 - <mark style="color:yellow;">**Spectro DMG**</mark> bonus%
 * 3 - <mark style="color:yellow;">**Spectro DMG**</mark> bonus%

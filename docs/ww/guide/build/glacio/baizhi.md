@@ -118,7 +118,7 @@ Memberikan <mark style="color:blue;">**Glacio DMG**</mark> berdasarkan 104.88% d
 dan dapat Bell-Borne Shield yang bertahan selama 15 detik.\
 Bell-Borne Shield ngasih 50.00% DMG Reduction dan 10.00% DMG Boost, Shield akan menghilang setelah karakter terkena serangan sebanyak 3 kali.
 
-**Echo Sett**
+**Echo Set**
 
 * 3 - Energy Regen%
 * 3 - Energy Regen%

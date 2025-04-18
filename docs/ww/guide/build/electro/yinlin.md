@@ -103,7 +103,7 @@ Nightmare: Tempest Mephis - (CR% / CDM%)
 
 <img src="https://wuthering.wiki/img/monster_330000170.png" alt="" data-size="original">
 
-**Echo Sett**
+**Echo Set**
 
 * 3 - <mark style="color:purple;">**Electro DMG**</mark> bonus%
 * 3 - <mark style="color:purple;">**Electro DMG**</mark> bonus%
@@ -132,7 +132,7 @@ Impermenance Heron - CR% / CDM%
 
 <img src="https://wuthering.wiki/img/monster_330000030.png" alt="" data-size="original">
 
-**Echo Sett**
+**Echo Set**
 
 * 3 - <mark style="color:purple;">**Electro DMG**</mark> bonus%
 * 3 - <mark style="color:purple;">**Electro DMG**</mark> bonus%

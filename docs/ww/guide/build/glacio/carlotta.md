@@ -102,7 +102,7 @@ Sentry Construct - CR% / CDM%
 
 ![](https://wuthering.wiki/img/monster_330000120.png)
 
-**Echo Sett**
+**Echo Set**
 
 * 3 - <mark style="color:blue;">**Glacio DMG**</mark> bonus%
 * 3 - <mark style="color:blue;">**Glacio DMG**</mark> bonus%
@@ -131,7 +131,7 @@ Lampylumen Myriad - CR% / CDM%
 
 <img src="https://wuthering.wiki/img/monster_330000040.png" alt="" data-size="original">
 
-**Echo Sett**
+**Echo Set**
 
 * 3 - <mark style="color:blue;">**Glacio DMG**</mark> bonus%
 * 3 - <mark style="color:blue;">**Glacio DMG**</mark> bonus%

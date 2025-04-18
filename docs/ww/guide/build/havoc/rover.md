@@ -115,7 +115,7 @@ Dreamless - CR% / CDM%
 
 <img src="https://wuthering.wiki/img/monster_340000070.png" alt="" data-size="original">
 
-**Echo Sett**
+**Echo Set**
 
 * 3 - **Havoc DMG** bonus%
 * 3 - **Havoc DMG** bonus%
