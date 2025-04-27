@@ -34,6 +34,7 @@
       * [Yangyang](ww/guide/resonator/aero/yangyang.md)
     * [☀️ Spectro](ww/guide/resonator/spectro/README.md)
       * [Jinhsi](ww/guide/resonator/spectro/jinhsi.md)
+      * [Zani](ww/guide/resonator/spectro/jinhsi-1.md)
       * [Phoebe](ww/guide/resonator/spectro/phoebe.md)
       * [Shorekeeper](ww/guide/resonator/spectro/shorekeeper.md)
       * [Spectro Rover](ww/guide/resonator/spectro/spectro-rover.md)
