@@ -78,6 +78,7 @@
       * [Spectro Rover](ww/guide/build/spectro/rover.md)
       * [The Shorekeeper](ww/guide/build/spectro/the-shorekeeper.md)
       * [Verina](ww/guide/build/spectro/verina.md)
+      * [Zani](ww/guide/build/spectro/verina-1.md)
     * [🌑 Havoc](ww/guide/build/havoc/README.md)
       * [Camellya](ww/guide/build/havoc/camellya.md)
       * [Cantarella](ww/guide/build/havoc/cantarella.md)

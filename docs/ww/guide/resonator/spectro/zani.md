@@ -207,7 +207,7 @@ Mendapatkan efek berikut saat berada dalam <mark style="color:yellow;">**Inferno
 
 ## Material Upgrade Karakter
 
-TBA
+<figure><img src="https://i.postimg.cc/X7zkGTv0/zani.jpg" alt=""><figcaption><p>Sumber :  @deviltakoyaki on X</p></figcaption></figure>
 
 
 
