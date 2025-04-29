@@ -21,6 +21,21 @@ layout:
 
 # Changelogs
 
+## 29/07/2025
+
+* added Zani materisl upgrade image (character Kit)
+* added Zani Character Build
+* XLY weapon update (exclude infographic)
+* Yinlin weapon update (exclude L/hymn and infographic)
+* Aalto Weapon update, Rotation and infographic
+* Jianxin Rotation and infographic
+* Jiyan weapon update and Infographic
+* Aero Rover weapon update and Infographic
+* Jinhsi weapon update and Infographic
+* Phoebe overall Update&#x20;
+* spectro Rover overall update
+* Shorekeeper overall update&#x20;
+
 ## 27/04/2025
 
 * Add Zani kit page
