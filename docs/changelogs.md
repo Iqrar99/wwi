@@ -21,6 +21,10 @@ layout:
 
 # Changelogs
 
+## 27/04/2025
+
+* Add Zani kit page
+
 ## 18/04/2025
 
 * Fix and update some guides
