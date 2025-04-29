@@ -30,7 +30,7 @@ layout:
 ## :crossed\_swords: Pilihan Senjata
 
 {% tabs %}
-{% tab title="Red Spring" %}
+{% tab title="Red Spring 117%" %}
 {% hint style="success" %}
 Best In Slot
 {% endhint %}
@@ -42,7 +42,7 @@ Best In Slot
 <figure><img src="https://wuthering.wiki/img/weapon_21020026.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Emerald Of Genesis" %}
+{% tab title="Emerald Of Genesis 100%" %}
 {% hint style="success" %}
 Drekomendasikan
 {% endhint %}
@@ -56,7 +56,7 @@ Drekomendasikan
 <figure><img src="https://wuthering.wiki/img/weapon_21020015.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Somnoire Anchor" %}
+{% tab title="Somnoire Anchor R5 87%" %}
 {% hint style="info" %}
 Alternatif
 {% endhint %}

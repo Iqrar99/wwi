@@ -153,10 +153,33 @@ Support Healer dan Buffer untuk semua team
 ## :recycle: Rotasi Gameplay
 
 {% tabs %}
-{% tab title="Healer" %}
+{% tab title="Opener" %}
 {% code title="Credit : Fractured Shores" overflow="wrap" %}
 ```
-Skill + Echo (Swap) > BA123 (swap) > BA123->Forte HA (swap) > BA123 > Lib > Forte HA > Outro
+BA(x4) > Forte > BA(x4) > Forte > Skill > Ult > Outro
+
+Note: Use Echo Whenever
+```
+{% endcode %}
+{% endtab %}
+
+{% tab title="Double Skill" %}
+{% code title="Credit : Fractured Shores" overflow="wrap" %}
+```
+Skill+Echo(Swap) > Intro > Skill > Ult > Outro
+
+Note: Keep track of Skill CD in this rotation
+```
+{% endcode %}
+{% endtab %}
+
+{% tab title="Loop" %}
+{% code title="Credit : Fractured Shores" overflow="wrap" %}
+```
+Intro
+> BA(x4) > Forte > Skill > Ult > Outro
+
+Note: Use echo whenever
 ```
 {% endcode %}
 {% endtab %}
@@ -166,4 +189,4 @@ Skill + Echo (Swap) > BA123 (swap) > BA123->Forte HA (swap) > BA123 > Lib > Fort
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/TP0Q6ZgR/Shorekeeper.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/NF1C7wpF/shorekeeper-latest.png" alt=""><figcaption></figcaption></figure>

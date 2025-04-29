@@ -30,7 +30,7 @@ layout:
 ## :crossed\_swords: Pilihan Senjata
 
 {% tabs %}
-{% tab title="Blazing Brilliance" %}
+{% tab title="Blazing Brilliance 118%" %}
 {% hint style="success" %}
 Best In Slot
 {% endhint %}
@@ -41,11 +41,10 @@ Best In Slot
 >
 > Senjata ini menawarkan **main stat** yang besar berupa **Crit DMG%**, memberikan skalabilitas yang sangat baik, ditambah **12% ATK% permanen**, dan hingga **56% peningkatan Resonance Skill DMG%**. Efek ini akan berada di dekat kekuatan penuhnya selama sebagian besar rotasi, terutama ketika dimulai dengan satu atau dua **Resonance Skills**.
 
-<figure><img src="https://wuthering.wiki/img/weapon_21020016.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="https://wuthering.wiki/img/weapon_21020016.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tabs %}
-{% tab title="Bloodpact's Pledge" %}
+{% tab title="Bloodpact 108%" %}
 {% hint style="success" %}
 Direkomendasikan
 {% endhint %}
@@ -57,7 +56,7 @@ Direkomendasikan
 <figure><img src="https://wuthering.wiki/img/weapon_21020046.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Emerald Of Genesis" %}
+{% tab title="Emerald Of Genesis 100%" %}
 {% hint style="info" %}
 Alternatif
 {% endhint %}
@@ -76,7 +75,7 @@ Alternatif
 
 :mag: **Review Senjata**
 
->  Senjata **Sword** yang memiliki pasif Saat **Resonance Skill** digunakan, **Concerto Energy** dikembalikan sebanyak **8**. Efek ini dapat dipicu sekali setiap **20 detik**.
+> Senjata **Sword** yang memiliki pasif Saat **Resonance Skill** digunakan, **Concerto Energy** dikembalikan sebanyak **8**. Efek ini dapat dipicu sekali setiap **20 detik**.
 
 <figure><img src="https://wuthering.wiki/img/weapon_21020024.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
@@ -114,16 +113,17 @@ Reminiscence: Fleurdelys - CR% / CDM%
 **Prioritas Echo Substat**
 
 * CR% / CDM%
-* ER (120, not needed kalau udah ada Rover Sign) 
-* ATK% 
+* ER (120, not needed kalau udah ada Rover Sign)
+* ATK%
 * Resonance Skill%
 * Flat ATK
 
 **Prioritas Forte**
 
-Forte  >  Lib  >  Skill  >  Basic  >  Intro
+Forte > Lib > Skill > Basic > Intro
 
 </details>
+
 <details>
 
 <summary><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Moonlit Clouds</summary>
@@ -142,16 +142,17 @@ Impermenance Heron - CR% / CDM%
 **Prioritas Echo Substat**
 
 * CR% / CDM%
-* ER (120, not needed kalau udah ada Rover Sign) 
-* ATK% 
+* ER (120, not needed kalau udah ada Rover Sign)
+* ATK%
 * Resonance Skill%
 * Flat ATK
 
 **Prioritas Forte**
 
-Forte  >  Lib  >  Skill  >  Basic  >  Intro
+Forte > Lib > Skill > Basic > Intro
 
 </details>
+
 <details>
 
 <summary><img src="https://wuthering.wiki/img/fettericon_7.png" alt="" data-size="line"> Rejuvenating Glow</summary>
@@ -170,14 +171,14 @@ Bell-Borne Geochelone - HB% / CR% / CDM%
 **Prioritas Echo Substat**
 
 * CR% / CDM%
-* ER (120, not needed kalau udah ada Rover Sign) 
-* ATK% 
+* ER (120, not needed kalau udah ada Rover Sign)
+* ATK%
 * Resonance Skill%
 * Flat ATK
 
 **Prioritas Forte**
 
-Forte  >  Lib  >  Skill  >  Basic  >  Intro
+Forte > Lib > Skill > Basic > Intro
 
 </details>
 

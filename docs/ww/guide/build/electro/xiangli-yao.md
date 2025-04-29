@@ -29,7 +29,7 @@ layout:
 ## :crossed\_swords: Pilihan Senjata
 
 {% tabs %}
-{% tab title="Verity’s Handle" %}
+{% tab title="Verity’s Handle 120%" %}
 {% hint style="success" %}
 Best In Slot
 {% endhint %}
@@ -41,9 +41,34 @@ Best In Slot
 <figure><img src="https://wuthering.wiki/img/weapon_21040016.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Abyss Surges" %}
+{% tab title="Blazing Justice 111%" %}
 {% hint style="success" %}
 Direkomendasikan
+{% endhint %}
+
+:mag: **Review Senjata**
+
+> **Signature weapon** milik **Zani** sejauh ini merupakan opsi terbaik untuk XLY, berkat peningkatan besar pada statistik terbaiknya: **48,6% CRIT DMG** dengan **Base ATK** yang tinggi, tambahan **12% ATK**, dan bahkan **8% DEF Ignore** dengan syarat sederhana.l
+
+<figure><img src="https://wuthering.wiki/img/weapon_21040036.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Tragicomedy 108%" %}
+{% hint style="info" %}
+Alternatif
+{% endhint %}
+
+:mag: **Review Senjata**
+
+> Senjata milik **Roccia** Meningkatkan **ATK** sebesar **12%**.\
+> Setiap kali **Basic Attack** atau **Intro Skill** diaktifkan, **Heavy Attack DMG Bonus** akan meningkat sebesar **48%** selama **3 detik**.
+
+<figure><img src="https://wuthering.wiki/img/weapon_21040026.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Abyss Surges 100%" %}
+{% hint style="info" %}
+Alternatif
 {% endhint %}
 
 :mag: **Review Senjata**
@@ -53,9 +78,9 @@ Direkomendasikan
 <figure><img src="https://wuthering.wiki/img/weapon_21040015.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Stonard" %}
-{% hint style="success" %}
-Direkomendasikan
+{% tab title="Stonard R5 99%" %}
+{% hint style="info" %}
+Alternatif
 {% endhint %}
 
 :mag: **Review Senjata**
@@ -65,7 +90,7 @@ Direkomendasikan
 <figure><img src="https://wuthering.wiki/img/weapon_21040074.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Celestial Spiral" %}
+{% tab title="Celestial Spiral R5 87%" %}
 {% hint style="info" %}
 Alternatif
 {% endhint %}

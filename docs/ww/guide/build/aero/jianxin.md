@@ -228,10 +228,18 @@ Support Healer dan Buffer untuk semua team
 
 ## :recycle: Rotasi Gameplay
 
-TBA
+{% tabs %}
+{% tab title="Standard" %}
+{% code title="Credit : Fractured Shores" overflow="wrap" %}
+```
+Intro > Skill(Dash-Cancel) > BA1234 > Ult(Cancel) > [F]HA Outro
+```
+{% endcode %}
+{% endtab %}
+{% endtabs %}
 
 ***
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/1zr7zgh1/Jianxin.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/6Q72VKdw/jianxin-latest.png" alt=""><figcaption></figcaption></figure>

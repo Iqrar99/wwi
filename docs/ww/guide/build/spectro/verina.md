@@ -157,4 +157,4 @@ Swap In > BA 3x > Echo + Skill > Mid-Air 3x > Outro
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/vBSz1f0k/Verina.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/qBnFd84r/verina-latest.png" alt=""><figcaption></figcaption></figure>

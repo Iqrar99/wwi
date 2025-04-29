@@ -32,7 +32,7 @@ layout:
 ## :crossed\_swords: Pilihan Senjata
 
 {% tabs %}
-{% tab title="Stringmaster" %}
+{% tab title="Stringmaster 124%" %}
 {% hint style="success" %}
 Best In-Slot
 {% endhint %}
@@ -44,7 +44,7 @@ Best In-Slot
 <figure><img src="https://wuthering.wiki/img/weapon_21050016.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Rime - Draped Sprouts" %}
+{% tab title="Rime - Draped Sprouts 112%" %}
 {% hint style="success" %}
 Direkomendasikan
 {% endhint %}
@@ -56,7 +56,7 @@ Direkomendasikan
 <figure><img src="https://wuthering.wiki/img/weapon_21050026.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Cosmic Riffles" %}
+{% tab title="Cosmic Riffles 110%" %}
 {% hint style="success" %}
 Direkomendasikan
 {% endhint %}

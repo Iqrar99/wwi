@@ -29,19 +29,7 @@ layout:
 ## :crossed\_swords: Pilihan Senjata
 
 {% tabs %}
-{% tab title="Static Mist" %}
-{% hint style="success" %}
-Best In Slot
-{% endhint %}
-
-:mag: **Review Senjata**
-
-> Pilihan yang sangat kuat dengan menawarkan stat utama Crit Rate, damage dasar yang besar, dan jumlah pengisian energi yang baik, memungkinkan sub-stat untuk digunakan di tempat lain. Juga menawarkan kemampuan pendukung yang memberikan boost ATK kepada karakter berikutnya yang masuk, memberikan nilai tambah bagi karakter Hybrid dan Support.
-
-<figure><img src="https://wuthering.wiki/img/weapon_21030015.png" alt="" width="188"><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="The Last Dance " %}
+{% tab title="The Last Dance 104% " %}
 {% hint style="info" %}
 Alternatif
 {% endhint %}
@@ -51,6 +39,18 @@ Alternatif
 > Senjata dengan Base ATk yang tinggi karena :star:5 dan membrikan banyak Crit DMG. Selain itu juga mendapatkan bonus ATK% secara permanen. Tetapi masih belum bisa menyaingi value dari Static Mist
 
 <figure><img src="https://wuthering.wiki/img/weapon_21030016.png" alt="" width="188"><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Static Mist 100%" %}
+{% hint style="success" %}
+Best In Slot
+{% endhint %}
+
+:mag: **Review Senjata**
+
+> Pilihan yang sangat kuat dengan menawarkan stat utama Crit Rate, damage dasar yang besar, dan jumlah pengisian energi yang baik, memungkinkan sub-stat untuk digunakan di tempat lain. Juga menawarkan kemampuan pendukung yang memberikan boost ATK kepada karakter berikutnya yang masuk, memberikan nilai tambah bagi karakter Hybrid dan Support.
+
+<figure><img src="https://wuthering.wiki/img/weapon_21030015.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Pistol#26" %}
@@ -158,10 +158,18 @@ Forte = BA > Reso skil > Reso lib > Intro
 
 ## :recycle: Rotasi Gameplay
 
-TBA
+{% tabs %}
+{% tab title="Standard" %}
+{% code title="Credit : Fractured Shores" overflow="wrap" %}
+```
+Skill > Echo(Swap) > Intro > Ult > Skill > BA12345 > MA(x12) > Outro
+```
+{% endcode %}
+{% endtab %}
+{% endtabs %}
 
 ***
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/xCjxN0nJ/Aalto.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/T25L5TTc/Aalto-latest.png" alt=""><figcaption></figcaption></figure>

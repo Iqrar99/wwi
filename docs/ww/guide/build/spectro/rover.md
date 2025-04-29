@@ -29,7 +29,7 @@ layout:
 ## :crossed\_swords: Pilihan Senjata
 
 {% tabs %}
-{% tab title="Blazing Brilliance" %}
+{% tab title="Blazing Brilliance 114%" %}
 {% hint style="success" %}
 Direkomendasikan
 {% endhint %}
@@ -43,7 +43,7 @@ Direkomendasikan
 <figure><img src="https://wuthering.wiki/img/weapon_21020016.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Emerald Of Genesis" %}
+{% tab title="Emerald Of Genesis 100%" %}
 {% hint style="success" %}
 Direkomendasikan
 {% endhint %}
@@ -150,10 +150,16 @@ Forte > Libe > Reso skill > BA > Intro
 
 ## :recycle: Rotasi Gameplay
 
-TBA
-
-***
+{% tabs %}
+{% tab title="Standard" %}
+{% code title="Credit : Fractured Shores" overflow="wrap" %}
+```
+Intro > Ult > [E]Forte > FUA > BA123 > HA(x2) > Dash > BA123 > HA(x2) > [E]Forte > FUA
+```
+{% endcode %}
+{% endtab %}
+{% endtabs %}
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/yY3fZp4P/Spectro-Rover.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/jdMb9Gzm/spectro-rover-latest.png" alt=""><figcaption></figcaption></figure>

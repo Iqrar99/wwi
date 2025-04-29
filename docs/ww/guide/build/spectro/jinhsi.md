@@ -29,7 +29,7 @@ layout:
 ## :crossed\_swords: Pilihan Senjata
 
 {% tabs %}
-{% tab title="Ages Of Harvest" %}
+{% tab title="Ages Of Harvest 100$" %}
 {% hint style="success" %}
 Best In Slot
 {% endhint %}
@@ -41,7 +41,7 @@ Best In Slot
 <figure><img src="https://wuthering.wiki/img/weapon_21010026.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Verdant Summit" %}
+{% tab title="Verdant Summit 85%" %}
 {% hint style="success" %}
 Direkomendasikan
 {% endhint %}
@@ -53,7 +53,7 @@ Direkomendasikan
 <figure><img src="https://wuthering.wiki/img/weapon_21010016.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Lustrous Razor" %}
+{% tab title="Lustrous Razor 83%" %}
 {% hint style="success" %}
 Direkomendasikan
 {% endhint %}
@@ -157,4 +157,4 @@ Teminologi
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/cHJh4XBf/Jinhsi.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/5yckCt5D/Jinhsi-latest.png" alt=""><figcaption></figcaption></figure>
