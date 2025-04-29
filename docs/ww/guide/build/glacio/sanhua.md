@@ -29,21 +29,7 @@ layout:
 ## :crossed\_swords: Pilihan Senjata
 
 {% tabs %}
-{% tab title="Emerald Of Genesis" %}
-{% hint style="success" %}
-Best In Slot
-{% endhint %}
-
-:mag: **Review Senjata**
-
-> Pilihan **Sword** yang luar biasa, menawarkan **base damage** yang jauh lebih tinggi berkat rarity nya yang :star:**5** , serta **ATK% buff** yang dapat ditumpuk yang hampir bisa didapatkan oleh semua karakter dengan mudah (dan **2 stacks** juga mudah dicapai oleh sebagian besar karakter jika dimainkan dengan benar).
->
-> Selain itu, senjata ini memiliki **Energy Regen** yang cukup baik, yang pada sebagian besar karakter memungkinkan satu **sub-stat Energy Regen** dialokasikan ke tempat lain untuk meningkatkan damage lebih lanjut. Pilihan **Sword** terbaik secara keseluruhan, dengan hanya :star:**4** **Swords** yang sudah S5 yang dapat bersaing dengannya.
-
-<figure><img src="https://wuthering.wiki/img/weapon_21020015.png" alt="" width="188"><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Blazing Brilliance" %}
+{% tab title="Blazing Brilliance 118%" %}
 {% hint style="success" %}
 Direkomendasikan
 {% endhint %}
@@ -57,7 +43,7 @@ Direkomendasikan
 <figure><img src="https://wuthering.wiki/img/weapon_21020016.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Red Spring" %}
+{% tab title="Red Spring 103%" %}
 {% hint style="info" %}
 Alternatif
 {% endhint %}
@@ -67,6 +53,32 @@ Alternatif
 > Senjata **signature** Camellya dapat digunakan oleh semua karakter **Sword** yang berfokus pada **Basic Attack**, tetapi jelas dirancang untuknya karena kekuatannya yang banyak terkunci setelah menggunakan **Concerto** di tengah rotasi. Memberikan **ATK%**, **Crit Rate%**, dan **Basic Attack DMG** yang cukup baik untuk semua karakter, serta bonus **Basic Attack DMG** yang besar setelah menggunakan **Concerto**.
 
 <figure><img src="https://wuthering.wiki/img/weapon_21020026.png" alt="" width="188"><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Emerald Of Genesis 100%" %}
+{% hint style="success" %}
+Best In Slot
+{% endhint %}
+
+:mag: **Review Senjata**
+
+> Pilihan **Sword** yang luar biasa, menawarkan **base damage** yang jauh lebih tinggi berkat rarity nya yang :star:**5** , serta **ATK% buff** yang dapat ditumpuk yang hampir bisa didapatkan oleh semua karakter dengan mudah (dan **2 stacks** juga mudah dicapai oleh sebagian besar karakter jika dimainkan dengan benar).
+>
+> Selain itu, senjata ini memiliki **Energy Regen** yang cukup baik, yang pada sebagian besar karakter memungkinkan satu **sub-stat Energy Regen** dialokasikan ke tempat lain untuk meningkatkan damage lebih lanjut. Pilihan **Sword** terbaik secara keseluruhan, dengan hanya :star:**4** **Swords** yang sudah S5 yang dapat bersaing dengannya.
+
+<figure><img src="https://wuthering.wiki/img/weapon_21020015.png" alt="" width="188"><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Endless Collapse R5 83%" %}
+{% hint style="info" %}
+Alternatif
+{% endhint %}
+
+:mag: **Review Senjata**
+
+> Sering kali lebih rendah dibandingkan **Commando of Conviction** untuk **DPS**, namun senjata ini tetap menjadi pilihan **F2P** :star:**4** yang bagus untuk karakter yang membutuhkan **energy boost**. Secara realistis, hanya pertimbangkan senjata ini sebagai pilihan jika karakter mu mengalami masalah dengan **energy**.
+
+<figure><img src="https://wuthering.wiki/img/weapon_21020084.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Commando Of Conviction" %}
@@ -79,18 +91,6 @@ Alternatif
 > Senjata **Sword** serbaguna yang luar biasa, mendapatkan bonusnya hampir tanpa syarat karena sebagian besar **Resonators** hampir selalu berusaha memanfaatkan **Intro skill** mereka, dan hanya sedikit karakter yang menghabiskan lebih dari 15 detik di pertarungan selama durasinya.
 
 <figure><img src="https://wuthering.wiki/img/weapon_21020044.png" alt="" width="188"><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Endless Collapse" %}
-{% hint style="info" %}
-Alternatif
-{% endhint %}
-
-:mag: **Review Senjata**
-
-> Sering kali lebih rendah dibandingkan **Commando of Conviction** untuk **DPS**, namun senjata ini tetap menjadi pilihan **F2P** :star:**4** yang bagus untuk karakter yang membutuhkan **energy boost**. Secara realistis, hanya pertimbangkan senjata ini sebagai pilihan jika karakter mu mengalami masalah dengan **energy**.
-
-<figure><img src="https://wuthering.wiki/img/weapon_21020084.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -131,7 +131,15 @@ Forte > Libe > Reso skill > Intro = BA
 
 ## :recycle: Rotasi Gameplay
 
-TBA
+{% tabs %}
+{% tab title="Standar" %}
+{% code title="Credit : Fractured Shores" overflow="wrap" %}
+```
+Skill > Ult > [F]HA(Swap) > Intro > Echo(Swap)+ Outro
+```
+{% endcode %}
+{% endtab %}
+{% endtabs %}
 
 ***
 

@@ -29,7 +29,7 @@ layout:
 ## :crossed\_swords: Pilihan Senjata
 
 {% tabs %}
-{% tab title="Blazing Brilliance" %}
+{% tab title="Blazing Brilliance 106%" %}
 {% hint style="success" %}
 Best In Slot
 {% endhint %}
@@ -43,7 +43,7 @@ Best In Slot
 <figure><img src="https://wuthering.wiki/img/weapon_21020016.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Red Spring" %}
+{% tab title="Red Spring 101%" %}
 {% hint style="success" %}
 Direkomendasikan
 {% endhint %}
@@ -55,7 +55,7 @@ Direkomendasikan
 <figure><img src="https://wuthering.wiki/img/weapon_21020026.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Emerald Of Genesis" %}
+{% tab title="Emerald Of Genesis 100%" %}
 {% hint style="success" %}
 Direkomendasikan
 {% endhint %}
@@ -160,11 +160,19 @@ Forte > Reso skill > Libe > BA = Intro
 
 ## :recycle: Rotasi Gameplay
 
-TBA
+{% tabs %}
+{% tab title="Standar" %}
+{% code title="Credit : Fractured Shores" overflow="wrap" %}
+```
+Echo(Swap)
+> BA2 > Skill12(Swap) > BA23 > Skill123(Swap) > Intro > Skill12 > Ult > BA123 > Skill123 > HA > BA1 > Outro
+```
+{% endcode %}
+{% endtab %}
+{% endtabs %}
 
 ***
 
 ## Infografis
 
 <figure><img src="https://i.postimg.cc/QCLbJ9KR/Danjin-Revisi.png" alt=""><figcaption></figcaption></figure>
-

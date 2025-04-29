@@ -232,4 +232,4 @@ Teminologi
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/XvRFRMN5/Xiangli-Yao-Revisi.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/7YxStC4H/Xiangli-Yao-latest.png" alt=""><figcaption></figcaption></figure>

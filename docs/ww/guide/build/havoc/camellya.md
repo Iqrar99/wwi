@@ -123,7 +123,7 @@ atau
 
 **Prioritas Forte**
 
-Resonance Skill = NA > Forte > Reso Lib > Intro
+Resonance Skill   =   NA   >   Forte   >   Reso Lib   >   Intro
 
 </details>
 
@@ -139,4 +139,4 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/QMySVn8N/Camelya-Revisi.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/xdqRxXKJ/Camellya-latest.png" alt=""><figcaption></figcaption></figure>

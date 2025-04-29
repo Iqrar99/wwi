@@ -25,8 +25,8 @@ layout:
 
 * added Zani materisl upgrade image (character Kit)
 * added Zani Character Build
-* XLY weapon update (exclude infographic)
-* Yinlin weapon update (exclude L/hymn and infographic)
+* XLY weapon update
+* Yinlin weapon update
 * Aalto Weapon update, Rotation and infographic
 * Jianxin Rotation and infographic
 * Jiyan weapon update and Infographic
@@ -35,6 +35,11 @@ layout:
 * Phoebe overall Update&#x20;
 * spectro Rover overall update
 * Shorekeeper overall update&#x20;
+* sanhua update weapon and rotation
+* camellya update weapon and infographic
+* cantarella update weapon
+* danjin update weapon and rotation
+* danjin update weapon, rotation and infographic
 
 ## 27/04/2025
 

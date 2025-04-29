@@ -32,7 +32,7 @@ layout:
 ## :crossed\_swords: Pilihan Senjata
 
 {% tabs %}
-{% tab title="Tragicomedy" %}
+{% tab title="Tragicomedy 121% " %}
 {% hint style="success" %}
 Best In Slot
 {% endhint %}
@@ -44,9 +44,21 @@ Best In Slot
 <figure><img src="https://wuthering.wiki/img/weapon_21040026.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Verity’s Handle" %}
+{% tab title="Blazing Justice 109%" %}
 {% hint style="success" %}
 Direkomendasikan
+{% endhint %}
+
+:mag: **Review Senjata**
+
+> **Signature weapon** milik **Zani** sejauh ini merupakan opsi terbaik untuk XLY, berkat peningkatan besar pada statistik terbaiknya: **48,6% CRIT DMG** dengan **Base ATK** yang tinggi, tambahan **12% ATK**, dan bahkan **8% DEF Ignore** dengan syarat sederhana.l
+
+<figure><img src="https://wuthering.wiki/img/weapon_21040036.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Verity’s Handle 109%" %}
+{% hint style="info" %}
+Alternatif
 {% endhint %}
 
 :mag: **Review Senjata**
@@ -56,9 +68,9 @@ Direkomendasikan
 <figure><img src="https://wuthering.wiki/img/weapon_21040016.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Abyss Surges" %}
-{% hint style="success" %}
-Direkomendasikan
+{% tab title="Abyss Surges 100%" %}
+{% hint style="info" %}
+Alternatif
 {% endhint %}
 
 :mag: **Review Senjata**
@@ -68,7 +80,7 @@ Direkomendasikan
 <figure><img src="https://wuthering.wiki/img/weapon_21040015.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Celestial Spiralt" %}
+{% tab title="Celestial Spiral R5 87%" %}
 {% hint style="info" %}
 Alternatif
 {% endhint %}
@@ -80,7 +92,7 @@ Alternatif
 <figure><img src="https://wuthering.wiki/img/weapon_21040084.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Hollow Mirage" %}
+{% tab title="Hollow Mirage 84%" %}
 {% hint style="info" %}
 Alternatif
 {% endhint %}
@@ -159,11 +171,20 @@ forte circuit > Reso Lib > Reso skill > BA > intro
 
 ## :recycle: Rotasi Gameplay
 
-TBA
+{% tabs %}
+{% tab title="Standar" %}
+{% code title="Credit : Fractured Shores" overflow="wrap" %}
+```
+Intro > BA4 > Skill > Forte(x3) > Echo+Outro
+
+Note: Use Ult whenever, earlier the better
+```
+{% endcode %}
+{% endtab %}
+{% endtabs %}
 
 ***
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/SNfrcKSv/Roccia-Revisi.png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="https://i.postimg.cc/m2wyTYj1/Roccia-latest.png" alt=""><figcaption></figcaption></figure>

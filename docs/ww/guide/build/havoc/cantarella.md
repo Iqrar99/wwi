@@ -33,7 +33,7 @@ layout:
 ## :crossed\_swords: Pilihan Senjata
 
 {% tabs %}
-{% tab title="Whispers of Sirens" %}
+{% tab title="Whispers of Sirens 121%" %}
 {% hint style="success" %}
 Best In Slot
 {% endhint %}
@@ -53,7 +53,7 @@ Best In Slot
 <figure><img src="https://wuthering.wiki/img/weapon_21050056.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Rime-Draped Sprouts" %}
+{% tab title="Rime-Draped Sprouts 112%" %}
 {% hint style="success" %}
 Direkomendasikan
 {% endhint %}
@@ -72,7 +72,7 @@ Direkomendasikan
 <figure><img src="https://wuthering.wiki/img/weapon_21050026.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Stringmaster" %}
+{% tab title="Stringmaster 109%" %}
 {% hint style="info" %}
 Alternatif
 {% endhint %}
@@ -84,7 +84,7 @@ Alternatif
 <figure><img src="https://wuthering.wiki/img/weapon_21050016.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Cosmic Ripples" %}
+{% tab title="Cosmic Ripples 100%" %}
 {% hint style="info" %}
 Alternatif
 {% endhint %}
