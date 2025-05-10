@@ -21,11 +21,15 @@ layout:
 
 # Changelogs
 
-## 29/07/2025
+## 10/05/2025
 
-* added Zani materisl upgrade image (character Kit)
-* added Zani Character Build
-* XLY weapon update
+* Add more weapon to data table
+
+## 29/04/2025
+
+* Ddded Zani materisl upgrade image (character Kit)
+* Ddded Zani Character Build
+* Xiangli Yao weapon update
 * Yinlin weapon update
 * Aalto Weapon update, Rotation and infographic
 * Jianxin Rotation and infographic
@@ -33,13 +37,13 @@ layout:
 * Aero Rover weapon update and Infographic
 * Jinhsi weapon update and Infographic
 * Phoebe overall Update&#x20;
-* spectro Rover overall update
+* Dpectro Rover overall update
 * Shorekeeper overall update&#x20;
-* sanhua update weapon and rotation
-* camellya update weapon and infographic
-* cantarella update weapon
-* danjin update weapon and rotation
-* danjin update weapon, rotation and infographic
+* Danhua update weapon and rotation
+* Damellya update weapon and infographic
+* Dantarella update weapon
+* Danjin update weapon and rotation
+* Danjin update weapon, rotation and infographic
 
 ## 27/04/2025
 
