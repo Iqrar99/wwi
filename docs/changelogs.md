@@ -21,6 +21,11 @@ layout:
 
 # Changelogs
 
+## 24/05/2025
+
+* Add backstory Zani
+* Add backstory Ciaccona
+
 ## 10/05/2025
 
 * Add more weapon to data table

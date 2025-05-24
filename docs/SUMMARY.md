@@ -130,6 +130,7 @@
     * [Carlotta](ww/lore/character-backstory/carlotta.md)
     * [Changli](ww/lore/character-backstory/changli.md)
     * [Chixia](ww/lore/character-backstory/chixia.md)
+    * [Ciaccona](ww/lore/character-backstory/ciaccona.md)
     * [Danjin](ww/lore/character-backstory/danjin.md)
     * [Encore](ww/lore/character-backstory/encore.md)
     * [Jianxin](ww/lore/character-backstory/jianxin.md)
@@ -148,6 +149,7 @@
     * [Yinlin](ww/lore/character-backstory/yinlin.md)
     * [Youhu](ww/lore/character-backstory/youhu.md)
     * [Yuanwu](ww/lore/character-backstory/yuanwu.md)
+    * [Zani](ww/lore/character-backstory/zani.md)
     * [Zezhi](ww/lore/character-backstory/zezhi.md)
 
 ## Solaris-3 Bot <a href="#solaris-3" id="solaris-3"></a>
