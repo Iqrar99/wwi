@@ -135,7 +135,7 @@ forte   >   Reso Lib   >   Normal Attack   >   skill   =   intro
 
 ## :busts\_in\_silhouette: Rekomendasi Tim
 
-<table><thead><tr><th>Main DPS</th><th width="211.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/g02Nqx05/Zani-icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"> Zani</td><td><img src="https://i.postimg.cc/mrTfVWTR/Phoebe-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Phoebe</td><td>Zani hypercarry dengan buff moonlit dari Phoebe</td></tr><tr><td><img src="https://i.postimg.cc/g02Nqx05/Zani-icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"> Zani</td><td><img src="https://i.postimg.cc/6qppPGwW/Rover-Male-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Rover (Spectro)</td><td>Zani hypercarry dengan buff moonlit dari Spectro Rover</td></tr></tbody></table>
+<table><thead><tr><th>Main DPS</th><th width="211.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/g02Nqx05/Zani-icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"> Zani</td><td><img src="https://i.postimg.cc/mrTfVWTR/Phoebe-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Phoebe</td><td>Zani hypercarry dengan buff moonlit dari Phoebe</td></tr><tr><td><img src="https://i.postimg.cc/g02Nqx05/Zani-icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"> Zani</td><td><img src="https://i.postimg.cc/SRNJN9dk/Ciaccona.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_16.png" alt="" data-size="line"> <img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Ciaccona</td><td>Zani Hypercarry (Frazzle)</td></tr><tr><td><img src="https://i.postimg.cc/g02Nqx05/Zani-icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"> Zani</td><td><img src="https://i.postimg.cc/6qppPGwW/Rover-Male-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Rover (Spectro)</td><td>Zani hypercarry dengan buff moonlit dari Spectro Rover</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 
@@ -145,4 +145,4 @@ TBA
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/SQBp6SNS/zani.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/RFW1wsHN/Zani-Revisi.png" alt=""><figcaption></figcaption></figure>

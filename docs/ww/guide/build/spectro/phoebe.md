@@ -141,7 +141,7 @@ Forte > Libe > Reso skill > Intro > BA
 
 ## :busts\_in\_silhouette: Rekomendasi Tim
 
-<table><thead><tr><th>Main DPS</th><th width="211.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/mrTfVWTR/Phoebe-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"> Phoebe</td><td><img src="https://i.postimg.cc/6qppPGwW/Rover-Male-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"> Rover (Spectro)</td><td>Dual DPS dengan Spectro Rover</td></tr><tr><td><img src="https://i.postimg.cc/g02Nqx05/Zani-icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"> Zani</td><td><img src="https://i.postimg.cc/mrTfVWTR/Phoebe-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Phoebe</td><td>Zani hypercarry dengan buff moonlit dari Phoebe</td></tr></tbody></table>
+<table><thead><tr><th>Main DPS</th><th width="211.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/mrTfVWTR/Phoebe-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"> Phoebe</td><td><img src="https://i.postimg.cc/SRNJN9dk/Ciaccona.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_16.png" alt="" data-size="line"> <img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Ciaccona</td><td>Phoebe Hypercarry (Frazzle)</td></tr><tr><td><img src="https://i.postimg.cc/mrTfVWTR/Phoebe-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"> Phoebe</td><td><img src="https://i.postimg.cc/6qppPGwW/Rover-Male-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"> Rover (Spectro)</td><td>Dual DPS dengan Spectro Rover</td></tr><tr><td><img src="https://i.postimg.cc/g02Nqx05/Zani-icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"> Zani</td><td><img src="https://i.postimg.cc/mrTfVWTR/Phoebe-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Phoebe</td><td>Zani hypercarry dengan buff moonlit dari Phoebe</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 
@@ -165,4 +165,4 @@ Skill(Hold) > Skill1(Cancel) > Ult > ((BA123(x2) or DC+[E]HA(x2)) > Outro
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/wjV8YD5M/Phoebe-latest.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/gJ1VsVV4/Phoebe-Revisi.png" alt=""><figcaption></figcaption></figure>

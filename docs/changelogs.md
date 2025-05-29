@@ -21,6 +21,12 @@ layout:
 
 # Changelogs
 
+## 29/05/2025
+
+* Add Build Guide Ciaccona
+* Update infographic Zani and team description
+* Update infographic Phoebe and team description
+
 ## 24/05/2025
 
 * Add backstory Zani

@@ -69,6 +69,7 @@
     * [🌪️ Aero](ww/guide/build/aero/README.md)
       * [Aalto](ww/guide/build/aero/aalto.md)
       * [Aero Rover](ww/guide/build/aero/aero-rover.md)
+      * [Ciaccona](ww/guide/build/aero/ciaccona.md)
       * [Jianxin](ww/guide/build/aero/jianxin.md)
       * [Jiyan](ww/guide/build/aero/jiyan.md)
       * [Yangyang](ww/guide/build/aero/yangyang.md)
