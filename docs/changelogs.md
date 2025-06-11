@@ -21,6 +21,11 @@ layout:
 
 # Changelogs
 
+## 11/06/2025
+
+* Add more lore summaries
+* Fix image quality on [act-4.md](ww/lore/main-story/chapter-2/act-4.md "mention")
+
 ## 29/05/2025
 
 * Add Build Guide Ciaccona
@@ -38,8 +43,8 @@ layout:
 
 ## 29/04/2025
 
-* Ddded Zani materisl upgrade image (character Kit)
-* Ddded Zani Character Build
+* Added Zani materisl upgrade image (character Kit)
+* Added Zani Character Build
 * Xiangli Yao weapon update
 * Yinlin weapon update
 * Aalto Weapon update, Rotation and infographic
