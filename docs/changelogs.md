@@ -21,6 +21,11 @@ layout:
 
 # Changelogs
 
+## 12/06/2025
+
+* add Cartethyia Kit
+* add Lupa Kit
+
 ## 11/06/2025
 
 * Add more lore summaries
