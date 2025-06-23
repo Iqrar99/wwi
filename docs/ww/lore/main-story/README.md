@@ -58,10 +58,10 @@ Daftar rangkuman main story yang tersedia:
 
 <summary>Chapter II</summary>
 
-* Prologue: Through the Sea Thou Break
-* Act I: The Sacred Breeze So Often Breathes
-* Act II: Veils Off in Sun or Shadow
-* Act III: What Yesterday Wept, Today Doth Sing
+* [prologue.md](chapter-2/prologue.md "mention")
+* [act-1.md](chapter-2/act-1.md "mention")
+* [act-2.md](chapter-2/act-2.md "mention")
+* [act-3.md](chapter-2/act-3.md "mention")
 
 - [act-4.md](chapter-2/act-4.md "mention")
 

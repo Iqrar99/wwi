@@ -21,10 +21,15 @@ layout:
 
 # Changelogs
 
+## 23/06/2025
+
+* Update link
+* Add new sonata entries
+
 ## 12/06/2025
 
-* add Cartethyia Kit
-* add Lupa Kit
+* Add Cartethyia Kit
+* Add Lupa Kit
 
 ## 11/06/2025
 
