@@ -64,5 +64,7 @@ Daftar rangkuman main story yang tersedia:
 * [act-3.md](chapter-2/act-3.md "mention")
 
 - [act-4.md](chapter-2/act-4.md "mention")
+- [act-5.md](chapter-2/act-5.md "mention")
+- [act-6.md](chapter-2/act-6.md "mention")
 
 </details>

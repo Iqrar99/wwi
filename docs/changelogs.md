@@ -21,6 +21,11 @@ layout:
 
 # Changelogs
 
+## 29/06/2025
+
+* Add latest echo and weapon data
+* Update team page
+
 ## 23/06/2025
 
 * Update link
