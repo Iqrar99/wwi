@@ -19,7 +19,7 @@ layout:
 
 # Prologue: Through the Sea Thou Break
 
-<figure><img src="../../../../.gitbook/assets/Prologue_Chapter2_Picture1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Prologue_Chapter2_Picture1.jpg" alt=""><figcaption></figcaption></figure>
 
 Huru-hara di Black Shores dan konflik ideologi dengan _Tethys System_ akhirnya usai.
 
@@ -31,7 +31,7 @@ Sebelum keberangkatan, Shorekeeper memberi Rover akses pada catatan masa lalu ya
 
 Dalam catatan itu, Rover dari masa lalu menjelaskan bahwa meskipun sistem Tethys telah diperbaiki dan semua data terbuka, tidak ada satu pun informasi yang berkaitan dengan identitas atau masa lalunya.
 
-<figure><img src="../../../../.gitbook/assets/Prologue_Chapter2_Picture2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Prologue_Chapter2_Picture2.jpg" alt=""><figcaption></figcaption></figure>
 
 > “Itu karena aku… _kita_… tidak ingin tahu,” ujarnya.\
 > “Aku memilih menghapus semuanya, karena aku ingin kamu—diriku yang baru—mengalami perjuangan peradaban manusia dari awal. Aku ingin kamu menjelajahi Solaris-3 tanpa beban masa lalu. Berjalan, bertarung, dan hidup bersama orang-orang.”
@@ -45,7 +45,7 @@ Namun, catatan itu belum bisa menjawab semua pertanyaan yang pasti mulai memenuh
 >
 > Bagaimana kamu akan menghadapi benturan antara kebaikan kolektif dan semangat kemanusiaan?”
 
-<figure><img src="../../../../.gitbook/assets/Prologue_Chapter2_Picture3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Prologue_Chapter2_Picture3.jpg" alt=""><figcaption></figcaption></figure>
 
 Rinascita—tanah para _Echo_ dan pesta tanpa akhir. Satu-satunya tempat yang tidak menunjukkan gejolak _Frequency_ saat Threnodian bangkit di Jinzhou. Sementara kota-kota lain terjerat dalam ketakutan dan chaos, Rinascita tetap sunyi… nyaris tak tersentuh.
 
@@ -55,7 +55,7 @@ Namun, belum sempat menyentuh pelabuhan, kapal itu mendadak terlempar ke udara�
 
 Beruntung, sebelum kapal sepenuhnya karam, datang bantuan: Brant, kapten _<mark style="color:blue;">**The Fool’s Troupe**</mark>_. Dengan gerakan cekatan dan nyaris teatrikal, mereka menyelamatkan Rover dari amukan lautan.
 
-<figure><img src="../../../../.gitbook/assets/Prologue_Chapter2_Picture4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Prologue_Chapter2_Picture4.jpg" alt=""><figcaption></figcaption></figure>
 
 Menurut Brant, Cetus sebenarnya makhluk damai. Ia jarang menyerang tanpa alasan. Namun, Brant juga mengaku melihat sesuatu di bagian ekor Cetus—semacam luka, atau mungkin… sesuatu yang menempel.
 
@@ -69,7 +69,7 @@ Begitu tiba, pemandangan aneh menyambutnya: para pendosa sedang disiapkan untuk 
 
 Setelah itu, Rover melanjutkan perjalanan ke Ragunna, pusat administratif Rinascita. Namun ia segera dihadang penjaga karena tidak memiliki izin masuk baru. Untungnya, setelah menunjukkan surat dari Montelli Family, ia diperbolehkan masuk.
 
-<figure><img src="../../../../.gitbook/assets/Prologue_Chapter2_Picture5.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Prologue_Chapter2_Picture5.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
