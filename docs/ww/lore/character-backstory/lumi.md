@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Lumi
 
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1504.png" alt="" width="375"><figcaption><p>Navigator di <strong>Lollo Logistics</strong> dan pemimpin tim regu transportasi. Lahir di desa pegunungan di <strong>Yuezhou</strong>, sifat <strong>Lumi</strong> yang tulus dan peduli membawa kehangatan bagi semua orang di sekitarnya.</p></figcaption></figure></div>

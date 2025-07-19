@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Encore
 
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1203.png" alt="" width="375"><figcaption><p>Seorang gadis yang selalu ditemani oleh satu <strong>Wooly</strong> hitam dan satu <strong>Wooly</strong> putih. Encore, Konsultan dari <strong>Black Shores</strong>, bermimpi menciptakan kisah-kisah bahagia dengan permen, dongeng, dan imajinasinya.</p></figcaption></figure></div>
@@ -74,11 +60,11 @@ Disarankan untuk menghubungi walinya untuk pemeriksaan rutin, serta memberikan i
 
 **Catatan tambahan:**
 
-> Tolong jadi anak baik, ya. Kami punya permen kalau kamu mau.&#x20;
+> Tolong jadi anak baik, ya. Kami punya permen kalau kamu mau.
 
 ## :package: Cherished Items
 
-<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Wooly Dolls</td><td><img src="https://wuthering.wiki/img/T_Treasure18_UI.png" alt=""></td><td><p><strong>Boneka Wooly</strong> adalah hadiah dari <strong>Mama</strong>.</p><p>Mereka selalu mendengarkan Encore dan selalu ada di sisinya.</p><p>Bagi <strong>Encore</strong>, <strong>Woolies bukan hanya proyeksi emosinya</strong>, tetapi juga <strong>teman-teman penting dalam hidupnya</strong>.</p></td></tr><tr><td align="center">Coral Bowl</td><td><img src="https://wuthering.wiki/img/T_Treasure7_UI.png" alt=""></td><td><p></p><p>Hidangan spesial <strong>Encore</strong>, dibuat dari <strong>karang ungu dari Black Shores</strong>, dimasak dengan berbagai bahan yang diracik dengan penuh kreativitas.</p><p><strong>Encore</strong> selalu mencoba menciptakan sesuatu yang baru</strong>, dan entah bagaimana, <strong>rasa masakannya ternyata cukup enak</strong>.</p><p>Tapi... penampilannya begitu mengerikan hingga butuh keberanian besar untuk mencobanya. </p><p></p><p><strong>Bahkan Aalto pun gak sanggup memakannya.</strong></p></td></tr><tr><td align="center">Prank Toy</td><td><img src="https://wuthering.wiki/img/T_Treasure35_UI.png" alt=""></td><td><p>Sebuah <strong>mainan jahil</strong> yang telah dimodifikasi oleh <strong>Aalto</strong>.</p><p>Mainan ini pertama kali muncul saat <strong>ulang tahun Encore</strong>, meskipun <strong>Camellya</strong> sangat tidak setuju dengan selera Aalto dalam memilih hadiah.</p><p>Sekarang, setiap kali ada anggota Black Shores yang berulang tahun, <strong>Encore</strong> selalu memutar lagu ulang tahun yang direkam dalam mainan ini sebagai kejutan kecil</strong>.</p><p>Lagi pula, kejutan tak terduga—dan sering kali tidak menyenangkan—sudah menjadi bagian dari petualangan mereka.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Wooly Dolls</td><td><img src="https://wuthering.wiki/img/T_Treasure18_UI.png" alt=""></td><td><p><strong>Boneka Wooly</strong> adalah hadiah dari <strong>Mama</strong>.</p><p>Mereka selalu mendengarkan Encore dan selalu ada di sisinya.</p><p>Bagi <strong>Encore</strong>, <strong>Woolies bukan hanya proyeksi emosinya</strong>, tetapi juga <strong>teman-teman penting dalam hidupnya</strong>.</p></td></tr><tr><td align="center">Coral Bowl</td><td><img src="https://wuthering.wiki/img/T_Treasure7_UI.png" alt=""></td><td><p>Hidangan spesial <strong>Encore</strong>, dibuat dari <strong>karang ungu dari Black Shores</strong>, dimasak dengan berbagai bahan yang diracik dengan penuh kreativitas.</p><p><strong>Encore</strong> selalu mencoba menciptakan sesuatu yang baru, dan entah bagaimana, <strong>rasa masakannya ternyata cukup enak</strong>.</p><p>Tapi... penampilannya begitu mengerikan hingga butuh keberanian besar untuk mencobanya.</p><p><strong>Bahkan Aalto pun gak sanggup memakannya.</strong></p></td></tr><tr><td align="center">Prank Toy</td><td><img src="https://wuthering.wiki/img/T_Treasure35_UI.png" alt=""></td><td><p>Sebuah <strong>mainan jahil</strong> yang telah dimodifikasi oleh <strong>Aalto</strong>.</p><p>Mainan ini pertama kali muncul saat <strong>ulang tahun Encore</strong>, meskipun <strong>Camellya</strong> sangat tidak setuju dengan selera Aalto dalam memilih hadiah.</p><p>Sekarang, setiap kali ada anggota Black Shores yang berulang tahun, <strong>Encore</strong> selalu memutar lagu ulang tahun yang direkam dalam mainan ini sebagai kejutan kecil.</p><p>Lagi pula, kejutan tak terduga—dan sering kali tidak menyenangkan—sudah menjadi bagian dari petualangan mereka.</p></td></tr></tbody></table>
 
 ## :scroll: Story
 
@@ -129,7 +115,7 @@ Tapi, kenangan pertamanya yang paling jelas tentang **Woolies**-nya berasal dari
 
 Anak-anak lain yang seusianya berteriak penuh semangat, memanggil nama sang pahlawan, tapi panggung masih gelap, dengan tirai yang tertutup rapat.
 
-Sempat kebingungan, mereka akhirnya menemukan irama mereka lagi—bersama-sama meneriakkan&#x20;
+Sempat kebingungan, mereka akhirnya menemukan irama mereka lagi—bersama-sama meneriakkan
 
 > **"Encore!"**
 
@@ -175,12 +161,12 @@ Tak ada yang memperhatikannya selain **Encore**.
 
 Ketika mereka menyadari tak ada orang lain yang mendengar suara mereka, suara **Cosmos** dan **Cloudy** semakin jelas. **Encore** dengan waspada melirik sekelilingnya, memastikan tak ada orang lain yang mendengar.
 
-> "Ayo pergi, **Encore**. Aku bosan sekali..."&#x20;
+> "Ayo pergi, **Encore**. Aku bosan sekali..."
 
 keluh **Cosmos**.\
 Suara itu terdengar lebih mirip **Encore** daripada suara ibunya sendiri.
 
-> "Tapi... tapi **Cloudy** gak mau pergi..."&#x20;
+> "Tapi... tapi **Cloudy** gak mau pergi..."
 
 lirih **Cloudy**, suaranya berubah-ubah—\
 kadang terdengar seperti **Encore**, kadang seperti ibunya.
@@ -188,8 +174,8 @@ kadang terdengar seperti **Encore**, kadang seperti ibunya.
 Kemudian, keheningan sesaat melingkupi mereka.\
 Angin dingin pagi itu berembus kencang, melewati kerumunan yang berduka, membawa suara tanah yang jatuh ke peti mati semakin menjauh.
 
-> "Tidak!" \
-> &#xNAN;"Kita gak bisa nunggu lebih lama! Pertunjukannya hampir selesai!"
+> "Tidak!"\
+> \&#xNAN;"Kita gak bisa nunggu lebih lama! Pertunjukannya hampir selesai!"
 
 seru **Cosmos** dengan tidak sabar.
 
@@ -212,11 +198,11 @@ Pertunjukan telah usai.\
 Lampu-lampu meredup, tirai tertutup rapat.\
 Kesunyian yang mencekam memenuhi teater, dan bayangan ketakutan mulai menghantui **Encore**.
 
-> "**Encore**!"&#x20;
+> "**Encore**!"
 
 teriak **Cosmos**.
 
-> "**Encore**!"&#x20;
+> "**Encore**!"
 
 seru **Cloudy**.
 
@@ -261,14 +247,14 @@ Malam itu, **Cloudy** membacakan cerita lama tentang Rumah Permen.
 Suaranya melemah. Oh tidak. **Cloudy** lupa bagian selanjutnya.\
 Gugup, ia melirik **Cosmos**, lalu menyelimuti dirinya sendiri karena malu.
 
-> "Aku tahu! Aku tahu!"&#x20;
+> "Aku tahu! Aku tahu!"
 
 seru **Cosmos**, dengan penuh semangat.\
 Ia mendorong **Cloudy** ke samping, lalu berdiri tegak di samping ranjang Encore.
 
 > "Lalu, Sang Hebat **Encore**, yang diberkati dengan api yang berkobar, mengalahkan kucing jahat! Bulu kotorannya terbakar habis!"
 
-> "Lalu, bagaimana dengan teman-teman Sang Hebat **Encore**?"&#x20;
+> "Lalu, bagaimana dengan teman-teman Sang Hebat **Encore**?"
 
 tanya **Encore**, mengantuk.
 
@@ -321,7 +307,7 @@ Yang kini tertidur nyenyak dalam pelukannya.
 
 Kesan pertama **Encore** terhadap **Aalto** berada di antara "lumayan" dan "aneh."
 
-> "Orang dewasa yang aneh tapi seru,"&#x20;
+> "Orang dewasa yang aneh tapi seru,"
 
 komentarnya.
 
@@ -355,7 +341,7 @@ Dan **Sistem Tethys tak pernah salah**.
 Bagi **Encore**, **Aalto** terlihat seperti anjing besar... atau mungkin serigala. Serigala abu-abu yang ramah, yang tidak akan mengancamnya.
 
 > "Oh iya, kamu ini **Encore**. Benar juga. Kamu yang kucari."\
-> &#xNAN;"Tunggu! Kenapa kau manggil aku 'paman'?! Coba lihat baik-baik, aku gak setua itu, kan?"
+> \&#xNAN;"Tunggu! Kenapa kau manggil aku 'paman'?! Coba lihat baik-baik, aku gak setua itu, kan?"
 
 Raut wajah **Aalto** yang putus asa hanya membuat **Encore** tertawa.\
 Sepertinya, karena terlalu bosan dirawat di rumah sakit, dia ingin sedikit mengerjai orang dewasa aneh ini.
@@ -380,26 +366,26 @@ Nada **Aalto** berubah serius, lalu kembali santai seperti biasa.
 
 > "Kamu bisa dapat permen sebanyak yang kamu mau. Tapi ya... gak terlalu banyak, sih. Nanti gigimu rusak."
 
-> "Hmm... mencurigakan,"&#x20;
+> "Hmm... mencurigakan,"
 
 gumam **Encore**, matanya berbinar penasaran.
 
 Alih-alih menjawab pertanyaan **Aalto**, ia mengangkat **Cosmos** dan **Cloudy**, lalu mendekatkan mereka ke telinganya.
 
 > "**Woolies**? Kalian mau ngomong sesuatu?"\
-> &#xNAN;"Hmm... Hah? Serius? Jadi paman aneh ini sebenarnya orang baik?"\
-> &#xNAN;"Gak mungkin!"
+> \&#xNAN;"Hmm... Hah? Serius? Jadi paman aneh ini sebenarnya orang baik?"\
+> \&#xNAN;"Gak mungkin!"
 
-> "Hei! Aku bisa terima kalau kamu manggil aku 'paman' sekarang, tapi kenapa 'gak mungkin'?! \
+> "Hei! Aku bisa terima kalau kamu manggil aku 'paman' sekarang, tapi kenapa 'gak mungkin'?!\
 > Apa aku gak keliatan kayak orang baik?"
 
 > "Karena **Cosmos** dan **Cloudy** bilang kamu orang baik, **Encore** akan ikut!"
 
-**Encore** mengangkat dagunya dengan bangg*, berusaha **menggunakan nada bicara resmi**.
+**Encore** mengangkat dagunya dengan bangg\*, berusaha **menggunakan nada bicara resmi**.
 
 > "Tapi **Cosmos** dan **Cloudy** juga ikut. Mereka teman terbaik **Encore**."
 
-> "Tentu."&#x20;
+> "Tentu."
 
 **Aalto** mengangguk tanpa ragu.
 
@@ -413,11 +399,10 @@ Tapi bagi **Encore**, ini adalah awal dari sebuah petualangan.
 
 Ia memeluk **Woolies** kesayangannya, berputar-putar dalam kebahagiaan—pertama dengan **Cosmos**, lalu dengan **Cloudy**.
 
-Seiring waktu, ia belajar untuk memperlakukan semua temannya dengan cinta dan perhatian yang sama. Namun, tiba-tiba **Encore*** teringat sesuatu yang penting.
+Seiring waktu, ia belajar untuk memperlakukan semua temannya dengan cinta dan perhatian yang sama. Namun, tiba-tiba **Encore**\* teringat sesuatu yang penting.
 
 > "Sebentar, kita akan melakukan apa?"
 
 **Aalto** tersenyum misterius, lalu kembali mengenakan kacamata hitamnya.
 
 > **"Menyelamatkan dunia, tentu saja!"**
-

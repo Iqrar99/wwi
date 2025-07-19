@@ -1,20 +1,6 @@
 ---
 cover: https://i.postimg.cc/CKGXfP8t/Calcharo.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Calcharo
@@ -206,4 +192,4 @@ Teminologi
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/DzJLpfhF/Calcharo-Revisi.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/DzrS5MxY/Calcharo-2102-03-07-2025.png" alt=""><figcaption></figcaption></figure>

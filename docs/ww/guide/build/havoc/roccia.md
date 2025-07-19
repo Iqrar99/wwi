@@ -1,20 +1,6 @@
 ---
 cover: https://i.postimg.cc/vHSsQN7t/Roccia.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Roccia

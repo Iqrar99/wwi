@@ -1,20 +1,6 @@
 ---
 cover: https://i.postimg.cc/QMGvCGF1/Xiangli-Yao.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Xiangli Yao
@@ -232,4 +218,4 @@ Teminologi
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/7YxStC4H/Xiangli-Yao-latest.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/ZRJCQxgY/XLY_2139_03_07_2025.png" alt=""><figcaption></figcaption></figure>

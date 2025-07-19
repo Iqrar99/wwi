@@ -1,20 +1,6 @@
 ---
 cover: https://i.postimg.cc/YqvPxqgQ/Changli.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Changli
@@ -194,4 +180,4 @@ Teminologi
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/tgSGQ53H/Changli-Revisi.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/PJxNXrTB/Changli-2101-03-07-2025.png" alt=""><figcaption></figcaption></figure>

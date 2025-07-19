@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Zezhi
 
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1105.png" alt="" width="375"><figcaption><p>Seorang <strong>seniman lepas</strong> yang berusaha mencari nafkah. Pendiam dan pemalu, ia tidak pandai merangkai kata-kata, tetapi setiap lukisannya berbicara lebih lantang daripada yang bisa ia ungkapkan. Dalam karyanya, dunia yang ia ciptakan tampak begitu nyata—seolah memiliki kehidupan sendiri, dengan <strong>keaslian yang nyaris mustahil</strong>.</p></figcaption></figure></div>
@@ -63,21 +49,21 @@ Grafik gelombang **Zhezhi** menunjukkan pola yang teratur dengan beberapa fluktu
 
 ### <mark style="color:blue;">Prized Possessions</mark>
 
-Gadis kecil itu dengan bangga menunjukkan lukisannya kepada ibunya, bersemangat untuk berbagi pencapaiannya. Sang ibu, yang sibuk memilih perhiasan yang akan dipakai, hanya melirik sekilas karya itu.&#x20;
+Gadis kecil itu dengan bangga menunjukkan lukisannya kepada ibunya, bersemangat untuk berbagi pencapaiannya. Sang ibu, yang sibuk memilih perhiasan yang akan dipakai, hanya melirik sekilas karya itu.
 
-> "Mengagumkan, **Zhezhi**,"&#x20;
+> "Mengagumkan, **Zhezhi**,"
 
-gumamnya dengan senyum singkat.&#x20;
+gumamnya dengan senyum singkat.
 
-Mendapat pujian, **Zhezhi** mendekat dengan antusias.&#x20;
+Mendapat pujian, **Zhezhi** mendekat dengan antusias.
 
-> "Orang-orang di dalam lukisan ini adalah—"&#x20;
+> "Orang-orang di dalam lukisan ini adalah—"
 
 Kata-katanya terhenti ketika ibunya berbalik, kembali fokus pada pilihan pakaiannya, sama sekali tak menyadari usaha putrinya untuk terhubung dengannya.
 
 > "Bagus sekali. Sekarang, bagaimana kalau kau melukis beberapa lagi sebelum para tamu datang?"
 
-**Zhezhi** berkedip, kehilangan kata-kata. Ibunya semakin tidak sabar, menghela napas sebelum menggiringnya ke pintu.&#x20;
+**Zhezhi** berkedip, kehilangan kata-kata. Ibunya semakin tidak sabar, menghela napas sebelum menggiringnya ke pintu.
 
 > "Belilah semua perlengkapan yang kau butuhkan, sayang. Harganya tidak masalah, kita mampu membelinya. Sekarang, Ibu harus bersiap. Jadilah anak yang baik. Pergilah."
 
@@ -85,11 +71,11 @@ Saat pintu tertutup, **Zhezhi** hanya bisa menatapnya, ingin mengatakan sesuatu,
 
 Malam harinya, dengan pakaian yang rapi dan anggun, **Zhezhi** duduk di sudut ruangan, menggenggam ujung rok dengan gugup di tengah hiruk-pikuk para tamu. Sang ibu meliriknya, merasa tidak nyaman melihat putrinya yang terlihat canggung. Kenangan tentang perjuangan keluarga mereka di masa lalu melintas di benaknya.
 
-Ia melangkah maju, menggenggam tangan **Zhezhi** dan membawanya ke pusat perhatian.&#x20;
+Ia melangkah maju, menggenggam tangan **Zhezhi** dan membawanya ke pusat perhatian.
 
-> "Tahukah kalian? **Zhezhi** sudah berbakat sejak lahir. Lukisan-lukisannya terpilih untuk pameran bahkan sebelum kami mempekerjakan seorang tutor."&#x20;
+> "Tahukah kalian? **Zhezhi** sudah berbakat sejak lahir. Lukisan-lukisannya terpilih untuk pameran bahkan sebelum kami mempekerjakan seorang tutor."
 
-Dengan senyum yang sempurna, ia meniru keanggunan kaum kelas atas.&#x20;
+Dengan senyum yang sempurna, ia meniru keanggunan kaum kelas atas.
 
 > "Apakah kalian ingin sebuah lukisan juga? **Zhezhi** bisa menyelesaikannya dalam satu hari."
 
@@ -113,7 +99,7 @@ Saat malam semakin larut dan rumah akhirnya sunyi, **Zhezhi** mengumpulkan keber
 
 ### <mark style="color:blue;">The True Meaning of Art</mark>
 
-**Zhezhi** baru menyadari ada yang kurang dalam lukisannya ketika ia pergi ke pedesaan untuk membuat sketsa. Saat ia menghirup udara segar dan menikmati keindahan alam, ide baru tiba-tiba menyapanya seperti sinar matahari yang menerobos awan. Ia menoleh ke sekeliling, memastikan tak ada orang lain, lalu merentangkan tangannya—untuk sesaat, \
+**Zhezhi** baru menyadari ada yang kurang dalam lukisannya ketika ia pergi ke pedesaan untuk membuat sketsa. Saat ia menghirup udara segar dan menikmati keindahan alam, ide baru tiba-tiba menyapanya seperti sinar matahari yang menerobos awan. Ia menoleh ke sekeliling, memastikan tak ada orang lain, lalu merentangkan tangannya—untuk sesaat,\
 ia melepaskan semua tuntutan orang tuanya.
 
 Saat kakinya yang telanjang menyentuh rumput, sensasi dingin dan tajamnya membangkitkan perasaan segar yang belum pernah ia alami sebelumnya. Ia pun berlari tanpa beban, meninggalkan kekhawatiran tentang citra keluarga yang harus ia pertahankan.
@@ -122,19 +108,19 @@ Namun, suaranya tiba-tiba terdengar dari kejauhan.
 
 > "Hei, siapa kau? Ngapain di ladang kami?"
 
-Terkejut, **Zhezhi** langsung menunduk, malu karena menyadari dirinya telah menginjak properti milik orang lain.&#x20;
+Terkejut, **Zhezhi** langsung menunduk, malu karena menyadari dirinya telah menginjak properti milik orang lain.
 
 > "Maaf! Aku datang untuk melukis. Aku tidak tahu ini milik seseorang..."
 
-Gadis yang berbicara dengannya tertawa kecil, melihat kepanikan di wajah **Zhezhi**.&#x20;
+Gadis yang berbicara dengannya tertawa kecil, melihat kepanikan di wajah **Zhezhi**.
 
 > "Santai aja! Sayur-sayur ini kuat, nggak bakal rusak cuma karena diinjak. Jadi, kau seorang pelukis, ya? Menarik juga..."
 
-**Zhezhi** ragu sejenak, memperhatikan gadis itu yang sibuk bekerja.&#x20;
+**Zhezhi** ragu sejenak, memperhatikan gadis itu yang sibuk bekerja.
 
 > "Biar aku bantu..."
 
-Gadis itu menatapnya dengan tatapan berbinar.&#x20;
+Gadis itu menatapnya dengan tatapan berbinar.
 
 > "Serius? Wah, terima kasih! Nih, pakai sabit ini. Aku ambil satu lagi!"
 
@@ -148,7 +134,7 @@ Namun, kebahagiaan itu seketika sirna ketika sebuah suara tajam memecah suasana.
 
 **Zhezhi** menoleh dan melihat ibunya berdiri di sana, matanya menyipit penuh amarah. Ia bisa merasakan ketidaksukaan ibunya terhadap teman barunya. Panik, ia segera bangkit, berlari untuk menjelaskan dan meminta maaf, kembali berubah menjadi anak penurut yang selalu diinginkan orang tuanya.
 
-Beberapa hari kemudian, gadis petani itu menerima sebuah gulungan. \
+Beberapa hari kemudian, gadis petani itu menerima sebuah gulungan.\
 |Dengan hati-hati, ia membukanya, lalu tertegun.
 
 Lukisan itu menampilkan dirinya dan **Zhezhi**, tengah memanen sayuran di ladangnya, dengan sinar matahari menerangi keduanya.
@@ -165,27 +151,27 @@ Minggu depan? Apa dia pikir sayur-sayur ini bakal tumbuh secepat itu?
 
 **Zhezhi** berdiri tak jauh dari toko perlengkapan seni, menatap pegawai bertubuh tinggi dengan wajah garang yang sedang mengerutkan dahi sambil menulis sesuatu di buku catatan. Dia ragu-ragu, lalu melangkah mundur beberapa langkah.
 
-> "Mungkin aku harus pergi ke toko lain..."&#x20;
+> "Mungkin aku harus pergi ke toko lain..."
 
-Pikiran itu baru saja terlintas di benaknya sebelum dia menepisnya.&#x20;
+Pikiran itu baru saja terlintas di benaknya sebelum dia menepisnya.
 
 > "Tapi... ini satu-satunya toko yang punya perlengkapan terbaru..."
 
-**Zhezhi** berhenti mondar-mandir dan mengeluarkan koin—sebuah kebiasaan yang ia kembangkan untuk situasi seperti ini. Dia melemparkan koin ke udara, menangkapnya, lalu berpikir,&#x20;
+**Zhezhi** berhenti mondar-mandir dan mengeluarkan koin—sebuah kebiasaan yang ia kembangkan untuk situasi seperti ini. Dia melemparkan koin ke udara, menangkapnya, lalu berpikir,
 
 > "Seperti biasa. **Gambar**, aku masuk. **Angka**, aku kembali lain kali..."
 
-Perlahan, dia membuka telapak tangannya, melirik sebentar, lalu buru-buru mengepalkan tangannya lagi.&#x20;
+Perlahan, dia membuka telapak tangannya, melirik sebentar, lalu buru-buru mengepalkan tangannya lagi.
 
 > "Tunggu, deh. **Dua dari tiga kali lemparan**."
 
-Koin itu melayang lagi dan jatuh ke tangannya.&#x20;
+Koin itu melayang lagi dan jatuh ke tangannya.
 
-> "Gambar lagi,"&#x20;
+> "Gambar lagi,"
 
 desahnya.
 
-Menggenggam koin erat-erat, **Zhezhi** menarik napas dalam-dalam dan menguatkan dirinya.&#x20;
+Menggenggam koin erat-erat, **Zhezhi** menarik napas dalam-dalam dan menguatkan dirinya.
 
 > "Ya sudahlah, anggap saja ini tanda. Aku nggak bisa terus-terusan menghindar."
 
@@ -195,10 +181,10 @@ Dengan napas panjang untuk mengumpulkan keberanian, dia berjalan ke toko dan men
 
 Begitu berhasil mengucapkan semuanya tanpa tersendat, **Zhezhi** menarik napas dalam-dalam untuk mengatur ritme jantungnya. Saat dia mengangkat kepala, matanya bertemu dengan pegawai toko yang baru saja keluar dari ruangan belakang.
 
-> "Halo! Ada yang bisa saya bantu?"&#x20;
+> "Halo! Ada yang bisa saya bantu?"
 
 Suara pegawai itu terdengar lembut—sangat berbeda dari yang ia bayangkan.\
-Menyadari bahwa kata-kata yang tadi ia ucapkan tidak terdengar, **Zhezhi** membeku.&#x20;
+Menyadari bahwa kata-kata yang tadi ia ucapkan tidak terdengar, **Zhezhi** membeku.
 
 > "Uhh... aku..."
 
@@ -212,7 +198,7 @@ Menyadari bahwa kata-kata yang tadi ia ucapkan tidak terdengar, **Zhezhi** membe
 
 > "Jangan buru-buru. Silakan lihat-lihat dulu."
 
-Masih berkeringat dan gugup, **Zhezhi** berjalan menuju rak.&#x20;
+Masih berkeringat dan gugup, **Zhezhi** berjalan menuju rak.
 
 > "O-Oke..."
 
@@ -236,7 +222,7 @@ Koridor hotel yang lapuk dipenuhi dengan suara pertengkaran dan teriakan. Duduk 
 
 Perjalanannya dari kehidupan mewah ke kesulitan ini terasa tak ada ujungnya, setiap hari menjadi pengingat yang menyakitkan. Angka-angka dari utang orang tuanya seakan berkedip di langit-langit kamar gelap tanpa jendela. Tangannya, yang dipenuhi perban lusuh, gemetar setelah melukis tanpa henti selama **dua hari**, tetapi ia tak berani berhenti.
 
-> "Ini pesanan besar... Aku nggak boleh gagal,"&#x20;
+> "Ini pesanan besar... Aku nggak boleh gagal,"
 
 gumamnya, matanya yang lelah mulai kabur saat menatap lanskap di kanvasnya.
 
@@ -289,8 +275,7 @@ Beberapa hari kemudian, suara yang familiar membuyarkan lamunannya saat ia tenga
 
 > "Jangan khawatir, kami hanya ingin mengobrol."
 
-**Zhezhi** mendongak dan bertemu sepasang mata emas. Ingatan tentang malam itu langsung membanjiri pikirannya—ini adalah orang yang pernah memuji lukisannya. Suaranya jernih, bebas dari kepalsuan yang selama ini membuatnya muak. \
+**Zhezhi** mendongak dan bertemu sepasang mata emas. Ingatan tentang malam itu langsung membanjiri pikirannya—ini adalah orang yang pernah memuji lukisannya. Suaranya jernih, bebas dari kepalsuan yang selama ini membuatnya muak.\
 Suara itu telah memberinya kekuatan di saat ia hampir menyerah.
 
 Kehangatan dari malam itu kembali mengalir, mengisi dunianya yang sempat memudar menjadi abu-abu, kini kembali penuh warna.
-

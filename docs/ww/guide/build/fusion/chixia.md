@@ -1,20 +1,6 @@
 ---
 cover: https://i.postimg.cc/bYCMb2Gz/Chixia.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Chixia
@@ -142,4 +128,3 @@ TBA
 ## Infografis
 
 <figure><img src="https://i.postimg.cc/rpwV5gL0/Chixia-Revisi.png" alt=""><figcaption></figcaption></figure>
-

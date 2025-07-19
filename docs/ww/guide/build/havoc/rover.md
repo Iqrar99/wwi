@@ -1,23 +1,9 @@
 ---
 cover: https://i.postimg.cc/wTBzYpNB/Rover-Male.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# Rover
+# Havoc Rover
 
 {% hint style="info" %}
 **HAVOC ROVER COMBAT ROLES**
@@ -158,6 +144,3 @@ TBA
 ## Infografis
 
 <figure><img src="https://i.postimg.cc/1tVBFcXG/Havoc-Rover-Revisi.png" alt=""><figcaption></figcaption></figure>
-
-
-

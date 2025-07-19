@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Brant
 
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1206.png" alt="" width="375"><figcaption><p><strong>Brant</strong>, kapten <strong>Rinascita's Troupe of Fools</strong>, adalah jiwa yang bebas dan romantis. Tak terduga dan penuh kehidupan, dia adalah jantung dari rombongan tersebut. Di atas panggung, dia memerankan banyak peran, mengenakan topeng baru untuk menghidupkan setiap cerita. Namun di luar sorotan, dia selalu tulus, menawarkan ketulusan sejati kepada orang-orang di sekitarnya.</p></figcaption></figure></div>

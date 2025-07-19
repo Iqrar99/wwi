@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Zani
 
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1507.png" alt="" width="375"><figcaption><p>Anggota tim keamanan <strong>Averardo Vault</strong> dan pemegang gelar "Karyawan Terbaik" selama lebih lama dari yang ingin ia ingat. <br>Ia punya banyak rencana untuk waktu luangnya, tapi untuk sekarang, <br>misinya yang paling penting sangat sederhana: <strong>pulang tepat waktu</strong>.</p></figcaption></figure></div>

@@ -2,20 +2,6 @@
 cover: >-
   https://cdn.donmai.us/original/78/5d/__lingyang_wuthering_waves_drawn_by_nagito__785dbacc41fd40373e1db1193d9c7742.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Lingyang - Wild Heart's Return

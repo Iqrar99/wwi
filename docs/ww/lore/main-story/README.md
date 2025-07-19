@@ -1,20 +1,6 @@
 ---
 cover: https://i.postimg.cc/43ndwcfX/Main-Story.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Main Story

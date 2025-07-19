@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Mortefi
 
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1204.png" alt="" width="375"><figcaption><p><strong>Mortefi</strong>, seorang ahli terampil dalam <strong>Applied Tacetite Study</strong> dan anggota <strong>Departemen Keamanan Akademi</strong>, memiliki <strong>kemampuan unik untuk mengubah frustrasi yang ia kumpulkan menjadi kobaran api yang mengamuk</strong>. Dari amarah yang membakar segalanya, sang naga merah akan turun.</p></figcaption></figure></div>
@@ -117,7 +103,7 @@ Namun, di balik semua itu, yang benar-benar mendefinisikan **Mortefi** adalah de
 Meskipun prestasinya tidak terbantahkan, identitasnya sebagai peneliti asing tetap menuai kecurigaan dan rumor.
 
 > "Dia pasti masuk karena koneksi keluarganya."\
-> &#xNAN;"Atau mungkin dia menyuap pejabat untuk mendapatkan posisi itu?"
+> \&#xNAN;"Atau mungkin dia menyuap pejabat untuk mendapatkan posisi itu?"
 
 Namun, **Mortefi** membungkam semua keraguan dengan kemampuannya yang luar biasa.
 
@@ -144,7 +130,7 @@ Ketika **Mortefi** mengetahuinya, ia hanya **tertawa pasrah**.
 
 > "Mereka sebenarnya tahu apa yang ingin mereka katakan. Tapi tekanan sosial dan norma budaya membuat mereka diam. Sebagai orang luar yang tak terikat oleh adat Huanglong, kebetulan saja aku bisa bicara tanpa hambatan."
 
-Sebagai seorang pria asing dari kalangan elit yang tidak perlu mengkhawatirkan status sosial atau dana penelitian, memang **Mortefi** memiliki kebebasan yang tidak dimiliki banyak orang**.\
+Sebagai seorang pria asing dari kalangan elit yang tidak perlu mengkhawatirkan status sosial atau dana penelitian, memang **Mortefi** memiliki kebebasan yang tidak dimiliki banyak orang\*\*.\
 Lama-kelamaan, **Mortefi** justru menarik banyak pengikut dari kalangan ilmuwan yang canggung secara sosial.
 
 > Bagaimanapun, dia tidak pernah ragu untuk membela siapa pun—bahkan orang asing yang baru ia temui.
@@ -175,7 +161,7 @@ Beberapa karyanya meliputi:
 * **Swinging Loongboat**,
 * **Sabyrboar Scooter**.
 
-Yang mengejutkan,*ia tidak pernah menagih royalti atas desainnya.\
+Yang mengejutkan,\*ia tidak pernah menagih royalti atas desainnya.\
 Bagi **Mortefi**, ini bukan soal uang, tapi tentang melihat kebahagiaan, kekaguman, dan rasa takjub di mata anak-anak. Atau mungkin, ini adalah caranya untuk menghidupkan kembali masa kecil yang hilang.
 
 Namun, banyak orang merasa **Mortefi** menyia-nyiakan bakatnya.\
@@ -233,7 +219,7 @@ Tak ada yang tahu mengapa **Mortefi** meninggalkan New Federation di hari upacar
 Namun kini, ia begitu terobsesi dengan studi **Tacetite**.
 
 > "Aku hanya sedikit meningkatkan **modul Tacetite** di **turret** ini. Sekarang, output-nya bisa meningkat hingga seratus kali lipat."\
-> &#xNAN;"Tapi pastikan kalian mengikuti 100 aturan operasionalnya..."
+> \&#xNAN;"Tapi pastikan kalian mengikuti 100 aturan operasionalnya..."
 
 > "Tunggu, kalau aku tidak mengikuti aturan itu, apa yang akan terjadi?"
 
@@ -270,4 +256,3 @@ Mungkin,"sihir" yang sesungguhnya di Akademi ini bukanlah **Tacetite** atau **Wu
 Tak terikat oleh ekspektasi sosial, ia bekerja tanpa henti demi kemajuan pengetahuan umat manusia. Namun, seperti biasa...
 
 > Kemungkinan besar akan ada lebih banyak keluhan yang harus ditangani oleh Direktur baru.
-

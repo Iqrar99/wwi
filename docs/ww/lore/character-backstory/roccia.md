@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Roccia
 
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1606.png" alt="" width="375"><figcaption><p>Sebagai asisten, penata properti, dan komedian improvisasi, <strong>Roccia</strong> selalu siap memastikan <strong>Fool's Troupe</strong> siap siaga. Kotak Ajaib yang dibawanya tampak menyimpan dunia, atau mungkin ia telah menciptakan kembali dunia di dalam kotak itu.</p></figcaption></figure></div>

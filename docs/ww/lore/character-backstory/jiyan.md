@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Jiyan
 
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1404.png" alt="" width="375"><figcaption><p><strong>Jiyan</strong>, pemimpin <strong>Midnight Rangers</strong>, bertindak dengan kecepatan dan ketegasan yang luar biasa. Dia memiliki kemampuan dahsyat untuk memanggil <strong>Qingloong</strong> dari angin, membuatnya nyaris tak terkalahkan di medan perang.</p></figcaption></figure></div>
@@ -53,7 +39,7 @@ Grafik gelombang untuk **Resonator Jiyan** menunjukkan fluktuasi pulsa persegi y
 
 ## :package: Cherished Items
 
-<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">The Art of War</td><td><img src="https://wuthering.wiki/img/T_Treasure41_UI.png" alt=""></td><td><p><em>"Seorang jenderal harus memiliki kebijaksanaan, kepercayaan, kebaikan hati, keberanian, dan disiplin."</em></p><p></p><p>Seorang pemimpin tidak hanya membutuhkan kekuatan tak terkalahkan untuk memimpin pasukan. Yang lebih penting adalah pemikiran strategis dan perencanaan yang matang. Karena itulah, meja kerja <strong>Jiyan</trong> selalu dipenuhi dengan buku-buku tentang taktik perang, penuh dengan catatan yang mencerminkan strateginya sendiri.</p></td></tr><tr><td align="center">Medicine Box</td><td><img src="https://wuthering.wiki/img/T_Treasure40_UI.png" alt=""></td><td>Saat <strong>Jiyan</strong> bergabung dengan militer, ibunya memberinya sebuah kotak obat berbentuk <strong>Terminal</strong> sebagai hadiah. Sang ibu takut <strong>Jiyan</strong> akan berubah menjadi mesin pembunuh di medan perang dan mengingatkannya akan peran sebagai penyembuh. Kini, <strong>Jiyan</strong> selalu membawa kotak tersebut, berisi obat-obatan yang mungkin diperlukan kapan saja.</td></tr><tr><td align="center">A Corner of Jinzhou</td><td><img src="https://wuthering.wiki/img/T_Treasure26_UI.png" alt=""></td><td>Pada suatu sore biasa di <strong>Jinzhou</strong>, matahari bersinar cerah dan menyinari ribuan rumah. <strong>Jiyan</strong>, yang sedang mengamati pemandangan itu, tanpa sadar mengabadikannya dalam sebuah foto. Dalam keheningan damai itu, pengorbanan para prajurit terasa semakin bermakna.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">The Art of War</td><td><img src="https://wuthering.wiki/img/T_Treasure41_UI.png" alt=""></td><td><p><em>"Seorang jenderal harus memiliki kebijaksanaan, kepercayaan, kebaikan hati, keberanian, dan disiplin."</em></p><p>Seorang pemimpin tidak hanya membutuhkan kekuatan tak terkalahkan untuk memimpin pasukan. Yang lebih penting adalah pemikiran strategis dan perencanaan yang matang. Karena itulah, meja kerja <strong>Jiyan selalu dipenuhi dengan buku-buku tentang taktik perang, penuh dengan catatan yang mencerminkan strateginya sendiri.</strong></p></td></tr><tr><td align="center">Medicine Box</td><td><img src="https://wuthering.wiki/img/T_Treasure40_UI.png" alt=""></td><td>Saat <strong>Jiyan</strong> bergabung dengan militer, ibunya memberinya sebuah kotak obat berbentuk <strong>Terminal</strong> sebagai hadiah. Sang ibu takut <strong>Jiyan</strong> akan berubah menjadi mesin pembunuh di medan perang dan mengingatkannya akan peran sebagai penyembuh. Kini, <strong>Jiyan</strong> selalu membawa kotak tersebut, berisi obat-obatan yang mungkin diperlukan kapan saja.</td></tr><tr><td align="center">A Corner of Jinzhou</td><td><img src="https://wuthering.wiki/img/T_Treasure26_UI.png" alt=""></td><td>Pada suatu sore biasa di <strong>Jinzhou</strong>, matahari bersinar cerah dan menyinari ribuan rumah. <strong>Jiyan</strong>, yang sedang mengamati pemandangan itu, tanpa sadar mengabadikannya dalam sebuah foto. Dalam keheningan damai itu, pengorbanan para prajurit terasa semakin bermakna.</td></tr></tbody></table>
 
 ## :scroll: Story
 
@@ -85,15 +71,15 @@ Sementara itu, **Midnight Rangers** yang ditempatkan di **Norfall Barrens** dipe
 
 ### <mark style="color:blue;">The Reason to Fight</mark>
 
-**Jiyan** adalah jenderal termuda dalam sejarah **Midnight Rangers**. Ia adalah **Qingloong** yang dikagumi banyak orang, prajurit tak terkalahkan yang tak satupun musuh bisa menandingi. \
+**Jiyan** adalah jenderal termuda dalam sejarah **Midnight Rangers**. Ia adalah **Qingloong** yang dikagumi banyak orang, prajurit tak terkalahkan yang tak satupun musuh bisa menandingi.\
 Namun, di suatu titik, ia mulai dihantui oleh mimpi buruk yang terus berulang.
 
-Dalam mimpinya, kota **Jinzhou** dilalap api dan dikuasai oleh **Tacet Discord**. Monster-monster itu mengamuk, menyerap frekuensi dari orang-orang yang telah mati. \
+Dalam mimpinya, kota **Jinzhou** dilalap api dan dikuasai oleh **Tacet Discord**. Monster-monster itu mengamuk, menyerap frekuensi dari orang-orang yang telah mati.\
 Suara kacau bergema di seluruh kota, menciptakan simfoni kehancuran.
 
 Di medan perang yang diterangi oleh nyala api, seorang pria bertarung sendirian dengan tombaknya. Setiap ayunan menembus udara. Satu, dua, tiga... Ratusan ribu **Tacet Discord** jatuh di bawah serangan tak henti-hentinya.
 
-Namun meski telah mengerahkan segala upayanya, pria itu tak pernah bisa menghentikan gerombolan **Tacet Discord** yang terus berdatangan. Hari demi hari, tahun demi tahun, ia bertarung sia-sia hingga akhirnya hanya ia seorang diri yang tersisa di medan perang yang sunyi. \
+Namun meski telah mengerahkan segala upayanya, pria itu tak pernah bisa menghentikan gerombolan **Tacet Discord** yang terus berdatangan. Hari demi hari, tahun demi tahun, ia bertarung sia-sia hingga akhirnya hanya ia seorang diri yang tersisa di medan perang yang sunyi.\
 Kemudian, **Tacet Discord** berubah menjadi rekan-rekannya yang telah gugur, mengepungnya, mendekat perlahan.
 
 > "Anak ingusan itu?! Bagaimana kita bisa mempercayakan nyawa kita padanya?"
@@ -122,7 +108,7 @@ Saat departemen logistik mengalami kekurangan dana, mereka menerima pemberitahua
 
 Tidak peduli seberapa besar atau kecil masalahnya, selalu ada seseorang yang memastikan semuanya tertangani tepat waktu. Seperti hujan lembut yang membasahi tanah kering, seseorang diam-diam mengatur segala sesuatu agar tidak ada yang terabaikan.
 
-> "Kapten Tim 3 jelas mengalami kesulitan menggunakan kaki kirinya saat latihan. Aku memeriksa riwayat operasinya, ternyata itu akibat terlalu lama terjebak di rawa dalam misi sebelumnya. \
+> "Kapten Tim 3 jelas mengalami kesulitan menggunakan kaki kirinya saat latihan. Aku memeriksa riwayat operasinya, ternyata itu akibat terlalu lama terjebak di rawa dalam misi sebelumnya.\
 > Berikan resep ini ke tim medis, mereka tahu harus melakukan apa."
 
 > "Transfer sejumlah dana ke akun ini atas nama **Departemen Urusan Umum**. Ambil dari akunku."
@@ -133,7 +119,7 @@ Inilah **Jiyan**. Keganasannya hanya untuk musuh, tapi kelembutannya untuk rekan
 
 ### <mark style="color:blue;">What’s Inside His Gourd?</mark>
 
-Saat ditanya tentang masa kecilnya, **Jiyan** mengingat banyak hal: bau obat-obatan, cahaya terang di ruang operasi, suara alat medis yang saling berbenturan, \
+Saat ditanya tentang masa kecilnya, **Jiyan** mengingat banyak hal: bau obat-obatan, cahaya terang di ruang operasi, suara alat medis yang saling berbenturan,\
 dan lorong tempat banyak perpisahan terjadi.
 
 Lahir di keluarga dokter, **Jiyan** sudah menjadi asisten ibunya sejak usia **10 tahun**. Dia sangat ahli dalam keterampilan medis dan populer di kalangan pasien, bukan hanya karena kemampuannya, tetapi juga karena caranya menenangkan mereka dan memenuhi kebutuhan mereka.
@@ -142,7 +128,7 @@ Meskipun keahliannya luar biasa, tetap ada beberapa nyawa yang tidak bisa ia sel
 
 **Beiwang** awalnya dikenal **Jiyan** sebagai pasien, seperti banyak **Midnight Rangers** lainnya yang membutuhkan perawatan setelah bertarung melawan gelombang **Tacet Discords** yang terus mengancam.
 
-**Beiwang** terkesan dengan kecerdasan dan intuisi **Jiyan**, hingga akhirnya mulai berbagi kisah tentang perjalanan **Midnight Rangers** dan memberikan pelatihan militer kepadanya. \
+**Beiwang** terkesan dengan kecerdasan dan intuisi **Jiyan**, hingga akhirnya mulai berbagi kisah tentang perjalanan **Midnight Rangers** dan memberikan pelatihan militer kepadanya.\
 Sebaliknya, **Jiyan** ikut berkontribusi dalam diskusi strategi dengan analisisnya, meskipun ia sendiri belum pernah bertarung. Perspektif uniknya membawa energi baru ke dalam perbincangan mereka, membuka sudut pandang baru bagi **Beiwang**.
 
 Kematian **Beiwang** menjadi titik balik bagi **Jiyan**—kesedihan, kekecewaan, dan penyesalannya berubah menjadi tekad untuk mengangkat tombak dan bertarung di medan perang.
@@ -151,7 +137,7 @@ Kematian **Beiwang** menjadi titik balik bagi **Jiyan**—kesedihan, kekecewaan,
 
 Sekarang, satu-satunya tanda bahwa dia pernah menjadi seorang dokter hanyalah tempat pil berbentuk labu yang tergantung di ikat pinggangnya. Banyak yang berspekulasi tentang isi labu itu, ada yang bilang dia membawa permen untuk menenangkan anak-anak, dan ada juga yang mengatakan dia minum darinya setelah bertarung.
 
-Jika ada yang bertanya langsung kepadanya, **Jiyan** hanya akan menjawab dengan santai,&#x20;
+Jika ada yang bertanya langsung kepadanya, **Jiyan** hanya akan menjawab dengan santai,
 
 > "Cuma obat-obatan biasa, buat jaga-jaga kalau ada yang butuh."
 
@@ -165,10 +151,10 @@ Di tengah semaraknya **Jinzhou Riverside Games**, sekelompok pemuda berdiri bers
 
 > "Iya, bantu kami, **Jiyan**!" seru mereka serempak, penuh harap.
 
-Di tengah mereka berdiri seorang pemuda dengan mata penuh semangat. \
+Di tengah mereka berdiri seorang pemuda dengan mata penuh semangat.\
 Melihat tatapan tulus teman-temannya, dia mengangguk. Maka, tim dadakan pun terbentuk.
 
-**Jiyan** segera menanyakan kondisi tiap anggota tim dan urutan lari estafet. \
+**Jiyan** segera menanyakan kondisi tiap anggota tim dan urutan lari estafet.\
 Setelah mempertimbangkan strategi, dia memutuskan untuk mengambil posisi pelari terakhir.
 
 Awalnya dibuat untuk mengurangi ketegangan warga Jinzhou setelah kemenangan pertama mereka melawan **Tacet Discord Outbreaks**, **Jinzhou Riverside Games** kini telah berkembang menjadi ajang besar di Jinzhou, dengan **Gulpuff Relay** sebagai salah satu acara utama.
@@ -185,7 +171,7 @@ Di tengah riuhnya penonton, balapan mencapai puncaknya. Tanpa ada yang menyadari
 
 > "Wah, lihat tim sementara itu! Mereka sempat tertinggal, tapi sekarang pelari terakhirnya mulai menyalip! Di depan ada tikungan tajam... A-apaan ini?! Dia berhasil menyalip semua orang di tikungan itu! Luar biasa!"
 
-Tak terpengaruh oleh sorak sorai penonton, **Jiyan** tetap fokus pada garis finis. Hanya satu hal yang ada di pikirannya—lebih cepat, sedikit lagi lebih cepat. \
+Tak terpengaruh oleh sorak sorai penonton, **Jiyan** tetap fokus pada garis finis. Hanya satu hal yang ada di pikirannya—lebih cepat, sedikit lagi lebih cepat.\
 Jantungnya berdegup kencang, mengalahkan kebisingan di sekelilingnya.
 
 Saat konfeti berhamburan di udara dengan suara keras, dunia kembali dipenuhi suara.

@@ -2,23 +2,9 @@
 description: A comprehensive and multi-utility discord bot for your Wuthering Waves needs.
 cover: ../.gitbook/assets/Solaris-3.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
-# 🌏 Introduction
+# Introduction
 
 ## Welcome to Solaris-3 Bot!
 
@@ -28,20 +14,7 @@ This documentation provides information on each module and command found within 
 
 If you need any additional help with Solaris-3 Bot, consider joining our <mark style="color:purple;">**Discord server**</mark>!
 
-<table data-header-hidden data-full-width="false">
-  <thead>
-    <tr>
-      <th>Page</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://discord.gg/wwi"><strong>Official Discord Server</strong></a></td>
-      <td>Solaris-3's official support server.</td>
-    </tr>
-  </tbody>
-</table>
+<table data-header-hidden data-full-width="false"><thead><tr><th>Page</th><th>Description</th></tr></thead><tbody><tr><td><a href="https://discord.gg/wwi"><strong>Official Discord Server</strong></a></td><td>Solaris-3's official support server.</td></tr></tbody></table>
 
 ## How to interact with the bot?
 

@@ -3,23 +3,14 @@ icon: file-pen
 cover: >-
   https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHx3cml0aW5nfGVufDB8fHx8MTczOTM1MzYyMXww&ixlib=rb-4.0.3&q=85
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Changelogs
+
+## 19/07/2025
+
+* update infographic (XLY, Calc, Encore, Changli and Brant)
+* Update team Brant
 
 ## 29/06/2025
 

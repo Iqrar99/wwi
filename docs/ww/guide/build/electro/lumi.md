@@ -1,20 +1,6 @@
 ---
 cover: https://i.postimg.cc/d1JXR2m0/Lumi.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Lumi
@@ -183,4 +169,3 @@ TBA
 ## Infografis
 
 <figure><img src="https://i.postimg.cc/wMHNBhmT/Lumi-Revisi.png" alt=""><figcaption></figcaption></figure>
-

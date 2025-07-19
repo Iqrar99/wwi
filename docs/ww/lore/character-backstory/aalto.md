@@ -1,20 +1,4 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Aalto
-
-
 
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1403.png" alt="" width="375"><figcaption><p><strong>Aalto</strong> adalah seorang Broker Informasi yang misterius. Ia dikenal karena sifatnya yang suka menghindar dan senyumnya yang ramah. Rumor mengatakan bahwa dia akan memberikan informasi apa pun dengan harga yang tepat.</p></figcaption></figure></div>
 
@@ -40,13 +24,15 @@ Menurut laporan **Resonator** Aalto, pada hari kelahirannya terjadi kabut tebal 
 
 Aalto sangat ahli dalam seni kamuflase dan transformasi, sering kali berada dalam keadaan fisik yang sulit ditangkap, menyerupai kabut. Tes lebih lanjut untuk memahami sifat kabut yang diciptakannya tidak memberikan hasil yang konklusif.
 
-**Resonance Spectrum Pattern** Aalto sesuai dengan pola spektrum kabut yang sudah diketahui. \
+**Resonance Spectrum Pattern** Aalto sesuai dengan pola spektrum kabut yang sudah diketahui.\
 Tes menunjukkan reaksi **Syntony** yang kuat, mengonfirmasi keterkaitan antara kabut dan **Awakening** Aalto. Selain itu, analisis sampel uji mengungkap adanya **Rabelle’s Curve** yang tidak konvergen dengan gelombang periodik yang mencolok, yang mengklasifikasikan Aalto sebagai **Congenital Resonator**.
 
 Catatan Peneliti
+
 > _Seperti yang dinyatakan dalam laporan, **Resonator** ini licik dan ahli dalam menyamarkan diri, sehingga kredibilitas kesaksiannya dipertanyakan._
 
 Catatan untuk catatan peneliti
+
 > _Sebagai seorang broker yang menjunjung tinggi integritas, saya, Aalto, bersumpah bahwa kesaksian yang saya berikan adalah **100% benar**. Tidak lebih, tidak kurang._
 
 ### <mark style="color:blue;">Overclock Diagnostic Report</mark>
@@ -181,7 +167,7 @@ Pernah suatu kali, seorang anak laki-laki lusuh mondar-mandir di depan pintu **A
 > "Wow! Kamu memang tahu segalanya! Jadi, kamu tahu ke mana **Pebbles** pergi?"\
 > "Dengar, tidak ada yang namanya makan siang gratis. Kalau kamu mau bantuanku, kamu harus membayarnya."
 
-Bocah itu menggeleng, kecewa.
+Bocah itu menggeleng, kecewa.\
 Bocah itu menggeleng, kecewa.
 
 > "Tapi aku tidak punya apa-apa."\

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Carlotta
 
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1107.png" alt="" width="375"><figcaption><p>Putri kedua keluarga <strong>Montelli</strong> dan seorang investor seni yang tak terikat oleh norma, <strong>Carlotta</strong> bergerak dengan anggun di antara lingkaran sosial dan transaksi bisnis, sembari diam-diam menangani masalah keluarga yang tak bisa diungkapkan.</p></figcaption></figure></div>
@@ -275,9 +261,9 @@ ujar **Kakek** pelan, seolah membaca isi pikirannya.
 
 > "Seorang **Montelli** sejati tidak hidup hanya untuk keluarga. Ia tidak ada hanya untuk mengikuti aturan, entah itu aturanku ataupun aturan keluarga."
 
-> "Ia harus merasakan cahaya di dalam dirinya," 
+> "Ia harus merasakan cahaya di dalam dirinya,"
 
-lanjutnya, 
+lanjutnya,
 
 > "karena aku percaya kau memiliki cahaya itu. Sebelum kau membatasi dirimu dengan definisi yang sempit."
 

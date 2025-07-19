@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Verina
 
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1503.png" alt="" width="375"><figcaption><p>Dengan pengetahuan botani yang luas, <strong>Verina</strong> selalu perhatian, selalu tersenyum, dan selalu berharap setiap bunga diberkati dengan keajaiban kehidupan.</p></figcaption></figure></div>
@@ -36,7 +22,7 @@ Dasar Evaluasi: \[**Penilaian Resonansi 1916-G**]
 
 Menurut laporan dari **Resonator** **Verina**, dia telah memiliki paparan yang signifikan terhadap sampel botani sejak kecil dan dapat mendeteksi frekuensi mereka secara auditori. Waktu terjadinya **Awakening**-nya belum diketahui.
 
-Frekuensi resonansi **Verina** menunjukkan kecenderungan meningkat seiring waktu, yang menimbulkan spekulasi bahwa kemampuan **Forte**-nya juga akan terus menguat seiring bertambahnya usia. \
+Frekuensi resonansi **Verina** menunjukkan kecenderungan meningkat seiring waktu, yang menimbulkan spekulasi bahwa kemampuan **Forte**-nya juga akan terus menguat seiring bertambahnya usia.\
 Sejauh mana pertumbuhan ini akan terjadi masih dalam pemantauan.
 
 **Resonator** **Verina** memiliki **Tacet Mark** di bawah klavikula-nya. Setelah **Awakening**, perubahan fisik tercatat, seperti munculnya tanaman merambat di kedua telinga dan tulang belakang dorsal.
@@ -55,20 +41,20 @@ Dalam hal **Resonant Criticality**, **Resonator** **Verina** berada pada level y
 
 Keterangan: Keadaan emosional dan tingkat kehendak **Resonator** **Verina** umumnya sangat stabil, hanya sedikit dan sebentar berfluktuasi ketika berada jauh dari lingkungan alam.
 
-&#x20;Hasil uji menunjukkan bahwa tanaman simbiotiknya mampu mentransmisikan pita frekuensi khusus ke **Verina**, yang membantunya kembali ke kondisi pikiran yang stabil. \
+Hasil uji menunjukkan bahwa tanaman simbiotiknya mampu mentransmisikan pita frekuensi khusus ke **Verina**, yang membantunya kembali ke kondisi pikiran yang stabil.\
 Ini adalah kasus langka dalam hubungan antara **Resonator** dan tanaman simbiotik dan menjadi referensi yang berguna untuk penelitian terkait.
 
 ## :package: Cherished Items
 
-<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Expedition Goggles</td><td><img src="https://wuthering.wiki/img/T_Treasure21_UI.png" alt=""></td><td><strong>Verina</strong>  sangat menghargai kacamata ekspedisi dari <strong>Pioneer Association</strong>, kenangan dari sebuah perjalanan dan kenangan hangat seperti <strong>Starflower</strong>. Kini tidak berguna untuk mendeteksi bahaya, mereka memiliki nilai sentimental bagi <strong>Verina</strong>.</td></tr><tr><td align="center">Eternity in Bloom</td><td><img src="https://wuthering.wiki/img/T_Treasure2_UI.png" alt=""></td><td>Sampel bunga dari pekerjaan lapangan pertama <strong>Verina</strong>. Dia menunggu bunga itu mekar dan dengan hati-hati menyimpannya. <strong>Verina</strong> melihat mekarnya bunga sebagai momen abadi dari keindahan hidup, yang merangkum kecintaannya terhadap bunga dan hidup itu sendiri.</td></tr><tr><td align="center">Notes on Wilderness Exploration</td><td><img src="https://wuthering.wiki/img/T_Treasure36_UI.png" alt=""></td><td>Setiap kali dia pergi untuk berpartisipasi dalam ekspedisi atau perjalanan lapangan, <strong>Verina</strong> selalu menemukan jalan pintas untuk menjelajah atau menghindari bahaya yang mengintai dengan bantuan teman-teman tanamannya. <strong>Verina</strong> menggambar semuanya. Di balik peta kecil dengan goresan anak-anak terdapat pelajaran berharga, bukti bahwa <strong>Verina</strong> mengikuti jejak ibunya.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Expedition Goggles</td><td><img src="https://wuthering.wiki/img/T_Treasure21_UI.png" alt=""></td><td><strong>Verina</strong> sangat menghargai kacamata ekspedisi dari <strong>Pioneer Association</strong>, kenangan dari sebuah perjalanan dan kenangan hangat seperti <strong>Starflower</strong>. Kini tidak berguna untuk mendeteksi bahaya, mereka memiliki nilai sentimental bagi <strong>Verina</strong>.</td></tr><tr><td align="center">Eternity in Bloom</td><td><img src="https://wuthering.wiki/img/T_Treasure2_UI.png" alt=""></td><td>Sampel bunga dari pekerjaan lapangan pertama <strong>Verina</strong>. Dia menunggu bunga itu mekar dan dengan hati-hati menyimpannya. <strong>Verina</strong> melihat mekarnya bunga sebagai momen abadi dari keindahan hidup, yang merangkum kecintaannya terhadap bunga dan hidup itu sendiri.</td></tr><tr><td align="center">Notes on Wilderness Exploration</td><td><img src="https://wuthering.wiki/img/T_Treasure36_UI.png" alt=""></td><td>Setiap kali dia pergi untuk berpartisipasi dalam ekspedisi atau perjalanan lapangan, <strong>Verina</strong> selalu menemukan jalan pintas untuk menjelajah atau menghindari bahaya yang mengintai dengan bantuan teman-teman tanamannya. <strong>Verina</strong> menggambar semuanya. Di balik peta kecil dengan goresan anak-anak terdapat pelajaran berharga, bukti bahwa <strong>Verina</strong> mengikuti jejak ibunya.</td></tr></tbody></table>
 
 ## :scroll: Story
 
 ### <mark style="color:blue;">Mushrooms 101</mark>
 
-> "Kalau kamu tanya soal **Verina**, wah, kamu bakal denger cerita panjang,"&#x20;
+> "Kalau kamu tanya soal **Verina**, wah, kamu bakal denger cerita panjang,"
 
-Begitu selalu kata **Riggs**, pemimpin tim eksplorasi **Pioneer**, saat ditanya tentang **Verina**.&#x20;
+Begitu selalu kata **Riggs**, pemimpin tim eksplorasi **Pioneer**, saat ditanya tentang **Verina**.
 
 > "Waktu pertama kali dia gabung tim kita, dia selalu sendirian dan gak banyak ngobrol sama orang. Kami semua khawatir, soalnya dia udah kehilangan orang tuanya..."
 
@@ -106,15 +92,15 @@ Inilah saat-saat **Verina** berharap bisa bekerja sedikit lebih keras dan sediki
 
 ### <mark style="color:blue;">Noting the Differences</mark>
 
-Orang-orang selalu bertanya kenapa **Verina** sangat mencintai tanaman. Ini adalah pertanyaan yang sudah dijawab **Verina** berkali-kali, tapi dia tahu kalau orang akan selalu memulai percakapan dengan pertanyaan demi pertanyaan, jadi setiap kali dia akan memberikan jawaban yang sudah dipikirkannya dengan matang:&#x20;
+Orang-orang selalu bertanya kenapa **Verina** sangat mencintai tanaman. Ini adalah pertanyaan yang sudah dijawab **Verina** berkali-kali, tapi dia tahu kalau orang akan selalu memulai percakapan dengan pertanyaan demi pertanyaan, jadi setiap kali dia akan memberikan jawaban yang sudah dipikirkannya dengan matang:
 
 > "Waktu aku kecil, ibu sering meletakkan dua helai daun di tanganku dan bertanya apa perbedaan di antara keduanya."
 
-Aku jawab,&#x20;
+Aku jawab,
 
 > "Bukannya mereka sama saja? Kan mereka datang dari pohon yang sama."
 
-Dan ibu menggeleng,&#x20;
+Dan ibu menggeleng,
 
 > "Lihat lebih dekat, **Verina**."
 
@@ -134,19 +120,19 @@ Dengan perasaan itu, **Verina** dengan hati-hati dan penuh perhatian mencatat se
 
 Sebagai seorang gadis biasa, **Verina** juga punya momen-momen kesedihan.
 
-Pembudidayaan tanaman bisa sangat tak terduga. Seringkali, **Verina** bangun dan menemukan polong biji kering di cawan petri setelah semalam beristirahat. Lalu setelah bekerja tanpa henti sepanjang hari, dia baru sadar kalau dia kembali melewatkan makan siang. \
+Pembudidayaan tanaman bisa sangat tak terduga. Seringkali, **Verina** bangun dan menemukan polong biji kering di cawan petri setelah semalam beristirahat. Lalu setelah bekerja tanpa henti sepanjang hari, dia baru sadar kalau dia kembali melewatkan makan siang.\
 Di momen-momen itu, **Verina** sangat merindukan orang tuanya.
 
-> "Kalau Mama dan Papa masih ada, aku gak perlu khawatir dengan semua ini..."&#x20;
+> "Kalau Mama dan Papa masih ada, aku gak perlu khawatir dengan semua ini..."
 
-pikir **Verina**.&#x20;
+pikir **Verina**.
 
 Sebuah makan siang yang hangat dan mengenyangkan pasti sudah menunggu di meja begitu dia masuk rumah, dan dia akan mendapat bantuan setiap kali ingin menyelesaikan sesuatu. Tapi semua itu sudah lama menjadi kenangan, tersimpan dalam catatan yang dia tinggalkan saat meninggalkan **New Federation** bertahun-tahun yang lalu.
 
 Sekarang, dia harus bangkit dan menjalani hidupnya seorang diri.
 
-Kadang, dia bertanya-tanya: \
-Apa makna dari semua pekerjaan yang sudah aku lakukan? \
+Kadang, dia bertanya-tanya:\
+Apa makna dari semua pekerjaan yang sudah aku lakukan?\
 Apa makna dari hidup yang aku jalani?
 
 Namun kemudian, dia selalu menemukan jawabannya di tanaman-tanaman yang tumbuh subur.
@@ -175,8 +161,8 @@ Pikir **Verina** dalam hati saat berjalan di jalanan. Kenangan belajar tanaman b
 
 Lalu dia melihat teman-temannya melambai ke arahnya: **Chixia** dan **Yangyang** sedang berjalan mendekat dengan **Salted Milk Tea** yang baru mereka beli di tangan. Sepertinya **Midnight Rangers** juga sedang menikmati sedikit waktu liburan. **Verina** buru-buru merogoh tasnya, mengeluarkan beberapa buket bunga kecil seperti bintang dari dalamnya.
 
-Ini adalah hadiah yang paling berharga yang pernah *Verina** berikan untuk teman-temannya. Pemilihan bunga-bunga itu memakan waktu yang sangat lama, dan sementara **Star Flowers** menunggu waktu terbaik dan sinar matahari, dia juga menunggu sinar matahari yang akan memberinya rasa hangat.
+Ini adalah hadiah yang paling berharga yang pernah _Verina_\* berikan untuk teman-temannya. Pemilihan bunga-bunga itu memakan waktu yang sangat lama, dan sementara **Star Flowers** menunggu waktu terbaik dan sinar matahari, dia juga menunggu sinar matahari yang akan memberinya rasa hangat.
 
 Sekarang, setelah melihat sinar mataharinya, **Verina** berlari menuju teman-temannya.
 
-Jalan masih panjang di depan, dan akan membutuhkan waktu bagi bunga-bunga itu untuk mekar. Dan untuk saat ini, dia merasa puas menikmati liburannya.&#x20;
+Jalan masih panjang di depan, dan akan membutuhkan waktu bagi bunga-bunga itu untuk mekar. Dan untuk saat ini, dia merasa puas menikmati liburannya.

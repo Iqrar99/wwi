@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Utterance of Marvels: II
 
 Rover dan lainnya melanjutkan perjalanan mereka menuju Jinzhou, Baizhi menganjurkan Rover untuk segera melakukan pengecekan fisik setibanya mereka disana untuk berjaga jaga jika terjadi kerusakan tertentu pada tubuh Rover setelah menyerap Tacet Discord.

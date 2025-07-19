@@ -1,20 +1,6 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Calcharo
 
-<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1301.png" alt="" width="375"><figcaption><p>Pemimpin <strong>"Ghost Hounds,"</strong> sebuah kelompok tentara bayaran internasional.  Kejam, pendendam, tak kenal ampun.  Klien potensial harus memperhatikan harga yang harus dibayar sebelum memberinya tawaran.</p></figcaption></figure></div>
+<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1301.png" alt="" width="375"><figcaption><p>Pemimpin <strong>"Ghost Hounds,"</strong> sebuah kelompok tentara bayaran internasional. Kejam, pendendam, tak kenal ampun. Klien potensial harus memperhatikan harga yang harus dibayar sebelum memberinya tawaran.</p></figcaption></figure></div>
 
 ## :mag: Informasi
 
@@ -92,7 +78,6 @@ Rumor menabur prasangka. Prasangka tumbuh menjadi kesalahpahaman. Kesalahpahaman
 
 Dan dalam **game** yang penuh persaingan, kesalahan dalam menilai kekuatan musuh selalu menjadi malapetaka.
 
-
 ### <mark style="color:blue;">Quid Pro Quo</mark>
 
 **Calcharo** memulai dari nol, tetapi berhasil membangun reputasinya hanya dalam beberapa tahun singkat. Kesuksesannya berasal dari dua faktor:
@@ -134,7 +119,6 @@ Bertahun-tahun kemudian, **New Federation** melancarkan perang melawan "**the Un
 Ia telah kembali dalam sosok yang mengerikan, hampir seperti hantu. Ia dikelilingi oleh duri-duri gelap, dan ditemani oleh hantu-hantu yang menakutkan. Kali ini, ia akan mencapai puncak tangga, dan menyelesaikan apa yang dulu gagal ia capai karena kenaifan, simpati, dan keragu-raguan.
 
 Namun, meskipun semua waktu telah berlalu, ia tidak bisa menghilangkan ingatan tentang sore itu. Matahari bersinar di atas mereka saat mereka mendirikan **the Underdogs** di tempat pembuangan sampah yang sunyi. Itu adalah momen kelembutan yang langka dalam hidupnya.
-
 
 ### <mark style="color:blue;">Let Sleeping Dogs Lie</mark>
 

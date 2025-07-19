@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Ciaccona
 
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1407.png" alt="" width="375"><figcaption><p>Seorang bard pengembara dari <strong>Rinascita</strong>, <strong>Ciaccona</strong>. <br>Ia bernyanyi bukan hanya untuk <strong>Divinity</strong>, tetapi juga untuk orang-orang biasa. Ia mencatat berbagai kisah sepanjang perjalanannya, lalu mengubahnya menjadi lagu yang membangkitkan tawa, haru, dan air mata — baik bagi para pencerita maupun pendengarnya.</p></figcaption></figure></div>

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Utterance of Marvels: I
 
 <div data-full-width="true"><figure><img src="../../../../.gitbook/assets/lore/main-story/prologue/Prologue_Part 1_Picture1.jpg" alt=""><figcaption></figcaption></figure></div>

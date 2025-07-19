@@ -1,20 +1,6 @@
 ---
 cover: https://i.postimg.cc/x8NLKgkz/Patch-2-2.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Act 4: The Maiden, The Defier, The Death Crier

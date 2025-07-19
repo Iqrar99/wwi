@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Camellya
 
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1603.png" alt="" width="375"><figcaption><p><strong>Camellya</strong>, seorang <strong>Bloom Bearer of the Black Shores</strong>, adalah sosok yang bebas dan mempesona dengan cara yang berbahaya. Dia berkeliling <strong>Solaris</strong> mencari talenta, tenggelam dalam setiap momen yang ada dan menikmati kenikmatannya, sambil tetap setia pada dirinya sendiri, tanpa terbebani oleh pikiran tentang masa lalu atau masa depan.</p></figcaption></figure></div>
@@ -19,7 +5,7 @@ layout:
 ## :mag: Informasi
 
 | Tanggal Lahir | Unknown          |
-| ------------- | ---              |
+| ------------- | ---------------- |
 | Jenis Kelamin | Perempuan        |
 | Tempat Lahir  | Unknown          |
 | Afiliasi      | The Black Shores |
@@ -32,7 +18,7 @@ layout:
 
 ### <mark style="color:blue;">Resonance Evaluation Report</mark>
 
-Evaluation Basis: [Resonance Assessment **RA2███-G**]
+Evaluation Basis: \[Resonance Assessment **RA2███-G**]
 
 Waktu pasti **awakening** Resonator **Camellya** sulit dipastikan karena gangguan ███ yang dialaminya. Sejak **awakening**, dia sudah bisa memanfaatkan **Forte**-nya.
 
@@ -60,26 +46,17 @@ Pemeriksaan fisik secara teratur wajib dilakukan, dan intervensi wajib dijadwalk
 
 ## :package: Cherished Items
 
-<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Wooden Doll</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure75_UI.webp" alt=""></td><td>Sebuah boneka kayu yang diukir dengan rumit, dibentuk menyerupai Rover dan terbuat dari akar yang diciptakan oleh <strong>Forte</strong> milik <strong>Camellya</strong>. Ini mencerminkan estetika uniknya. Sebelum pertemuan mereka lagi di Jinzhou, <strong>Camellya</strong> berulang kali mencoba memahat wajah boneka itu, tapi selalu frustrasi karena tak bisa menyempurnakan detail terakhirnya. Sekarang, setelah semua usaha dan sedikit kekecewaan, visinya akhirnya jadi nyata. Saat melihat hasil karyanya, dia tidak bisa menahan tawa.
-
-> "Jadi, beginilah seharusnya," 
-
-pikirnya.
-
-> "Hehe, lucu sekali seperti yang aku bayangkan."</td></tr><tr><td align="center">Spectrum Bracelet</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure76_UI.webp" alt=""></td><td>Sebuah gelang pemantau spektrum frekuensi yang dirancang oleh <strong>Black Shores</strong>, dibuat atas desakan <strong>Camellya</strong>. Desainnya mirip dengan hadiah berharga dari masa lalu, dilengkapi fitur pelacakan untuk menjaga lokasi dan keselamatan pemakainya dari jauh. <strong>Camellya</strong> paham kalau dia bukan lagi <strong>Lady Flora</strong> yang dulu, dan dia tidak mau kembali ke masa itu. Masa-masa mengikuti Rover sudah berlalu, tapi buat apa? Keduanya akan melakukan apa yang membuat mereka bahagia. Bagi <strong>Camellya</strong>, ini adalah satu-satunya jangkar dalam lautan makna yang tak ada habisnya.</td></tr><tr><td align="center">A Camellia</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure78_UI.webp" alt=""></td><td>Sebuah bunga yang didedikasikan untuk seseorang tertentu. Entah sebagai pemimpin, seorang <strong>Modulator</strong>, atau sekarang sebagai Rover, pahlawan Jinzhou, seorang pemandu… <strong>Camellya</strong> tidak pernah peduli dengan gelar atau tanggung jawab yang menyertainya. Namun, dia tahu bahwa dia tidak bisa, dan memang tidak akan, membiarkan pandangannya tentang kehidupan mempengaruhi penilaiannya. Jadi, biarkan bunga abadi ini menyampaikan perasaannya di tempat yang kata-kata mungkin gagal.
-
-> "Itu hanya mekar untukmu, selamanya dan selalu."</td></tr></tbody></table>
-
+<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Wooden Doll</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure75_UI.webp" alt=""></td><td><p>Sebuah boneka kayu yang diukir dengan rumit, dibentuk menyerupai Rover dan terbuat dari akar yang diciptakan oleh <strong>Forte</strong> milik <strong>Camellya</strong>. Ini mencerminkan estetika uniknya. Sebelum pertemuan mereka lagi di Jinzhou, <strong>Camellya</strong> berulang kali mencoba memahat wajah boneka itu, tapi selalu frustrasi karena tak bisa menyempurnakan detail terakhirnya. Sekarang, setelah semua usaha dan sedikit kekecewaan, visinya akhirnya jadi nyata. Saat melihat hasil karyanya, dia tidak bisa menahan tawa.</p><blockquote><p>"Jadi, beginilah seharusnya,"</p></blockquote><p>pikirnya.</p><blockquote><p>"Hehe, lucu sekali seperti yang aku bayangkan."</p></blockquote></td></tr><tr><td align="center">Spectrum Bracelet</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure76_UI.webp" alt=""></td><td>Sebuah gelang pemantau spektrum frekuensi yang dirancang oleh <strong>Black Shores</strong>, dibuat atas desakan <strong>Camellya</strong>. Desainnya mirip dengan hadiah berharga dari masa lalu, dilengkapi fitur pelacakan untuk menjaga lokasi dan keselamatan pemakainya dari jauh. <strong>Camellya</strong> paham kalau dia bukan lagi <strong>Lady Flora</strong> yang dulu, dan dia tidak mau kembali ke masa itu. Masa-masa mengikuti Rover sudah berlalu, tapi buat apa? Keduanya akan melakukan apa yang membuat mereka bahagia. Bagi <strong>Camellya</strong>, ini adalah satu-satunya jangkar dalam lautan makna yang tak ada habisnya.</td></tr><tr><td align="center">A Camellia</td><td><img src="https://api.hakush.in/ww/UI/UIResources/UiRole/Image/Treasure/T_Treasure78_UI.webp" alt=""></td><td><p>Sebuah bunga yang didedikasikan untuk seseorang tertentu. Entah sebagai pemimpin, seorang <strong>Modulator</strong>, atau sekarang sebagai Rover, pahlawan Jinzhou, seorang pemandu… <strong>Camellya</strong> tidak pernah peduli dengan gelar atau tanggung jawab yang menyertainya. Namun, dia tahu bahwa dia tidak bisa, dan memang tidak akan, membiarkan pandangannya tentang kehidupan mempengaruhi penilaiannya. Jadi, biarkan bunga abadi ini menyampaikan perasaannya di tempat yang kata-kata mungkin gagal.</p><blockquote><p>"Itu hanya mekar untukmu, selamanya dan selalu."</p></blockquote></td></tr></tbody></table>
 
 ## :scroll: Story
 
 ### <mark style="color:blue;">To the Days Ahead</mark>
- 
+
 Dia terbangun dari mimpinya.
 
 Matahari terbit di cakrawala, memancarkan cahaya hangat di atas **Black Shores**. Ini adalah awal dari hari biasa lainnya. **Camellya** membuka matanya, meregangkan tubuhnya dengan santai di atas puncak pohon. Gerakannya begitu anggun, dan jatuh tak pernah terbayangkan. Bahkan jika dia tergelincir, sulur-sulur akan menahan jatuhnya. Dia sangat suka tidur seperti ini, jauh dari gangguan atau orang lain.
 
-> "Betapa indahnya pagi ini," 
+> "Betapa indahnya pagi ini,"
 
 gumamnya. Dia merasa stabil, baik secara pikiran maupun tubuh, dan pikiran tentang membutuhkan pod medis terasa begitu jauh. Ini adalah hal yang baik.
 
@@ -89,7 +66,7 @@ Dia memberi **Rover** sebuah hadiah, sebuah gelang yang dirancang untuk memantau
 
 > Itu adalah hadiah pertama yang pernah dia persiapkan untuk seseorang.
 
-> "Betapa aneh!" 
+> "Betapa aneh!"
 
 gumamnya.
 
@@ -157,7 +134,7 @@ Yang bisa dia lakukan hanyalah menunggu, menanti anugerah kematian. Keadaan pasi
 
 > "Aku akan mengikuti instingku sampai kematian menemuiku."
 
-> "Itu sakit!" 
+> "Itu sakit!"
 
 pikirnya.
 
@@ -173,19 +150,19 @@ Kendaraan itu berhenti di sebuah gua, berlindung dari badai salju di luar, di ma
 
 Dia bukanlah jenis tanaman yang bisa tahan terhadap dingin.
 
-> "Ke mana pemimpin pergi?" 
+> "Ke mana pemimpin pergi?"
 
-tanyanya setelah meneguk beberapa teguk air, lalu menoleh ke **Bloom Bearer** yang duduk di kursi depan. 
+tanyanya setelah meneguk beberapa teguk air, lalu menoleh ke **Bloom Bearer** yang duduk di kursi depan.
 
 > "Aku tidak melihat dia."
 
 > "Pemimpin? Dia pergi ke barat. Dia bilang ada sesuatu yang menarik yang muncul dan ingin melihatnya."
 
-> "Kenapa dia tidak mengajakku? Bukankah aku pengawalnya?" 
+> "Kenapa dia tidak mengajakku? Bukankah aku pengawalnya?"
 
 keluhnya pelan.
 
-**Bloom Bearer** di depannya tertawa ringan sambil mengemudi, sesekali melirik sup yang mengepul. 
+**Bloom Bearer** di depannya tertawa ringan sambil mengemudi, sesekali melirik sup yang mengepul.
 
 > "Kamu tidur! Kamu sudah tidak tidur dengan baik selama perjalanan, selalu menggigil di tengah dingin. Dia tidak ingin membangunkanmu saat akhirnya kamu bisa tidur dengan nyenyak."
 
@@ -207,7 +184,7 @@ Bahaya...
 
 **Camellya** mengangkat tangannya, rantai halus di pergelangannya menangkap cahaya. **Bracelet** yang memantau indikator **Rabelle**-nya menunjukkan hasil normal. Dia memeras pergelangan tangannya dan menghela napas perlahan.
 
-> "Bagus, semuanya seperti seharusnya," 
+> "Bagus, semuanya seperti seharusnya,"
 
 pikirnya.
 
@@ -227,7 +204,7 @@ Menepis pikiran-pikiran kusut itu, dia memusatkan perhatian untuk menemukan frek
 
 Mata emasnya bersinar hangat, dan dia tak bisa menahan untuk tersenyum balik.
 
-> "Hehe... Dengan pemimpinku di sisiku, tentu aku memiliki mimpi yang paling indah," 
+> "Hehe... Dengan pemimpinku di sisiku, tentu aku memiliki mimpi yang paling indah,"
 
 dengarnya membalas.
 
@@ -313,7 +290,7 @@ Tiba-tiba, sebuah pikiran terlintas di benaknya.
 
 Begitu pikiran itu muncul, ia menguasainya sepenuhnya. Dia membayangkan saat dia akan menemukan **Rover** dan memberikan hadiah ini—sebuah bunga yang tumbuh dari dirinya sendiri. Bunga itu tidak akan layu atau busuk kecuali dia mati. Namun, seperti kilat, pikiran itu lenyap ke dalam kekacauan pikirannya, meninggalkan tanpa jejak.
 
-Sedikit yang dia tahu, berabad-abad kemudian, pemandangan di depannya akan lenyap dalam **Lament**. Dia akan terombang-ambing tanpa henti melalui labirin kenangan hingga suatu pagi musim gugur, di tepi danau **Petalfall Village**, di mana dia akhirnya akan bertemu dengan **Rover**, di sana untuk menyelamatkan desa dari serangan **Tacet Discord**. Dari sana, dia akan bergabung dengan **Black Shores** dan menghabiskan beberapa ratus tahun bersama sebelum dia akhirnya meninggalkannya. 
+Sedikit yang dia tahu, berabad-abad kemudian, pemandangan di depannya akan lenyap dalam **Lament**. Dia akan terombang-ambing tanpa henti melalui labirin kenangan hingga suatu pagi musim gugur, di tepi danau **Petalfall Village**, di mana dia akhirnya akan bertemu dengan **Rover**, di sana untuk menyelamatkan desa dari serangan **Tacet Discord**. Dari sana, dia akan bergabung dengan **Black Shores** dan menghabiskan beberapa ratus tahun bersama sebelum dia akhirnya meninggalkannya.
 
 Dia juga akan meninggalkan **Black Shores**, hanya untuk dipertemukan kembali beberapa dekade kemudian di **Jinzhou**. Semua masa depan itu belum terungkap, seperti halnya kemungkinan yang terlelap di dalam benih, menunggu takdir untuk mekar.
 

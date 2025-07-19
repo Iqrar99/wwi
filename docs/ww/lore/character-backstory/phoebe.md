@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Phoebe
 
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1506.png" alt="" width="375"><figcaption><p><strong>Phoebe, Acolyte of the Order of the Deep</strong>, adalah seorang wanita muda yang penuh ketulusan. Dengan hati yang lembut, ia menjalankan tugasnya dengan ketekunan yang tak tergoyahkan. Doa-doanya, bagaikan cahaya yang selalu ia bawa, memberikan ketenangan dan kedamaian bagi semua yang berada di sekitarnya.</p></figcaption></figure></div>

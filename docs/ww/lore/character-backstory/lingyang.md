@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Lingyang
 
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1104.png" alt="" width="375"><figcaption><p><strong>Lingyang</strong> adalah anggota <strong>Liondance Troupe</strong> di <strong>Jinzhou</strong> yang berbakat dan ramah. Semangat dan keberaniannya terlihat jelas saat ia berinteraksi dengan manusia, menunjukkan kemampuan fisiknya yang luar biasa. Dengan gayanya yang khas, ia benar-benar mewujudkan semangat <strong>Liondancing</strong>.</p></figcaption></figure></div>
@@ -65,7 +51,7 @@ Gelombang grafik **Resonator** **Lingyang** menunjukkan fluktuasi elips. Pola **
 
 ## :package: Cherished Items
 
-<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Liondance Head</td><td><img src="https://wuthering.wiki/img/T_Treasure9_UI.png" alt=""></td><td><p>Kepala <strong>Liondance</strong> ini diberikan kepada <strong>Lingyang</strong> oleh Tuan Qixing dari <strong>Liondance Troupe</strong> sebagai tanda kehormatan.</p><p><strong>Lingyang</strong> bergabung dengan <strong>Liondance Troupe</strong> secara kebetulan ketika masih kecil, dan pertunjukan <strong>Liondance</strong> membantunya menyalurkan sisi liarnya sekaligus membawa semangat dan berkah bagi masyarakat. Berkat ini, <strong>Lingyang</strong> dapat membaur dengan warga <strong>Jinzhou</strong>.</p><p>Dengan kerja keras dan latihan yang tekun, tubuh kecil <strong>Lingyang</strong> mampu mengekspresikan suka duka sang singa, gerakan lincahnya, serta ketakutannya.</p><p>Kini, meskipun ia sudah menjadi <strong>Liondancer</strong> yang terkenal, <strong>Lingyang</strong> tetap membawa kepala singa ini ke mana pun ia pergi.</p></td></tr><tr><td align="center">Jinzhou Skewers</td><td><img src="https://wuthering.wiki/img/T_Treasure32_UI.png" alt=""></td><td><p>Memanggang adalah metode memasak yang populer di <strong>Jinzhou</strong>, tetapi <strong>Lingyang</strong> selalu merasa bahwa arang panggangan terlalu mendominasi rasa alami daging. Karena itu, ia bertekad menciptakan sesuatu yang unik. Setelah bereksperimen, ia akhirnya menyempurnakan teknik membuat sate "medium-rare" versinya sendiri.</p><p>Dengan menggabungkan <strong>Jinzhou Skewers</strong> yang terkenal dengan bumbu sederhana namun kaya rasa, <strong>Lingyang</strong> berhasil mempertahankan kelembutan dan tekstur daging yang halus, sambil menambahkan cita rasa baru yang langsung menjadi sensasi di kota.</p><p>Meskipun ia telah membagikan teknik memasaknya, hanya <strong>Lingyang</strong> yang mampu mencapai tingkat kesempurnaan "medium-rare" yang khas. Berkat dedikasi dan kreativitasnya, hidangan sederhana ini kini menjadi karya khasnya.</p><p></p><p><em>"Mau tahu rahasia masakanku? Perlakukan tiap bahan dengan hati-hati dan sesuaikan api sesuai kebutuhan. Gampang, kan?"</em></p></td></tr><tr><td align="center">Worn Longevity Lock</td><td><img src="https://wuthering.wiki/img/T_Treasure51_UI.png" alt=""></td><td><p>Liontin <strong>Longevity Lock</strong> misterius yang dikenakan <strong>Lingyang</strong> saat pertama kali bertemu dengan anggota <strong>Liondance Troupe</strong>.</p><p>Setelah tiba di <strong>Jinzhou</strong>, anggota <strong>Liondance Troupe</strong> berkeliling kota untuk membantu <strong>Lingyang</strong> mencari pedagang yang mungkin tahu asal-usul liontin ini. Namun, hasilnya nihil. Semua yang mereka dengar hanyalah, </p><p></p><p><em>"Ini desain kuno yang belum pernah saya lihat sebelumnya."</em></p><p></p><p>Mengingat gerakan lincah dalam <strong>Liondance</strong> bisa saja merusaknya, <strong>Lingyang</strong> memutuskan untuk menyimpannya dengan aman di dalam kotak kayu.</p><p>Terlepas dari siapa pun yang membuatnya, <strong>Longevity Lock</strong> tetap membawa harapan baik untuk kesehatan dan kebahagiaan. Dengan membagikannya kepadamu, <strong>Lingyang</strong> menunjukkan ketulusan hatinya dan berharap yang terbaik untukmu.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Liondance Head</td><td><img src="https://wuthering.wiki/img/T_Treasure9_UI.png" alt=""></td><td><p>Kepala <strong>Liondance</strong> ini diberikan kepada <strong>Lingyang</strong> oleh Tuan Qixing dari <strong>Liondance Troupe</strong> sebagai tanda kehormatan.</p><p><strong>Lingyang</strong> bergabung dengan <strong>Liondance Troupe</strong> secara kebetulan ketika masih kecil, dan pertunjukan <strong>Liondance</strong> membantunya menyalurkan sisi liarnya sekaligus membawa semangat dan berkah bagi masyarakat. Berkat ini, <strong>Lingyang</strong> dapat membaur dengan warga <strong>Jinzhou</strong>.</p><p>Dengan kerja keras dan latihan yang tekun, tubuh kecil <strong>Lingyang</strong> mampu mengekspresikan suka duka sang singa, gerakan lincahnya, serta ketakutannya.</p><p>Kini, meskipun ia sudah menjadi <strong>Liondancer</strong> yang terkenal, <strong>Lingyang</strong> tetap membawa kepala singa ini ke mana pun ia pergi.</p></td></tr><tr><td align="center">Jinzhou Skewers</td><td><img src="https://wuthering.wiki/img/T_Treasure32_UI.png" alt=""></td><td><p>Memanggang adalah metode memasak yang populer di <strong>Jinzhou</strong>, tetapi <strong>Lingyang</strong> selalu merasa bahwa arang panggangan terlalu mendominasi rasa alami daging. Karena itu, ia bertekad menciptakan sesuatu yang unik. Setelah bereksperimen, ia akhirnya menyempurnakan teknik membuat sate "medium-rare" versinya sendiri.</p><p>Dengan menggabungkan <strong>Jinzhou Skewers</strong> yang terkenal dengan bumbu sederhana namun kaya rasa, <strong>Lingyang</strong> berhasil mempertahankan kelembutan dan tekstur daging yang halus, sambil menambahkan cita rasa baru yang langsung menjadi sensasi di kota.</p><p>Meskipun ia telah membagikan teknik memasaknya, hanya <strong>Lingyang</strong> yang mampu mencapai tingkat kesempurnaan "medium-rare" yang khas. Berkat dedikasi dan kreativitasnya, hidangan sederhana ini kini menjadi karya khasnya.</p><p><em>"Mau tahu rahasia masakanku? Perlakukan tiap bahan dengan hati-hati dan sesuaikan api sesuai kebutuhan. Gampang, kan?"</em></p></td></tr><tr><td align="center">Worn Longevity Lock</td><td><img src="https://wuthering.wiki/img/T_Treasure51_UI.png" alt=""></td><td><p>Liontin <strong>Longevity Lock</strong> misterius yang dikenakan <strong>Lingyang</strong> saat pertama kali bertemu dengan anggota <strong>Liondance Troupe</strong>.</p><p>Setelah tiba di <strong>Jinzhou</strong>, anggota <strong>Liondance Troupe</strong> berkeliling kota untuk membantu <strong>Lingyang</strong> mencari pedagang yang mungkin tahu asal-usul liontin ini. Namun, hasilnya nihil. Semua yang mereka dengar hanyalah,</p><p><em>"Ini desain kuno yang belum pernah saya lihat sebelumnya."</em></p><p>Mengingat gerakan lincah dalam <strong>Liondance</strong> bisa saja merusaknya, <strong>Lingyang</strong> memutuskan untuk menyimpannya dengan aman di dalam kotak kayu.</p><p>Terlepas dari siapa pun yang membuatnya, <strong>Longevity Lock</strong> tetap membawa harapan baik untuk kesehatan dan kebahagiaan. Dengan membagikannya kepadamu, <strong>Lingyang</strong> menunjukkan ketulusan hatinya dan berharap yang terbaik untukmu.</p></td></tr></tbody></table>
 
 ## :scroll: Story
 
@@ -75,7 +61,7 @@ Gelombang grafik **Resonator** **Lingyang** menunjukkan fluktuasi elips. Pola **
 
 Sebagai **Liondancer** utama, peran **Lingyang** tidak hanya terbatas pada pertunjukan menegangkan di atas **Plum Blossom Poles** yang penuh risiko. Merancang koreografi **Liondance** yang unik untuk setiap acara adalah bagian penting dari pekerjaannya, memastikan setiap pertunjukan memberikan kesan mendalam bagi para klien.
 
-**Lingyang** sangat menikmati berinteraksi dengan klien, menggali keinginan mereka untuk menciptakan pertunjukan **Liondance** yang sesuai dengan harapan. Namun, lebih dari sekadar pekerjaan, ini adalah hasrat pribadinya. Baginya, setiap cerita seseorang adalah harta karun yang menunggu untuk ditemukan, dan ia senang mengungkapnya. Rasa ingin tahunya yang tulus sering kali membuat klien merasa nyaman untuk berbagi pemikiran mereka. Bahkan, ada yang sampai bertanya-tanya,&#x20;
+**Lingyang** sangat menikmati berinteraksi dengan klien, menggali keinginan mereka untuk menciptakan pertunjukan **Liondance** yang sesuai dengan harapan. Namun, lebih dari sekadar pekerjaan, ini adalah hasrat pribadinya. Baginya, setiap cerita seseorang adalah harta karun yang menunggu untuk ditemukan, dan ia senang mengungkapnya. Rasa ingin tahunya yang tulus sering kali membuat klien merasa nyaman untuk berbagi pemikiran mereka. Bahkan, ada yang sampai bertanya-tanya,
 
 > "Apa **Liondance Troupe** sekarang juga menawarkan layanan konseling psikologis?"
 
@@ -204,9 +190,9 @@ Sejak bergabung dengan **Liondance Troupe**, **Lingyang** selalu memperlakukan o
 
 Namun, takdir menempuh jalannya sendiri. **Lingyang** justru menemukan bahwa **Forte**-nya berhubungan dengan **es yang menusuk tulang**.
 
-> "Tapi tidak ada yang menyukai dingin,"&#x20;
+> "Tapi tidak ada yang menyukai dingin,"
 
-pikirnya.&#x20;
+pikirnya.
 
 > "Aku sendiri sudah berkali-kali bertahan di tengah hawa beku, tapi tetap saja takut pada dingin. Bagaimana caranya aku bisa membantu orang lain mengatasi ketakutan mereka dengan kekuatan ini?"
 
@@ -214,7 +200,7 @@ Rasa frustrasi membuatnya kembali ke tempat latihan, melemparkan dirinya ke dala
 
 Di sanalah **sang master** mendekatinya. Seolah memahami kegundahan muridnya, ia pun mendorong **Lingyang** untuk mengungkapkan perasaannya.
 
-> “Haha, aku mengerti sekarang. Omong-omong, bocah, kau belum punya nama, kan?”&#x20;
+> “Haha, aku mengerti sekarang. Omong-omong, bocah, kau belum punya nama, kan?”
 
 tanya sang master.
 
@@ -222,13 +208,13 @@ tanya sang master.
 
 > “Bagi kami, manusia, iya. Nama membawa harapan dan doa dari orang tua kita. Tapi apakah kau akan memenuhi harapan itu atau justru menentangnya, itu sepenuhnya pilihanmu.”
 
-Sang master melanjutkan,&#x20;
+Sang master melanjutkan,
 
 > “Karena kau tak ingat masa lalumu dan kami tak tahu siapa orang tuamu, bagaimana kalau kau memilih namamu sendiri? Bocah, ingin jadi seperti apa kau di masa depan?”
 
-> **“Seperti apa... manusia?”**&#x20;
+> **“Seperti apa... manusia?”**
 
-**Lingyang** bertanya balik, membuat sang master tertawa kecil sebelum mengoreksi ucapannya,&#x20;
+**Lingyang** bertanya balik, membuat sang master tertawa kecil sebelum mengoreksi ucapannya,
 
 > “Maksudku, apa yang paling ingin kau lakukan saat ini?”
 

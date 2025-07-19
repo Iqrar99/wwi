@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Yangyang
 
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1402.png" alt="" width="375"><figcaption><p><strong>Yangyang</strong> adalah seorang <strong>Outrider</strong> dari <strong>Midnight Rangers</strong>. Dahulu dilindungi, kini menjadi pejuang. Ia melayang bersama angin untuk melindungi orang lain, bagaikan burung skylark di udara.</p></figcaption></figure></div>

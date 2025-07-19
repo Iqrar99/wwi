@@ -5,20 +5,6 @@ description: >-
 icon: house-window
 cover: https://i.postimg.cc/8PVxHVp5/Home.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # WWI ⋆ Wuthering Waves Indonesia

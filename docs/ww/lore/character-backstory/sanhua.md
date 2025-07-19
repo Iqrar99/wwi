@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Sanhua
 
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1102.png" alt="" width="375"><figcaption><p>Pengawal pribadi <strong>Magistrate Jinzhou</strong>, dikenal karena kepribadiannya yang dingin. Dahulu dijuluki sebagai <strong>Asura of Calamity</strong>, kini <strong>Sanhua</strong> adalah penjaga yang pendiam namun tak tergoyahkan.</p></figcaption></figure></div>
@@ -32,7 +18,7 @@ layout:
 
 ### <mark style="color:blue;">Resonance Evaluation Report</mark>
 
-Evaluation Basis: \[**Resonance Assessment **2105-G**]
+Evaluation Basis: \[\*\*Resonance Assessment **2105-G**]
 
 Berdasarkan laporan **Resonator Sanhua**, ia terlahir dengan struktur mata yang tidak normal, menyebabkan kebutaan total pada kedua matanya. Namun, setelah mengalami insiden **Tacet Discord** di tengah badai salju akibat **Waveworn Phenomenon**, terjadi erosi frekuensi pada mata kanannya. Insiden ini memicu gangguan penglihatan abnormal dan akhirnya membangkitkan **Forte** miliknya.
 
@@ -40,7 +26,7 @@ Berdasarkan laporan **Resonator Sanhua**, ia terlahir dengan struktur mata yang 
 
 Melalui **Forte**-nya, **Sanhua** memperoleh penglihatan abnormal serta kendali atas salju, dengan kekuatannya bergantung pada tingkat konsentrasinya. Setelah menganalisis deskripsinya, disimpulkan bahwa penglihatannya berbeda dari manusia biasa—ia dapat langsung melihat frekuensi suatu objek. Hasil uji frekuensi menunjukkan akurasi visualisasi sebesar **99,64%**.
 
-Spektrum Resonansi **Sanhua** **identik dengan spektrum salju**. Selain itu, pola spektrum pupilnya **identik dengan Fluktuasi Frekuensi Tacet Discord** yang telah diketahui. \
+Spektrum Resonansi **Sanhua** **identik dengan spektrum salju**. Selain itu, pola spektrum pupilnya **identik dengan Fluktuasi Frekuensi Tacet Discord** yang telah diketahui.\
 Kedua hasil pengujian menunjukkan **reaksi Syntony yang kuat**, sementara penyebab pasti **Awakening**-nya masih belum diketahui.
 
 Analisis sampel uji menunjukkan pola **Rabelle’s Curve** yang tidak konvergen, dengan kenaikan tajam di bagian tengah. Oleh karena itu, **Sanhua** diklasifikasikan sebagai **Mutant Resonator**.
@@ -78,7 +64,7 @@ Tak peduli seberapa mustahil tuntutan yang diajukan dengan niat buruk, **Sanhua*
 
 Dengan manajemen waktu yang tak tertandingi, kecerdasan yang tajam, ketenangan di bawah tekanan, serta keterampilan negosiasi yang luar biasa… bahkan para kritikus paling keras pun hanya bisa terdiam.
 
-Sebagai **pengawal Magistrat**, **Sanhua** menangani baik tamu-tamu kasar di siang hari, maupun tamu tak diundang yang bersembunyi dalam bayang-bayang*.
+Sebagai **pengawal Magistrat**, **Sanhua** menangani baik tamu-tamu kasar di siang hari, maupun tamu tak diundang yang bersembunyi dalam bayang-bayang\*.
 
 Sebagai **Magistrat Jinzhou**, Jinhsi adalah target utama dengan harga tinggi di kepalanya. Para tamu tak diundang itu datang bukan untuk sekadar menikmati secangkir teh—namun mereka segera menyadari kesalahan mereka. Alih-alih disambut dengan teh panas, mereka bertemu bilah pedang yang berkilauan dalam genggaman pengawalnya.
 
@@ -94,7 +80,7 @@ Namun, terkadang hidup masih menyimpan kejutan bagi **Sanhua**…
 
 > "Halo. Anda pasti pengawal **Madam Magistrat**?"
 
-Begitulah kata **resonator** aneh yang berdiri di hadapannya. \
+Begitulah kata **resonator** aneh yang berdiri di hadapannya.\
 Orang ini memancarkan frekuensi berbentuk manusia yang begitu indah—sama seperti **Jinhsi**.
 
 Dunianya, yang selama ini tenang, tiba-tiba beriak.
@@ -131,7 +117,7 @@ Mata yang berwarna aneh.
 
 Namun, yang tidak disadari semua orang saat itu…
 
-Ini juga adalah **"**Kutukan Ratapan**."
+Ini juga adalah \*\*"**Kutukan Ratapan**."
 
 Kutukan itu membelokkan segalanya di matanya, mengubah dunia menjadi **pemandangan cacat yang grotesk dan kacau**. Suara-suara menjadi sumbang, sosok-sosok tampak melengkung dan menyeramkan. Ia melihat tanpa kebohongan, tetapi ia juga tidak pernah melihat cahaya.
 
@@ -151,7 +137,7 @@ Dalam mimpinya, ia selalu tersesat di kegelapan tak berujung, mencari hamparan s
 
 Dan ia pun terbangun dengan napas terengah-engah.
 
-Semakin dewasa, kekuatan **Forte**-nya semakin sulit dikendalikan. Iblis dalam dirinya tak henti meronta, mendesaknya untuk mengikuti naluri **TD"" dalam melahap frekuensi. Kekuatan salju semakin sulit dibendung, dan perbedaan antara manusia dan **TD** semakin samar di matanya.
+Semakin dewasa, kekuatan **Forte**-nya semakin sulit dikendalikan. Iblis dalam dirinya tak henti meronta, mendesaknya untuk mengikuti naluri \*\*TD"" dalam melahap frekuensi. Kekuatan salju semakin sulit dibendung, dan perbedaan antara manusia dan **TD** semakin samar di matanya.
 
 Kadang, **Sanhua** berpikir dirinya telah lepas dari mimpi buruk itu… hanya untuk menyadari bahwa ia masih terperangkap di dalamnya. Bahwa ia telah berubah menjadi monster.
 
@@ -165,35 +151,35 @@ Namun, akhir-akhir ini, **Sanhua** masih bermimpi tentang salju.
 
 **Sanhua** tidak pernah membutuhkan lampu di kamarnya. Ia bisa melihat dengan jelas dalam kegelapan. Jadi, saat ia terbangun dari mimpi buruk dan mendapati cahaya di ruangan, ia langsung tahu—**Jinhsi** pasti masih bekerja.
 
-> "Maafkan saya, Madam..."&#x20;
+> "Maafkan saya, Madam..."
 
 **Sanhua** meminta maaf karena tidak menjalankan tugasnya.
 
-Seorang wanita muda tengah menulis dengan penuh semangat di bawah cahaya lentera. Melihat gerak-gerik **Sanhua**, ia menoleh. 
+Seorang wanita muda tengah menulis dengan penuh semangat di bawah cahaya lentera. Melihat gerak-gerik **Sanhua**, ia menoleh.
 
 > "Bukankah aku sudah memintamu untuk beristirahat, **Sanhua?** Kalau bukan karena bantuanmu menyortir dokumen ini, aku tak akan bisa menyelesaikan setengahnya besok pagi."
 
 > "Madam, Anda harus beristirahat. Biarkan saya yang mengurusnya."
 
-> **"Sanhua**, masa aku tega membiarkanmu menangani dokumen membosankan ini sendirian? Tidak mungkin."&#x20;
+> **"Sanhua**, masa aku tega membiarkanmu menangani dokumen membosankan ini sendirian? Tidak mungkin."
 
-**Jinhsi** menatap tumpukan kertas, lalu tersenyum iseng.&#x20;
+**Jinhsi** menatap tumpukan kertas, lalu tersenyum iseng.
 
 > "Kalau kau ingin membantu, temani aku mengobrol sebentar. Aku akan segera menyelesaikan ini."
 
 > "Tentu. Apa yang ingin Anda bicarakan? Haruskah saya membacakan Sutra Hati untuk Anda?"
 
-> "Ah, jadi itu yang akan kau lakukan?"&#x20;
+> "Ah, jadi itu yang akan kau lakukan?"
 
-**Jinhsi** mendesah, lalu menyandarkan kepalanya di tangannya.&#x20;
+**Jinhsi** mendesah, lalu menyandarkan kepalanya di tangannya.
 
->"Baiklah, kalau begitu... ceritakan mimpimu. Aku tadi sempat mendengar kau bergumam dalam tidur."
+> "Baiklah, kalau begitu... ceritakan mimpimu. Aku tadi sempat mendengar kau bergumam dalam tidur."
 
 > "Mungkin saya memang sedang membacakan Sutra Hati dalam mimpi saya, Madam."
 
-> "...Haruskah kita selalu kembali ke topik itu?"&#x20;
+> "...Haruskah kita selalu kembali ke topik itu?"
 
-**Jinhsi** tertawa kecil.&#x20;
+**Jinhsi** tertawa kecil.
 
 > "Sejujurnya, mengurus dokumen ini mulai melelahkanku..."
 
@@ -266,7 +252,7 @@ Dan di dalam hatinya, satu pertanyaan terus bergema:
 
 Bertahun-tahun yang lalu, mereka merampas matanya, menghancurkan rumahnya, saat ia masih terlalu lemah untuk melawan.
 
-Namun kini, ia berdiri sebagai seorang pejuang. \
+Namun kini, ia berdiri sebagai seorang pejuang.\
 Salju yang dahulu menjadi kutukannya, kini menjadi pedangnya.
 
 Frekuensi **TD** yang begitu kuat mulai membebani penglihatannya.
@@ -275,10 +261,9 @@ Telinganya dipenuhi dengan jeritan yang memekakkan.
 
 Di tengah badai salju yang mengamuk, ia melihat pemandangan mengerikan yang tampak seperti mimpi buruk lamanya—mimpi yang sudah lama tak menghantuinya
 
-Ratusan mayat bertumpuk **membentuk Asura raksasa** di hadapannya. \
+Ratusan mayat bertumpuk **membentuk Asura raksasa** di hadapannya.\
 Namun saat **Sanhua** memperhatikan lebih dekat…
 
 Ia mengenali wajah-wajah itu.
 
 Mereka adalah orang-orang yang pernah ia sebut sebagai rekan.
-

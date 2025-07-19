@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Jinhsi
 
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1304.png" alt="" width="375"><figcaption><p>Sebagai <strong>Magistrate</strong> <strong>Jinzhou</strong>, <strong>Jinhsi</strong> adalah sinar matahari di musim dingin—hangat, lembut, namun penuh keteguhan. Sebagai <strong>Resonator yang Dipilih oleh Sentinel</strong>, ia menunjukkan kerendahan hati dan sepenuh hati mengabdikan dirinya untuk membimbing rakyatnya menuju masa depan yang gemilang.</p></figcaption></figure></div>
@@ -65,15 +51,15 @@ Pemeriksaan rutin tetap disarankan, namun untuk saat ini, konseling psikologis d
 
 **Jinzhou**, yang terletak di perbatasan, sering kali dikaitkan dengan gambaran tanah tandus dan pegunungan gersang.
 
-Dulu, seorang pedagang ditugaskan untuk melakukan perjalanan ke **Jinzhou**.&#x20;
+Dulu, seorang pedagang ditugaskan untuk melakukan perjalanan ke **Jinzhou**.
 
-> "Aku sedang tidak sehat,"&#x20;
+> "Aku sedang tidak sehat,"
 
-katanya langsung menolak.&#x20;
+katanya langsung menolak.
 
-> "Aku pasti mati di tengah jalan kalau ke sana."&#x20;
+> "Aku pasti mati di tengah jalan kalau ke sana."
 
-Rekannya tersenyum dan menjawab,&#x20;
+Rekannya tersenyum dan menjawab,
 
 > "Kamu akan tahu sendiri seperti apa tempat itu setelah melihatnya langsung."
 
@@ -109,14 +95,14 @@ Dia menyadari bahwa di luar masalah nyata seperti kekurangan bahan dan ancaman e
 
 Di saat-saat seperti itu, yang paling dibutuhkan penduduk adalah sumber harapan yang dapat diandalkan, tidak peduli siapa yang menyediakannya.
 
-Dalam sebuah acara rekonstruksi, **Jinhsi** menciptakan sebuah "keajaiban" yang dikenal sebagai **"Sentinel Granting Wishes."** Desa terpencil itu telah lama dihantui oleh anomali cuaca. \
+Dalam sebuah acara rekonstruksi, **Jinhsi** menciptakan sebuah "keajaiban" yang dikenal sebagai **"Sentinel Granting Wishes."** Desa terpencil itu telah lama dihantui oleh anomali cuaca.\
 Meskipun **Tacet Discords** telah menghilang, desa itu masih mengalami suhu ekstrem dan kegelapan yang terus-menerus.
 
-**Jinhsi** meminta penduduk desa untuk mengungkapkan harapan mereka. Awalnya, suasana sunyi mencekam, hingga seseorang bersin dan suara ragu-ragu terdengar,&#x20;
+**Jinhsi** meminta penduduk desa untuk mengungkapkan harapan mereka. Awalnya, suasana sunyi mencekam, hingga seseorang bersin dan suara ragu-ragu terdengar,
 
 > "Dingin sekali… Aku berharap tempat ini bisa sedikit lebih hangat."
 
-Berdiri di tengah kerumunan, **Jinhsi** menggenggam **Loong Scale**, menutup matanya, dan mengangguk,&#x20;
+Berdiri di tengah kerumunan, **Jinhsi** menggenggam **Loong Scale**, menutup matanya, dan mengangguk,
 
 > "Aku akan menyampaikan harapan kalian kepada **Sentinel**."
 
@@ -124,7 +110,7 @@ Sesaat setelah dia berbicara, tanduk **Loong** muncul di kepalanya, dan cahaya y
 
 Melihat pemandangan itu, orang-orang berseru,
 
-> "**Sentinel**... **Sentinel** telah menunjukkan dirinya!"&#x20;
+> "**Sentinel**... **Sentinel** telah menunjukkan dirinya!"
 
 Mereka menatap cahaya berbentuk **Loong** dengan penuh kekaguman, sementara harapan kembali bersinar di mata mereka.
 
@@ -156,7 +142,7 @@ Dan akhirnya, mereka menyadari bahwa dia memiliki kekuatan yang luar biasa—tan
 
 Hari ini, membuat permohonan telah menjadi kebiasaan bagi penduduk **Jinzhou**, sebuah perjanjian tak terucapkan antara mereka dan **Magistrate** muda mereka.
 
-> "Yang terhormat **Magistrate**, semoga Anda bisa beristirahat sejenak dan menonton pertunjukan terbaru kami."&#x20;
+> "Yang terhormat **Magistrate**, semoga Anda bisa beristirahat sejenak dan menonton pertunjukan terbaru kami."
 
 Itulah permohonan terakhir tahun itu.
 
@@ -164,7 +150,7 @@ Sambil tersenyum, **Jinhsi** menutup berkas di tangannya, bersandar di jendela k
 
 ### <mark style="color:blue;">Her Kindness</mark>
 
-Dalam situasi apa pun, **Jinhsi** selalu menyapa semua orang dengan senyuman lembutnya, memberikan ketenangan,&#x20;
+Dalam situasi apa pun, **Jinhsi** selalu menyapa semua orang dengan senyuman lembutnya, memberikan ketenangan,
 
 > "Masih banyak yang harus kita lakukan, tapi jangan khawatir, aku ada di sini untuk membimbing kalian melewatinya."
 
@@ -176,17 +162,17 @@ Karena itu, dia tidak pernah membiarkan secuil keputusasaan terlihat, selalu tam
 
 Namun, **Jinhsi** paham bahwa senyuman dan kelembutan saja tidak cukup. Tanpa hasil nyata, tindakannya bisa dianggap tidak tulus atau seolah menutup mata terhadap penderitaan rakyatnya. Maka, dia memutuskan untuk menjadi **Magistrate** yang proaktif, terus bekerja keras demi menyelesaikan masalah dan mengarahkan rakyatnya menuju kehidupan yang lebih bahagia dan damai.
 
-Saat para **Midnight Rangers** berjuang melindungi **Jinzhou** di luar tembok kota, \
+Saat para **Midnight Rangers** berjuang melindungi **Jinzhou** di luar tembok kota,\
 ada pertempuran lain yang tak kalah berat berlangsung di dalam kota: pertarungan melawan kekhawatiran dan duka keluarga para prajurit.
 
-Tanpa komunikasi real-time akibat gangguan dari **Tacet Fields**, keluarga prajurit dilanda kecemasan yang mengganggu kehidupan sehari-hari mereka. Menyadari hal ini, **Jinhsi** berkolaborasi dengan **Ministry of Development** dan **Lollo Logistics** untuk mengadakan layanan pengiriman kilat. Surat-surat dari medan perang dikirimkan secara gratis ke keluarga prajurit, \
+Tanpa komunikasi real-time akibat gangguan dari **Tacet Fields**, keluarga prajurit dilanda kecemasan yang mengganggu kehidupan sehari-hari mereka. Menyadari hal ini, **Jinhsi** berkolaborasi dengan **Ministry of Development** dan **Lollo Logistics** untuk mengadakan layanan pengiriman kilat. Surat-surat dari medan perang dikirimkan secara gratis ke keluarga prajurit,\
 sementara **Ministry of Development** membangun jalur pintas untuk mempercepat transportasi. Hal ini sedikit mengurangi kecemasan keluarga yang menanti kabar orang terkasih mereka.
 
 Masalah lain yang lebih menyakitkan adalah menghibur keluarga yang kehilangan anggota keluarga di medan perang. **Jinhsi** bekerja sama dengan **Ministry of War** dan **Ministry of Development** untuk merancang solusi yang menghormati para pahlawan yang gugur.
 
 Sebagai bentuk penghormatan, kompensasi keluarga ditingkatkan, dan **Knell Square** dibangun sebagai dinding kenangan. Tablet nama para prajurit terbuat dari bijih terbaik yang tahan cuaca, agar nama mereka tetap dikenang selama berabad-abad. Meskipun **Midnight Rangers** berjuang bukan demi kehormatan, pengorbanan mereka layak dihargai. **Knell Square** menjadi tempat di mana keluarga bisa mengenang dan menemukan penghiburan di tengah kehilangan mereka.
 
-Dalam semua usahanya ini, **Jinhsi** selalu memimpin dengan memberi contoh. Setiap kali orang-orang melihat senyuman lembutnya, mereka tahu bahwa kebijakan yang menghibur hati akan segera menyusul, bagaikan balsem yang menyembuhkan luka akibat perang. \
+Dalam semua usahanya ini, **Jinhsi** selalu memimpin dengan memberi contoh. Setiap kali orang-orang melihat senyuman lembutnya, mereka tahu bahwa kebijakan yang menghibur hati akan segera menyusul, bagaikan balsem yang menyembuhkan luka akibat perang.\
 Berkat hangatnya kepemimpinan **Jinhsi**, **Jinzhou** berhasil bertahan melewati masa-masa sulit dengan harapan yang tak pernah padam.
 
 ### <mark style="color:blue;">Her Rare Anger</mark>
@@ -198,7 +184,7 @@ Berkat hangatnya kepemimpinan **Jinhsi**, **Jinzhou** berhasil bertahan melewati
 > \
 > "Iya, aku juga penasaran. Kalau dia marah, kayak gimana ya?"
 
-> "Aku pernah lihat,"&#x20;
+> "Aku pernah lihat,"
 
 jawab **Shi**, seorang penambang pendiam yang biasanya sibuk dengan pekerjaannya.
 
@@ -208,7 +194,7 @@ Dengan tangan kasar yang penuh luka, **Shi** hanya ingin membawa uang hasil kerj
 
 Di malam yang dingin, **Shi** dan rekan-rekannya nekat menyelinap ke mansion sang pedagang, berharap mendapatkan kembali hak mereka. Tapi sebelum mereka sempat bertindak, suara lembut namun tajam terdengar dari dalam rumah.
 
-> "Tuan **Zhu**, aku datang untuk menyampaikan kabar,"&#x20;
+> "Tuan **Zhu**, aku datang untuk menyampaikan kabar,"
 
 suara **Jinhsi** terdengar, tetap lembut namun dingin menusuk.
 
@@ -218,7 +204,7 @@ suara **Jinhsi** terdengar, tetap lembut namun dingin menusuk.
 
 **Jinhsi** tetap tenang.
 
-> "Kalau Anda bicara soal hukum, mari kita bahas,"&#x20;
+> "Kalau Anda bicara soal hukum, mari kita bahas,"
 
 katanya.
 
@@ -249,22 +235,22 @@ Ketika musim dingin berlalu dan **Jinzhou** menyambut **musim semi**, era baru p
 
 Banyak yang memuji **Magistrate** muda, **Jinhsi**, atas kecerdasannya yang luar biasa dan kemampuannya memahami berbagai hal dengan tajam. Seolah tak ada bidang ilmu yang berada di luar jangkauannya, maupun tantangan yang tak bisa ia atasi.
 
-Sejak menjabat, ia dengan cekatan menavigasi kompleksitas **Jinzhou**, menerapkan kebijakan-kebijakan yang membawa kedamaian dan kesejahteraan bagi rakyatnya. \
+Sejak menjabat, ia dengan cekatan menavigasi kompleksitas **Jinzhou**, menerapkan kebijakan-kebijakan yang membawa kedamaian dan kesejahteraan bagi rakyatnya.\
 Kota ini memasuki era baru—era kemakmuran dan ketenangan.
 
 Sebagai **Magistrate** **Jinzhou**, tanggung jawab **Jinhsi** mencakup urusan besar seperti militer dan politik, hingga hal-hal yang tampak sepele. Namun baginya, bahkan detail terkecil pun bisa berdampak besar pada kehidupan rakyatnya. Inilah standar yang ia tetapkan untuk dirinya sendiri.
 
-Meski memiliki wawasan luas, ada hal-hal yang tetap menjadi misteri baginya. Baru-baru ini, seseorang yang sangat penting bagi kotanya telah tiba—seseorang yang dikelilingi oleh rahasia yang sulit diungkap. Alih-alih mengabaikannya, \
+Meski memiliki wawasan luas, ada hal-hal yang tetap menjadi misteri baginya. Baru-baru ini, seseorang yang sangat penting bagi kotanya telah tiba—seseorang yang dikelilingi oleh rahasia yang sulit diungkap. Alih-alih mengabaikannya,\
 rasa ingin tahu dan kepedulian **Jinhsi** terhadap orang itu justru semakin dalam.
 
-Menurut catatan sejarah, seorang pahlawan legendaris di **Jinzhou** dikisahkan memiliki kekuatan untuk menyerap **Tacet Discords** dengan tangan kosong. Sosok ini meninggalkan jejak tak terlupakan dalam sejarah **Jinzhou**, bahkan di seluruh wilayah **Huanglong**. Dan kini, seseorang dengan kemampuan unik akan segera muncul di dunia. \
+Menurut catatan sejarah, seorang pahlawan legendaris di **Jinzhou** dikisahkan memiliki kekuatan untuk menyerap **Tacet Discords** dengan tangan kosong. Sosok ini meninggalkan jejak tak terlupakan dalam sejarah **Jinzhou**, bahkan di seluruh wilayah **Huanglong**. Dan kini, seseorang dengan kemampuan unik akan segera muncul di dunia.\
 **Jinhsi** mencurigai adanya keterkaitan antara mereka dengan pahlawan yang telah lama dikenang itu.
 
 Menyadari betapa pentingnya tamu istimewa ini, **Jinhsi** menyusun rencana penyambutan yang cermat. Ia tahu bahwa kehadiran mereka akan menarik konflik dan konspirasi dari berbagai pihak, maka ia harus memastikan mereka tidak menghadapi bahaya sendirian.
 
 Untuk itu, **Jinhsi** merekam sebuah pesan yang disiarkan ke seluruh wilayah, mengundang semua pengunjung **Jinzhou** dengan sambutan hangat agar mereka merasa diterima dengan baik. Ia juga dengan sengaja meninggalkan petunjuk-petunjuk kecil untuk memandu tamunya, sekaligus mengungkap ancaman tersembunyi di balik bayang-bayang.
 
-Khawatir akan keselamatan tamunya, **Jinhsi** mengirimkan pengawal pribadinya untuk melindungi mereka secara diam-diam. Ia mengerahkan segala sumber daya yang tersedia, memberikan bantuan secukupnya agar tamunya dapat mengungkap satu per satu teka-teki yang menghadang. Meski menghadapi berbagai kesulitan, \
+Khawatir akan keselamatan tamunya, **Jinhsi** mengirimkan pengawal pribadinya untuk melindungi mereka secara diam-diam. Ia mengerahkan segala sumber daya yang tersedia, memberikan bantuan secukupnya agar tamunya dapat mengungkap satu per satu teka-teki yang menghadang. Meski menghadapi berbagai kesulitan,\
 **Jinhsi** bertekad untuk kembali ke **Jinzhou** tepat waktu untuk memenuhi janji **tiga hari** mereka.
 
 Dulu, **Mt. Firmament** adalah tempat yang damai. Namun kini, ketenangan itu telah terganggu oleh bahaya yang mengancam **Sentinel**, serta kehadiran antek-antek **Fractsidus**. Demi menjaga kedamaian **Jinzhou**, **Jinhsi** memilih untuk berangkat sendirian ke tengah konflik, menghadapi berbagai tantangan demi mencari kebenaran tentang **Sentinel**.
@@ -275,6 +261,6 @@ Di teras **City Hall**, **Jinhsi**—**Magistrate** yang baru saja kembali—men
 
 > "Sudah tiga hari."
 
-> *"Kita berdua berhasil tiba tepat waktu."
+> \*"Kita berdua berhasil tiba tepat waktu."
 
 > "Izinkan aku memperkenalkan diri secara resmi. Aku adalah **Jinhsi**… Senang sekali akhirnya bisa bertemu denganmu, **Rover**."

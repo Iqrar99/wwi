@@ -1,20 +1,6 @@
 ---
 cover: https://i.postimg.cc/KjmRYNPb/Patch-2-0.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Act 2: Veils Off in Sun or Shadow
@@ -122,23 +108,23 @@ Sesampainya di menara, mereka menemukan **puzzle kuno** yang berisi catatan ters
 Kisah Sentinel yang dikubur The Order kemudian diceritakan dalam visual sinematik yang menggambarkan sejarah kelam Rinascita, tersembunyi dalam bayang-bayang yang ditekan oleh The Order:
 
 > _"Pada hari permulaan di tanah Rinascita, tampaklah dua Sentinel..._\
-> &#xNAN;_&#x59;ang satu menguasai langit, yang satu lagi menguasai samudera._\
-> &#xNAN;_&#x4D;ereka adalah kekuatan abadi yang saling bertentangan, selamanya bertolak belakang."_
+> \&#xNAN;_Yang satu menguasai langit, yang satu lagi menguasai samudera._\
+> \&#xNAN;_Mereka adalah kekuatan abadi yang saling bertentangan, selamanya bertolak belakang."_
 
 Dari pertentangan keduanya, dunia mengalami kekacauan. Namun, justru dari kekacauan itulah **Rinascita berevolusi**. Dalam legenda tua yang dikubur oleh The Order, **rakyat terbagi dalam kepercayaan**, berperang dalam bayang-bayang keyakinan yang berbeda.
 
 > _"Dan semua itu... baru berakhir saat munculnya bencana tak terduga—_\
-> &#xNAN;_**Tacet Discord Outbreak,**_ yang kini dikenal sebagai _**Dark Tide.**_"\*
+> \&#xNAN;_**Tacet Discord Outbreak,**_ yang kini dikenal sebagai _**Dark Tide.**_"\*
 
 Bencana itu melahap hampir seluruh pulau, meninggalkan kehancuran dalam skala yang belum pernah dilihat umat manusia. Dalam kehancuran itulah **Napoli**, sang _Primus pertama_, muncul dari reruntuhan, memulihkan tatanan dunia, dan mendirikan **The Order** untuk menuntun kembali Ragunna dari abu peradaban.
 
 Namun, setelah tugasnya rampung, **Napoli kembali ke pangkuan Ilahi**. Dalam nafas terakhirnya, ia menyampaikan ramalan:
 
 > _"Dahulu kala, satu—Sentinel yang tunggal—terpecah karena perbedaan keyakinan._\
-> &#xNAN;_&#x44;ari luka suci yang mereka torehkan pada satu sama lain, lahirlah kutukan: Dark Tide."_\
-> &#xNAN;_"Namun, dalam penderitaan yang belum usai, Sentinel yang terpecah akan memilih utusan mereka…_"\
-> &#xNAN;_"Pada hari termegah, sang perawan akan dimahkotai dengan Laurel Emas..."_\
-> &#xNAN;_"Melalui dirinya, ia akan berbicara kepada Sentinel, dan terlahirlah The Enlightened One yang telah diramalkan."_
+> \&#xNAN;_Dari luka suci yang mereka torehkan pada satu sama lain, lahirlah kutukan: Dark Tide."_\
+> \&#xNAN;_"Namun, dalam penderitaan yang belum usai, Sentinel yang terpecah akan memilih utusan mereka…_"\
+> \&#xNAN;_"Pada hari termegah, sang perawan akan dimahkotai dengan Laurel Emas..."_\
+> \&#xNAN;_"Melalui dirinya, ia akan berbicara kepada Sentinel, dan terlahirlah The Enlightened One yang telah diramalkan."_
 
 Lewat utusan ini, penderitaan akan berakhir. Sang Sentinel, yang terpecah, **akan kembali menyatu dalam wujud asli mereka**, dan di bawah berkat mereka:
 

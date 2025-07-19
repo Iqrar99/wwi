@@ -1,20 +1,6 @@
 ---
 cover: https://i.postimg.cc/KjHHydXK/Encore.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Encore
@@ -179,4 +165,4 @@ Teminologi
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/Vvg55vbQ/Encore-Revisi.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/gJ4nb6FV/Encore-2133-03-07-2025.png" alt=""><figcaption></figcaption></figure>

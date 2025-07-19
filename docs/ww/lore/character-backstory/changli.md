@@ -1,20 +1,6 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Changli
 
-<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1205.png" alt="" width="375"><figcaption><p><strong>Changli</strong> adalah penasihat yang melayani <strong>Magistrat Jinzhou</strong>, dan mantan Sekretaris Jenderal di ibu kota.  Terselubung dalam api, dia ditakdirkan untuk bersinar terang hingga bara terakhirnya.  Dengan tekadnya yang membara dan pola pikir strategisnya, dia naik ke tampuk kekuasaan, selalu berpikir ke depan untuk mencapai tujuan akhirnya.</p></figcaption></figure></div>
+<div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1205.png" alt="" width="375"><figcaption><p><strong>Changli</strong> adalah penasihat yang melayani <strong>Magistrat Jinzhou</strong>, dan mantan Sekretaris Jenderal di ibu kota. Terselubung dalam api, dia ditakdirkan untuk bersinar terang hingga bara terakhirnya. Dengan tekadnya yang membara dan pola pikir strategisnya, dia naik ke tampuk kekuasaan, selalu berpikir ke depan untuk mencapai tujuan akhirnya.</p></figcaption></figure></div>
 
 ## :mag: Informasi
 
@@ -38,7 +24,7 @@ Waktu pasti **Awakening** Resonator **Changli** masih belum dapat dipastikan. La
 
 **Tacet Mark** milik **Changli** terletak di bagian bawah dadanya. Pemeriksaan **Post-Awakening** menunjukkan adanya perubahan fisik tertentu, termasuk pudarnya warna rambut di ujungnya secara bertahap serta bekas luka bakar berbentuk bulu di lengan kirinya, yang memancarkan cahaya seperti api sesuai dengan **Forte**-nya.
 
-**Resonance Spectrum Pattern** **Changli** mencerminkan karakteristik api, menunjukkan reaksi **Syntony** yang kuat selama pengujian. Meskipun pemicu pasti Kebangkitannya masih belum diketahui, sejauh ini tidak ada sampel lain dengan kesamaan **Resonance Spectrum Pattern** melebihi **60%**. \
+**Resonance Spectrum Pattern** **Changli** mencerminkan karakteristik api, menunjukkan reaksi **Syntony** yang kuat selama pengujian. Meskipun pemicu pasti Kebangkitannya masih belum diketahui, sejauh ini tidak ada sampel lain dengan kesamaan **Resonance Spectrum Pattern** melebihi **60%**.\
 **Forte** **Changli** tampaknya memiliki keselarasan erat dengan **burung roh mistis dari folklore Huanglong**, kemungkinan besar akibat pengaruh cerita-cerita yang ia dengar sejak kecil tentang makhluk legendaris tersebut.
 
 **Changli** memiliki kemampuan unik untuk **memadatkan api menjadi proyektil berbentuk bulu yang halus**. Saat **Forte**-nya dilepaskan sepenuhnya, ia dapat menciptakan kobaran api dengan suhu ekstrem, mampu melahap area yang luas dalam sekejap. Salah satu tanda paling mencolok ketika **Forte**-nya aktif adalah munculnya satu bulu api dengan pola menyerupai mata di dahinya, yang ia sebut sebagai **"Mind’s Eye"**.
@@ -57,7 +43,7 @@ Meskipun Resonator **Changli** memiliki **riwayat Overclocking terdokumentasi**,
 
 * **Maksimum Overclocking yang pernah tercatat**: **Diabaikan (Negligible)**
 
-Berdasarkan laporan  **Changli**, ia mengalami **Overclocking** saat masih kecil akibat paparan lingkungan berbahaya dalam jangka waktu lama. Hal ini menyebabkan **Forte**-nya beberapa kali meledak secara tidak terkendali sebagai bentuk pertahanan diri atau perlindungan terhadap orang lain, yang mengakibatkan bekas luka bakar permanen di lengan kirinya.
+Berdasarkan laporan **Changli**, ia mengalami **Overclocking** saat masih kecil akibat paparan lingkungan berbahaya dalam jangka waktu lama. Hal ini menyebabkan **Forte**-nya beberapa kali meledak secara tidak terkendali sebagai bentuk pertahanan diri atau perlindungan terhadap orang lain, yang mengakibatkan bekas luka bakar permanen di lengan kirinya.
 
 Namun, seiring dengan meningkatnya kendali atas **Forte**-nya, fluktuasi frekuensi menjadi stabil, dan luka bakarnya tidak semakin memburuk. Meski begitu, ada kemungkinan kerusakan fisik permanen akibat ledakan **Forte** yang dapat memperpendek harapan hidupnya.
 
@@ -65,7 +51,7 @@ Disarankan untuk melakukan pemeriksaan fisik rutin, sementara konseling psikolog
 
 ## :package: Cherished Items
 
-<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Firmament Weiqi Manual</td><td><img src="https://wuthering.wiki/img/T_Treasure60_UI.png" alt=""></td><td><p>Sebuah <strong>buku panduan weiqi</strong> tua, berisi catatan permainan legendaris yang ditinggalkan oleh seorang pengunjung misterius di <strong>Gunung Firmament</strong>.</p><p>Halaman-halamannya telah menguning karena usia, dengan sudut-sudut yang terlipat akibat sering dibaca. Manuskrip ini pernah menemani pemiliknya melewati banyak perjalanan berbahaya dan penuh kesendirian. Kini, buku ini telah <strong>dipulihkan dan dijilid ulang</strong>, dengan halaman baru yang siap mencatat pertandingan berikutnya.</p><p>Sekarang, lawan yang telah lama ia cari akhirnya berdiri di hadapannya. Sebuah pertandingan bersejarah akan terjadi—satu yang akan dikenang dan dipelajari selama berabad-abad. Selama para pemain masih ada, halaman-halaman ini akan terus terisi.</p></td></tr><tr><td align="center">Flame-Soaked Cloth</td><td><img src="https://wuthering.wiki/img/T_Treasure58_UI.png" alt=""></td><td><p>Kain dengan bahan <strong>tak dikenal</strong>, lembut saat disentuh dan dikatakan <strong>tahan api</strong>. Setelah dibersihkan dengan api, kain ini justru menjadi lebih putih dan bersih, seperti <strong>salju yang baru turun</strong>.</p><p>Tanaman yang dulunya digunakan untuk menenun kain ini telah <strong>punah selama Lament</strong>, membuat setiap helainya menjadi barang yang sangat langka dan berharga.</p><p>Setelah <strong>Upacara Pengangkatan</strong>, <strong>Magistrate baru dari Jinzhou</strong> memberikan kain ini sebagai hadiah kepada gurunya yang ia hormati.</p></td></tr><tr><td align="center">Blaze Feather</td><td><img src="https://wuthering.wiki/img/T_Treasure59_UI.png" alt=""></td><td><p>Salah satu dari <strong>dua bulu api</strong> yang terbentuk dari <strong>Forte</strong> <strong>Changli</strong>.</p><p>Satu bulu telah diberikan kepada <strong>tamu kehormatan di Jinzhou</strong>, sementara yang satunya lagi disimpan oleh <strong>Changli</strong>.</p><p>Bulu ini terasa <strong>hampir tidak berbobot</strong>, seakan bisa terus menyala selamanya. Namun, api ini tidak pernah melukai siapa pun yang menyentuhnya, justru memberikan <strong>kehangatan yang menenangkan</strong>, mencerminkan <strong>kemampuan <strong>Changli</strong> yang nyaris sempurna dalam mengendalikan Forte-nya</strong>.</p><p>Seperti jubahnya, bulu ini sepenuhnya <strong>terbuat dari api</strong>.</p><p>Dulu, dalam dongeng yang diceritakan kepada seorang gadis kecil, dikisahkan bahwa <strong>phoenix yang lahir dari api akan memberikan bulu ekornya yang paling berharga kepada seseorang yang paling ia sayangi</strong>.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Firmament Weiqi Manual</td><td><img src="https://wuthering.wiki/img/T_Treasure60_UI.png" alt=""></td><td><p>Sebuah <strong>buku panduan weiqi</strong> tua, berisi catatan permainan legendaris yang ditinggalkan oleh seorang pengunjung misterius di <strong>Gunung Firmament</strong>.</p><p>Halaman-halamannya telah menguning karena usia, dengan sudut-sudut yang terlipat akibat sering dibaca. Manuskrip ini pernah menemani pemiliknya melewati banyak perjalanan berbahaya dan penuh kesendirian. Kini, buku ini telah <strong>dipulihkan dan dijilid ulang</strong>, dengan halaman baru yang siap mencatat pertandingan berikutnya.</p><p>Sekarang, lawan yang telah lama ia cari akhirnya berdiri di hadapannya. Sebuah pertandingan bersejarah akan terjadi—satu yang akan dikenang dan dipelajari selama berabad-abad. Selama para pemain masih ada, halaman-halaman ini akan terus terisi.</p></td></tr><tr><td align="center">Flame-Soaked Cloth</td><td><img src="https://wuthering.wiki/img/T_Treasure58_UI.png" alt=""></td><td><p>Kain dengan bahan <strong>tak dikenal</strong>, lembut saat disentuh dan dikatakan <strong>tahan api</strong>. Setelah dibersihkan dengan api, kain ini justru menjadi lebih putih dan bersih, seperti <strong>salju yang baru turun</strong>.</p><p>Tanaman yang dulunya digunakan untuk menenun kain ini telah <strong>punah selama Lament</strong>, membuat setiap helainya menjadi barang yang sangat langka dan berharga.</p><p>Setelah <strong>Upacara Pengangkatan</strong>, <strong>Magistrate baru dari Jinzhou</strong> memberikan kain ini sebagai hadiah kepada gurunya yang ia hormati.</p></td></tr><tr><td align="center">Blaze Feather</td><td><img src="https://wuthering.wiki/img/T_Treasure59_UI.png" alt=""></td><td><p>Salah satu dari <strong>dua bulu api</strong> yang terbentuk dari <strong>Forte</strong> <strong>Changli</strong>.</p><p>Satu bulu telah diberikan kepada <strong>tamu kehormatan di Jinzhou</strong>, sementara yang satunya lagi disimpan oleh <strong>Changli</strong>.</p><p>Bulu ini terasa <strong>hampir tidak berbobot</strong>, seakan bisa terus menyala selamanya. Namun, api ini tidak pernah melukai siapa pun yang menyentuhnya, justru memberikan <strong>kehangatan yang menenangkan</strong>, mencerminkan <strong>kemampuan Changli yang nyaris sempurna dalam mengendalikan Forte-nya</strong>.</p><p>Seperti jubahnya, bulu ini sepenuhnya <strong>terbuat dari api</strong>.</p><p>Dulu, dalam dongeng yang diceritakan kepada seorang gadis kecil, dikisahkan bahwa <strong>phoenix yang lahir dari api akan memberikan bulu ekornya yang paling berharga kepada seseorang yang paling ia sayangi</strong>.</p></td></tr></tbody></table>
 
 ## :scroll: Story
 
@@ -119,7 +105,7 @@ Sosok mungil yang bekerja keras itu mengingatkan **Changli** pada dirinya sendir
 
 Mengikuti dorongan hatinya, **Changli** maju dan menjawab kebingungan gadis itu.
 
-> "Terima kasih, Nyonya. Anda telah mencerahkan saya,"&#x20;
+> "Terima kasih, Nyonya. Anda telah mencerahkan saya,"
 
 ucap gadis itu dengan suara yang masih kekanak-kanakan, mengungkapkan rasa terima kasihnya dengan sungguh-sungguh.
 
@@ -143,13 +129,13 @@ Saat **Changli** menatap mata gadis itu, ia melihat tekad dan kekuatan—seperti
 
 Akhirnya, gadis itu benar-benar menjadi **Magistrate Jinzhou**, dipilih oleh **Sentinel**. Saat **Jinhsi** bekerja keras di **City Hall**, **Changli** tetap berada di sisinya, selalu siap menjawab pertanyaan dan memberikan nasihat saat dibutuhkan.
 
-Bagi kebanyakan orang, kisah-kisah kepahlawanan terlalu muluk dan tidak penting. Bagi rakyat biasa, kehidupan yang lebih baik hanya berarti makanan hangat dan tidur yang nyenya*.
+Bagi kebanyakan orang, kisah-kisah kepahlawanan terlalu muluk dan tidak penting. Bagi rakyat biasa, kehidupan yang lebih baik hanya berarti makanan hangat dan tidur yang nyenya\*.
 
-> "Seorang **Magistrate** tidak boleh terjebak dalam birokrasi, tapi harus turun langsung dan terlibat dengan rakyat,"&#x20;
+> "Seorang **Magistrate** tidak boleh terjebak dalam birokrasi, tapi harus turun langsung dan terlibat dengan rakyat,"
 
 peringatan **Changli** kepada **Jinhsi**.
 
-> "**Baik, Guru,**"&#x20;
+> "**Baik, Guru,**"
 
 jawab **Jinhsi** patuh.
 
@@ -159,7 +145,7 @@ Lewat **ritual permohonan tradisional Jinzhou**, **Jinhsi** mulai membangun hubu
 
 Sekarang, tidak ada lagi yang meragukan **Jinhsi**—baik rakyatnya maupun ibu kota.
 
-> "Lakukan apa yang kamu inginkan, aku akan mendukungmu,"&#x20;
+> "Lakukan apa yang kamu inginkan, aku akan mendukungmu,"
 
 kata **Changli**, menanam benih pengetahuan dan menyalakan jalan bagi **Jinhsi**.
 
@@ -191,7 +177,7 @@ Di bawah tekanan ekonomi, toko ini sudah terlalu lama dibiarkan tak terawat. Bah
 
 Meskipun terlihat percaya diri, **Changqing** sebenarnya ragu apakah ia bisa merenovasi tokonya sendiri. Ia sempat berpikir untuk menyewa tukang, terutama saat bisnisnya sedang naik daun.
 
-Namun, keesokan harinya, saat ia tiba di toko, ia terkejut melihat tampilan luar toko berubah drastis dalam semalam.  Plakat dan gerbang kini bersinar bersih, dengan tulisan **"Yanqing Bookstore"** terpampang megah. \
+Namun, keesokan harinya, saat ia tiba di toko, ia terkejut melihat tampilan luar toko berubah drastis dalam semalam. Plakat dan gerbang kini bersinar bersih, dengan tulisan **"Yanqing Bookstore"** terpampang megah.\
 Di atas meja kasir, ada sebuah **catatan kecil**.
 
 > "Sebagai ungkapan terima kasih atas kebaikan pemilik toko, saya telah melakukan sedikit perbaikan sebagai tanda penghargaan."
@@ -292,7 +278,6 @@ Ketika **Changqing** melihat **pola api** di surat yang ia terima, secercah hara
 
 Mungkinkah dia masih hidup?
 
-
 > "Permisi?"
 
 Lamunan **Changqing** buyar saat suara lembut terdengar dari balik meja kasir.
@@ -332,8 +317,8 @@ Dengan membawa **warisan Master Xuanmiao**, Changli pun melangkah menuju takdirn
 ***
 
 > "...Seorang makhluk surgawi turun, menguasai kekuatan tak terbatas dari alam semesta, merangkul gema yang pertama..."\
-> &#xNAN;"...Sosok misterius dengan mata emas, berdiri di antara awan berputar dan cahaya yang meredup..."\
-> &#xNAN;"...Selalu berada di sisi **Sentinel Jué**, terikat dalam persahabatan yang mendalam..."
+> \&#xNAN;"...Sosok misterius dengan mata emas, berdiri di antara awan berputar dan cahaya yang meredup..."\
+> \&#xNAN;"...Selalu berada di sisi **Sentinel Jué**, terikat dalam persahabatan yang mendalam..."
 
 Mengikuti catatan dalam jurnal gurunya, **Changli** terus mencari sosok misterius itu, menemukan jejaknya di tempat-tempat tak terduga.
 
@@ -343,7 +328,7 @@ Seperti penjaga yang diam, sosok ini menjadi jangkar yang kuat dalam badai, menu
 
 Jejak yang mereka tinggalkan membentuk benang merah yang nyaris tak terlihat, tetapi tetap kokoh—menjembatani waktu dan sejarah yang jauh melampaui umur manusia biasa.
 
-Dikatakan bahwa*kedatangan orang itu akan menjadi sesuatu yang mustahil untuk dilewatkan. Sosok ini memiliki kekuatan untuk benar-benar mengubah dunia.
+Dikatakan bahwa\*kedatangan orang itu akan menjadi sesuatu yang mustahil untuk dilewatkan. Sosok ini memiliki kekuatan untuk benar-benar mengubah dunia.
 
 Namun, **Changli** tahu bahwa dunia yang damai dan sejahtera tidak bisa hanya bergantung pada kedatangan seorang penyelamat.
 
@@ -355,14 +340,11 @@ Ketika akhirnya ia meraih posisi bergengsi sebagai **Sekretaris Jenderal**, ia m
 
 Di dalam lautan pengetahuan yang tersembunyi di sana, ia menemukan satu petunjuk penting—jejak yang membawanya ke **Jinzhou**, sebuah kota perbatasan di **Huanglong**.
 
-
 Sejak saat itu, segalanya terjadi tepat seperti yang telah diramalkan oleh **Sentinel Jué**.
 
 Orang yang selama ini ia cari muncul di **Jinzhou**, melindungi kota dari **Threnodian** yang bangkit kembali.
 
 Sosok samar dari catatan kuno dan mitos kini menjadi nyata dalam pikirannya—jelas, tegas, dan tak terbantahkan.
-
-
 
 Pada hari yang telah ditakdirkan, **Changli** kembali ke **Jinzhou** dari Mingting, ibu kota **Huanglong**.
 
@@ -379,4 +361,3 @@ Tatapan mereka bertemu—sebuah percakapan tanpa kata yang lebih dalam dari seka
 **Changli** tersenyum, lalu dengan suara lembut bertanya:
 
 > "Apakah kau terperangkap di sini oleh hujan?"
-

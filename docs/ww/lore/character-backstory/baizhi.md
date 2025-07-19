@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Baizhi
 
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1103.png" alt="" width="375"><figcaption><p><strong>Baizhi</strong> adalah seorang peneliti di bidang <strong>Remnant Ecoacoustics</strong>. Dulu, ada sebuah harapan yang tak pernah terwujud—sebuah keinginan yang nyaris tak berarti, <strong>infinitely close to zero</strong>. Namun kini, keinginan itu telah mengambil wujud nyata. Makhluk <strong>Remnant You’tan</strong> bukan hanya pendamping setianya, tetapi juga sumber kekuatan penyembuhannya—dan fokus penelitiannya seumur hidup.</p></figcaption></figure></div>
@@ -36,7 +22,7 @@ Dasar Evaluasi: \[**Resonance Assessment 2190-G**]
 
 Resonator **Baizhi** mengalami **Awakening** empat tahun lalu, setelah terpapar sumber **Energi Remnant** yang kuat satu tahun sebelumnya. Paparan ini mengaktifkan frekuensi **Remnant** yang bersesuaian dalam dirinya. Berdasarkan kesaksiannya, **Baizhi** merasakan dorongan kuat untuk menghidupkan kembali seorang rekan tim selama **Awakening**-nya. Akibatnya, frekuensi tersebut termanifestasi dalam bentuk **Makhluk Remnant**, yang kini menjadi pendampingnya.
 
-**Tacet Mark** **Baizhi** terletak di bagian depan paha kanannya. \
+**Tacet Mark** **Baizhi** terletak di bagian depan paha kanannya.\
 Tidak ada perubahan fisik signifikan yang diamati setelah **Awakening**.
 
 Namun, saat menggunakan **Forte**, **Tacet Mark** miliknya memancarkan cahaya putih samar seiring dengan kemunculan **Makhluk Remnant** tersebut. Makhluk ini berwarna putih transparan dan menyerupai kelopak bunga **Epiphyllum**. Ia tidak dapat berkomunikasi dalam bahasa manusia, tetapi dapat berinteraksi dengan **Baizhi** melalui telepati.
@@ -65,7 +51,7 @@ Grafik gelombang **Baizhi** menunjukkan fluktuasi **elips** dengan **Time Domain
 
 Ketika menyebut nama **Baizhi**, rekan-rekannya di Akademi sering berkomentar bahwa ia tampak **dingin dan sulit didekati**.
 
-Meskipun bekerja di departemen yang sama, jarang sekali mereka melihatnya terlibat dalam obrolan santai atau berbagi keluhan maupun tawa bersama. \
+Meskipun bekerja di departemen yang sama, jarang sekali mereka melihatnya terlibat dalam obrolan santai atau berbagi keluhan maupun tawa bersama.\
 Sebaliknya, mereka lebih sering menemukannya **diam dan tekun**, tenggelam dalam lautan data dan analisis yang ia lakukan dengan ketelitian luar biasa. Aura ketenangannya yang dingin dan terkendali seakan menciptakan jarak yang sulit dijangkau oleh orang lain.
 
 **Keberadaannya membawa ketenangan yang sunyi**, seolah memisahkannya dari hiruk-pikuk di sekelilingnya. Hal ini mencerminkan **fokus tajam dan disiplin diri** yang ia terapkan dalam setiap aspek penelitiannya.
@@ -108,10 +94,10 @@ Peneliti itu tertegun, lalu tiba-tiba teringat **kalimat lengkap** yang sering d
 
 ### <mark style="color:blue;">The Sphere and the Device</mark>
 
-Sebuah bola kecil mulai menggelinding, kemudian jatuh mengikuti lengkungan, \
+Sebuah bola kecil mulai menggelinding, kemudian jatuh mengikuti lengkungan,\
 membuat ujung tuas di sisi lain terangkat—menunjukkan bagaimana gaya ditransmisikan.
 
-**Baizhi** yang baru berusia **11 tahun** mengamati bola itu sekali lagi berhenti di titik yang telah ditentukan. Ia menyimpulkan bahwa, seberapapun rumitnya sistem ini terlihat, bola akan selalu bergerak tak terkendali menuju titik akhir yang telah dirancang sejak awal. \
+**Baizhi** yang baru berusia **11 tahun** mengamati bola itu sekali lagi berhenti di titik yang telah ditentukan. Ia menyimpulkan bahwa, seberapapun rumitnya sistem ini terlihat, bola akan selalu bergerak tak terkendali menuju titik akhir yang telah dirancang sejak awal.\
 Hal ini mengingatkannya pada sebuah hipotesis teoritis dalam buku yang baru saja ia baca:
 
 > Sepanjang sejarah, peradaban manusia selalu gagal menembus batas dari mekanisme ini, hingga akhirnya menemui kehancuran. Tanpa pengecualian.
@@ -138,7 +124,7 @@ Seorang ilmuwan senior, pemimpin kelompok ekspedisi, berbicara dengan senyum han
 
 > "Setiap bola yang menggelinding hanya akan berakhir di satu titik: berhenti di lokasi tertentu. Tetapi aku belum bisa melihat ke mana rancangan kalian akan berakhir."
 
-> "Aku akan mengatakan..." &#x20;
+> "Aku akan mengatakan..."
 
 pria itu tersenyum,
 
@@ -168,12 +154,12 @@ Dari atas, cahaya mengalir melalui lubang di kubah, menyelimuti ruangan dalam ki
 Kehadiran **Baizhi** dan timnya tampaknya memicu suatu mekanisme—struktur geometris yang tadinya melayang di udara mulai bergerak cepat, membentuk susunan simbol dan angka yang unik.
 
 **Baizhi** tak bisa memahami tujuan dari **Sonoro Sphere** ini. Apakah ia sedang menyaksikan masa lalu? Masa kini? Atau mungkin suatu masa yang belum diketahui?\
-Tapi tak ada waktu untuk terpukau. Naluri ilmiahnya langsung mengambil alih, \
+Tapi tak ada waktu untuk terpukau. Naluri ilmiahnya langsung mengambil alih,\
 memaksanya untuk merekam setiap detail yang ada.
 
 > Ini bisa menjadi dasar bagi teori baru—
 
-Instrumen survei menampilkan fluktuasi frekuensi secara langsung. \
+Instrumen survei menampilkan fluktuasi frekuensi secara langsung.\
 **Baizhi** memutuskan semua distraksi dan memusatkan seluruh perhatiannya pada layar.
 
 Seluruh teori dan pemahamannya selama ini terasa seperti dirancang untuk momen ini.
@@ -184,8 +170,7 @@ Layaknya membangun saluran dalam sebuah perangkat, **Baizhi** memilih dua ujung 
 
 Cahaya yang bergejolak merespons tindakannya, mengembun menjadi bola cahaya putih yang murni.
 
-*Gelombang Remnant itu pun berhasil ditangkap dan diwujudkan—utuh, namun kosong bagai cangkang, murni dan bebas dari segala kotoran.
-
+\*Gelombang Remnant itu pun berhasil ditangkap dan diwujudkan—utuh, namun kosong bagai cangkang, murni dan bebas dari segala kotoran.
 
 Saat itu, **Baizhi** tidak tahu bahwa penemuannya akan terus bersamanya seumur hidup, membentuk dasar dari seluruh penelitian yang akan ia lakukan di masa depan.
 
@@ -230,7 +215,6 @@ Dalam pusaran emosi yang kacau, **Baizhi** tak mampu mengendalikan keinginannya�
 
 Lalu, sesosok **Makhluk Remnant** muncul di hadapannya, berbentuk seperti **Epiphyllum** yang bermekaran. Seolah-olah, itu adalah jawaban atas permohonannya.
 
-
 Hingga hari ini, **Baizhi** masih tidak membuat permohonan.\
 Permohonan bukanlah fakta.\
 Ia lebih memilih berpegang pada hal yang nyata, sesuatu yang bisa ia kendalikan.
@@ -241,7 +225,7 @@ Tampak mustahil, namun tak pernah benar-benar hilang.
 ### <mark style="color:blue;">The Endpoint</mark>
 
 Segala yang terjadi di bawah gletser telah menjadi masa lalu.\
-Sebagai satu-satunya yang selamat, **Baizhi** tak pernah membicarakannya atas kemauannya sendiri.Mereka yang penasaran dan berusaha menggali rahasia itu tak menemukan apa pun. \
+Sebagai satu-satunya yang selamat, **Baizhi** tak pernah membicarakannya atas kemauannya sendiri.Mereka yang penasaran dan berusaha menggali rahasia itu tak menemukan apa pun.\
 Tidak ada misteri kelam yang disembunyikan.
 
 Semua orang telah melakukan yang terbaik.
@@ -253,7 +237,6 @@ Merenungkan masa lalu tidak ada gunanya.
 
 **Baizhi** memusatkan waktunya pada tugas-tugas penting, yang hanya bisa ia lakukan sebagai satu-satunya yang tersisa.
 
-
 Tak lama setelah bergabung dengan Akademi, **Baizhi** mulai berlari dari satu laboratorium ke laboratorium lain di Cabang **Remnant Ecoacoustics**.
 
 Inovasi-inovasi tak terhitung jumlahnya muncul dari tangannya—dalam **Waveband Analysis, Applied Echo Studies,** dan **simulated Sonoro Spheres**.
@@ -261,7 +244,6 @@ Inovasi-inovasi tak terhitung jumlahnya muncul dari tangannya—dalam **Waveband
 Ia mengajukan hipotesis bahwa **Makhluk Remnant** adalah tubuh energi yang berasal dari "**cangkang kosong**". Mereka bisa beresonansi dengan manusia, mungkin dapat terbentuk dalam wujud yang melampaui sekadar pita energi.
 
 Jika prinsip ini bisa dikuasai, manusia mungkin bisa mengembangkan **Sonoro Sphere** buatan serta lebih banyak **Makhluk Remnant**. Hipotesis ini menggemparkan komunitas akademik, namun makhluk Remnant yang kembali bersamanya dari Sonoro Sphere menjadi bukti sempurna.
-
 
 **Baizhi** menamainya—**You’tan**.\
 Nama yang diambil dari **udumbara**, bunga mistis yang kadang dikaitkan dengan **Epiphyllum**.\
@@ -271,7 +253,6 @@ Meski bertahun-tahun mencari, para peneliti hanya bisa menangkap jejak sekilas d
 
 Begitu banyak jawaban yang masih menunggu.\
 Dan **Baizhi** harus menemukannya semua.
-
 
 Tapi ia tidak terburu-buru. Karena tujuan itu ada di depan. Ia melangkah dengan sabar, melanjutkan perjalanan sebelum waktu benar-benar habis. Dan ini bukanlah perjalanan yang sepi. Karena **Baizhi** kini memiliki seorang pendamping—seseorang yang berbagi jalan dan tujuannya.
 

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Chixia
 
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1202.png" alt="" width="375"><figcaption><p><strong>Chixia</strong> adalah <strong>Patroller</strong> muda penuh semangat yang menerangi jalanan <strong>Jinzhou</strong>. Selalu siap, selalu sigap—ia adalah pahlawan yang selalu hadir saat dibutuhkan.</p></figcaption></figure></div>

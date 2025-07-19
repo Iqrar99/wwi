@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Youhu
 
 <div align="center"><figure><img src="https://wuthering.wiki/img/rolecard_1106.png" alt="" width="375"><figcaption><p>Seorang <strong>appraiser</strong> barang antik yang cerewet dan penuh kejenakaan. Dikenal karena kemampuannya menciptakan limerik secara spontan, ia menyampaikan hasil appraisal dengan <strong>gaya teatrikal namun akurat</strong>. Dengan membuka lapak di pinggir jalan, ia memastikan setiap barang antik menemukan pemilik yang benar-benar menghargainya.</p></figcaption></figure></div>
@@ -32,7 +18,7 @@ layout:
 
 ### <mark style="color:blue;">Resonance Evaluation Report</mark>
 
-Dasar Evaluasi: \[**Evaluasi Resonansi **RA1013-G**]
+Dasar Evaluasi: \[\*\*Evaluasi Resonansi **RA1013-G**]
 
 **Awakening Resonator Youhu** terjadi tiga tahun lalu, dengan manifestasi awal sudah terlihat sejak masa kanak-kanak. **Awakening** ini disertai gejala **hipotermia** akibat paparan suhu rendah dalam waktu yang lama.
 
@@ -55,7 +41,7 @@ Dianjurkan untuk melakukan pemeriksaan fisik rutin, sementara konseling psikolog
 
 ## :package: Cherished Items
 
-<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Master <strong>Youhu</strong>'s Poetry Collection</td><td><img src="https://wuthering.wiki/img/T_Treasure69_UI.png" alt=""></td><td><p>Sebuah buku kecil yang selalu dibawa <strong>Youhu</strong> untuk mencatat puisi favorit dan ide-ide inspiratif untuk pantunnya.</p><p>Mereka bilang, tulislah semua idemu—karena kita tidak pernah tahu kapan akan membutuhkannya. Itulah yang dilakukan <strong>Youhu</strong> setiap hari, menangkap setiap pemikiran cerdasnya, entah untuk <strong>menilai benda antik atau sekadar menciptakan syair yang tajam</strong>. Ini adalah <strong>caranya melatih ketajaman pikirannya</strong>.</p><p>Tapi tentu saja, </p><p></p><p><strong>ini rahasianya</strong>—jadi, <strong>biarkan ini tetap antara kita, ya?</strong></p></td></tr><tr><td align="center">An Ice Mask</td><td><img src="https://wuthering.wiki/img/T_Treasure67_UI.png" alt=""></td><td><p>Sebuah <strong>topeng es</strong> yang diciptakan dengan <strong>Forte</strong> milik <strong>Youhu</strong>. Desainnya <strong>berbeda dari yang asli</strong>, tetapi <strong>senyuman licik</strong> yang tergambar di sana mencerminkan ekspresi <strong>Youhu</strong> <strong>saat ia tengah menyusun rencana isengnya</strong>.</p><p><strong>Youhu</strong> sering memainkan topeng ini di waktu luangnya—<strong>sebagai pengingat bagaimana ia hampir tertipu</strong> saat menilai benda antik di awal kariernya.</p><p>Selain sebagai simbol kehati-hatian, topeng ini juga <strong>alat sempurna untuk menakuti orang atau mempermainkan mereka yang menarik perhatiannya</strong>.</p></td></tr><tr><td align="center">The Ruyi Ring</td><td><img src="https://wuthering.wiki/img/T_Treasure68_UI.png" alt=""></td><td><p>Sebuah <strong>cincin giok yang pernah retak</strong>, kini telah diperbaiki oleh <strong>Youhu</strong> dengan <strong>Forte kryogeniknya</strong>.</p><p>Cincin ini <strong>pernah hilang dalam kekacauan kebakaran</strong>, namun setelah <strong>pencarian panjang yang melewati berbagai tempat</strong>, <strong>pusaka keluarga ini akhirnya kembali ke tangan <strong>Youhu</strong></strong>.</p><p>Kadang-kadang, <strong>Youhu</strong> masih memimpikan masa lalu—<strong>semilir angin dari kipas ibunya, suara ayahnya yang sedang menyeduh teh</strong>. Saat terbangun, ia sering menemukan <strong>Cincin Ruyi masih tergenggam erat di tangannya</strong>.</p><p><strong>Ruyi</strong>, simbol <strong>kedamaian dan kebahagiaan</strong>, dipercaya dapat <strong>mengabulkan keinginan seseorang</strong>. Namun bagi <strong>Youhu</strong>, cincin ini <strong>lebih dari sekadar benda antik</strong>.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="178" align="center"></th><th width="180"></th><th></th></tr></thead><tbody><tr><td align="center">Master <strong>Youhu</strong>'s Poetry Collection</td><td><img src="https://wuthering.wiki/img/T_Treasure69_UI.png" alt=""></td><td><p>Sebuah buku kecil yang selalu dibawa <strong>Youhu</strong> untuk mencatat puisi favorit dan ide-ide inspiratif untuk pantunnya.</p><p>Mereka bilang, tulislah semua idemu—karena kita tidak pernah tahu kapan akan membutuhkannya. Itulah yang dilakukan <strong>Youhu</strong> setiap hari, menangkap setiap pemikiran cerdasnya, entah untuk <strong>menilai benda antik atau sekadar menciptakan syair yang tajam</strong>. Ini adalah <strong>caranya melatih ketajaman pikirannya</strong>.</p><p>Tapi tentu saja,</p><p><strong>ini rahasianya</strong>—jadi, <strong>biarkan ini tetap antara kita, ya?</strong></p></td></tr><tr><td align="center">An Ice Mask</td><td><img src="https://wuthering.wiki/img/T_Treasure67_UI.png" alt=""></td><td><p>Sebuah <strong>topeng es</strong> yang diciptakan dengan <strong>Forte</strong> milik <strong>Youhu</strong>. Desainnya <strong>berbeda dari yang asli</strong>, tetapi <strong>senyuman licik</strong> yang tergambar di sana mencerminkan ekspresi <strong>Youhu</strong> <strong>saat ia tengah menyusun rencana isengnya</strong>.</p><p><strong>Youhu</strong> sering memainkan topeng ini di waktu luangnya—<strong>sebagai pengingat bagaimana ia hampir tertipu</strong> saat menilai benda antik di awal kariernya.</p><p>Selain sebagai simbol kehati-hatian, topeng ini juga <strong>alat sempurna untuk menakuti orang atau mempermainkan mereka yang menarik perhatiannya</strong>.</p></td></tr><tr><td align="center">The Ruyi Ring</td><td><img src="https://wuthering.wiki/img/T_Treasure68_UI.png" alt=""></td><td><p>Sebuah <strong>cincin giok yang pernah retak</strong>, kini telah diperbaiki oleh <strong>Youhu</strong> dengan <strong>Forte kryogeniknya</strong>.</p><p>Cincin ini <strong>pernah hilang dalam kekacauan kebakaran</strong>, namun setelah <strong>pencarian panjang yang melewati berbagai tempat</strong>, <strong>pusaka keluarga ini akhirnya kembali ke tangan Youhu</strong>.</p><p>Kadang-kadang, <strong>Youhu</strong> masih memimpikan masa lalu—<strong>semilir angin dari kipas ibunya, suara ayahnya yang sedang menyeduh teh</strong>. Saat terbangun, ia sering menemukan <strong>Cincin Ruyi masih tergenggam erat di tangannya</strong>.</p><p><strong>Ruyi</strong>, simbol <strong>kedamaian dan kebahagiaan</strong>, dipercaya dapat <strong>mengabulkan keinginan seseorang</strong>. Namun bagi <strong>Youhu</strong>, cincin ini <strong>lebih dari sekadar benda antik</strong>.</p></td></tr></tbody></table>
 
 ## :scroll: Story
 
@@ -69,7 +55,7 @@ Sepanjang kariernya, ia hanya pernah salah sekali—saat keliru menilai sebuah *
 
 Meskipun sering berpromosi dengan gaya ceria dan sedikit usil, orang-orang tetap mempercayainya—apalagi karena tarif penilaiannya sangat murah. Cukup dengan makan enak dan sedikit pujian, **Youhu** siap memberikan penilaian terbaiknya.
 
-> “Lipatannya sudah ada sejak sebelum **Jinzhou*" berdiri—harta langka yang masih terawat sempurna! Bisa dibilang, ia telah menyaksikan naik turunnya kejayaan **"Jinzhou""!”
+> “Lipatannya sudah ada sejak sebelum \*_Jinzhou_" berdiri—harta langka yang masih terawat sempurna! Bisa dibilang, ia telah menyaksikan naik turunnya kejayaan \*\*"Jinzhou""!”
 
 > “Lihat lapisan glazurnya? Halus seperti giok, lembut seperti sutra. Memang bukan barang antik, tapi keterampilannya pantas dihargai!”
 
@@ -119,7 +105,7 @@ Namun bahkan di tengah kejaran, ia masih sempat mencatat sesuatu dalam bukunya:
 
 **Youhu** lahir di kota pelabuhan yang ramai, terkenal dengan perdagangan barang antiknya. Kedua orang tuanya adalah **appraiser ternama**.
 
-Pada ulang tahunnya yang pertama, sesuai tradisi setempat, orang tuanya mengelilinginya dengan berbagai benda yang melambangkan berbagai profesi. Konon, *enda pertama yang disentuh anak akan menentukan minat dan jalur kariernya di masa depan.
+Pada ulang tahunnya yang pertama, sesuai tradisi setempat, orang tuanya mengelilinginya dengan berbagai benda yang melambangkan berbagai profesi. Konon, \*enda pertama yang disentuh anak akan menentukan minat dan jalur kariernya di masa depan.
 
 Namun hari itu, bocah kecil **Youhu** mengabaikan pena, pedang, dan alat masak, lalu merangkak langsung ke arah ibunya, meraih erat cincin pusaka keluarga—sebuah Ruyi kuno asli—dan tak mau melepaskannya.
 
@@ -131,7 +117,7 @@ Ukiran batu tua menggambarkan para pemuda gagah mengangkat busur mereka, melindu
 
 Saat larut dalam dunia barang antik, sifat ceria **Youhu** semakin bersinar. **Tacet Mark** di lengannya berpendar lembut, **memantulkan cahaya di matanya**.
 
-Baginya, setiap barang antik menyimpan sepotong sejarah, seolah-olah ia bisa mengintip jejak peradaban yang telah lama berlalu. Pesona ini masih **menahannya dalam sihir yang sama hingga hari ini.
+Baginya, setiap barang antik menyimpan sepotong sejarah, seolah-olah ia bisa mengintip jejak peradaban yang telah lama berlalu. Pesona ini masih \*\*menahannya dalam sihir yang sama hingga hari ini.
 
 Guru **Youhu**, **Chenpi**, sering memuji bakatnya.
 
@@ -149,14 +135,14 @@ Para **appraiser terkenal** sering terlibat dalam **debat sengit** tentang nilai
 
 Mula-mula mereka meremehkan nilai sebuah benda, membelinya dengan harga murah, lalu menjualnya kembali dengan harga selangit setelah sedikit membumbui ceritanya.
 
-Keahlian? \
-Sejarah? \
+Keahlian?\
+Sejarah?\
 Semua itu hanya sekadar embel-embel dalam permainan harga mereka.\
 Namun, pendekatan **Youhu** berbeda.
 
 Baginya, nilai barang antik bukan hanya sekadar angka, tetapi sesuatu yang jauh lebih bermakna.
 
-Faktor pertama adalah apresiasi yang tulus*. **Youhu** senang menjadi penghubung antara penjual yang ingin melepas harta mereka dengan pembeli yang benar-benar menghargainya. Saat barang itu berpindah tangan, frekuensinya bergema dalam hati kedua belah pihak.
+Faktor pertama adalah apresiasi yang tulus\*. **Youhu** senang menjadi penghubung antara penjual yang ingin melepas harta mereka dengan pembeli yang benar-benar menghargainya. Saat barang itu berpindah tangan, frekuensinya bergema dalam hati kedua belah pihak.
 
 Faktor berikutnya adalah hati nurani.\
 Saat **Youhu** berusia **tujuh tahun**, segerombolan perampok menyerbu kotanya, mencari kekayaan untuk dijarah.
@@ -180,7 +166,7 @@ Namun hari ini, misi **Youhu** adalah mengembalikan setiap benda yang hilang ke 
 
 ### <mark style="color:blue;">The Ruyi Ring</mark>
 
-Sepanjang kariernya, **Youhu** mengembangkan kebiasaan membuat replika barang antik favoritnya dengan kekuatan es. Ia pernah membuat **lonceng es**, meskipun nada suaranya tak setepat aslinya, tapi suara pecahannya yang jernih terasa menyenangkan.&#x20;
+Sepanjang kariernya, **Youhu** mengembangkan kebiasaan membuat replika barang antik favoritnya dengan kekuatan es. Ia pernah membuat **lonceng es**, meskipun nada suaranya tak setepat aslinya, tapi suara pecahannya yang jernih terasa menyenangkan.
 
 Ia juga pernah membuat **Ruyi es**, mengayunkannya dengan penuh semangat, hingga hampir menumbangkan tungku es dan topeng yang ada di dekatnya!. Saat orang bertanya barang antik mana yang paling ia hargai, **Youhu** selalu terdiam sejenak, menatap cincin Ruyi di hadapannya.
 
@@ -204,4 +190,3 @@ Di tengah gigitan udara dingin, ia berjongkok, merapatkan pecahan itu, dan mengg
 Saat ia sadar, tangannya kini dihiasi pola salju yang halus.
 
 Dan di sampingnya, tergeletak cincin **Ruyi** yang sempurna, berkilau dalam es, seolah menunggunya untuk kembali.
-
