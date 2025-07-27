@@ -7,7 +7,7 @@ coverY: 0
 
 Menyambut pagi yang cerah di kota Jinzhou, Rover, Yangyang, dan Chixia menikmati sarapan di restoran Panhua. Chixia memesan mi pedas untuk mereka bertiga. Sambil mengobrol santai dan menikmati makanan, mereka membahas kejadian yang terjadi kemarin.
 
-<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act2_Picture1 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-1/Chapter1_Act2_Picture1.jpg" alt=""><figcaption></figcaption></figure>
 
 Mereka telah berhasil memecahkan teka-teki tentang **Sundial** dan **Sugar Pearl**, sehingga kini hanya tersisa misteri _daun aneh_ dan _manggis_ yang perlu diungkap. Yangyang menyampaikan bahwa buah manggis bukan berasal dari Jinzhou, jadi mereka dapat melacaknya melalui pelabuhan terdekat tempat buah tersebut didistribusikan. Sementara untuk daunnya, Baizhi sempat mengatakan bahwa daun tersebut memiliki frekuensi **TD**. Dari situ, Yangyang menyimpulkan bahwa daun tersebut kemungkinan berasal dari pohon yang tumbuh di dekat sebuah **Tacet Field**.
 
