@@ -5,7 +5,7 @@
 
 ## Wuthering Waves <a href="#ww" id="ww"></a>
 
-* [Guide](ww/guide/README.md)
+* [📚 Guide](ww/guide/README.md)
   * [Resonator Kit](ww/guide/resonator/README.md)
     * [Glacio](ww/guide/resonator/glacio/README.md)
       * [Baizhi](ww/guide/resonator/glacio/baizhi.md)
@@ -100,7 +100,7 @@
     * [Cost-3](ww/guide/echo/cost-3.md)
     * [Cost-1](ww/guide/echo/cost-1.md)
   * [Sonata Effect](ww/guide/sonata-effect.md)
-* [Lore](ww/lore/README.md)
+* [📜 Lore](ww/lore/README.md)
   * [Main Story](ww/lore/main-story/README.md)
     * [Prologue](ww/lore/main-story/prologue/README.md)
       * [Utterance of Marvels: I](ww/lore/main-story/prologue/utterance-of-marvels-i.md)
@@ -147,6 +147,7 @@
     * [Lupa](ww/lore/character-backstory/lupa.md)
     * [Mortefi](ww/lore/character-backstory/mortefi.md)
     * [Phoebe](ww/lore/character-backstory/phoebe.md)
+    * [Phrolova](ww/lore/character-backstory/phrolova.md)
     * [Roccia](ww/lore/character-backstory/roccia.md)
     * [Rover](ww/lore/character-backstory/rover.md)
     * [Sanhua](ww/lore/character-backstory/sanhua.md)
@@ -179,5 +180,5 @@
 
 * [Facebook Group](https://www.facebook.com/groups/wutheringwavesindo)
 * [Join Discord](https://discord.gg/wwi)
-* [Contribute](https://github.com/Iqrar99/wwi)
+* [📝 Contribute](https://github.com/Iqrar99/wwi)
 * [Changelogs](changelogs.md)

@@ -48,6 +48,7 @@ Halaman yang tersedia saat ini:
 
 - [lupa.md](lupa.md "mention") (TBA)
 - [phoebe.md](phoebe.md "mention")
+- [phrolova.md](phrolova.md "mention")(TBA)
 - [roccia.md](roccia.md "mention")
 - [rover.md](rover.md "mention")
 - [the-shorekeeper.md](the-shorekeeper.md "mention")

@@ -7,9 +7,14 @@ coverY: 0
 
 # Changelogs
 
+## 27/07/2025
+
+* Add latest echo and weapon data
+* Add new sonata effect
+
 ## 19/07/2025
 
-* update infographic (XLY, Calc, Encore, Changli and Brant)
+* Update infographic (XLY, Calc, Encore, Changli and Brant)
 * Update team Brant
 
 ## 29/06/2025
