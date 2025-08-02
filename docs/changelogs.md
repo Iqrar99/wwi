@@ -11,6 +11,12 @@ coverY: 0
 
 * Add Backstory Carte [cartethyia.md](ww/lore/character-backstory/cartethyia.md "mention")dan Lupa [lupa.md](ww/lore/character-backstory/lupa.md "mention")
 * Add Resonator kit [ciaccona.md](ww/guide/resonator/aero/ciaccona.md "mention")
+* add character guide Carte \
+  [cartethyia.md](ww/guide/build/aero/cartethyia.md "mention")\
+  [lupa.md](ww/guide/build/fusion/lupa.md "mention")
+* Update Guide Details and Infographic\
+  [cantarella.md](ww/guide/build/havoc/cantarella.md "mention")\
+  [roccia.md](ww/guide/build/havoc/roccia.md "mention")
 
 ## 27/07/2025
 

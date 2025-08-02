@@ -18,7 +18,7 @@ coverY: 0
 ## :crossed\_swords: Pilihan Senjata
 
 {% tabs %}
-{% tab title="Tragicomedy 121% " %}
+{% tab title="Tragicomedy 127% " %}
 {% hint style="success" %}
 Best In Slot
 {% endhint %}
@@ -30,7 +30,7 @@ Best In Slot
 <figure><img src="https://wuthering.wiki/img/weapon_21040026.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Blazing Justice 109%" %}
+{% tab title="Blazing Justice 112%" %}
 {% hint style="success" %}
 Direkomendasikan
 {% endhint %}
@@ -42,7 +42,7 @@ Direkomendasikan
 <figure><img src="https://wuthering.wiki/img/weapon_21040036.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Verity’s Handle 109%" %}
+{% tab title="Verity’s Handle 111%" %}
 {% hint style="info" %}
 Alternatif
 {% endhint %}
@@ -64,30 +64,6 @@ Alternatif
 > Salah satu pilihan Gauntlet terbaik di game ini dengan satu-satunya pesaing adalah senjata :star:4 dengan beberapa dupe. Memberikan base ATK yang tinggi, ATK%, jumlah EnergY Regen yang baik untuk menyimpan setidaknya 1 sub-stat pada echo yang dapat dipindahkan ke penggunaan yang lebih baik, dan bonus bersyarat yang meningkatkan damage **Resonance Skill** dan **Basic Attack** yang sangat mudah dipenuhi.
 
 <figure><img src="https://wuthering.wiki/img/weapon_21040015.png" alt="" width="188"><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Celestial Spiral R5 87%" %}
-{% hint style="info" %}
-Alternatif
-{% endhint %}
-
-:mag: **Review Senjata**
-
-> Sering kali menjadi opsi Gauntlet :star:4 F2P terbaik untuk karakter DPS yang mengandalkan ATK. Peningkatan ATK% yang diberikan saat menggunakan Resonance Skill sangat berguna pada kebanyakan karakter, dan meskipun penghasilan energi kecil yang diberikan bersamaan lebih situasional, hal itu juga bisa berguna.
-
-<figure><img src="https://wuthering.wiki/img/weapon_21040084.png" alt="" width="188"><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Hollow Mirage 84%" %}
-{% hint style="info" %}
-Alternatif
-{% endhint %}
-
-:mag: **Review Senjata**
-
-> Pilihan generik yang kuat untuk semua pengguna Gauntlet, memberikan **ATK%** dan **DEF%** setelah menggunakan **Resonance Liberation** dalam bentuk 3 charge. Karena sebagian besar karakter memasukkan Liberation dalam rotasi mereka di endgame, kamu bisa mengharapkan bonus ini diterapkan dengan cepat dan konsisten. Sayangnya, setiap kali kamu terkena serangan, 1 charge akan hilang. Jadi, untuk menggunakan senjata ini secara efektif, kamu harus meminimalkan jumlah kali kamu terkena serangan. Jika kamu merasa sering terkena, lebih baik turunkan ekspektasi terhadap senjata ini dan posisinya dalam prioritas.
-
-<figure><img src="https://wuthering.wiki/img/weapon_21040064.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -153,7 +129,7 @@ forte circuit > Reso Lib > Reso skill > BA > intro
 
 ## :busts\_in\_silhouette: Rekomendasi Tim
 
-<table><thead><tr><th>Main DPS</th><th width="160.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/WzdPrmTk/Camellya-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"> Camellya</td><td><img src="https://i.postimg.cc/bwcjD2MZ/Roccia-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line">Roccia</td><td>Buff Basic ATK 25% dan buff Havoc DMG 20%</td></tr><tr><td><img src="https://i.postimg.cc/FKXs46mn/Danjin-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"> Danjin</td><td><img src="https://i.postimg.cc/bwcjD2MZ/Roccia-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line">Roccia</td><td>buff Havoc DMG 20%</td></tr><tr><td><img src="https://i.postimg.cc/6qppPGwW/Rover-Male-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"> Rover (Havoc)</td><td><img src="https://i.postimg.cc/bwcjD2MZ/Roccia-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line">Roccia</td><td>buff Havoc DMG 20%</td></tr></tbody></table>
+<table><thead><tr><th>Character 1</th><th width="226.27386474609375">Character 2</th><th>Character 3</th></tr></thead><tbody><tr><td><img src="https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_41_UI.webp" alt="" data-size="line"><img src="https://api.hakush.in/ww/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriDarkVision.webp" alt="" data-size="line"> Phrolova</td><td><img src="https://i.postimg.cc/85PPbg3G/Cantarella-icon-role-made-by-Win.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"> Cantarella</td><td><img src="https://i.postimg.cc/bwcjD2MZ/Roccia-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Roccia</td></tr><tr><td><img src="https://i.postimg.cc/WzdPrmTk/Camellya-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"> Camellya</td><td><img src="https://i.postimg.cc/bwcjD2MZ/Roccia-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Roccia</td><td><img src="https://i.postimg.cc/Y9q72KP8/The-Shorekeeper-Icon.png" alt="" data-size="line"><img src="https://api.hakush.in/ww/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriCure.webp" alt="" data-size="line"> Shorekeeper</td></tr><tr><td><img src="https://i.postimg.cc/6qppPGwW/Rover-Male-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"> Rover (Havoc)</td><td><img src="https://i.postimg.cc/bwcjD2MZ/Roccia-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Roccia</td><td><img src="https://i.postimg.cc/Y9q72KP8/The-Shorekeeper-Icon.png" alt="" data-size="line"><img src="https://api.hakush.in/ww/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriCure.webp" alt="" data-size="line"> Shorekeeper</td></tr><tr><td><img src="https://i.postimg.cc/SQgsMV7J/Encore-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Encore</td><td><img src="https://i.postimg.cc/bwcjD2MZ/Roccia-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Roccia</td><td><img src="https://i.postimg.cc/Y9q72KP8/The-Shorekeeper-Icon.png" alt="" data-size="line"><img src="https://api.hakush.in/ww/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriCure.webp" alt="" data-size="line"> Shorekeeper</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 
@@ -173,4 +149,4 @@ Note: Use Ult whenever, earlier the better
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/m2wyTYj1/Roccia-latest.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/YSyNGryS/Roccia-1623-02082025.png" alt=""><figcaption></figcaption></figure>

@@ -19,7 +19,7 @@ coverY: 0
 ## :crossed\_swords: Pilihan Senjata
 
 {% tabs %}
-{% tab title="Whispers of Sirens 121%" %}
+{% tab title="Whispers of Sirens 123%" %}
 {% hint style="success" %}
 Best In Slot
 {% endhint %}
@@ -81,18 +81,6 @@ Alternatif
 
 <figure><img src="https://wuthering.wiki/img/weapon_21050015.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
-
-{% tab title="Augment (R5)" %}
-{% hint style="info" %}
-Alternatif
-{% endhint %}
-
-:mag: **Review Senjata**
-
-> Pilihan **Rectifier** generik yang luar biasa, menawarkan **CRIT RATE** dasar untuk peningkatan yang sangat baik, serta kemampuan bonus yang mudah diaktifkan dan dipertahankan yang memberikan **ATK%** setelah **Resonance Liberation** dari pengguna diaktifkan. Hampir setiap karakter yang dapat menggunakan **CRIT RATE** dan **ATK** akan sangat senang memiliki senjata ini, hanya kalah dari opsi bintang 5.
-
-<figure><img src="https://wuthering.wiki/img/weapon_21050074.png" alt="" width="188"><figcaption></figcaption></figure>
-{% endtab %}
 {% endtabs %}
 
 ## <img src="https://wuthering.wiki/img/item_10.png" alt="" data-size="line"> Konfigurasi Echo dan Prioritas Forte
@@ -104,35 +92,6 @@ Alternatif
 Lorelei - (CR% / CDM%)
 
 <img src="https://wuthering.wiki/img/monster_330000110.png" alt="" data-size="original">
-
-**Echo Set**
-
-* 3 - <mark style="color:blue;">**Havoc DMG**</mark> bonus%
-* 3 - <mark style="color:blue;">**Havoc DMG**</mark> bonus%
-* 1 - ATK%
-* 1 - ATK%
-
-**Prioritas Echo Substat**
-
-* CR% / CDM%
-* ER% ( 120 - 130%)
-* ATK%
-* Basic ATK%
-* Flat ATK
-
-**Prioritas Forte**
-
-Reso Lib > Forte > Reso Skill > NA > Intro
-
-</details>
-
-<details>
-
-<summary><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Moonlit Clouds</summary>
-
-Impermenance Heron - CR% / CDM%
-
-<img src="https://wuthering.wiki/img/monster_330000030.png" alt="" data-size="original">
 
 **Echo Set**
 
@@ -186,7 +145,7 @@ Reso Lib > Forte > Reso Skill > NA > Intro
 
 ## :busts\_in\_silhouette: Rekomendasi Tim
 
-<table><thead><tr><th>Main DPS</th><th width="248.8193359375">Sub DPS</th><th>Alasan</th></tr></thead><tbody><tr><td><img src="https://i.postimg.cc/pXnHLB0N/Carlotta-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_10.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_1.png" alt="" data-size="line">Carlotta</td><td><img src="https://i.postimg.cc/85PPbg3G/Cantarella-icon-role-made-by-Win.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Cantarella</td><td>Buff Reso SKill 25%</td></tr><tr><td><img src="https://i.postimg.cc/3xmYnZpj/Jinhsi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"> Jinhsi</td><td><img src="https://i.postimg.cc/85PPbg3G/Cantarella-icon-role-made-by-Win.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Cantarella</td><td>Buff Reso SKill 25% dan Coordinated Attack bantu stack(s) Jinhsi</td></tr><tr><td><img src="https://i.postimg.cc/6qppPGwW/Rover-Male-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line">Havoc Rover</td><td><img src="https://i.postimg.cc/85PPbg3G/Cantarella-icon-role-made-by-Win.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Cantarella</td><td>buff Havoc DMG 20%</td></tr><tr><td><img src="https://i.postimg.cc/CK4YVLcz/Changli-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_2.png" alt="" data-size="line"> Changli</td><td><img src="https://i.postimg.cc/85PPbg3G/Cantarella-icon-role-made-by-Win.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Cantarella</td><td>Buff Reso SKill 25%</td></tr></tbody></table>
+<table><thead><tr><th>Character 1</th><th width="248.8193359375">Character 2</th><th>Character 3</th></tr></thead><tbody><tr><td><img src="https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_41_UI.webp" alt="" data-size="line"><img src="https://api.hakush.in/ww/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriDarkVision.webp" alt="" data-size="line"> Phrolova</td><td><img src="https://i.postimg.cc/85PPbg3G/Cantarella-icon-role-made-by-Win.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"> Cantarella</td><td><img src="https://i.postimg.cc/bwcjD2MZ/Roccia-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_8.png" alt="" data-size="line"> Roccia</td></tr><tr><td><img src="https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_41_UI.webp" alt="" data-size="line"><img src="https://api.hakush.in/ww/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriDarkVision.webp" alt="" data-size="line"> Phrolova</td><td><img src="https://i.postimg.cc/85PPbg3G/Cantarella-icon-role-made-by-Win.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"> Cantarella</td><td><img src="https://i.postimg.cc/6qppPGwW/Rover-Male-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_6.png" alt="" data-size="line"> Rover (Havoc)</td></tr><tr><td><img src="https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_41_UI.webp" alt="" data-size="line"><img src="https://api.hakush.in/ww/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriDarkVision.webp" alt="" data-size="line"> Phrolova</td><td><img src="https://i.postimg.cc/85PPbg3G/Cantarella-icon-role-made-by-Win.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"> Cantarella</td><td><img src="https://i.postimg.cc/Y9q72KP8/The-Shorekeeper-Icon.png" alt="" data-size="line"><img src="https://api.hakush.in/ww/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriCure.webp" alt="" data-size="line"> Shorekeeper</td></tr><tr><td><img src="https://static-cloudflare-ww.kuro.wiki/kuro/Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_41_UI.webp" alt="" data-size="line"><img src="https://api.hakush.in/ww/UI/UIResources/Common/Image/IconElementAttri/T_IconElementAttriDarkVision.webp" alt="" data-size="line"> Phrolova</td><td><img src="https://i.postimg.cc/3xmYnZpj/Jinhsi-Icon.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_5.png" alt="" data-size="line"> Jinhsi</td><td><img src="https://i.postimg.cc/85PPbg3G/Cantarella-icon-role-made-by-Win.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_12.png" alt="" data-size="line"><img src="https://wuthering.wiki/img/fettericon_13.png" alt="" data-size="line"> Cantarella</td></tr></tbody></table>
 
 ## :recycle: Rotasi Gameplay
 
@@ -209,4 +168,4 @@ Teminologi
 
 ## Infografis
 
-<figure><img src="https://i.postimg.cc/7PGKKsTr/Cantarella.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/3JptsvfF/Cantarella-1623-02082025.png" alt=""><figcaption></figcaption></figure>
