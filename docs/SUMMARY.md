@@ -31,6 +31,7 @@
       * [Aalto](ww/guide/resonator/aero/aalto.md)
       * [Aero Rover](ww/guide/resonator/aero/aero-rover.md)
       * [Cartethyia](ww/guide/resonator/aero/cartethyia.md)
+      * [Ciaccona](ww/guide/resonator/aero/ciaccona.md)
       * [Jianxin](ww/guide/resonator/aero/jianxin.md)
       * [Jiyan](ww/guide/resonator/aero/jiyan.md)
       * [Yangyang](ww/guide/resonator/aero/yangyang.md)

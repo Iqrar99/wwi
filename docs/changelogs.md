@@ -7,6 +7,11 @@ coverY: 0
 
 # Changelogs
 
+## 02/08/2025
+
+* Add Backstory Carte [cartethyia.md](ww/lore/character-backstory/cartethyia.md "mention")dan Lupa [lupa.md](ww/lore/character-backstory/lupa.md "mention")
+* Add Resonator kit [ciaccona.md](ww/guide/resonator/aero/ciaccona.md "mention")
+
 ## 27/07/2025
 
 * Add latest echo and weapon data

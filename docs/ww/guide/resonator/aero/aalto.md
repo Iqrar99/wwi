@@ -136,3 +136,27 @@ Saat **Heavy Attack** Aalto melewati **"**_<mark style="color:yellow;">**Gate of
 
 <figure><img src="https://i.postimg.cc/Kv5GxC6z/Aalto.png" alt=""><figcaption><p>Sumber :  @deviltakoyaki on X</p></figcaption></figure>
 
+<mark style="color:yellow;">**Solo Concert**</mark>
+
+<mark style="color:yellow;">**Ensemble Sylph**</mark>
+
+<mark style="color:yellow;">**Improvised Symphonic Poem**</mark>
+
+<mark style="color:yellow;">**Recital**</mark>
+
+<mark style="color:yellow;">**Symphonic Poem: Tonic**</mark>
+
+<mark style="color:yellow;">**Musical Essence**</mark><mark style="color:yellow;">,</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**Heavy Attack**</mark>
+
+<mark style="color:yellow;">**Heavy Attack - Quadruple Downbeat**</mark>
+
+<mark style="color:yellow;">**Musical Essence**</mark>
+
+<mark style="color:yellow;">**Downbeat Notes**</mark>
+
+<mark style="color:yellow;">**Resonance Liberation: Singer's Triple Cadenza**</mark>
+
+<mark style="color:yellow;">Resonance Skill</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**Harmonic Allegro**</mark>
+
+<mark style="color:yellow;">**Resonance Liberation Singer's Triple Cadenza**</mark>
+

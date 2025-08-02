@@ -37,7 +37,7 @@ Halaman yang tersedia saat ini:
 * [camellya.md](camellya.md "mention")
 * [cantarella.md](cantarella.md "mention")
 * [carlotta.md](carlotta.md "mention")
-* [cartethyia.md](cartethyia.md "mention")(TBA)
+* [Broken link](broken-reference "mention")(TBA)
 * [changli.md](changli.md "mention")
 * [ciaccona.md](ciaccona.md "mention")
 * [encore.md](encore.md "mention")
@@ -46,7 +46,7 @@ Halaman yang tersedia saat ini:
 * [jiyan.md](jiyan.md "mention")
 * [lingyang.md](lingyang.md "mention")
 
-- [lupa.md](lupa.md "mention") (TBA)
+- [Broken link](broken-reference "mention") (TBA)
 - [phoebe.md](phoebe.md "mention")
 - [phrolova.md](phrolova.md "mention")(TBA)
 - [roccia.md](roccia.md "mention")
