@@ -17,6 +17,8 @@ coverY: 0
 * Update Guide Details and Infographic\
   [cantarella.md](ww/guide/build/havoc/cantarella.md "mention")\
   [roccia.md](ww/guide/build/havoc/roccia.md "mention")
+* Add kit [phrolova.md](ww/guide/resonator/havoc/phrolova.md "mention")
+* Add Guide [phrolova.md](ww/guide/build/havoc/phrolova.md "mention")
 
 ## 27/07/2025
 
