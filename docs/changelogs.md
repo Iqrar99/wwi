@@ -7,6 +7,10 @@ coverY: 0
 
 # Changelogs
 
+## 03/08/2025
+
+* Add backstory [phrolova.md](ww/lore/character-backstory/phrolova.md "mention")
+
 ## 02/08/2025
 
 * Add Backstory Carte [cartethyia.md](ww/lore/character-backstory/cartethyia.md "mention")dan Lupa [lupa.md](ww/lore/character-backstory/lupa.md "mention")

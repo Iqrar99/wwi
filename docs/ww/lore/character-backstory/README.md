@@ -48,7 +48,7 @@ Halaman yang tersedia saat ini:
 
 - [Broken link](broken-reference "mention") (TBA)
 - [phoebe.md](phoebe.md "mention")
-- [phrolova.md](phrolova.md "mention")(TBA)
+- [Broken link](broken-reference "mention")(TBA)
 - [roccia.md](roccia.md "mention")
 - [rover.md](rover.md "mention")
 - [the-shorekeeper.md](the-shorekeeper.md "mention")
