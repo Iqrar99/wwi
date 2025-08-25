@@ -31,12 +31,12 @@ Daftar rangkuman main story yang tersedia:
 * [act-1.md](chapter-1/act-1.md "mention")
 * [act-2.md](chapter-1/act-2.md "mention")
 * [act-3.md](chapter-1/act-3.md "mention")
-* Act IV: Clashing Blades
-* Act V: Rewinding Raindrops
-* Act VI: Grand Warstorm
-* Interlude: A New Companion
-* Act VII: Thaw of Eons
-* Act VIII: To the Shore's End
+* [act-4.md](chapter-1/act-4.md "mention")
+* [act-5.md](chapter-1/act-5.md "mention")
+* [act-6.md](chapter-1/act-6.md "mention")
+* [interlude.md](chapter-1/interlude.md "mention")
+* [act-7.md](chapter-1/act-7.md "mention")
+* [act-8.md](chapter-1/act-8.md "mention")
 
 </details>
 
@@ -52,5 +52,8 @@ Daftar rangkuman main story yang tersedia:
 - [act-4.md](chapter-2/act-4.md "mention")
 - [act-5.md](chapter-2/act-5.md "mention")
 - [act-6.md](chapter-2/act-6.md "mention")
+- [act-7.md](chapter-2/act-7.md "mention")
+- [act-8.md](chapter-2/act-8.md "mention")
+- [act-9.md](chapter-2/act-9.md "mention")
 
 </details>
