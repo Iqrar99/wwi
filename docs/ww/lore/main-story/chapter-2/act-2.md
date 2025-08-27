@@ -5,37 +5,37 @@ coverY: 0
 
 # Act 2: Veils Off in Sun or Shadow
 
-<figure><img src="../../../../.gitbook/assets/lore/main-story/Chapter2_Act2_Picture1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act2_Picture1.png" alt=""><figcaption></figcaption></figure>
 
 Rover dan Zani tiba di _Whisperwind Haven_ untuk mencari jejak Gilberto. Setelah Zani melapor pada atasannya, investigasi mereka berlanjut. Namun di tengah perjalanan, mereka justru bertemu kembali dengan Cristoforo, seorang dramawan misterius yang memberikan informasi mengejutkan: _Fleurdelys_, sang _Blessed Maiden_ yang dahulu menyelamatkan _Ragunna_ dari _<mark style="color:blue;">**Dark Tide**</mark>_, pernah mengorbankan dirinya dan menghilang setelah kejadian tersebut. Cristoforo belum selesai menulis puisi tentang kisah itu karena merasa kekurangan inspirasi. Ia mengira kampung halaman _Blessed Maiden_ bisa membantunya, namun ternyata tidak. Puisi itu kemudian diberikan kepada Rover.
 
-<figure><img src="../../../../.gitbook/assets/lore/main-story/Chapter2_Act2_Picture2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act2_Picture2.png" alt=""><figcaption></figcaption></figure>
 
 Cristoforo juga mengungkap bahwa sejak Gilberto datang ke daerah ini, banyak _Echo_ yang menghilang. Setelah penyelidikan lebih lanjut, diketahui bahwa _Echo_–echo tersebut mengalami _korosi frekuensi_, yang menyebabkan mereka menjadi agresif. Hal ini mengkhawatirkan, karena _Common Echo_ seharusnya tidak menyerang sesama, apalagi manusia, selama mereka berada dalam jangkauan _Genesis Nexus_.
 
 Abby kemudian muncul dan menjelaskan bahwa bunga misterius yang menyebabkan kegilaan para _Echo_ berasal dari seorang _Resonator_ yang sangat kuat. Dari investigasi mereka, diketahui bahwa rencana Gilberto adalah menciptakan kericuhan dengan cara membuat _Common Echo_ kehilangan kendali dan melukai warga. Tujuannya adalah untuk menjatuhkan nama _Montelli Family_, yang menginisiasi _Carnevale_ setelah sepuluh tahun absen.
 
-<figure><img src="../../../../.gitbook/assets/lore/main-story/Chapter2_Act2_Picture3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act2_Picture3.png" alt=""><figcaption></figcaption></figure>
 
 Phoebe kemudian bergabung setelah mengetahui bahwa Pendeta Alessio ternyata menyimpan bunga yang sama seperti yang ditemukan oleh Rover dan Zani. Mereka akhirnya menemukan Gilberto yang sedang berdoa kepada Imperator dengan julukan _“Lord of the Tides and Riddles”_, doa yang jelas menyimpang dari ajaran _The Order_ walaupun menyebut nama yang sama. Hal ini membuat Phoebe bingung dan curiga akan perbedaan makna dalam penyembahan terhadap Imperator.
 
-<figure><img src="../../../../.gitbook/assets/lore/main-story/Chapter2_Act2_Picture4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act2_Picture4.png" alt=""><figcaption></figcaption></figure>
 
 Sayangnya, kelompok ini tertangkap basah oleh Gilberto. Pertarungan pun tak terelakkan. Dalam pertarungan tersebut, Gilberto memanggil _Echo_ yang telah direkonstruksi menjadi sebuah _Tacet Discord_ melalui pengaruh bunga misterius itu. Meski demikian, Gilberto akhirnya dikalahkan dan ditangkap.
 
-<figure><img src="../../../../.gitbook/assets/lore/main-story/Chapter2_Act2_Picture5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act2_Picture5.png" alt=""><figcaption></figcaption></figure>
 
 Investigasi membawa Rover, Phoebe, dan Zani menuju domain milik _<mark style="color:blue;">**Lorelei**</mark>_, sebuah _Remnant Creature_ kuat yang dipercaya sebagai bawahan dari **Sentinel Imperator**. Dalam perjalanannya, Rover sempat berpisah dan kembali bertemu dengan gadis misterius yang sebelumnya dijumpainya di toko topeng **Madam Nyarla**. Gadis ini mengungkap bahwa pertikaian antara **Keluarga Montelli** dan **Keluarga Fisalia** berakar dari perbedaan ideologi: Montelli mendorong kemajuan dan modernitas untuk _Rinascita_, sedangkan Fisalia berpegang pada nilai-nilai tradisional dan ingin semuanya berjalan sesuai dengan aturan leluhur.
 
 Setelah pertemuan singkat itu, Rover kembali bersama Zani dan Phoebe untuk melanjutkan perjalanan menuju kediaman **Lorelei**. Di jalan, mereka bertemu dengan sekelompok pengikut bertopeng yang menjelaskan bahwa para pendosa bisa meminta ampun kepada Lorelei karena ia memiliki hak khusus dari Sentinel. Mereka menemukan beberapa prasasti yang memuat lirik lagu pemanggil Lorelei, dan karena Phoebe mengenali lagunya, ia menyanyikannya untuk memanggil Lorelei.
 
-<figure><img src="../../../../.gitbook/assets/lore/main-story/Chapter2_Act2_Picture6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act2_Picture6.png" alt=""><figcaption></figcaption></figure>
 
 Namun, Lorelei bangkit dalam kondisi marah dan menyerang. Setelah pertempuran sengit, mereka berhasil menenangkan Lorelei dan menyadarkan bahwa ia telah terpengaruh oleh bunga merah misterius yang menyebabkan Echoes lepas kendali—bunga ini ditanam oleh para pengikut bertopeng jahat yang ternyata adalah kelompok dari luar Rinascita, yaitu **Fractsidus**.
 
 Lorelei menjelaskan bahwa ia diperintahkan oleh Sentinel untuk menjaga dan menahan **Sea of Clouds** serta **Remnant Energy** yang terkandung di dalamnya. Ia juga mengungkap bahwa hubungan komunikasi antara manusia dan Sentinel telah terputus sejak lama. Saat ini, satu-satunya cara untuk berkomunikasi dengan Sentinel adalah melalui **doa murni** rakyat biasa atau **Laureate**—itu pun hanya bisa dilakukan dalam waktu yang sangat singkat.
 
-<figure><img src="../../../../.gitbook/assets/lore/main-story/Chapter2_Act2_Picture7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act2_Picture7.png" alt=""><figcaption></figcaption></figure>
 
 Phoebe terkejut oleh kenyataan ini, karena sebelumnya ia percaya bahwa **Primus Fenrico**, sebagai _The Enlightened One_, dapat berkomunikasi langsung dengan Sentinel kapan saja. Lorelei pun menegaskan bahwa komunikasi dengan Sentinel tidak terbatas hanya kepada mereka yang memiliki gelar Primus, melainkan harusnya terbuka untuk semua warga.
 
@@ -45,19 +45,19 @@ Kebenaran ini mengguncang keimanan Phoebe, terutama karena selama ini ia memperc
 
 Sesampainya di **Averardo Vault**, Rover dan Zani nyaris diserang oleh _Sentry Construct_, namun serangan itu dihentikan oleh seorang wanita misterius berbaju merah. Wanita ini memperkenalkan dirinya sebagai **Carllota Montelli**, putri kedua dari _<mark style="color:blue;">**Montelli Family**</mark>_. Zani segera melaporkan semua pencapaian investigasi sejauh ini kepada Carllota, yang kemudian mencoba menghubungi pamannya, **Tuan Capollo**, namun sang paman sedang tidak berada di tempat.
 
-<figure><img src="../../../../.gitbook/assets/lore/main-story/Chapter2_Act2_Picture8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act2_Picture8.png" alt=""><figcaption></figcaption></figure>
 
 Carlotta memutuskan untuk turun tangan langsung menangkap para pengkhianat dari keluarganya, dan Rover setuju untuk membantunya karena mereka memiliki tujuan yang sama.
 
 Target mereka adalah para pengkhianat yang sedang berada di **Tuning Room**, tengah berusaha menghapus bukti kejahatan mereka. Setelah Rover menerima perlengkapan dari Zani, ia dan Carlotta bergerak cepat dan mengepung para pelaku. Setelah ditangkap, para pengkhianat mengakui bahwa kekuatan **Phrolova** mampu **memecah dan merekonstruksi frekuensi**, yang menjelaskan bagaimana **Echo** bisa dimodifikasi menjadi **Tacet Discord**.
 
-<figure><img src="../../../../.gitbook/assets/lore/main-story/Chapter2_Act2_Picture9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act2_Picture9.png" alt=""><figcaption></figcaption></figure>
 
 Mereka juga mengungkap bahwa dalang utama dari konspirasi ini adalah seorang lelaki berpengaruh dalam keluarga Montelli sendiri, dan bahwa **Echo yang telah dimodifikasi** sudah mulai disebarkan sejak **seminggu sebelum Carnevale** dimulai.
 
 Setelah penangkapan selesai, mereka menuju ke **Echo Collection Room**, tempat rahasia di mana keluarga Montelli menyimpan berbagai data tentang Echo dari dalam dan luar negeri. Di sana, Carlotta bertanya kepada Rover apakah ia tidak penasaran mengapa _Rinascita_—yang dikenal sebagai pionir dalam teknologi Echo—begitu tertutup dan sulit diakses oleh dunia luar.
 
-<figure><img src="../../../../.gitbook/assets/lore/main-story/Chapter2_Act2_Picture10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act2_Picture10.png" alt=""><figcaption></figcaption></figure>
 
 Carlotta pun menjelaskan alasan utamanya:
 
@@ -69,7 +69,7 @@ Carlotta pun menjelaskan alasan utamanya:
 
 Namun kenyataannya, misi Montelli Family bukan sekadar menjual teknologi. Mereka ingin membuka jalur **perdagangan dan pertukaran pemikiran**, demi kemajuan ilmu pengetahuan yang pada akhirnya akan memajukan seluruh wilayah **Ragunna**, termasuk Rinascita. **Terminal Pribadi** adalah simbol dari tekad mereka untuk menantang narasi tunggal yang selama ini dikendalikan oleh The Order dan keluarga Fisalia.
 
-<figure><img src="../../../../.gitbook/assets/lore/main-story/Chapter2_Act2_Picture11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act2_Picture11.png" alt=""><figcaption></figcaption></figure>
 
 Dari pembicaraan ini, terungkap pula bahwa **Vitreum Dancer** yang menyampaikan pesan ke Rover di awal adalah **Vitreum Dancer pertama**—entitas yang lahir dari **frekuensi kaca berwarna yang pecah dari Menara Runtuh**, sebuah tempat yang dilarang oleh **Order of the Deep**. Carlotta menambahkan bahwa seharusnya entitas tersebut **tidak mungkin bisa keluar** dari ruang penyimpanannya di Averardo Vault. Jika itu terjadi, maka **hanya Sentinel sendiri yang mungkin mampu melakukannya**.
 
@@ -103,7 +103,7 @@ Sesampainya di menara, mereka menemukan **puzzle kuno** yang berisi catatan ters
 
 ***
 
-<figure><img src="../../../../.gitbook/assets/lore/main-story/Chapter2_Act2_Picture12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act2_Picture12.png" alt=""><figcaption></figcaption></figure>
 
 Kisah Sentinel yang dikubur The Order kemudian diceritakan dalam visual sinematik yang menggambarkan sejarah kelam Rinascita, tersembunyi dalam bayang-bayang yang ditekan oleh The Order:
 
@@ -132,13 +132,13 @@ Lewat utusan ini, penderitaan akan berakhir. Sang Sentinel, yang terpecah, **aka
 
 ***
 
-<figure><img src="../../../../.gitbook/assets/lore/main-story/Chapter2_Act2_Picture13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act2_Picture13.png" alt=""><figcaption></figcaption></figure>
 
 Namun sebelum mereka sempat mengungkap lebih jauh, **Pendeta Alessio** muncul bersama antek-anteknya dan mengepung mereka. Pertempuran tak terelakkan, dan meski akhirnya Rover dan Carlotta berhasil menang, situasi menjadi rumit.
 
 Demi menyelamatkan Rover, **Carlotta berpura-pura berkhianat.** Ia menyerahkan dirinya kepada Alessio dan mengaku akan memihak The Order. Dalam kenyataannya, Carlotta tahu bahwa bila ia tetap bersama Rover, pamannya akan benar-benar mengeksekusinya. **Dengan pengorbanan itu, ia memberi Rover kesempatan untuk kabur dan melanjutkan penyelidikan sendirian.**
 
-<figure><img src="../../../../.gitbook/assets/lore/main-story/Chapter2_Act2_Picture14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act2_Picture14.png" alt=""><figcaption></figcaption></figure>
 
 Kabur dari kepungan _The Order_, Rover dan Abby melarikan diri hingga mencapai sebuah jembatan. Namun di sana mereka diserang oleh seekor _Tacet Discord_ berbentuk naga. Abby dengan sigap melindungi Rover dengan menyerap semburan serangan dari makhluk tersebut, meskipun pada akhirnya mereka tetap terjatuh ke sungai. Rover kehilangan kesadaran, tetapi berhasil diselamatkan Abby agar tidak tenggelam.
 
