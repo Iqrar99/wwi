@@ -7,6 +7,10 @@ coverY: 0
 
 # Changelogs
 
+## 30/08/2025
+
+* Complete Main Story Chapter2: Act 5
+
 ## 25/08/2025
 
 * Add new WIP pages of main story
