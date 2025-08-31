@@ -9,6 +9,12 @@ coverY: 0
 
 ## 30/08/2025
 
+* add backstory Augusta [augusta.md](ww/lore/character-backstory/augusta.md "mention")
+* add resonator kit Augusta [augusta.md](ww/guide/resonator/electro/augusta.md "mention")
+* add character guide Augusta [augusta.md](ww/guide/build/electro/augusta.md "mention")
+
+## 30/08/2025
+
 * Complete Main Story Chapter2: Act 5
 
 ## 25/08/2025
