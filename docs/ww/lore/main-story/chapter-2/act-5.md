@@ -5,7 +5,7 @@ coverY: 0
 
 # Act 5: Shadow of Glory
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture1.png" alt=""><figcaption></figcaption></figure>
 
 Rover tiba-tiba merasakan getaran kuat yang menyeruak dari arah Sonoro milik Cartethyia—Inverted Tower. Energi itu terasa asing, seperti ada sesuatu yang tidak stabil di dalamnya.
 
@@ -34,7 +34,7 @@ Cantarella tertawa kecil. “Berhati-hati, ya? Baiklah, aku takkan bertele-tele.
 
 Ia kemudian menjelaskan bahwa Septimont adalah salah satu city-state di Rinascita. Sama seperti Ragunna, orang-orangnya dahulu dipandu oleh Sentinel melintasi samudra untuk menetap di sana. Namun seiring waktu, perbedaan pandangan membuat keduanya berpisah jalan.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture2.png" alt=""><figcaption></figcaption></figure>
 
 “Septimontians tidak percaya pada Sentinel,” jelas Cantarella.\
 Rover mengernyit. “Kupikir itu keyakinan umum di seluruh Rinascita?”\
@@ -61,7 +61,7 @@ Rover tidak bisa mengabaikan firasat itu. Ia hanya menatap ke depan.
 Saat akhirnya tiba di Septimont, udara asin laut menyambut. Rover menoleh ke Abby, tapi tak ada jawaban. Tacet Mark pun tidak bereaksi.\
 &#xNAN;_(Tidur? Atau ada sesuatu yang lebih buruk…)_ pikirnya. Bayangan Cartethyia kembali muncul di benaknya. _Dulu dia pernah membantu Abby. Andai saja dia ada di sini…_
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture3.png" alt=""><figcaption></figcaption></figure>
 
 Mereka berbagi benang kekuatan dari Imperator. Rover mencoba memfokuskan diri, berusaha merasakan keberadaan Cartethyia. Sekilas, ia melihatnya—berdiri menghadapi makhluk setengah manusia setengah singa, entah Tacet Discord atau Echo yang unik.
 
@@ -77,7 +77,7 @@ Keluar dari gua, Rover menatap hamparan luas di depannya. “Jadi… inilah Sept
 
 ***
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture4.png" alt=""><figcaption></figcaption></figure>
 
 Di tempat yang tak dikenal, Cartethyia berjalan pelan. “Jejak ini akan membawamu padaku, Rover. Dan ketika waktunya tiba, kau akan membawa kisah ini pada akhirnya yang semestinya.”
 
@@ -89,7 +89,7 @@ Kembali ke Rove&#x72;_**.**_ Tak jauh dari sana, sebuah desa kecil berdiri. Rove
 
 Warga desa menyambut riuh. Mereka berbincang seru soal pertandingan Great Agon yang sedang berlangsung. Nama _Blue Furies_ dielu-elukan, dianggap tak terkalahkan meski banyak yang meremehkan mereka. Suasana penuh taruhan dan spekulasi tentang siapa yang akan keluar sebagai juara.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture5.png" alt=""><figcaption></figcaption></figure>
 
 Melihat Rover, salah seorang warga menyapanya ramah. Bajunya yang asing membuat mereka menebak-nebak asalnya. Rover menjawab singkat, lalu menanyakan seseorang—Cartethyia.
 
@@ -127,7 +127,7 @@ Rover mencoba meraba jejak Resonansi di sekitar Septimont.
 
 Jejak itu terasa dekat, tapi sulit ditentukan arahnya.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture6.png" alt=""><figcaption></figcaption></figure>
 
 Tiba-tiba, seorang perempuan berpenampilan nyentrik menyapanya.\
 “Boss, wajahmu serius sekali!” katanya ceria. Ia memperkenalkan diri sebagai **Buling**, seorang Taoist pengelana dari Mengzhou. Dengan gaya bercanda, ia menawarkan jasa ramalan, menyinggung soal Jianxin, dan mengingatkan Rover bahwa feng shui Rinascita sedang “buruk”—sebuah tanda ketidakberuntungan.
@@ -140,7 +140,7 @@ Di jalanan kota, Rover melihat seorang **gladiator berambut merah twintail** men
 Seketika, gladiator itu berhenti dan… mengendusnya seperti serigala.\
 “Hm. Tidak buruk,” katanya dingin.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture7.png" alt=""><figcaption></figcaption></figure>
 
 Beberapa gladiator mencoba menyerang dari belakang, namun dengan mudah gadis itu melumpuhkan mereka.\
 Namanya **Lupa**. Ia memaki lawannya yang bernama Emilio, menuduhnya melakukan kecurangan menjelang Agon. Emilio membela diri dengan getir, sebelum akhirnya kabur bersama kelompoknya.
@@ -149,7 +149,7 @@ Namanya **Lupa**. Ia memaki lawannya yang bernama Emilio, menuduhnya melakukan k
 
 Lupa menjelaskan, Emilio dulunya adalah rekannya. Namun kini ikut bermain kotor bersama keluarga bangsawan <mark style="color:blue;">**House of Silva**</mark>. Ia sendiri sudah lama dicampakkan dari nama besar itu karena menolak tunduk.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture8.png" alt=""><figcaption></figcaption></figure>
 
 Lupa lalu menatap Rover tajam. “Kau kuat. Bagaimana kalau kita bertarung bersama di **final Agon**?”
 
@@ -161,7 +161,7 @@ Rover menimbang sejenak.
 
 > _Kalau ingin menemukan Cartethyia, ini jalannya._
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture9.png" alt=""><figcaption></figcaption></figure>
 
 “Baik,” katanya akhirnya. “Aku ikut.”\
 Lupa tersenyum puas. “Itu semangat yang kusuka! Kalau begitu… ayo kita daftarkan tim kita.”
@@ -170,7 +170,7 @@ Di hadapan terminal pendaftaran, Rover berdiri bersama Lupa. Boethia, petugas pe
 
 Namun Lupa menegaskan bahwa masa lalunya bersama tim lama sudah berakhir. Kini ia datang bersama Rover, membentuk sebuah tim baru. Ia bahkan menyerahkan hak pemberian nama tim kepada Rover.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture10.png" alt=""><figcaption></figcaption></figure>
 
 “Wuthering Waves,” jawab Rover mantap.\
 Lupa tersenyum puas, merasa nama itu selaras dengan identitas Septimont yang selalu hidup berdampingan dengan suara ombak. Mereka pun resmi mendaftarkan diri, sekaligus mengajukan syarat khusus: ikut serta dalam _special qualifier_ demi lolos ke _Great Agon_, ajang gladiator terbesar yang hanya digelar setiap empat tahun sekali.
@@ -181,7 +181,7 @@ Arena pertama mempertemukan tim **Wuthering Waves** dengan tim **Vulcan Mining**
 
 “Perfection! Rasanya sudah lama aku tidak menikmati pertarungan seperti ini,” seru Lupa dengan senyum lebar. Rover hanya menanggapi rendah hati, tapi jelas ia pun menikmati adrenalin itu.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture11.png" alt=""><figcaption></figcaption></figure>
 
 Sorak-sorai kecil makhluk penonton menambah riuh kemenangan mereka, dan Rover sempat membandingkan semangat mereka dengan bayi Gryphon yang pernah ditemuinya.
 
@@ -195,7 +195,7 @@ Di perjalanan menuju kota, Lupa sempat menggunakan terminal pribadinya, mengirim
 
 “Di sini, semua orang ingin menggigit daging paling lezat,” katanya dengan perumpamaan tajam. “Dan kabar aku keluar dari tim lama akan segera membuat para pemburu keuntungan itu ribut.”
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture12.png" alt=""><figcaption></figcaption></figure>
 
 Tiba-tiba, seorang pria menunggu di jalannya. **Cartur**, mantan manajer Lupa di _Bough of Legions_. Dengan lidah manisnya, ia mencoba merayu Lupa agar kembali ke keluarga Silva. Namun Lupa menolak mentah-mentah, bahkan menuduhnya terlibat dalam praktik kotor _match-fixing_.
 
@@ -205,7 +205,7 @@ Cartur hanya tersenyum dingin. “Silvas membesarkanmu jadi bintang, dan mereka 
 
 Mereka melangkah melewati distrik bawah kota, menuju arena berikutnya. Di sana, tim **Blue Furies** sudah menunggu. Pertarungan kembali berlangsung sengit, namun Rover dan Lupa berhasil menang dengan gaya spektakuler.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture13.png" alt=""><figcaption></figcaption></figure>
 
 Saat pertempuran berakhir, Rover merasakan sesuatu aneh: sebuah energi samar mengalir dari tangan Lupa ke dirinya, membawa sekilas gambaran tentang Cartethyia—sosok misterius yang berdiri di atas air. Hanya Rover yang menyadari hal ini.
 
@@ -215,17 +215,17 @@ Sementara itu, suara penonton terdengar bercampur: ada yang kagum, ada yang sini
 
 Setelah kemenangan itu, Rover meminta untuk mencari Cartethyia, merasa sosok itu pernah melewati sebuah wilayah berair di kota. Lupa pun membawanya ke area tua di dekat menara—wilayah yang pernah ditinggalkan sejak _Dark Tide_ pertama di Ragunna.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture14.png" alt=""><figcaption></figcaption></figure>
 
 Di tepi air, Rover mencoba memanggil Cartethyia melalui resonansi Imperator. Namun sambungan itu terputus, meninggalkan rasa frustrasi.
 
 Lupa menenangkannya, lalu bercerita tentang sejarah Septimont—tentang patung Tercules yang dulu berdiri megah, tentang lonceng kejayaan yang pernah bergema dari kota bawah.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture15.png" alt=""><figcaption></figcaption></figure>
 
 Saat Rover naik elevator menuju kota atas, adegan beralih ke Cartethyia. Ia berjalan di reruntuhan yang diselimuti kabut. Di sana, ia menemukan seorang gadis berambut merah, terluka dan kelelahan, tanpa ingatan siapa dirinya.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture16.png" alt=""><figcaption></figcaption></figure>
 
 Tiba-tiba, sekawanan Tacet Discord mendekat. Cartethyia menghunus pedangnya. “Jangan takut. Hadapilah aku.”
 
@@ -238,7 +238,7 @@ Lupa memperkenalkan Rover pada kota bangsawan dan gladiator itu, menjelaskan fil
 
 ***
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture17.png" alt=""><figcaption></figcaption></figure>
 
 Setelah dua pertandingan keras, perut mereka mulai protes. Lupa mengajak Rover ke sebuah restoran ramai di distrik bawah. Aroma masakan langsung menyambut mereka, dan tanpa ragu Lupa memesan dua porsi besar serta sebotol _Heartpour_, minuman yang pernah ia promosikan.
 
@@ -254,13 +254,13 @@ Namun kisah Mya berakhir misterius. Ia menghilang di tengah _Great Agon_ bertahu
 
 ***
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture18.png" alt=""><figcaption></figcaption></figure>
 
 Usai makan, Lupa membawa Rover ke _Leonidas Hotel_, salah satu hotel paling bergengsi di kota. Dengan bangga ia mempersembahkan sebuah suite mewah—ruang pribadi yang bisa digunakan Rover sepanjang tinggal di Septimont. Rover sempat terkejut dengan kemewahannya, namun Lupa hanya tertawa. “Aku sudah bertahun-tahun hidup di arena. Rezekinya lumayan,” katanya ringan.
 
 Namun di balik tawa itu, Lupa mulai membuka hatinya. Ia mengaku bahwa gladiator bukan sekadar profesi—itu adalah hidupnya. Ia mencintainya, meski terkadang ada rasa takut yang menghantui.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture19.png" alt=""><figcaption></figcaption></figure>
 
 “Aku lahir untuk ini,” ujarnya lirih. “Tapi semakin aku mencintainya, semakin aku takut kehilangan segalanya. Apa yang sebenarnya kucintai? Pertarungannya? Atau perhatian yang menyertainya?”
 
@@ -270,17 +270,17 @@ Dengan itu, ia menyudahi percakapan. Besok adalah semifinal, dan mereka butuh is
 
 ***
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture20.png" alt=""><figcaption></figcaption></figure>
 
 Namun saat malam tiba, Rover tidak benar-benar tidur nyenyak. Ia tiba-tiba tersadar di sebuah ruang mimpi yang absurd—penuh lembaran kata-kata melayang, kertas berterbangan, dan jalanan yang terbuat dari buku merah raksasa. Di ujung jalan, sebuah panggung terapung dihiasi bunga spider lily merah. Di sana, seorang perempuan sudah menunggu: **Phrolova**.
 
 Di dunia mimpi itu, Phrolova berbicara dengan tenang. Ia menyebut pertemuan itu bukan medan perang, melainkan panggung perbincangan. Rover menuduhnya terlibat dalam hilangnya Cartethyia, tapi Phrolova hanya tersenyum. Ia mengatakan bahwa hilangnya gadis itu, anomali di Septimont, dan bahkan nasib Lupa sendiri adalah bagian dari sebuah “kisah” yang ditulis oleh rekannya—seorang sosok misterius dengan obsesi terhadap kisah para pahlawan.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture21.png" alt=""><figcaption></figcaption></figure>
 
 Phrolova menyerahkan sebuah naskah kepada Rover. “Jawaban yang kau cari ada di dalamnya,” katanya. Ia lalu mengungkap sesuatu yang mengejutkan: menurut kisah itu, Lupa—si gadis gladiator—akan menjadi pembawa _Dark Tide_ di Septimont.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture22.png" alt=""><figcaption></figcaption></figure>
 
 “Pada akhir pertandingan, semua kejayaan akan hancur. Kebanggaan para pahlawan akan lenyap dalam pusaran hitam,” ujar Phrolova dingin. “Kau bisa mengubah akhir kisah ini dengan mengakhiri hidupnya… atau membiarkan tragedi terulang.”
 
@@ -292,7 +292,7 @@ Dengan itu, panggung mimpi memudar, meninggalkan Rover dengan kegelisahan yang t
 
 Rover terbangun dengan kepala berat. Bayangan mimpi semalam masih menempel jelas—Phrolova, panggung bunga merah, dan ramalan mengerikan tentang Lupa. Ia mencoba menyembunyikan keresahannya, namun Lupa langsung menyadari.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture23.png" alt=""><figcaption></figcaption></figure>
 
 “Pagi, Rover! Hmm, kelihatannya kau kurang tidur.”\
 “Cuma mimpi buruk,” jawab Rover singkat. “Ayo, tujuan kita berikutnya Colosseum Olymdos, kan?”\
@@ -300,11 +300,11 @@ Rover terbangun dengan kepala berat. Bayangan mimpi semalam masih menempel jelas
 
 Begitu mereka tiba, sorak sorai penonton menyambut dengan dahsyat. Arena itu megah—arsitektur klasik Septimont dipadukan dengan teknologi holografis modern, menciptakan pemandangan yang spektakuler.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture24.png" alt=""><figcaption></figcaption></figure>
 
 Lupa menjelaskan bahwa mereka akan menghadapi _Bough of Legions_, rumah lama yang dulu menaunginya. Kekalahan bukan pilihan, apalagi dengan Domina Julia yang terkenal licik. “Hari ini kita buktikan kalau kemenangan bisa diraih tanpa rekayasa,” katanya penuh semangat.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture25.png" alt=""><figcaption></figcaption></figure>
 
 Dari podium tertinggi, seorang wanita berambut jingga menyala berdiri. Dialah <mark style="color:blue;">**Ephor**</mark>**&#x20;Augusta**, pemimpin tertinggi Septimont. Dengan suara lantang, ia membuka Agon, mengingatkan semua orang bahwa gladiator adalah nadi kota ini dan hanya mereka yang kuat pantas mempertahankan kejayaan. “Biarkan Agon dimulai!” serunya, disambut riuh massa.
 
@@ -314,7 +314,7 @@ Dengan pengumuman dari Caia, pertandingan resmi dimulai: _Wuthering Waves versus
 
 Lupa menghadapi Emilio dengan penuh percaya diri. “Ayo kita selesaikan ini secara adil!” teriaknya. Rover dan Lupa bertarung serasi, bergerak seolah satu jiwa. Namun di tengah pertarungan, sesuatu yang ganjil terjadi.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture26.png" alt=""><figcaption></figcaption></figure>
 
 Tombak merah milik Lupa tiba-tiba memancarkan aura kelam, bergetar seolah hidup. Mata Lupa membelalak—ia kehilangan kendali, dan ujung tombak itu justru mengarah ke Rover. Dengan refleks cepat, Rover menangkisnya. Saat itu, ia merasakan frekuensi asing—resonansi yang sama dengan _Dark Tide_ di Inverted Tower. Dengan kekuatannya, Rover berhasil meredam tombak itu, menyelamatkan Lupa.
 
@@ -326,14 +326,14 @@ Begitu pertandingan usai, Lupa menghadap langsung Ephor Augusta. Ia menuduh Hous
 
 Namun perdebatan itu terhenti ketika sebuah suara tegas menggema. Dari samping Augusta, seorang gadis berambut biru gelap turun dengan langkah anggun. Dialah **Iuno, Priestess of Septimont**. Tatapannya tajam menembus Julia.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture27.png" alt=""><figcaption></figcaption></figure>
 
 “Kebohonganmu ternoda di hadapan roh bulan dan bintang. _Bersalah!_”\
 Dengan satu kata itu, arena seakan membeku. Augusta menegaskan keputusan: House Silva diusir dari Septimont selamanya. Julia tak punya pilihan selain tunduk pada putusan tersebut.
 
 Sebelum pergi, Iuno sempat menoleh pada Rover dan Lupa. “Pertunjukan kalian tadi tidak sepenuhnya gagal. Jangan kecewakan aku atau Augusta di final besok.”
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture28.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -341,13 +341,13 @@ Setelah drama itu, Lupa dan Rover menuju lounge untuk beristirahat. Di sana, mer
 
 Lupa tertawa sinis tapi akhirnya menyetujui, dengan syarat kontrak baru disusun sesuai keinginannya. Percakapan berlanjut tentang keputusan Augusta dan pengaruh Iuno. Rover diam-diam merenungkan kembali resonansi tombak Lupa yang mirip Dark Tide—apakah benar seperti yang Phrolova ramalkan?
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture29.png" alt=""><figcaption></figcaption></figure>
 
 Lupa yang mulai lelah akhirnya bersandar di bahu Rover. “Besok final. Tapi sekarang… biar aku istirahat sebentar saja.” Lupa kemudian tertidur untuk beberapa waktu di pundak Rover.
 
 Tak lama kemudian, para penonton, reporter, dan penyair mulai berdatangan, memuji kemenangan mereka. Namun Lupa dengan cepat menyingkirkan mereka. “Beri waktu untuk rekanku. Dia masih baru di Septimont. Jangan buat kesan buruk, ya?” katanya tegas.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture30.png" alt=""><figcaption></figcaption></figure>
 
 Rover hanya bisa terdiam, menatap tombak merah yang kini tampak tenang di samping Lupa. Tapi hatinya penuh kegelisahan.
 
@@ -355,14 +355,14 @@ Rover hanya bisa terdiam, menatap tombak merah yang kini tampak tenang di sampin
 
 Setelah hiruk pikuk pertarungan dan drama House Silva, Rover menyelinap keluar mencari tempat sunyi. Di antara pilar-pilar Colosseum Olymdos yang megah, ia berdiri seorang diri, menatap langit yang mulai meredup.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_31.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture31.png" alt=""><figcaption></figcaption></figure>
 
 > _Lupa… aku merasakan resonansi Threnodian dan Dark Tide pada tombaknya. Meski hanya sesaat, itu nyata. Tapi dia menganggapnya sekadar trik kotor keluarga Silva. Jika benar kata Phrolova, maka ada tangan lain yang sedang menenun jalannya cerita ini. Namun… seberapa jauh mereka bisa membelokkan takdir? Jika ini dunia nyata, aku tak mungkin sanggup mengangkat tangan melawan Lupa. Satu-satunya jalan adalah menunggu Arsinosa di final. Dia adalah benang yang bisa menghubungkanku ke Cartethyia…_
 
 Pikiran itu terhenti saat suara riang yang familiar menembus kesunyian.\
 “Boss! Wajahmu kusut banget. Ada yang bikin galau, ya?”
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_32.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture32.png" alt=""><figcaption></figcaption></figure>
 
 Buling muncul entah dari mana, senyum usilnya kontras dengan suasana serius. Dengan tinggi badan pendel, ia tampak seperti anak kecil yang terlalu santai menghadapi dunia.
 
@@ -376,20 +376,20 @@ Ia lalu menyerahkan sebuah benda berkilau tembaga. “Cermin Kebenaran. Anggap s
 
 Begitu Rover menatap ke dalam cermin itu, dunia sekitarnya berubah kelabu. Suara-suara asing menggema—bukan milik orang masa kini, melainkan bisikan dari masa lalu.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_33.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture33.png" alt=""><figcaption></figcaption></figure>
 
 Ia melihat para penonton yang membicarakan seorang gladiator bernama **Mya**. Gadis yang bukan bangsawan, namun berhasil menembus Agon. Ada yang mendukung, ada pula yang mencibir, dan sebagian lagi hanya peduli pada taruhan.
 
 Lalu adegan bergeser. Seorang manajer licik bernama John berbicara dengan instruktur yang gusar. Mya dikisahkan mengalami tekanan mental, menangis di lounge, namun tetap dipaksa bertarung demi uang dan sensasi massa. Para bangsawan di sudut lain menertawakan nasibnya—menjadikan tragedi Mya sekadar hiburan dan peluang bisnis.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture34.png" alt=""><figcaption></figcaption></figure>
 
 Hingga akhirnya, Rover melihat sosok Mya sendiri. Seorang wanita berambut biru, wajahnya penuh luka batin namun juga menyimpan semangat membara.\
 “Aku ingin dilihat… Aku ingin menang… aku butuh uang… tolong, jangan biarkan aku mengecewakan siapa pun…” bisiknya dengan suara gemetar.
 
 Namun bayangan itu mendistorsi. Mya berubah, matanya diliputi kegelapan, auranya pekat seperti Dark Tide. Dan dalam sekejap, sosok itu berganti menjadi Lupa. Rover tersentak—dan dunia kembali normal.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture35.png" alt=""><figcaption></figcaption></figure>
 
 “Rover!” suara Lupa memanggil, memecah lamunannya. Ia tersenyum sambil menyodorkan sebuah botol minuman. “Ini Heartpour yang pernah kuceritakan. Cobalah, paling enak kalau dingin.”
 
@@ -399,14 +399,14 @@ Rover menatapnya lekat-lekat, hatinya dicekam kegelisahan.
 
 ***
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_36.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture36.png" alt=""><figcaption></figcaption></figure>
 
 Sementara itu, di garis waktu lain, Cartethyia menopang seorang gadis berambut merah yang kelelahan. Mereka berbicara tentang anomali, tentang waktu yang terdistorsi hingga dua dekade lalu, tentang <mark style="color:blue;">**Tidal Blight**</mark> yang terus menyebar.\
 “Aku akan menghadapinya,” kata Cartethyia dengan keyakinan tenang. “[Righteous One](#user-content-fn-1)[^1] akan segera tiba. Bersama, kita akan menutup semua celah kegelapan itu.”
 
 ***
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_37.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture37.png" alt=""><figcaption></figcaption></figure>
 
 Malam menjelang saat Rover dan Lupa kembali ke Hotel Leonidas. Di atap terbuka, angin sore menyapu lembut, sementara kota Septimont berkilauan di bawah cahaya senja. Lupa terhempas ke sofa besar, tubuhnya kelelahan.
 
@@ -419,7 +419,7 @@ Lupa menoleh, terkejut dengan pertanyaan itu. Namun ia tetap bercerita—tentang
 Ia lalu menatap langit Septimont yang mulai bertabur bintang.\
 “Applause bisa hilang kapan saja. Tapi kesempatan, fasilitas, dan sumber daya… itu yang benar-benar berarti. Aku tak peduli dipakai siapa, asalkan mereka tahu batasnya. Tapi Silvas… mereka melewati garis itu. Karena itulah aku meninggalkan mereka.”
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_38.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture38.png" alt=""><figcaption></figcaption></figure>
 
 Lupa tersenyum samar, mengangkat gelas Heartpour-nya ke arah pemandangan kota.\
 “Lihatlah. Indah, bukan? Untukmu, Kota Septimont.”
@@ -428,7 +428,7 @@ Rover menatapnya dalam diam. Hatinya masih terikat pada bayangan Mya, pada reson
 
 ***
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_39.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture39.png" alt=""><figcaption></figcaption></figure>
 
 Hari penentuan pun tiba. Sorak sorai penonton membahana memenuhi Colosseum, menyambut final Agon. Dari atas tribun, Augusta berdiri anggun di sisi Arsinosa, sang Guardian Echo Septimont, yang diam-diam mengawasi jalannya pertandingan.
 
@@ -438,7 +438,7 @@ Sebelum pertarungan dimulai, Lupa sempat bercerita. Ia menjelaskan tentang masa 
 
 Kini, berkat reformasi Augusta, Agon telah berubah. Lebih teratur, lebih adil, meski tetap sarat akan pertaruhan hidup dan mati.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_40.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture40.png" alt=""><figcaption></figcaption></figure>
 
 Augusta mengangkat suaranya, lantang dan penuh wibawa.
 
@@ -448,13 +448,13 @@ Sorak penonton menggema. Lupa menepuk bahu Rover dengan semangat. “Dengar itu?
 
 Pertarungan pun dimulai. Dua tim gladiator saling berhadapan, masing-masing ditemani oleh Echo mereka. Denting senjata dan riuh sorak menggetarkan udara.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_41.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture41.png" alt=""><figcaption></figcaption></figure>
 
 Namun di tengah panasnya pertempuran, Rover merasakan sesuatu yang aneh. Waktu tiba-tiba melambat, penonton membeku, dan kabut merah menelan seluruh arena. Ia memanggil Lupa, tapi tak ada jawaban. Dari balik kabut, muncul gerombolan Tacet Discord yang mengerikan. Dan di saat bersamaan, Rover bisa merasakan frekuensi Cartethyia—semakin kuat, semakin dekat.
 
 Layar bergeser ke dunia lain.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture42.png" alt=""><figcaption></figcaption></figure>
 
 Di dimensi berbeda, Cartethyia sedang bertarung sengit melawan Arsinosa yang telah tercemar Dark Tide.
 
@@ -463,7 +463,7 @@ Di dimensi berbeda, Cartethyia sedang bertarung sengit melawan Arsinosa yang tel
 
 Pertarungan dahsyat itu membuat tempat tersebut—yang dinaungi langit gelap—hancur oleh sabetan serangan Cartethyia.
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_43.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture43.png" alt=""><figcaption></figcaption></figure>
 
 Kembali ke arena Rover, ia berhasil menaklukkan semua Tacet Discord yang muncul dari kabut. Dan ketika kabut itu sirna, ia kembali mendapati dirinya berada di pertarungan gladiator. Tak lama berselang, Rover dan Lupa berhasil meraih kemenangan.
 
@@ -471,7 +471,7 @@ Lupa, sambil terengah tapi tersenyum lebar, berseru:
 
 > “Sebagai gladiator, ini kehormatan besar bisa berdiri bersama dan menang bersamamu, Rover!”
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_44.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture44.png" alt=""><figcaption></figcaption></figure>
 
 Augusta mendekat, membawa aura karismanya. Ia mengalungkan medali kemenangan yang kini terbagi dua.
 
@@ -489,13 +489,13 @@ Namun di sisi lain, di dunia yang berbeda, Cartethyia terus melanjutkan pertempu
 >
 > Cartethyia: “Sendirian? Rover akan datang. Ia akan menemukan jalan untuk menyelesaikan semua ini.”
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_45.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture45.png" alt=""><figcaption></figcaption></figure>
 
 Dan dengan tatapan membara, Cartethyia mengucapkan kata-kata terakhirnya:
 
 > “Semua yang kosong, semua yang dilanda Dark Tide… pada akhirnya akan tersapu angin di ujung cerita.”
 
-<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture_46.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Chapter2_Act5_Picture46.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

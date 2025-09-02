@@ -1,9 +1,28 @@
 ---
 cover: https://i.postimg.cc/x8NLKgkz/Patch-2-2.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Act 4: The Maiden, The Defier, The Death Crier
+
+
 
 <figure><img src="../../../../.gitbook/assets/lore/main-story/chapter-2/Chapter2_Act4_Picture1.png" alt=""><figcaption></figcaption></figure>
 
