@@ -7,6 +7,11 @@ coverY: 0
 
 # Changelogs
 
+## 08/10/2025
+
+* Add resonator kit [galbrena.md](ww/guide/resonator/fusion/galbrena.md "mention")
+* Add backstory [galbrena.md](ww/lore/character-backstory/galbrena.md "mention") (unfinished)
+
 ## 02/09/2025
 
 * Complete Main Story Chapter2: Act 6
