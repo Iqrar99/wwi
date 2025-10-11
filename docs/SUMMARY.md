@@ -65,6 +65,7 @@
       * [Changli](ww/guide/build/fusion/changli.md)
       * [Chixia](ww/guide/build/fusion/chixia.md)
       * [Encore](ww/guide/build/fusion/encore.md)
+      * [Galbrena](ww/guide/build/fusion/galbrena.md)
       * [Lupa](ww/guide/build/fusion/lupa.md)
       * [Mortefi](ww/guide/build/fusion/mortefi.md)
     * [Electro](ww/guide/build/electro/README.md)

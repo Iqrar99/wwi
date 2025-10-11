@@ -9,6 +9,11 @@ coverY: 0
 
 ## 08/10/2025
 
+* continue and finishing backstory [galbrena.md](ww/lore/character-backstory/galbrena.md "mention")
+* Add character guide build [galbrena.md](ww/guide/build/fusion/galbrena.md "mention")
+
+## 08/10/2025
+
 * Add resonator kit [galbrena.md](ww/guide/resonator/fusion/galbrena.md "mention")
 * Add backstory [galbrena.md](ww/lore/character-backstory/galbrena.md "mention") (unfinished)
 
