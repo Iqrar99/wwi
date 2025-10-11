@@ -6,7 +6,7 @@ coverY: 0
 # Galbrena
 
 {% hint style="info" %}
-**ENCORE COMBAT ROLES**
+**GALBRENA COMBAT ROLES**
 
 * Main Damage Dealer
 * Heavy Attack DMG
