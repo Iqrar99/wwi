@@ -32,6 +32,7 @@ Halaman yang tersedia saat ini:
 
 <summary>Karakter <span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span>5</summary>
 
+* [augusta.md](augusta.md "mention")
 * [brant.md](brant.md "mention")
 * [calcharo.md](calcharo.md "mention")
 * [camellya.md](camellya.md "mention")
@@ -41,6 +42,7 @@ Halaman yang tersedia saat ini:
 * [changli.md](changli.md "mention")
 * [ciaccona.md](ciaccona.md "mention")
 * [encore.md](encore.md "mention")
+* [galbrena.md](galbrena.md "mention")
 * [jianxin.md](jianxin.md "mention")
 * [jinhsi.md](jinhsi.md "mention")
 * [jiyan.md](jiyan.md "mention")

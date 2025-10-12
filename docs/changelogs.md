@@ -7,9 +7,13 @@ coverY: 0
 
 # Changelogs
 
-## 08/10/2025
+## 13/10/2025
 
-* continue and finishing backstory [galbrena.md](ww/lore/character-backstory/galbrena.md "mention")
+* Update database table to the latest game version
+
+## 12/10/2025
+
+* Continue and finishing backstory [galbrena.md](ww/lore/character-backstory/galbrena.md "mention")
 * Add character guide build [galbrena.md](ww/guide/build/fusion/galbrena.md "mention")
 
 ## 08/10/2025

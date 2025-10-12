@@ -135,6 +135,8 @@
       * [Act 7: Dreamcatchers in the Secret Gardens](ww/lore/main-story/chapter-2/act-7.md)
       * [Act 8: By Sun's Burning Hand](ww/lore/main-story/chapter-2/act-8.md)
       * [Act 9: By Moon's Fated Light](ww/lore/main-story/chapter-2/act-9.md)
+      * [Act 10: The Bygone Shall Always Return](ww/lore/main-story/chapter-2/act-10.md)
+      * [Act 11: Dawn Breaks on Dark Tides](ww/lore/main-story/chapter-2/act-11.md)
   * [Companion Quest](ww/lore/companion-quest/README.md)
     * [Lingyang - Wild Heart's Return](ww/lore/companion-quest/lingyang-wild-hearts-return.md)
   * [Character Backstory](ww/lore/character-backstory/README.md)
