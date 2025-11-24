@@ -7,6 +7,12 @@ coverY: 0
 
 # Changelogs
 
+## 25/11/2025
+
+* add Chisa Kit
+* add Chisa Build Guide \
+  with picture
+
 ## 13/10/2025
 
 * Update database table to the latest game version
