@@ -17,7 +17,7 @@ Halaman yang tersedia saat ini:
 
 * [aalto.md](aalto.md "mention")
 * [baizhi.md](baizhi.md "mention")
-* [chixia.md](chixia.md "mention")
+* [chisa.md](chisa.md "mention")
 * [danjin.md](danjin.md "mention")
 * [lumi.md](lumi.md "mention")
 * [mortefi.md](mortefi.md "mention")

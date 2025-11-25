@@ -107,8 +107,7 @@ Xiangli Yao memanggil _<mark style="color:yellow;">**laser beam**</mark>_ yang m
 Meningkatkan <img src="https://wuthering.wiki/img/element_3.png" alt="" data-size="line"> **Electro DMG Bonus** sebesar **5%** setelah menggunakan **Resonance Skill** selama **8 detik**, dapat ditumpuk hingga **4 kali**.
 
 <mark style="color:blue;">**Focus**</mark>\
-Saat berada di _<mark style="color:yellow;">**Intuition Mode**</mark>_ yang dipicu oleh **Resonance Liberation**, **resistance to interruption** Xiangli Yao meningkat.\
-
+Saat berada di _<mark style="color:yellow;">**Intuition Mode**</mark>_ yang dipicu oleh **Resonance Liberation**, **resistance to interruption** Xiangli Yao meningkat.<br>
 
 </details>
 

@@ -153,6 +153,7 @@
     * [Cartethyia](ww/lore/character-backstory/cartethyia.md)
     * [Changli](ww/lore/character-backstory/changli.md)
     * [Chixia](ww/lore/character-backstory/chixia.md)
+    * [Chisa](ww/lore/character-backstory/chisa.md)
     * [Ciaccona](ww/lore/character-backstory/ciaccona.md)
     * [Danjin](ww/lore/character-backstory/danjin.md)
     * [Encore](ww/lore/character-backstory/encore.md)

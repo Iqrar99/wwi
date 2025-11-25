@@ -7,6 +7,10 @@ coverY: 0
 
 # Changelogs
 
+## 26/11/2025
+
+* add Chisa Character backstory
+
 ## 25/11/2025
 
 * add Chisa Kit

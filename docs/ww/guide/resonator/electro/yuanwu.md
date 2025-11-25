@@ -98,8 +98,7 @@ Yuanwu melepaskan petir di area sekitar target, secara signifikan mengurangi **V
 
 <mark style="color:blue;">**Reserved Confidence**</mark>\
 Jangkauan <mark style="color:yellow;">**Thunder Field**</mark> dan **Thunder Uprising** meningkat secara signifikan.\
-Saat keluar dari medan pertempuran tanpa <mark style="color:yellow;">**Readiness**</mark>  penuh, Yuanwu secara otomatis akan meninggalkan **1&#x20;**<mark style="color:yellow;">**Thunder Wedge**</mark>.\
-
+Saat keluar dari medan pertempuran tanpa <mark style="color:yellow;">**Readiness**</mark>  penuh, Yuanwu secara otomatis akan meninggalkan **1&#x20;**<mark style="color:yellow;">**Thunder Wedge**</mark>.<br>
 
 </details>
 

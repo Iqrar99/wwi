@@ -105,8 +105,7 @@ Jika **Basic Attack** tidak digantikan dengan <mark style="color:yellow;">**Heav
 <mark style="color:yellow;">**Blaze**</mark> dibatasi hingga **150** saat berada dalam <mark style="color:yellow;">**Inferno Mode**</mark>.\
 Mengaktifkan <mark style="color:yellow;">**Targeted Action**</mark> atau <mark style="color:yellow;">**Forcible Riposte**</mark> akan memberikan **10** <mark style="color:yellow;">**Blaze**</mark> .\
 Setiap stack <mark style="color:yellow;">**Heliacal Ember**</mark> yang dikonversi dari <img src="https://wuthering.wiki/img/fettericon_11.png" alt="" data-size="line"> **Spectro Frazzle** akan memberikan **5** <mark style="color:yellow;">**Blaze**</mark> .\
-Mengaktifkan <mark style="color:yellow;">**Resonance Liberation Rekindle**</mark> akan memberikan **50** <mark style="color:yellow;">**Blaze**</mark> .\
-
+Mengaktifkan <mark style="color:yellow;">**Resonance Liberation Rekindle**</mark> akan memberikan **50** <mark style="color:yellow;">**Blaze**</mark> .<br>
 
 </details>
 

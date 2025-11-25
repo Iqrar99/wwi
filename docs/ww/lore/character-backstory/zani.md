@@ -69,8 +69,7 @@ Tidak ada kebutuhan saat ini untuk konseling psikologis.
 > _"Cara aku ngilangin stres?_ \
 > _Yah, kadang aku... ugh, kerja sukarela setelah jam kerja._ \
 > _Itu termasuk, kan?"_\
-> — **Zani**\
->
+> — **Zani**<br>
 
 ## :package: Cherished Items
 
@@ -176,8 +175,7 @@ seru Margherita sambil berbalik membawa sepiring penuh, hanya untuk mendapati ba
 —**El Lawson** (Laki-laki, **42**), warga **Egla Town**, mengomentari aksi misteriusnya saat insiden penyerangan **Plushie Echoes** oleh “**Si Pembantai Plushie**”. \
 Karena warga Egla selalu menghindari keluar malam, tak ada yang melihat wajahnya.
 
-> _"Aku sudah lama mengikuti jejak si pembalas yang dikirim oleh **Sentinel**. Kenapa aku yakin dia terkait dengan Sentinel? Belum dengar soal **Flames of Retribution** yang menyelimutinya? Api suci itu pasti anugerah dari Sentinel. Semakin besar kejahatan yang ia hadapi, semakin terang cahaya yang membakar. Ada yang menyebutnya iblis? Omong kosong... Iblis macam apa yang berjuang demi keadilan?"_\
->
+> _"Aku sudah lama mengikuti jejak si pembalas yang dikirim oleh **Sentinel**. Kenapa aku yakin dia terkait dengan Sentinel? Belum dengar soal **Flames of Retribution** yang menyelimutinya? Api suci itu pasti anugerah dari Sentinel. Semakin besar kejahatan yang ia hadapi, semakin terang cahaya yang membakar. Ada yang menyebutnya iblis? Omong kosong... Iblis macam apa yang berjuang demi keadilan?"_<br>
 
 —**Rhea** (Perempuan, **33**), **Acolyte** dari **Chamber of Discipline**. \
 Pernah ikut penyelidikan terhadap sosok ini beberapa tahun lalu.
@@ -406,8 +404,7 @@ Entah kenapa, ia merasa ada sesuatu yang tak bisa dijelaskan. \
 Mungkin hanya sisa kegelisahan dari mimpi aneh tadi, tapi ia tak bisa mengabaikan perasaan bahwa apa pun yang akan ia dan tamu ini lakukan beberapa hari ke depan... \
 bisa menentukan nasib banyak orang di **Ragunna**.
 
-> "Heh, ayolah. Aku cuma karyawan biasa."\
->
+> "Heh, ayolah. Aku cuma karyawan biasa."<br>
 
 Begitu “biasa” hingga kalau papan reklame di distrik **Montelli** roboh, ia pasti ikut tertimpa bareng belasan orang lain. \
 **Zani** meraih jubahnya dari gantungan dan menyampirkannya ke bahu, seperti setiap pagi.
