@@ -32,6 +32,7 @@ Halaman yang tersedia saat ini:
 
 <summary>Karakter <span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span>5</summary>
 
+* [aemeath.md](aemeath.md "mention")
 * [augusta.md](augusta.md "mention")
 * [brant.md](brant.md "mention")
 * [calcharo.md](calcharo.md "mention")
@@ -47,16 +48,21 @@ Halaman yang tersedia saat ini:
 * [jinhsi.md](jinhsi.md "mention")
 * [jiyan.md](jiyan.md "mention")
 * [lingyang.md](lingyang.md "mention")
-
-- [lupa.md](lupa.md "mention")&#x20;
-- [phoebe.md](phoebe.md "mention")
-- [phrolova.md](phrolova.md "mention")
-- [roccia.md](roccia.md "mention")
-- [rover.md](rover.md "mention")
-- [the-shorekeeper.md](the-shorekeeper.md "mention")
-- [verina.md](verina.md "mention")
-- [yinlin.md](yinlin.md "mention")
-- [zani.md](zani.md "mention")
-- [zezhi.md](zezhi.md "mention")
+* [lupa.md](lupa.md "mention")&#x20;
+* [lynae.md](lynae.md "mention")
+* [luuk-herssen.md](luuk-herssen.md "mention")
+* [mornye.md](mornye.md "mention")
+* [phoebe.md](phoebe.md "mention")
+* [phrolova.md](phrolova.md "mention")
+* [qiuyuan.md](qiuyuan.md "mention")
+* [roccia.md](roccia.md "mention")
+* [rover.md](rover.md "mention")
+* [sigrika.md](sigrika.md "mention")
+* [the-shorekeeper.md](the-shorekeeper.md "mention")
+* [verina.md](verina.md "mention")
+* [xiangli-yao.md](xiangli-yao.md "mention")
+* [yinlin.md](yinlin.md "mention")
+* [zani.md](zani.md "mention")
+* [zezhi.md](zezhi.md "mention")
 
 </details>
