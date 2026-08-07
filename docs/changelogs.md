@@ -7,6 +7,10 @@ coverY: 0
 
 # Changelogs
 
+## 07/08/2026
+
+* Add backstory Rebecca [rebecca.md](ww/lore/character-backstory/rebecca.md "mention")
+
 ## 06/08/2026
 
 * Add backstory Denia [denia.md](ww/lore/character-backstory/denia.md "mention")

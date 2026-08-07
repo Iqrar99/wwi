@@ -173,6 +173,7 @@
     * [Phoebe](ww/lore/character-backstory/phoebe.md)
     * [Phrolova](ww/lore/character-backstory/phrolova.md)
     * [Qiuyuan](ww/lore/character-backstory/qiuyuan.md)
+    * [Rebecca](ww/lore/character-backstory/rebecca.md)
     * [Roccia](ww/lore/character-backstory/roccia.md)
     * [Rover](ww/lore/character-backstory/rover.md)
     * [Sanhua](ww/lore/character-backstory/sanhua.md)

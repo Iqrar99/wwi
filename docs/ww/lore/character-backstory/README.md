@@ -56,6 +56,7 @@ Halaman yang tersedia saat ini:
 * [phoebe.md](phoebe.md "mention")
 * [phrolova.md](phrolova.md "mention")
 * [qiuyuan.md](qiuyuan.md "mention")
+* [rebecca.md](rebecca.md "mention")
 * [roccia.md](roccia.md "mention")
 * [rover.md](rover.md "mention")
 * [sigrika.md](sigrika.md "mention")

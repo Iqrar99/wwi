@@ -22,7 +22,7 @@ layout:
 | ------------- | ------------ |
 | Tanggal Lahir | unknown             |
 | Jenis Kelamin | Perempuan    |
-| Tempat Lahir  | ▉█ (Dirahasiakan)    |
+| Tempat Lahir  | ▉█    |
 | Afiliasi      | Fractsidus     |
 
 ## :clipboard: Forte Examination Report
