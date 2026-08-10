@@ -122,10 +122,13 @@ Ia benci mengakuinya, tapi di suatu titik dalam perjalanan itu, ia menyadari ala
 
 Memilih jalannya sendiri, membuat keputusannya sendiri—itu semua yang selama ini ia inginkan. Dan ia akan terus melakukan hal itu. Apa pun risikonya, ia akan terjun ke dalam api jika diperlukan untuk menyelamatkan teman-temannya.<br>
 
-> _"Kereta terbang, kucing yang bisa ngomong, elu dan Abby... Heh, kru kita ini kelewat kuat."_\
-> _"Sudah kubilang, aku bukan kucing, meong... Dan jangan lupa, tujuannya adalah memulihkan Dream Band..."_\
-> _"Tenang, udah kuhafal! Kita ubah chrome-head itu jadi besi tua, kan?"_\
-> _"Kamu tadi nggak denger sepatah kata pun, kan..."_<br>
+> _"Kereta terbang, kucing yang bisa ngomong, elu dan Abby... Heh, kru kita ini kelewat kuat."_
+
+> _"Sudah kubilang, aku bukan kucing, meong... Dan jangan lupa, tujuannya adalah memulihkan Dream Band..."_
+
+> _"Tenang, udah gue hafal! Kita ubah chrome-head itu jadi besi tua, kan?"_
+
+> _"Kamu tadi nggak denger sepatah kata pun, kan..."_
 
 Rebecca menyunggingkan senyum miring dan menggaruk telinga kucing putih itu, memasukkan kedua tangannya ke saku saat ia duduk santai di sebelahmu. Rover.<br>
 
