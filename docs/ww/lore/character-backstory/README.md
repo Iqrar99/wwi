@@ -51,6 +51,7 @@ Halaman yang tersedia saat ini:
 * [lingyang.md](lingyang.md "mention")
 * [lupa.md](lupa.md "mention")&#x20;
 * [lucilla.md](lucilla.md "mention")
+* [lucy.md](lucy.md "mention")
 * [lynae.md](lynae.md "mention")
 * [luuk-herssen.md](luuk-herssen.md "mention")
 * [mornye.md](mornye.md "mention")

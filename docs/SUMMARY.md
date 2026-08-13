@@ -167,6 +167,7 @@
     * [Lumi](ww/lore/character-backstory/lumi.md)
     * [Lupa](ww/lore/character-backstory/lupa.md)
     * [Lucilla](ww/lore/character-backstory/lucilla.md)
+    * [Lucy](ww/lore/character-backstory/lucy.md)
     * [Lynae](ww/lore/character-backstory/lynae.md)
     * [Luuk Herssen](ww/lore/character-backstory/luuk-herssen.md)
     * [Mornye](ww/lore/character-backstory/mornye.md)

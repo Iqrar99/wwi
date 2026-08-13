@@ -7,6 +7,10 @@ coverY: 0
 
 # Changelogs
 
+## 13/08/2026
+
+* Add backstory Lucy [lucy.md](ww/lore/character-backstory/lucy.md "mention")
+
 ## 10/08/2026
 
 * Add backstory Lucilla [lucilla.md](ww/lore/character-backstory/lucilla.md "mention")
