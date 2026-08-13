@@ -10,6 +10,7 @@ coverY: 0
 ## 13/08/2026
 
 * Add backstory Lucy [lucy.md](ww/lore/character-backstory/lucy.md "mention")
+* Add backstory Hiyuki [hiyuki.md](ww/lore/character-backstory/hiyuki.md "mention")
 
 ## 10/08/2026
 

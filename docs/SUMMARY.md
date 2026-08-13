@@ -160,6 +160,7 @@
     * [Denia](ww/lore/character-backstory/denia.md)
     * [Encore](ww/lore/character-backstory/encore.md)
     * [Galbrena](ww/lore/character-backstory/galbrena.md)
+    * [Hiyuki](ww/lore/character-backstory/hiyuki.md)
     * [Jianxin](ww/lore/character-backstory/jianxin.md)
     * [Jinhsi](ww/lore/character-backstory/jinhsi.md)
     * [Jiyan](ww/lore/character-backstory/jiyan.md)

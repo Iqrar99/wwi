@@ -45,6 +45,7 @@ Halaman yang tersedia saat ini:
 * [denia.md](denia.md "mention")
 * [encore.md](encore.md "mention")
 * [galbrena.md](galbrena.md "mention")
+* [hiyuki.md](hiyuki.md "mention")
 * [jianxin.md](jianxin.md "mention")
 * [jinhsi.md](jinhsi.md "mention")
 * [jiyan.md](jiyan.md "mention")
