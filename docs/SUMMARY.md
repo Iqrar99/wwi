@@ -185,6 +185,7 @@
     * [Verina](ww/lore/character-backstory/verina.md)
     * [Xiangli Yao](ww/lore/character-backstory/xiangli-yao.md)
     * [Yangyang](ww/lore/character-backstory/yangyang.md)
+    * [Yangyang: Xuanling](ww/lore/character-backstory/yangyang-xuanling.md)
     * [Yinlin](ww/lore/character-backstory/yinlin.md)
     * [Youhu](ww/lore/character-backstory/youhu.md)
     * [Yuanwu](ww/lore/character-backstory/yuanwu.md)

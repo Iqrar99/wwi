@@ -11,6 +11,7 @@ coverY: 0
 
 * Add backstory Lucy [lucy.md](ww/lore/character-backstory/lucy.md "mention")
 * Add backstory Hiyuki [hiyuki.md](ww/lore/character-backstory/hiyuki.md "mention")
+* Add backstory Yangyang: Xuanling [yangyang-xuanling.md](ww/lore/character-backstory/yangyang-xuanling.md "mention")
 
 ## 10/08/2026
 
