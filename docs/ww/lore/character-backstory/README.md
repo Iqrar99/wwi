@@ -63,6 +63,7 @@ Halaman yang tersedia saat ini:
 * [roccia.md](roccia.md "mention")
 * [rover.md](rover.md "mention")
 * [sigrika.md](sigrika.md "mention")
+* [suisui.md](suisui.md "mention")
 * [the-shorekeeper.md](the-shorekeeper.md "mention")
 * [verina.md](verina.md "mention")
 * [xiangli-yao.md](xiangli-yao.md "mention")

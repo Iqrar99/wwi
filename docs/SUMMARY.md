@@ -181,6 +181,7 @@
     * [Rover](ww/lore/character-backstory/rover.md)
     * [Sanhua](ww/lore/character-backstory/sanhua.md)
     * [Sigrika](ww/lore/character-backstory/sigrika.md)
+    * [Suisui](ww/lore/character-backstory/suisui.md)
     * [The Shorekeeper](ww/lore/character-backstory/the-shorekeeper.md)
     * [Verina](ww/lore/character-backstory/verina.md)
     * [Xiangli Yao](ww/lore/character-backstory/xiangli-yao.md)

@@ -7,6 +7,10 @@ coverY: 0
 
 # Changelogs
 
+## 14/08/2026
+
+* Add backstory Suisui [suisui.md](ww/lore/character-backstory/suisui.md "mention")
+
 ## 13/08/2026
 
 * Add backstory Lucy [lucy.md](ww/lore/character-backstory/lucy.md "mention")
